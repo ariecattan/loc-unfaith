@@ -1,6 +1,92 @@
 <template>
-<v-container>
-  <span v-for="token in this.source" :key="token.id">{{ token.text }} </span>
+  <v-container pt-0>
+    <v-container>
+      <v-row>
+        <v-sheet rounded="lg">
+          <v-container fluid>
+            <span
+              v-for="token in summary"
+              :key="token.id"
+              :class="getTokenClass(token)"
+              @click="selectSpan($event, token)"
+            >
+              {{ token.text }}
+            </span>
+          </v-container>
+        </v-sheet>
+      </v-row>
+    </v-container>
+
+    <v-container class="text-center">
+      <v-btn class="mx-2" fab dark small color="primary" @click="addPositive()">
+        <v-icon dark> mdi-plus </v-icon>
+      </v-btn>
+
+      <v-btn class="mx-2" fab dark small color="pink" @click="addNegative()">
+        <v-icon dark> mdi-minus </v-icon>
+      </v-btn>
+    </v-container>
+
+
+
+    <v-container fluid>
+      <v-row>
+        <v-col cols="12" sm="6">
+          <v-card>
+            <v-card-title class="justify-center">Existing Spans</v-card-title>
+
+            <v-list-item
+              dense
+              v-for="item in Array.from(this.positiveList).sort(
+                (a, b) => a - b
+              )"
+              :key="item"
+              @click="selectNode(item)"
+            >
+              {{
+                summary
+                  .slice(spans[item].start, spans[item].end)
+                  .map((x) => x.text)
+                  .join(" ")
+              }}
+            </v-list-item>
+          </v-card>
+        </v-col>
+
+        <v-col cols="12" sm="6">
+          <v-card>
+            <v-card-title class="justify-center"
+              >Hallucinated Spans</v-card-title
+            >
+            <v-list-item
+              v-for="item in Array.from(this.negativeList).sort(
+                (a, b) => a - b
+              )"
+              :key="item"
+              @click="selectNode(item)"
+            >
+              {{
+                summary
+                  .slice(spans[item].start, spans[item].end)
+                  .map((x) => x.text)
+                  .join(" ")
+              }}
+            </v-list-item>
+          </v-card>
+        </v-col>
+      </v-row>
+
+      <div style="text-align: right" >
+        <v-btn
+          :class="['my-6','white--text']"
+          color="#54a2f9" 
+          @click="nextStep()"
+          :disabled="this.mentionsViewed != spans.length"
+        >
+          Next Step <v-icon> mdi-arrow-right</v-icon>
+        </v-btn>
+      </div>
+    </v-container>
   </v-container>
 </template>
 
@@ -9,10 +95,93 @@ export default {
   name: "NodeLevel",
   props: {
     summary: Array,
-    source: Array,
+    spans: Array,
+  },
+  data: function () {
+    return {
+      curMentionIndex: 0,
+      mentionsViewed: 0,
+      mentions: this.spans,
+      viewedIndexes: new Set(),
+      positiveList: new Set(),
+      negativeList: new Set(),
+      done: false
+    };
+  },
+
+  computed: {
+    curMention: function () {
+      let curMention = this.spans[this.curMentionIndex];
+      this.$emit("selectMention", curMention);
+      return curMention;
+    },
+  },
+  methods: {
+    getTokenClass: function (token) {
+      if (token.id >= this.curMention.start && token.id < this.curMention.end) {
+        return "current";
+      } else if (this.viewedIndexes.has(token.id)) {
+        return "mention";
+      }
+
+      return "token";
+    },
+    addPositive: function () {
+      this.positiveList.add(this.curMentionIndex);
+      this.negativeList.delete(this.curMentionIndex);
+      this.updateCounters();
+    },
+    addNegative: function () {
+      this.negativeList.add(this.curMentionIndex);
+      this.positiveList.delete(this.curMentionIndex);
+      this.updateCounters();
+    },
+    updateCounters: function () {
+      for (
+        let index = this.curMention.start;
+        index < this.curMention.end;
+        index++
+      ) {
+        this.viewedIndexes.add(index);
+      }
+      this.mentionsViewed = Math.max(
+        this.mentionsViewed,
+        this.curMentionIndex + 1
+      );
+      this.curMentionIndex = Math.min(this.mentionsViewed, this.spans.length - 1);
+      if (this.mentionsViewed == this.spans.length) {
+        this.done = true;
+      }
+      this.$emit("updateNegativeSpans", this.negativeList);
+    },
+    selectSpan(event, token) {
+      if (token.spans.length > 0 && token.spans[0] < this.mentionsViewed) {
+        this.curMentionIndex = token.spans[0];
+      }
+    },
+    selectNode(item) {
+      this.curMentionIndex = item;
+    },
+    nextStep() {
+      this.$emit("nextStep");
+    },
   },
 };
 </script>
 
 <style>
+.current {
+  background: #ddeff9;
+  color: #2d9cdb;
+}
+.mention:hover {
+  font-weight: medium;
+  color: #b16a00;
+}
+.arie {
+  color: #5da4ce;
+}
+.token:hover {
+  background-color: #ffffb8;
+}
 </style>
