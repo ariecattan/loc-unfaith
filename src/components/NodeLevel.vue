@@ -33,7 +33,7 @@
       <v-row>
         <v-col cols="12" sm="6">
           <v-card>
-            <v-card-title class="justify-center">Existing Spans</v-card-title>
+            <v-card-title class="justify-center">Covered Spans</v-card-title>
 
             <v-list-item
               dense
@@ -42,6 +42,7 @@
               )"
               :key="item"
               @click="selectNode(item)"
+              
             >
               {{
                 summary
@@ -76,7 +77,7 @@
         </v-col>
       </v-row>
 
-      <div style="text-align: right" >
+      <!-- <div style="text-align: right" >
         <v-btn
           :class="['my-6','white--text']"
           color="#54a2f9" 
@@ -85,7 +86,7 @@
         >
           Next Step <v-icon> mdi-arrow-right</v-icon>
         </v-btn>
-      </div>
+      </div> -->
     </v-container>
   </v-container>
 </template>
@@ -129,11 +130,15 @@ export default {
     addPositive: function () {
       this.positiveList.add(this.curMentionIndex);
       this.negativeList.delete(this.curMentionIndex);
+      this.$emit("assignPositive", this.curMentionIndex);
+      this.$forceUpdate();
       this.updateCounters();
     },
     addNegative: function () {
       this.negativeList.add(this.curMentionIndex);
       this.positiveList.delete(this.curMentionIndex);
+      this.$emit("assignNegative", this.curMentionIndex);
+      this.$forceUpdate();
       this.updateCounters();
     },
     updateCounters: function () {
@@ -183,5 +188,8 @@ export default {
 }
 .token:hover {
   background-color: #ffffb8;
+}
+.selectedSpan.v-list-item {
+  background-color: #2d9cdb;
 }
 </style>

@@ -16,73 +16,124 @@
       </v-row>
     </v-container>
 
-    <v-container class="my-2">
-    <v-row>
-    <v-spacer />
-    <span >Node {{this.nodes.filter(x => this.viewedNodes.includes(x.id)).length + 1}}/{{nodes.length}}</span>  
-      
-    </v-row>
-  </v-container>
-      <v-card 
-      v-for="question in this.curQuestions"
+    
+
+      <v-card
+        v-for="question in this.curQuestions"
         :key="question.id"
-        outlined 
+        outlined
         rounded="green"
         class="my-2"
-        @mouseover="selectQA(question)"    
-        @click="groupQA(questions)"
+        @mouseover="selectQA(question)"
       >
         <v-row>
-          <v-col cols="9" >
-            <v-card-text class="subtitle-1 ">
+          <v-col cols="9">
+            <v-card-text class="subtitle-1">
               {{ question.question + " " }}
-              <span  v-if="curQAIndex == question.id" class="answer">{{
+              <span v-if="curQAIndex == question.id" class="answer">{{
                 question.answer
               }}</span>
               <span v-else>{{ question.answer }}</span>
             </v-card-text>
           </v-col>
+          <v-col v-show="curNode.global">
+            <v-card-actions>
+              <v-chip-group v-model="question.group" active-class="primary--text" >
+                <v-chip   v-for="index in groupNumber" :key="'btn-'+index">
+                  {{index}}
+                </v-chip>
+              </v-chip-group>
+            </v-card-actions>
+          </v-col>
         </v-row>
       </v-card>
 
-      <div class="text-center">
-      <v-btn
-        class="ma-2"
-        outlined
-        plain
-        @click="previousNode()"
-        :disabled="viewedNodes.length == 0"
-      >
-        Previous Predicate
-      </v-btn>
-      <v-btn
-        class="ma-2"
-        outlined
-        plain
-        @click="nextNode()"
-        :disabled="!this.showNextNode()"
-      >
-        Next Predicate
-      </v-btn>
-    </div>
+      <v-container>
+      <span>Do these QAs refer to the same instance of the "{{curNodeText}}" in the source document? </span>
+      <v-btn-toggle tile group v-model="curNode.global">
+        <v-btn outlined color="success">
+          Yes
+          <v-icon color="success">mdi-thumb-up</v-icon>
+        </v-btn>
+        <v-btn outlined color="red">
+          No
+          <v-icon color="red">mdi-thumb-down</v-icon>
+        </v-btn>
+      </v-btn-toggle>
       
-      <v-row justify="space-between" class="my-6">
+      <v-spacer/>
+      
+      <v-container v-show="curNode.global">
+
+      
+      <v-combobox v-model="groupNumber"
+                  :items="[1,2,3,4]"
+                  label="How many groups?"
+                  small
+                  >
+      </v-combobox>
+      
+      <!-- <v-sheet
+        elevation="5"
+        rounded="xl"
+        class="my-3"
+        v-for="index in groupNumber" 
+        :key="'group-' + index"
+      >
+      <v-sheet
+          class="pa-3 primary text-center"
+          dark
+          rounded="t-xl"
+        >
+        Group {{index}}
+      </v-sheet>
+        <div class="pa-4">
+          <v-chip-group
+            active-class="primary--text"
+            column
+          >
+            <v-chip
+              v-for="tag in [1,2,3,4,5]"
+              :key="index + '-' + tag"
+            >
+              {{ tag }}
+            </v-chip>
+          </v-chip-group>
+        </div>
+      </v-sheet> -->
+    </v-container>
+
+      <div style="text-align: center">
+        <span
+          >Node
+          {{
+            this.nodes.filter((x) => this.viewedNodes.includes(x.id)).length +
+            1
+          }}/{{ nodes.length }}</span
+        >
+      </div>
+
+      <div class="text-center">
         <v-btn
-          :class="['ma-3','white--text']"
-          color="#54a2f9" 
-          @click="previousStep()"
+          class="ma-2"
+          outlined
+          plain
+          @click="previousNode()"
+          :disabled="viewedNodes.length == 0"
         >
-        <v-icon > mdi-arrow-left</v-icon> Previous Step 
+          Previous Node
         </v-btn>
-        <v-btn class="ma-3"
-          depressed 
-          color="success" 
-          @click="finish()"
+        <v-btn
+          class="ma-2"
+          outlined
+          plain
+          @click="nextNode()"
+          :disabled="!this.showNextNode()"
         >
-          Finish 
+          Next Node
         </v-btn>
-      </v-row>
-    
+      </div>
+    </v-container>
   </v-container>
 </template>
 
@@ -93,38 +144,55 @@ export default {
     summary: Array,
     spans: Array,
     qas: Array,
-    negativeSpans: Array
+    negativeSpans: Array,
   },
-  data: function() {
+  data: function () {
     const data = new Object();
     data.viewedNodes = [];
-    data.curQAIndex = 0;
-    data.curQuestion = '';
+    data.curQAIndex = null;
+    data.curQuestion = "";
     data.curAnswers = new Set();
+    data.groupNumber = 2;
     return data;
   },
   computed: {
-    nodes: function() {
+    nodes: function () {
       // nodes that are connected to multiple positive QAs
-      return this.spans.filter(x => !this.negativeSpans.includes(x.id) && 
-                    x.qaIds.filter(qa => 'label' in this.qas[qa] && this.qas[qa].label == 0).length > 1);
+      return this.spans.filter(
+        (x) =>
+          !this.negativeSpans.includes(x.id) &&
+          x.qaIds.filter(
+            (qa) => "label" in this.qas[qa] && this.qas[qa].label == 0
+          ).length > 1
+      );
     },
-    remainingNodes: function() {
-      return this.nodes.filter(x => !this.viewedNodes.includes(x.id));
+    remainingNodes: function () {
+      return this.nodes.filter((x) => !this.viewedNodes.includes(x.id));
     },
-    curNode: function() {
-      return this.remainingNodes.length > 0 ? this.remainingNodes[0]: {};
+    curNode: function () {
+      return this.remainingNodes.length > 0 ? this.remainingNodes[0] : {};
     },
-    curQuestions: function() {
-      return 'qaIds' in this.curNode ? 
-          this.curNode.qaIds.filter(qa => 'label' in this.qas[qa] && this.qas[qa].label == 0)
-          .sort((a, b) => a.answerStartChart - b.answerEndChart).map(qa => this.qas[qa]) :
-          [];
-    }
+    curNodeText: function() {
+      return this.summary.slice(this.curNode.start, this.curNode.end)
+                    .map(x => x.text)
+                    .join(" ");
+    },
+    curQuestions: function () {
+      return "qaIds" in this.curNode
+        ? this.curNode.qaIds
+            .filter((qa) => "label" in this.qas[qa] && this.qas[qa].label == 0)
+            .sort((a, b) => a.answerStartChart - b.answerEndChart)
+            .map((qa) => this.qas[qa])
+        : [];
+    },
   },
   methods: {
-    getTokenClass: function(token) {
-      if ('start' in this.curNode && token.id >= this.curNode.start && token.id < this.curNode.end) {
+    getTokenClass: function (token) {
+      if (
+        "start" in this.curNode &&
+        token.id >= this.curNode.start &&
+        token.id < this.curNode.end
+      ) {
         return "current";
       } else if (this.curAnswers.has(token.id)) {
         return "answer";
@@ -134,7 +202,7 @@ export default {
     selectQA: function (item) {
       this.curQAIndex = item.id;
       this.curQuestion = this.qas[item.id];
-      
+
       this.curAnswers = new Set();
       let answers = this.curQuestion.answerStartToken.map((token, i) => [
         token,
@@ -148,24 +216,25 @@ export default {
       this.$emit("selectAnswers", this.curAnswers);
       this.$emit("selectMention", this.curNode);
     },
-    previousNode: function() {
+    previousNode: function () {
       this.viewedNodes.pop();
     },
-    nextNode: function() {
+    nextNode: function () {
       this.viewedNodes.push(this.curNode.id);
     },
-    showNextNode: function() {
+    showNextNode: function () {
       return this.remainingNodes.length > 1;
     },
-    previousStep: function() {
-      this.$emit("previousStep")
+    previousStep: function () {
+      this.$emit("previousStep");
     },
-    finish: function() {
+    finish: function () {
       this.$emit("finish");
-    }
-  }
+    },
+  },
 };
 </script>
 
 <style>
+
 </style>
