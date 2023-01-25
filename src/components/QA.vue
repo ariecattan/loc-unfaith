@@ -104,7 +104,7 @@
       label="Show all QAs (so far)"
     ></v-switch>
 
-      <v-card class="mt-6" v-show="showAllQAs"> 
+      <!-- <v-card class="mt-6" v-show="showAllQAs"> 
         <v-card-title class="justify-center">Faithful QAs</v-card-title>
 
         <v-list-item
@@ -117,9 +117,47 @@
         >
           {{ item.question + "-" + item.answer }}
         </v-list-item>
-      </v-card>
+      </v-card> -->
 
-      <v-card class="my-2" v-show="showAllQAs">
+      <v-sheet elevation="10" rounded="xl" v-show="showAllQAs">
+            <v-sheet class="pa-1 primary text-center" dark rounded="t-xl">
+              Covered QAs
+            </v-sheet>
+
+            <div class="pa-4">
+              <v-chip-group active-class="primary--text" column >
+                <v-chip v-for="item in this.qas.filter(
+            (qa) => !this.filteredQAIds.has(qa.id) && qa.label == 0
+          )"
+              :key="item.id"
+              @mouseover="selectQA(item)"
+              @click="selectQA(item)">
+              {{ item.question + "-" + item.answer }}
+                </v-chip>
+              </v-chip-group>
+            </div>
+          </v-sheet>
+
+          <v-sheet elevation="10" rounded="xl" v-show="showAllQAs">
+            <v-sheet class="pa-1 my-2 pink text-center" dark rounded="t-xl">
+              Hallucinated QAs
+            </v-sheet>
+
+            <div class="pa-4">
+              <v-chip-group active-class="pink--text" column >
+                <v-chip v-for="item in this.qas.filter(
+            (qa) => !this.filteredQAIds.has(qa.id) && qa.label == 1
+          )"
+              :key="item.id"
+              @mouseover="selectQA(item)"
+              @click="selectQA(item)">
+              {{ item.question + "-" + item.answer }}
+                </v-chip>
+              </v-chip-group>
+            </div>
+          </v-sheet>
+
+      <!-- <v-card class="my-2" v-show="showAllQAs">
         <v-card-title class="justify-center">Unfaithful QAs</v-card-title>
 
         <v-list-item
@@ -132,7 +170,7 @@
         >
           {{ item.question + "-" + item.answer }}
         </v-list-item>
-      </v-card>
+      </v-card> -->
       <!-- <v-row justify="space-between" class="my-6">
         <v-btn
           :class="['ma-3','white--text']"
@@ -160,9 +198,10 @@ export default {
   name: "QA",
   props: {
     summary: Array,
-    spans: Array,
     qas: Array,
     negativeSpans: Array,
+    predicates: Array,
+    answers: Array
   },
   data: function () {
     const data = new Object();
@@ -175,16 +214,6 @@ export default {
   },
 
   computed: {
-    predicates: {
-      cache: false,
-      deep: true,
-      get() {
-        return this.spans.filter(
-        (x) => x.predicate && !this.negativeSpans.includes(x.id)
-        // x => x.predicate && !('label' in x && x.label == 0)
-      );
-      }
-    },
     remainingPredicates: function () {
       return this.predicates.filter(
         (x) => !this.viewedPredicates.includes(x.id)
@@ -193,16 +222,23 @@ export default {
     curPredicate: function () {
       return this.remainingPredicates[0];
     },
-    filteredQAIds: function () {
-      let filteredQAIds = new Set();
-      this.negativeSpans.forEach((spanId) =>
-        this.spans[spanId].qaIds.forEach((qaId) => {
-          filteredQAIds.add(qaId);
-        })
-      );
-      return filteredQAIds;
+
+    
+    filteredQAIds: function() {
+        let filteredQAIds = new Set();
+      
+        // let negativeAnswers = this.answers.filter(x => 'label' in x && x.label == 0);
+        
+        this.negativeSpans.forEach(spanId => this.answers[spanId].qaIds.forEach(qaId => filteredQAIds.add(qaId)));
+        // negativeAnswers.forEach(x => x.qaIds.forEach(
+        //   qaId => filteredQAIds.add(qaId)
+        // ));
+
+        
+        return filteredQAIds;
     },
-    goodQAs: function () {
+    
+    goodQAs: function() {
       return this.qas.filter((qa) => !this.filteredQAIds.has(qa.id));
     },
     filteredViewedPredicates: function () {
@@ -215,7 +251,7 @@ export default {
     curPredicateIdx: function () {
       return this.curPredicate.start + "-" + this.curPredicate.end;
     },
-    curQuestions: function () {
+    curQuestions: function() {
       return this.qas
         .filter(
           (x) =>
@@ -223,7 +259,7 @@ export default {
             !this.filteredQAIds.has(x.id)
         )
         .sort((a, b) => a.answerStartChar - b.answerEndChar);
-    },
+    }
   },
   methods: {
     getTokenClass: function (token) {

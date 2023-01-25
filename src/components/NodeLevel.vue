@@ -27,66 +27,60 @@
       </v-btn>
     </v-container>
 
-
-
+   
     <v-container fluid>
       <v-row>
-        <v-col cols="12" sm="6">
-          <v-card>
-            <v-card-title class="justify-center">Covered Spans</v-card-title>
+        <v-col>
+          <v-sheet elevation="10" rounded="xl">
+            <v-sheet class="pa-1 primary text-center" dark rounded="t-xl">
+              Covered Spans
+            </v-sheet>
 
-            <v-list-item
-              dense
-              v-for="item in Array.from(this.positiveList).sort(
+            <div class="pa-4">
+              <v-chip-group active-class="primary--text" column>
+                <v-chip v-for="item in Array.from(this.positiveList).sort(
                 (a, b) => a - b
               )"
               :key="item"
-              @click="selectNode(item)"
-              
-            >
+              @click="selectNode(item)">
               {{
                 summary
                   .slice(spans[item].start, spans[item].end)
                   .map((x) => x.text)
                   .join(" ")
               }}
-            </v-list-item>
-          </v-card>
+                </v-chip>
+              </v-chip-group>
+            </div>
+          </v-sheet>
         </v-col>
+        <v-col>
+        <v-sheet elevation="10" rounded="xl">
+          <v-sheet class="pa-1 pink text-center" dark rounded="t-xl">
+            Hallucinated Spans
+          </v-sheet>
 
-        <v-col cols="12" sm="6">
-          <v-card>
-            <v-card-title class="justify-center"
-              >Hallucinated Spans</v-card-title
-            >
-            <v-list-item
-              v-for="item in Array.from(this.negativeList).sort(
+          <div class="pa-4">
+            <v-chip-group active-class="pink--text" column>
+              <v-chip v-for="item in Array.from(this.negativeList).sort(
                 (a, b) => a - b
               )"
               :key="item"
               @click="selectNode(item)"
-            >
+              >
               {{
                 summary
                   .slice(spans[item].start, spans[item].end)
                   .map((x) => x.text)
                   .join(" ")
               }}
-            </v-list-item>
-          </v-card>
-        </v-col>
+                </v-chip>
+            </v-chip-group>
+          </div>
+        </v-sheet>
+      </v-col>
+        
       </v-row>
-
-      <!-- <div style="text-align: right" >
-        <v-btn
-          :class="['my-6','white--text']"
-          color="#54a2f9" 
-          @click="nextStep()"
-          :disabled="this.mentionsViewed != spans.length"
-        >
-          Next Step <v-icon> mdi-arrow-right</v-icon>
-        </v-btn>
-      </div> -->
     </v-container>
   </v-container>
 </template>
@@ -106,11 +100,14 @@ export default {
       viewedIndexes: new Set(),
       positiveList: new Set(),
       negativeList: new Set(),
-      done: false
+      done: false,
     };
   },
 
   computed: {
+    predicates: function() {
+      return this.spans.filter(x => x.predicate);
+    },
     curMention: function () {
       let curMention = this.spans[this.curMentionIndex];
       this.$emit("selectMention", curMention);
@@ -153,7 +150,10 @@ export default {
         this.mentionsViewed,
         this.curMentionIndex + 1
       );
-      this.curMentionIndex = Math.min(this.mentionsViewed, this.spans.length - 1);
+      this.curMentionIndex = Math.min(
+        this.mentionsViewed,
+        this.spans.length - 1
+      );
       if (this.mentionsViewed == this.spans.length) {
         this.done = true;
       }
