@@ -1,152 +1,164 @@
 <template>
-  <v-app id="inspire">
-    <v-app-bar app color="white" flat>
-      <v-avatar
-        :color="$vuetify.breakpoint.smAndDown ? 'grey darken-1' : 'transparent'"
-        size="32"
-      ></v-avatar>
-
-      <v-tabs centered class="ml-n9" color="grey darken-1">
-        <v-tab v-for="link in links" :key="link">
-          {{ link }}
-        </v-tab>
-      </v-tabs>
-
-      <v-avatar
-        class="hidden-sm-and-down"
-        color="grey darken-1 shrink"
-        size="32"
-      ></v-avatar>
-    </v-app-bar>
-
+  <v-app>
     <v-main class="grey lighten-3">
-      <v-container>
-        <v-row>
-          <v-col cols="12" sm="5">
-            <v-container>
-              <v-row>
-                <v-sheet rounded="lg">
-                  <v-container fluid>
-                    <span v-for="token in this.source" :key="token.id"
-                      >{{ token.text }}
-                    </span>
-                  </v-container>
+      <v-stepper v-model="e1" style="height: 100%">
+        <v-stepper-header>
+          <v-stepper-step :complete="e1 > 1" step="1"> Span </v-stepper-step>
 
-                  <!--  -->
-                </v-sheet>
-              </v-row>
-            </v-container>
-          </v-col>
-          <v-col cols="12" sm="7">
-            <v-container>
-              <v-row>
-                <v-sheet rounded="lg">
-                  <v-container fluid mb-3 mt-3>
-                    <span
-                      v-for="(tokenSpan, spanIndex) in summaryView"
-                      :key="spanIndex"
-                      ref="mentions"
-                    >
-                      <span
-                        v-if="!tokenSpan.tokens"
-                        :id="'token-' + tokenSpan.i"
-                        class="token"
-                        v-text="tokenSpan.text"
-                      />
-                      <span
-                        v-for="token in tokenSpan.tokens"
-                        v-else
-                        :id="'token-' + token.i"
-                        :key="token.i"
-                        :class="tokenSpan.class"
-                        v-text="token.text"
-                      />
-                    </span>
-                  </v-container>
-                  <!--  -->
-                </v-sheet>
-              </v-row>
-            </v-container>
+          <v-divider></v-divider>
 
-            <v-container class="text-center">
+          <v-stepper-step :complete="e1 > 2" step="2">
+            Question-Answers
+          </v-stepper-step>
+
+          <v-divider></v-divider>
+
+          <v-stepper-step step="3"> Group </v-stepper-step>
+        </v-stepper-header>
+
+        <v-stepper-items>
+          <!-- Node -->
+          <v-stepper-content step="1">
+            <v-row>
+              <v-col cols="12" sm="5">
+                <SourceArticle
+                  :source="this.source"
+                  :mention="currentSpan"
+                  :answer="currentAnswer"
+                ></SourceArticle>
+              </v-col>
+              <v-col>
+                <NodeLevel
+                  ref="node"
+                  :summary="summary"
+                  :spans="answers"
+                  @nextStep="nextStep()"
+                  @selectMention="selectMention($event)"
+                  @assignPositive="assignPositive($event)"
+                  @assignNegative="assignNegative($event)"
+                  @updateNegativeSpans="updateNegativeSpans($event)"
+                ></NodeLevel>
+              </v-col>
+            </v-row>
+
+            <div style="text-align: right">
               <v-btn
-                class="mx-2"
-                fab
-                dark
-                small
                 color="primary"
-                @click="addPositive()"
+                @click="e1 = 2"
+                :disabled="!this.answers.every((x) => 'label' in x)"
               >
-                <v-icon dark> mdi-plus </v-icon>
+                Next Step <v-icon> mdi-arrow-right</v-icon>
+              </v-btn>
+            </div>
+          </v-stepper-content>
+
+          <!-- QA -->
+          <v-stepper-content step="2">
+            <v-row>
+              <v-col cols="12" sm="5">
+                <SourceArticle
+                  :source="this.source"
+                  :mention="currentSpan"
+                  :answer="currentAnswer"
+                ></SourceArticle>
+              </v-col>
+              <v-col>
+                <QA
+                  :summary="summary"
+                  :qas="qas"
+                  :predicates="predicates"
+                  :answers="answers"
+                  :negativeSpans="Array.from(negativeSpans)"
+                  @selectMention="selectPredicate($event)"
+                  @selectAnswers="selectAnswers($event)"
+                  @nextStep="nextStep()"
+                  @previousStep="previousStep()"
+                ></QA>
+              </v-col>
+            </v-row>
+
+            <v-row justify="space-between">
+              <v-btn
+                :class="['ma-3', 'white--text']"
+                color="primary"
+                @click="e1 = 1"
+              >
+                <v-icon> mdi-arrow-left</v-icon> Previous Step
               </v-btn>
 
               <v-btn
-                class="mx-2"
-                fab
-                dark
-                small
-                color="pink"
-                @click="addNegative()"
+                :class="['ma-3', 'white--text']"
+                color="primary"
+                @click="e1 = 3"
               >
-                <v-icon dark> mdi-minus </v-icon>
+                Next Step <v-icon> mdi-arrow-right</v-icon>
               </v-btn>
-            </v-container>
+            </v-row>
+          </v-stepper-content>
 
-            <v-container fluid>
-              <v-row>
-                <v-col cols="12" sm="6">
-                  <v-card>
-                    <v-card-title class="justify-center"
-                      >Existing Spans</v-card-title
-                    >
+          <v-stepper-content step="3">
+            <v-row>
+              <v-col cols="12" sm="5">
+                <SourceArticle
+                  :source="this.source"
+                  :mention="currentSpan"
+                  :answer="currentAnswer"
+                ></SourceArticle>
+              </v-col>
+              <v-col>
+                <SplitLevel
+                  :summary="summary"
+                  :spans="spans"
+                  :qas="qas"
+                  :negativeSpans="Array.from(negativeSpans)"
+                  @selectMention="selectPredicate($event)"
+                  @selectAnswers="selectAnswers($event)"
+                  @previousStep="previousStep()"
+                  @finish="finish()"
+                ></SplitLevel>
+              </v-col>
+            </v-row>
 
-                    <v-list-item
-                      dense
-                      v-for="item in this.positiveList"
-                      :key="item"
-                    >
-                      {{ item.text }}
-                    </v-list-item>
-                  </v-card>
-                </v-col>
+            <v-row justify="space-between">
+              <v-btn
+                :class="['ma-3', 'white--text']"
+                color="primary"
+                @click="e1 = 2"
+              >
+                <v-icon> mdi-arrow-left</v-icon> Previous Step
+              </v-btn>
 
-                <v-col cols="12" sm="6">
-                  <v-card >
-                    <v-card-title class="justify-center"
-                      >Hallucinated Spans</v-card-title
-                    >
-                    <v-card-text>
-                    <v-list dense>
-                      <v-list-item-group>
-                        <v-list-item
-                          v-for="item in this.negativeList"
-                          :key="item"
-                        >
-                          {{ item.text }}
-                        </v-list-item>
-                      </v-list-item-group>
-                    </v-list>
-                    </v-card-text>
-                  </v-card>
-                </v-col>
-              </v-row>
-            </v-container>
-          </v-col>
-        </v-row>
-      </v-container>
+              <v-btn
+                :class="['ma-3', 'white--text']"
+                color="primary"
+                @click="e1 = 3"
+              >
+                Finish <v-icon> mdi-checkbox-marked-circle</v-icon>
+              </v-btn>
+            </v-row>
+          </v-stepper-content>
+        </v-stepper-items>
+      </v-stepper>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import jsonData from "./data/example.json";
-// import NodeLevel from "./components/NodeLevel.vue"
+import jsonData from "./data/annotation_files/0ceb4cea35c3e964a2e54ec9715de42e1319fd03.json";
+// import jsonData from "./data/annotation_files/69db30b6047a2aadd64f3c6eeb23cc3437078cf1.json"
+import NodeLevel from "./components/NodeLevel.vue";
+import SourceArticle from "./components/SourceArticle.vue";
+import QA from "./components/QA.vue";
+import SplitLevel from "./components/Split.vue";
 
 export default {
   name: "App",
 
   components: {
-    // NodeLevel
+    SourceArticle,
+    NodeLevel,
+    QA,
+    SplitLevel,
   },
   props: {
     json: {
@@ -159,68 +171,79 @@ export default {
       !this.json || this.json == "${data}"
         ? jsonData
         : JSON.parse(unescape(this.json).replace("\u00e2\u20ac\u2122", "'"));
-    data.curMentionIndex = 0;
-    data.mentionsViewed = 0;
-    this.positiveList = [];
-    this.negativeList = [];
-    data.links = ["Overview", "Span", "QAs", "Global"];
+    data.links = ["Span", "QAs", "Global"];
+    data.selectedTab = "Span";
+    data.e1 = 1;
+    data.tabs = [
+      { index: 0, name: "Span" },
+      { index: 1, name: "QA" },
+      { index: 2, name: "Split" },
+    ];
+    data.selectedTabIndex = 0;
+    data.done = false;
+    data.predicates = data.spans.filter((x) => x.predicate);
+    data.answers = data.spans.filter((x) => !x.predicate);
+    data.negativeSpans = new Set();
+    data.negativeQAs = new Set();
+    data.filteredLocalQAs = data.qas;
+    data.currentSpan = data.spans.slice(
+      data.spans[0].start,
+      data.spans[0].end + 1
+    );
+    data.currentAnswer = [];
+    data.filteredPredicates = data.spans.filter((x) => x.predicate);
     return data;
   },
-  computed: {
-    positives: function () {
-      return this.positiveList;
-    },
-    negatives: function () {
-      return this.negativeList;
-    },
-    summaryView: function () {
-      // for each document
-      let docSpans = [];
-      let mentInd = 0;
-
-      docSpans.push(...this.summary.slice(0, this.spans[0].start));
-      for (let index = 0; index < this.spans.length; index++) {
-        let mention = this.spans[index];
-        console.log(mention.text);
-        let mentionSpan = {
-          tokens: this.summary.slice(mention.start, mention.end),
-          index: mentInd,
-        };
-        if (mentInd == this.curMentionIndex) {
-          mentionSpan.class = "current";
-        } else if (mentInd < this.curMentionIndex) {
-          mentionSpan.class = "viewed";
-        } else {
-          mentionSpan.class = "future";
-        }
-
-        docSpans.push(mentionSpan);
-        mentInd += 1;
-
-        if (index < this.spans.length - 1) {
-          docSpans.push(
-            ...this.summary.slice(mention.end, this.spans[index + 1].start)
-          );
-        }
-      }
-
-      docSpans.push(
-        ...this.summary.slice(
-          this.spans[this.spans.length - 1].end,
-          this.summary.length
-        )
-      );
-      return docSpans;
-    },
-  },
   methods: {
-    addPositive: function () {
-      this.positiveList.push(this.spans[this.curMentionIndex]);
-      this.curMentionIndex += 1;
+    filterQAs: function (set) {
+      return this.qas.filter((x) => set.has(x.id));
     },
-    addNegative: function () {
-      this.negativeList.push(this.spans[this.curMentionIndex]);
-      this.curMentionIndex += 1;
+    assignPositive: function (spanIndex) {
+      this.answers[spanIndex].label = 1;
+      this.$forceUpdate();
+    },
+    assignNegative: function (spanIndex) {
+      this.answers[spanIndex].label = 0;
+      this.$forceUpdate();
+    },
+    updateNegativeSpans: function (negativeSpans) {
+      this.negativeSpans = negativeSpans;
+      this.filteredPredicates = this.spans.filter(
+        (x) => x.predicate && !negativeSpans.has(x.id)
+      );
+      let filteredQAIds = new Set();
+      // negativeSpans.forEach((spanId) => {
+      //   this.spans[spanId].qaIds.forEach((qaId) => filteredQAIds.add(qaId));
+      // });
+      this.filteredLocalQAs = this.qas.filter((x) => !filteredQAIds.has(x.id));
+    },
+    nextStep: function () {
+      this.selectedTabIndex += 1;
+    },
+    previousStep: function () {
+      this.selectedTabIndex -= 1;
+    },
+    finish: function () {
+      this.done = true;
+    },
+    selectMention: function (span) {
+      if (this.e1 == 1) {
+        this.currentSpan = this.summary.slice(span.start, span.end);
+      }
+    },
+    selectPredicate: function (span) {
+      if (this.e1 != 1) {
+        this.currentSpan = this.summary.slice(span.start, span.end);
+      }
+    },
+    selectAnswers: function (tokenIndexes) {
+      if (this.e1 != 1) {
+        this.currentAnswer = Array.from(tokenIndexes)
+          .sort((a, b) => a - b)
+          .map((x) => this.summary[x]);
+      } else {
+        this.currentAnswer = [];
+      }
     },
   },
 };
