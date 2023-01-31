@@ -18,11 +18,11 @@
     </v-container>
 
     <v-container class="text-center">
-      <v-btn class="mx-2" fab dark small color="primary" @click="addPositive()">
+      <v-btn class="mx-2" fab dark small color="success" @click="addPositive()">
         <v-icon dark> mdi-plus </v-icon>
       </v-btn>
 
-      <v-btn class="mx-2" fab dark small color="pink" @click="addNegative()">
+      <v-btn class="mx-2" fab dark small color="error" @click="addNegative()">
         <v-icon dark> mdi-minus </v-icon>
       </v-btn>
     </v-container>
@@ -32,12 +32,12 @@
       <v-row>
         <v-col>
           <v-sheet elevation="10" rounded="xl">
-            <v-sheet class="pa-1 primary text-center" dark rounded="t-xl">
+            <v-sheet class="pa-1 success text-center" dark rounded="t-xl">
               Covered Spans
             </v-sheet>
 
             <div class="pa-4">
-              <v-chip-group active-class="primary--text" column>
+              <v-chip-group active-class="success--text" column>
                 <v-chip v-for="item in Array.from(this.positiveList).sort(
                 (a, b) => a - b
               )"
@@ -56,12 +56,12 @@
         </v-col>
         <v-col>
         <v-sheet elevation="10" rounded="xl">
-          <v-sheet class="pa-1 pink text-center" dark rounded="t-xl">
+          <v-sheet class="pa-1 error text-center" dark rounded="t-xl">
             Hallucinated Spans
           </v-sheet>
 
           <div class="pa-4">
-            <v-chip-group active-class="pink--text" column>
+            <v-chip-group active-class="error--text" column>
               <v-chip v-for="item in Array.from(this.negativeList).sort(
                 (a, b) => a - b
               )"
