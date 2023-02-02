@@ -1,6 +1,43 @@
 <template>
   <v-container pt-0>
     <v-container>
+    <v-card>
+      <v-card-title>Instructions</v-card-title>
+      <v-card-text>
+        
+        Your goal is to determine whether the entity spans 
+        in the summary below are correct or hallucinated. 
+        That is, for each <span class="current">span</span>, click on 
+        <v-btn class="disable-events" x-small fab dark color="success" width="20px" height="20px" elevation="0">
+          <v-icon dark> mdi-plus </v-icon>
+        </v-btn>
+        if it's covered by the source document (left) and on 
+        <v-btn class="disable-events" x-small fab dark color="error" width="20px" height="20px" elevation="0">
+          <v-icon dark width="14px" height="14px" > mdi-minus </v-icon>
+        </v-btn>
+        if it's an hallucination. 
+
+
+        
+        <br/>
+        
+        Note: To assist the annotation task, we highlight 
+        the occurrences of each sumamry <span class="current">span</span> in the 
+        the source document (left). However, we ask you not to rely 
+        only on these highlights because a span might be correct 
+        even without any occurrences in the source. 
+        
+      
+      </v-card-text>
+    </v-card>
+  </v-container>
+    <v-container>
+
+
+      
+    </v-container>
+
+    <v-container>
       <v-row>
         <v-sheet rounded="lg">
           <v-container fluid>
@@ -179,6 +216,9 @@ export default {
   background: #ddeff9;
   color: #2d9cdb;
 }
+.intructions {
+  background-color: #ffffa7;
+}
 .mention:hover {
   font-weight: medium;
   color: #b16a00;
@@ -192,4 +232,12 @@ export default {
 .selectedSpan.v-list-item {
   background-color: #2d9cdb;
 }
+.disable-events {
+  pointer-events: none
+}
+.xx-small.v-btn__size {
+  width: 20px;
+  height: 20px;
+}
+
 </style>

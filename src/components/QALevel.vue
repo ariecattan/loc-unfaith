@@ -1,6 +1,38 @@
 <template>
   <v-container mx-0 mt-0 pt-0>
     <v-container>
+      <v-card>
+        <v-card-title>Instructions</v-card-title>
+        <v-card-text>
+          
+
+        Here, we decompose the summary information into a list of question-answer (QA) pairs,
+        where each QA corresponds to a relation between a <span class="current">predicate</span>
+        and an <span class="answer">argument</span>. 
+        For each QA, click on <v-btn class="disable-events" x-small color="success" icon elevation="0">
+                  <v-icon color="success">mdi-thumb-up</v-icon>
+                </v-btn> if it's covered by the source document 
+          and on <v-btn class="disable-events" x-small color="error" icon elevation="0">
+                  <v-icon color="error">mdi-thumb-down</v-icon>
+                </v-btn>
+          if the relation cannot be implied from the source document. 
+        
+          <br/>
+          If the QAs pairs are implied from different events in the source document, 
+          click on <v-btn class="disable-events" x-small fab dark color="success" width="20px" height="20px" elevation="0">
+          <v-icon dark> mdi-plus </v-icon>
+        </v-btn>
+                to create a new cluster and drag-and-drop the QA in their corresponding clusters.
+        
+      
+        </v-card-text>
+      </v-card>
+
+
+     
+    </v-container>
+
+    <v-container>
       <v-row>
         <v-sheet rounded="lg">
           <v-container fluid>
@@ -349,5 +381,8 @@ export default {
 }
 .fixed-height {
   min-height: 20px;
+}
+.disable-events {
+  pointer-events: none
 }
 </style>

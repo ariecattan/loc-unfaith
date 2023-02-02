@@ -86,8 +86,7 @@
               <v-btn
                 :class="['ma-3', 'white--text']"
                 color="primary"
-                @click="e1 = 2"
-                :disabled="!showFinishButton"
+                @click="finish()"
               >
                 Finish <v-icon> mdi-checkbox-marked-circle</v-icon>
               </v-btn>
@@ -130,7 +129,7 @@ export default {
         : JSON.parse(unescape(this.json).replace("\u00e2\u20ac\u2122", "'"));
     data.links = ["Span", "QAs", "Global"];
     data.selectedTab = "Span";
-    data.e1 = 2;
+    data.e1 = 1;
     data.selectedTabIndex = 0;
     data.done = false;
     data.predicates = data.spans.filter((x) => x.predicate);
