@@ -1,0 +1,1658 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "A",
+            "lemma": "a"
+        },
+        {
+            "id": 1,
+            "text": "20",
+            "lemma": "20"
+        },
+        {
+            "id": 2,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 3,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 4,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 5,
+            "text": "old",
+            "lemma": "old"
+        },
+        {
+            "id": 6,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 7,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 8,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 9,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 10,
+            "text": "male",
+            "lemma": "male"
+        },
+        {
+            "id": 11,
+            "text": "friend",
+            "lemma": "friend"
+        },
+        {
+            "id": 12,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 13,
+            "text": "Old",
+            "lemma": "Old"
+        },
+        {
+            "id": 14,
+            "text": "Rutherglen",
+            "lemma": "Rutherglen"
+        },
+        {
+            "id": 15,
+            "text": "Road",
+            "lemma": "Road"
+        },
+        {
+            "id": 16,
+            "text": "when",
+            "lemma": "when"
+        },
+        {
+            "id": 17,
+            "text": "another",
+            "lemma": "another"
+        },
+        {
+            "id": 18,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 19,
+            "text": "attacked",
+            "lemma": "attack"
+        },
+        {
+            "id": 20,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 21,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 22,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 23,
+            "text": "weapon",
+            "lemma": "weapon"
+        },
+        {
+            "id": 24,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 25,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 26,
+            "text": "13:05",
+            "lemma": "13:05"
+        },
+        {
+            "id": 27,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 28,
+            "text": "22",
+            "lemma": "22"
+        },
+        {
+            "id": 29,
+            "text": "September",
+            "lemma": "September"
+        },
+        {
+            "id": 30,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 31,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 32,
+            "text": "victim",
+            "lemma": "victim"
+        },
+        {
+            "id": 33,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 34,
+            "text": "treated",
+            "lemma": "treat"
+        },
+        {
+            "id": 35,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 36,
+            "text": "hospital",
+            "lemma": "hospital"
+        },
+        {
+            "id": 37,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 38,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 39,
+            "text": "leg",
+            "lemma": "leg"
+        },
+        {
+            "id": 40,
+            "text": "injury",
+            "lemma": "injury"
+        },
+        {
+            "id": 41,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 42,
+            "text": "Detectives",
+            "lemma": "detective"
+        },
+        {
+            "id": 43,
+            "text": "believe",
+            "lemma": "believe"
+        },
+        {
+            "id": 44,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 45,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 46,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 47,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 48,
+            "text": "images",
+            "lemma": "image"
+        },
+        {
+            "id": 49,
+            "text": "may",
+            "lemma": "may"
+        },
+        {
+            "id": 50,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 51,
+            "text": "able",
+            "lemma": "able"
+        },
+        {
+            "id": 52,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 53,
+            "text": "help",
+            "lemma": "help"
+        },
+        {
+            "id": 54,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 55,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 56,
+            "text": "inquiry",
+            "lemma": "inquiry"
+        },
+        {
+            "id": 57,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 58,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 59,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 60,
+            "text": "described",
+            "lemma": "describe"
+        },
+        {
+            "id": 61,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 62,
+            "text": "white",
+            "lemma": "white"
+        },
+        {
+            "id": 63,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 64,
+            "text": "aged",
+            "lemma": "age"
+        },
+        {
+            "id": 65,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 66,
+            "text": "20",
+            "lemma": "20"
+        },
+        {
+            "id": 67,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 68,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 69,
+            "text": "short",
+            "lemma": "short"
+        },
+        {
+            "id": 70,
+            "text": "brown",
+            "lemma": "brown"
+        },
+        {
+            "id": 71,
+            "text": "hair",
+            "lemma": "hair"
+        },
+        {
+            "id": 72,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 73,
+            "text": "At",
+            "lemma": "at"
+        },
+        {
+            "id": 74,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 75,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 76,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 77,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 78,
+            "text": "incident",
+            "lemma": "incident"
+        },
+        {
+            "id": 79,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 80,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 81,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 82,
+            "text": "wearing",
+            "lemma": "wear"
+        },
+        {
+            "id": 83,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 84,
+            "text": "tracksuit",
+            "lemma": "tracksuit"
+        },
+        {
+            "id": 85,
+            "text": "top",
+            "lemma": "top"
+        },
+        {
+            "id": 86,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 87,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 88,
+            "text": "white",
+            "lemma": "white"
+        },
+        {
+            "id": 89,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 90,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 91,
+            "text": "front",
+            "lemma": "front"
+        },
+        {
+            "id": 92,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 93,
+            "text": "light",
+            "lemma": "light"
+        },
+        {
+            "id": 94,
+            "text": "blue",
+            "lemma": "blue"
+        },
+        {
+            "id": 95,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 96,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 97,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 98,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 99,
+            "text": "dark",
+            "lemma": "dark"
+        },
+        {
+            "id": 100,
+            "text": "tracksuit",
+            "lemma": "tracksuit"
+        },
+        {
+            "id": 101,
+            "text": "trousers",
+            "lemma": "trouser"
+        },
+        {
+            "id": 102,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 103,
+            "text": "dark",
+            "lemma": "dark"
+        },
+        {
+            "id": 104,
+            "text": "trainers",
+            "lemma": "trainer"
+        },
+        {
+            "id": 105,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 106,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 107,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 108,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 109,
+            "text": "seen",
+            "lemma": "see"
+        },
+        {
+            "id": 110,
+            "text": "walking",
+            "lemma": "walk"
+        },
+        {
+            "id": 111,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 112,
+            "text": "Caledonia",
+            "lemma": "Caledonia"
+        },
+        {
+            "id": 113,
+            "text": "Road",
+            "lemma": "Road"
+        },
+        {
+            "id": 114,
+            "text": "towards",
+            "lemma": "towards"
+        },
+        {
+            "id": 115,
+            "text": "Cathcart",
+            "lemma": "Cathcart"
+        },
+        {
+            "id": 116,
+            "text": "Road",
+            "lemma": "Road"
+        },
+        {
+            "id": 117,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 118,
+            "text": "Det",
+            "lemma": "Det"
+        },
+        {
+            "id": 119,
+            "text": "Con",
+            "lemma": "Con"
+        },
+        {
+            "id": 120,
+            "text": "Nicol",
+            "lemma": "Nicol"
+        },
+        {
+            "id": 121,
+            "text": "McPherson",
+            "lemma": "McPherson"
+        },
+        {
+            "id": 122,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 123,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 124,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 125,
+            "text": "This",
+            "lemma": "this"
+        },
+        {
+            "id": 126,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 127,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 128,
+            "text": "violent",
+            "lemma": "violent"
+        },
+        {
+            "id": 129,
+            "text": "attack",
+            "lemma": "attack"
+        },
+        {
+            "id": 130,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 131,
+            "text": "took",
+            "lemma": "take"
+        },
+        {
+            "id": 132,
+            "text": "place",
+            "lemma": "place"
+        },
+        {
+            "id": 133,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 134,
+            "text": "broad",
+            "lemma": "broad"
+        },
+        {
+            "id": 135,
+            "text": "daylight",
+            "lemma": "daylight"
+        },
+        {
+            "id": 136,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 137,
+            "text": "left",
+            "lemma": "leave"
+        },
+        {
+            "id": 138,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 139,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 140,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 141,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 142,
+            "text": "serious",
+            "lemma": "serious"
+        },
+        {
+            "id": 143,
+            "text": "leg",
+            "lemma": "leg"
+        },
+        {
+            "id": 144,
+            "text": "injury",
+            "lemma": "injury"
+        },
+        {
+            "id": 145,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 146,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 147,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 148,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 149,
+            "text": "urge",
+            "lemma": "urge"
+        },
+        {
+            "id": 150,
+            "text": "anyone",
+            "lemma": "anyone"
+        },
+        {
+            "id": 151,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 152,
+            "text": "recognises",
+            "lemma": "recognise"
+        },
+        {
+            "id": 153,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 154,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 155,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 156,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 157,
+            "text": "images",
+            "lemma": "image"
+        },
+        {
+            "id": 158,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 159,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 160,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 161,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 162,
+            "text": "information",
+            "lemma": "information"
+        },
+        {
+            "id": 163,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 164,
+            "text": "may",
+            "lemma": "may"
+        },
+        {
+            "id": 165,
+            "text": "assist",
+            "lemma": "assist"
+        },
+        {
+            "id": 166,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 167,
+            "text": "investigation",
+            "lemma": "investigation"
+        },
+        {
+            "id": 168,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 169,
+            "text": "contact",
+            "lemma": "contact"
+        },
+        {
+            "id": 170,
+            "text": "Cathcart",
+            "lemma": "Cathcart"
+        },
+        {
+            "id": 171,
+            "text": "Police",
+            "lemma": "Police"
+        },
+        {
+            "id": 172,
+            "text": "Office",
+            "lemma": "Office"
+        },
+        {
+            "id": 173,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 174,
+            "text": "\"",
+            "lemma": "\""
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Police",
+            "lemma": "Police",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "have",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 2,
+            "text": "released",
+            "lemma": "release",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "CCTV",
+            "lemma": "CCTV",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "images",
+            "lemma": "image",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "of",
+            "lemma": "of",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "man",
+            "lemma": "man",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "they",
+            "lemma": "they",
+            "spans": [
+                2,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "want",
+            "lemma": "want",
+            "spans": [
+                2,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "to",
+            "lemma": "to",
+            "spans": [
+                2,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "speak",
+            "lemma": "speak",
+            "spans": [
+                2,
+                6,
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "to",
+            "lemma": "to",
+            "spans": [
+                2,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                2,
+                6,
+                8,
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "connection",
+            "lemma": "connection",
+            "spans": [
+                2,
+                6,
+                8,
+                9,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "with",
+            "lemma": "with",
+            "spans": [
+                2,
+                6,
+                8,
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                2,
+                6,
+                8,
+                9,
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "serious",
+            "lemma": "serious",
+            "spans": [
+                2,
+                6,
+                8,
+                9,
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "assault",
+            "lemma": "assault",
+            "spans": [
+                2,
+                6,
+                8,
+                9,
+                11,
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                9,
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 20,
+            "text": "Rutherglen",
+            "lemma": "Rutherglen",
+            "spans": [
+                9,
+                13,
+                14
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 21,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 1,
+            "qaIds": [
+                0,
+                5,
+                8
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 2,
+            "end": 3,
+            "qaIds": [
+                5,
+                6,
+                7
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 3,
+            "end": 19,
+            "qaIds": [
+                6
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 6,
+            "end": 8,
+            "qaIds": [
+                3,
+                9,
+                13
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 8,
+            "end": 9,
+            "qaIds": [
+                12
+            ],
+            "id": 4,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 9,
+            "end": 10,
+            "qaIds": [
+                8,
+                9,
+                10,
+                11
+            ],
+            "id": 5,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 10,
+            "end": 19,
+            "qaIds": [
+                10
+            ],
+            "id": 6,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 11,
+            "end": 12,
+            "qaIds": [
+                12,
+                13,
+                14,
+                15,
+                16
+            ],
+            "id": 7,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 13,
+            "end": 19,
+            "qaIds": [
+                14
+            ],
+            "id": 8,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 13,
+            "end": 21,
+            "qaIds": [
+                16
+            ],
+            "id": 9,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 14,
+            "end": 15,
+            "qaIds": [
+                0,
+                1,
+                2
+            ],
+            "id": 10,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 16,
+            "end": 19,
+            "qaIds": [
+                1
+            ],
+            "id": 11,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 18,
+            "end": 19,
+            "qaIds": [
+                3,
+                4
+            ],
+            "id": 12,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 19,
+            "end": 21,
+            "qaIds": [
+                7,
+                11
+            ],
+            "id": 13,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 20,
+            "end": 21,
+            "qaIds": [
+                2,
+                4,
+                15
+            ],
+            "id": 14,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "14-15",
+            "predicate": "connection",
+            "questionId": 0,
+            "question": "who is connected to something ?",
+            "answer": "Police",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                6
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "14-15",
+            "predicate": "connection",
+            "questionId": 1,
+            "question": "what is someone connected to ?",
+            "answer": "a serious assault",
+            "answerStartChar": [
+                83
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                16
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "16-19",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "14-15",
+            "predicate": "connection",
+            "questionId": 2,
+            "question": "where is someone connected to something ?",
+            "answer": "Rutherglen",
+            "answerStartChar": [
+                104
+            ],
+            "answerEndChar": [
+                114
+            ],
+            "answerStartToken": [
+                20
+            ],
+            "answerEndToken": [
+                21
+            ],
+            "answerId": "20-21",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "18-19",
+            "predicate": "assault",
+            "questionId": 0,
+            "question": "who was assaulted ?",
+            "answer": "a man",
+            "answerStartChar": [
+                36
+            ],
+            "answerEndChar": [
+                41
+            ],
+            "answerStartToken": [
+                6
+            ],
+            "answerEndToken": [
+                8
+            ],
+            "answerId": "6-8",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "18-19",
+            "predicate": "assault",
+            "questionId": 1,
+            "question": "where was someone assaulted ?",
+            "answer": "Rutherglen",
+            "answerStartChar": [
+                104
+            ],
+            "answerEndChar": [
+                114
+            ],
+            "answerStartToken": [
+                20
+            ],
+            "answerEndToken": [
+                21
+            ],
+            "answerId": "20-21",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "released",
+            "questionId": 0,
+            "question": "who has released something ?",
+            "answer": "Police",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                6
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 5
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "released",
+            "questionId": 1,
+            "question": "what has someone released ?",
+            "answer": "CCTV images of a man they want to speak to in connection with a serious assault",
+            "answerStartChar": [
+                21
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                3
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "3-19",
+            "id": 6
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "released",
+            "questionId": 2,
+            "question": "where has someone released something ?",
+            "answer": "in Rutherglen",
+            "answerStartChar": [
+                101
+            ],
+            "answerEndChar": [
+                114
+            ],
+            "answerStartToken": [
+                19
+            ],
+            "answerEndToken": [
+                21
+            ],
+            "answerId": "19-21",
+            "id": 7
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "want",
+            "questionId": 0,
+            "question": "who wants something ?",
+            "answer": "Police",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                6
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 8
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "want",
+            "questionId": 1,
+            "question": "what does someone want ?",
+            "answer": "a man",
+            "answerStartChar": [
+                36
+            ],
+            "answerEndChar": [
+                41
+            ],
+            "answerStartToken": [
+                6
+            ],
+            "answerEndToken": [
+                8
+            ],
+            "answerId": "6-8",
+            "id": 9
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "want",
+            "questionId": 1,
+            "question": "what does someone want ?",
+            "answer": "to speak to in connection with a serious assault",
+            "answerStartChar": [
+                52
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                10
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "10-19",
+            "id": 10
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "want",
+            "questionId": 2,
+            "question": "where does someone want something ?",
+            "answer": "in Rutherglen",
+            "answerStartChar": [
+                101
+            ],
+            "answerEndChar": [
+                114
+            ],
+            "answerStartToken": [
+                19
+            ],
+            "answerEndToken": [
+                21
+            ],
+            "answerId": "19-21",
+            "id": 11
+        },
+        {
+            "sentId": 0,
+            "predicateId": "11-12",
+            "predicate": "speak",
+            "questionId": 0,
+            "question": "who is speaking ?",
+            "answer": "they",
+            "answerStartChar": [
+                42
+            ],
+            "answerEndChar": [
+                46
+            ],
+            "answerStartToken": [
+                8
+            ],
+            "answerEndToken": [
+                9
+            ],
+            "answerId": "8-9",
+            "id": 12
+        },
+        {
+            "sentId": 0,
+            "predicateId": "11-12",
+            "predicate": "speak",
+            "questionId": 0,
+            "question": "who is speaking ?",
+            "answer": "a man",
+            "answerStartChar": [
+                36
+            ],
+            "answerEndChar": [
+                41
+            ],
+            "answerStartToken": [
+                6
+            ],
+            "answerEndToken": [
+                8
+            ],
+            "answerId": "6-8",
+            "id": 13
+        },
+        {
+            "sentId": 0,
+            "predicateId": "11-12",
+            "predicate": "speak",
+            "questionId": 1,
+            "question": "where is someone speaking ?",
+            "answer": "in connection with a serious assault",
+            "answerStartChar": [
+                64
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                13
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "13-19",
+            "id": 14
+        },
+        {
+            "sentId": 0,
+            "predicateId": "11-12",
+            "predicate": "speak",
+            "questionId": 2,
+            "question": "where is someone speaking ?",
+            "answer": "Rutherglen",
+            "answerStartChar": [
+                104
+            ],
+            "answerEndChar": [
+                114
+            ],
+            "answerStartToken": [
+                20
+            ],
+            "answerEndToken": [
+                21
+            ],
+            "answerId": "20-21",
+            "id": 15
+        },
+        {
+            "sentId": 0,
+            "predicateId": "11-12",
+            "predicate": "speak",
+            "questionId": 2,
+            "question": "where is someone speaking ?",
+            "answer": "in connection with a serious assault in Rutherglen",
+            "answerStartChar": [
+                64
+            ],
+            "answerEndChar": [
+                114
+            ],
+            "answerStartToken": [
+                13
+            ],
+            "answerEndToken": [
+                21
+            ],
+            "answerId": "13-21",
+            "id": 16
+        }
+    ],
+    "datasource": "xsum",
+    "summaryId": "38168399"
+}

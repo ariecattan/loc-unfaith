@@ -1,0 +1,4608 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "Ministers",
+            "lemma": "minister"
+        },
+        {
+            "id": 1,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 2,
+            "text": "set",
+            "lemma": "set"
+        },
+        {
+            "id": 3,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 4,
+            "text": "plans",
+            "lemma": "plan"
+        },
+        {
+            "id": 5,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 6,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 7,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 8,
+            "text": "ambitious",
+            "lemma": "ambitious"
+        },
+        {
+            "id": 9,
+            "text": "new",
+            "lemma": "new"
+        },
+        {
+            "id": 10,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 11,
+            "text": "arrangement",
+            "lemma": "arrangement"
+        },
+        {
+            "id": 12,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 13,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 14,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 15,
+            "text": "EU",
+            "lemma": "EU"
+        },
+        {
+            "id": 16,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 17,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 18,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 19,
+            "text": "leaves",
+            "lemma": "leave"
+        },
+        {
+            "id": 20,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 21,
+            "text": "This",
+            "lemma": "this"
+        },
+        {
+            "id": 22,
+            "text": "could",
+            "lemma": "could"
+        },
+        {
+            "id": 23,
+            "text": "include",
+            "lemma": "include"
+        },
+        {
+            "id": 24,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 25,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 26,
+            "text": "temporary",
+            "lemma": "temporary"
+        },
+        {
+            "id": 27,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 28,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 29,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 30,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 31,
+            "text": "March",
+            "lemma": "March"
+        },
+        {
+            "id": 32,
+            "text": "2019",
+            "lemma": "2019"
+        },
+        {
+            "id": 33,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 34,
+            "text": "prevent",
+            "lemma": "prevent"
+        },
+        {
+            "id": 35,
+            "text": "border",
+            "lemma": "border"
+        },
+        {
+            "id": 36,
+            "text": "problems",
+            "lemma": "problem"
+        },
+        {
+            "id": 37,
+            "text": "during",
+            "lemma": "during"
+        },
+        {
+            "id": 38,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 39,
+            "text": "process",
+            "lemma": "process"
+        },
+        {
+            "id": 40,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 41,
+            "text": "However",
+            "lemma": "however"
+        },
+        {
+            "id": 42,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 43,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 44,
+            "text": "first",
+            "lemma": "first"
+        },
+        {
+            "id": 45,
+            "text": "minister",
+            "lemma": "minister"
+        },
+        {
+            "id": 46,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 47,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 48,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 49,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 50,
+            "text": "should",
+            "lemma": "should"
+        },
+        {
+            "id": 51,
+            "text": "commit",
+            "lemma": "commit"
+        },
+        {
+            "id": 52,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 53,
+            "text": "staying",
+            "lemma": "stay"
+        },
+        {
+            "id": 54,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 55,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 56,
+            "text": "single",
+            "lemma": "single"
+        },
+        {
+            "id": 57,
+            "text": "market",
+            "lemma": "market"
+        },
+        {
+            "id": 58,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 59,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 60,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 61,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 62,
+            "text": "period",
+            "lemma": "period"
+        },
+        {
+            "id": 63,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 64,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 65,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 66,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 67,
+            "text": "arrangements",
+            "lemma": "arrangement"
+        },
+        {
+            "id": 68,
+            "text": "document",
+            "lemma": "document"
+        },
+        {
+            "id": 69,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 70,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 71,
+            "text": "first",
+            "lemma": "first"
+        },
+        {
+            "id": 72,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 73,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 74,
+            "text": "series",
+            "lemma": "series"
+        },
+        {
+            "id": 75,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 76,
+            "text": "papers",
+            "lemma": "paper"
+        },
+        {
+            "id": 77,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 78,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 79,
+            "text": "published",
+            "lemma": "publish"
+        },
+        {
+            "id": 80,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 81,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 82,
+            "text": "Westminster",
+            "lemma": "Westminster"
+        },
+        {
+            "id": 83,
+            "text": "government",
+            "lemma": "government"
+        },
+        {
+            "id": 84,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 85,
+            "text": "key",
+            "lemma": "key"
+        },
+        {
+            "id": 86,
+            "text": "negotiation",
+            "lemma": "negotiation"
+        },
+        {
+            "id": 87,
+            "text": "issues",
+            "lemma": "issue"
+        },
+        {
+            "id": 88,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 89,
+            "text": "Businesses",
+            "lemma": "business"
+        },
+        {
+            "id": 90,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 91,
+            "text": "called",
+            "lemma": "call"
+        },
+        {
+            "id": 92,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 93,
+            "text": "clarity",
+            "lemma": "clarity"
+        },
+        {
+            "id": 94,
+            "text": "since",
+            "lemma": "since"
+        },
+        {
+            "id": 95,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 96,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 97,
+            "text": "announced",
+            "lemma": "announce"
+        },
+        {
+            "id": 98,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 99,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 100,
+            "text": "leaving",
+            "lemma": "leave"
+        },
+        {
+            "id": 101,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 102,
+            "text": "EU",
+            "lemma": "EU"
+        },
+        {
+            "id": 103,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 104,
+            "text": "tariff",
+            "lemma": "tariff"
+        },
+        {
+            "id": 105,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 106,
+            "text": "free",
+            "lemma": "free"
+        },
+        {
+            "id": 107,
+            "text": "trading",
+            "lemma": "trading"
+        },
+        {
+            "id": 108,
+            "text": "area",
+            "lemma": "area"
+        },
+        {
+            "id": 109,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 110,
+            "text": "Ministers",
+            "lemma": "Ministers"
+        },
+        {
+            "id": 111,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 112,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 113,
+            "text": "plans",
+            "lemma": "plan"
+        },
+        {
+            "id": 114,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 115,
+            "text": "mean",
+            "lemma": "mean"
+        },
+        {
+            "id": 116,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 117,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 118,
+            "text": "freest",
+            "lemma": "free"
+        },
+        {
+            "id": 119,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 120,
+            "text": "most",
+            "lemma": "most"
+        },
+        {
+            "id": 121,
+            "text": "frictionless",
+            "lemma": "frictionless"
+        },
+        {
+            "id": 122,
+            "text": "possible",
+            "lemma": "possible"
+        },
+        {
+            "id": 123,
+            "text": "trade",
+            "lemma": "trade"
+        },
+        {
+            "id": 124,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 125,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 126,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 127,
+            "text": "rest",
+            "lemma": "rest"
+        },
+        {
+            "id": 128,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 129,
+            "text": "Europe",
+            "lemma": "Europe"
+        },
+        {
+            "id": 130,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 131,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 132,
+            "text": "newly",
+            "lemma": "newly"
+        },
+        {
+            "id": 133,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 134,
+            "text": "published",
+            "lemma": "publish"
+        },
+        {
+            "id": 135,
+            "text": "paper",
+            "lemma": "paper"
+        },
+        {
+            "id": 136,
+            "text": "says",
+            "lemma": "say"
+        },
+        {
+            "id": 137,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 138,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 139,
+            "text": "could",
+            "lemma": "could"
+        },
+        {
+            "id": 140,
+            "text": "ask",
+            "lemma": "ask"
+        },
+        {
+            "id": 141,
+            "text": "Brussels",
+            "lemma": "Brussels"
+        },
+        {
+            "id": 142,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 143,
+            "text": "establish",
+            "lemma": "establish"
+        },
+        {
+            "id": 144,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 145,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 146,
+            "text": "temporary",
+            "lemma": "temporary"
+        },
+        {
+            "id": 147,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 148,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 149,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 150,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 151,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 152,
+            "text": "leaves",
+            "lemma": "leave"
+        },
+        {
+            "id": 153,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 154,
+            "text": "EU",
+            "lemma": "EU"
+        },
+        {
+            "id": 155,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 156,
+            "text": "March",
+            "lemma": "March"
+        },
+        {
+            "id": 157,
+            "text": "2019",
+            "lemma": "2019"
+        },
+        {
+            "id": 158,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 159,
+            "text": "During",
+            "lemma": "during"
+        },
+        {
+            "id": 160,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 161,
+            "text": "period",
+            "lemma": "period"
+        },
+        {
+            "id": 162,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 163,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 164,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 165,
+            "text": "expect",
+            "lemma": "expect"
+        },
+        {
+            "id": 166,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 167,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 168,
+            "text": "able",
+            "lemma": "able"
+        },
+        {
+            "id": 169,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 170,
+            "text": "negotiate",
+            "lemma": "negotiate"
+        },
+        {
+            "id": 171,
+            "text": "its",
+            "lemma": "its"
+        },
+        {
+            "id": 172,
+            "text": "own",
+            "lemma": "own"
+        },
+        {
+            "id": 173,
+            "text": "international",
+            "lemma": "international"
+        },
+        {
+            "id": 174,
+            "text": "trade",
+            "lemma": "trade"
+        },
+        {
+            "id": 175,
+            "text": "deals",
+            "lemma": "deal"
+        },
+        {
+            "id": 176,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 177,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 178,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 179,
+            "text": "can",
+            "lemma": "can"
+        },
+        {
+            "id": 180,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 181,
+            "text": "currently",
+            "lemma": "currently"
+        },
+        {
+            "id": 182,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 183,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 184,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 185,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 186,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 187,
+            "text": "member",
+            "lemma": "member"
+        },
+        {
+            "id": 188,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 189,
+            "text": "Once",
+            "lemma": "once"
+        },
+        {
+            "id": 190,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 191,
+            "text": "temporary",
+            "lemma": "temporary"
+        },
+        {
+            "id": 192,
+            "text": "arrangement",
+            "lemma": "arrangement"
+        },
+        {
+            "id": 193,
+            "text": "expired",
+            "lemma": "expire"
+        },
+        {
+            "id": 194,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 195,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 196,
+            "text": "paper",
+            "lemma": "paper"
+        },
+        {
+            "id": 197,
+            "text": "says",
+            "lemma": "say"
+        },
+        {
+            "id": 198,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 199,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 200,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 201,
+            "text": "look",
+            "lemma": "look"
+        },
+        {
+            "id": 202,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 203,
+            "text": "agree",
+            "lemma": "agree"
+        },
+        {
+            "id": 204,
+            "text": "either",
+            "lemma": "either"
+        },
+        {
+            "id": 205,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 206,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 207,
+            "text": "highly",
+            "lemma": "highly"
+        },
+        {
+            "id": 208,
+            "text": "streamlined",
+            "lemma": "streamlined"
+        },
+        {
+            "id": 209,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 210,
+            "text": "border",
+            "lemma": "border"
+        },
+        {
+            "id": 211,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 212,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 213,
+            "text": "EU",
+            "lemma": "EU"
+        },
+        {
+            "id": 214,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 215,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 216,
+            "text": "new",
+            "lemma": "new"
+        },
+        {
+            "id": 217,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 218,
+            "text": "partnership",
+            "lemma": "partnership"
+        },
+        {
+            "id": 219,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 220,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 221,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 222,
+            "text": "customs",
+            "lemma": "customs"
+        },
+        {
+            "id": 223,
+            "text": "border",
+            "lemma": "border"
+        },
+        {
+            "id": 224,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 225,
+            "text": "all",
+            "lemma": "all"
+        },
+        {
+            "id": 226,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 227,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 228,
+            "text": "plan",
+            "lemma": "plan"
+        },
+        {
+            "id": 229,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 230,
+            "text": "drawn",
+            "lemma": "draw"
+        },
+        {
+            "id": 231,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 232,
+            "text": "mixed",
+            "lemma": "mixed"
+        },
+        {
+            "id": 233,
+            "text": "response",
+            "lemma": "response"
+        },
+        {
+            "id": 234,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 235,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 236,
+            "text": "Labour",
+            "lemma": "Labour"
+        },
+        {
+            "id": 237,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 238,
+            "text": "shadow",
+            "lemma": "shadow"
+        },
+        {
+            "id": 239,
+            "text": "Brexit",
+            "lemma": "Brexit"
+        },
+        {
+            "id": 240,
+            "text": "secretary",
+            "lemma": "secretary"
+        },
+        {
+            "id": 241,
+            "text": "Keir",
+            "lemma": "Keir"
+        },
+        {
+            "id": 242,
+            "text": "Starmer",
+            "lemma": "Starmer"
+        },
+        {
+            "id": 243,
+            "text": "calling",
+            "lemma": "call"
+        },
+        {
+            "id": 244,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 245,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 246,
+            "text": "incoherent",
+            "lemma": "incoherent"
+        },
+        {
+            "id": 247,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 248,
+            "text": "inadequate",
+            "lemma": "inadequate"
+        },
+        {
+            "id": 249,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 250,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 251,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 252,
+            "text": "fantastical",
+            "lemma": "fantastical"
+        },
+        {
+            "id": 253,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 254,
+            "text": "contradictory",
+            "lemma": "contradictory"
+        },
+        {
+            "id": 255,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 256,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 257,
+            "text": "However",
+            "lemma": "however"
+        },
+        {
+            "id": 258,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 259,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 260,
+            "text": "Confederation",
+            "lemma": "Confederation"
+        },
+        {
+            "id": 261,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 262,
+            "text": "British",
+            "lemma": "British"
+        },
+        {
+            "id": 263,
+            "text": "Industry",
+            "lemma": "Industry"
+        },
+        {
+            "id": 264,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 265,
+            "text": "CBI",
+            "lemma": "CBI"
+        },
+        {
+            "id": 266,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 267,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 268,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 269,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 270,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 271,
+            "text": "encouraging",
+            "lemma": "encouraging"
+        },
+        {
+            "id": 272,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 273,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 274,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 275,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 276,
+            "text": "Institute",
+            "lemma": "Institute"
+        },
+        {
+            "id": 277,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 278,
+            "text": "Directors",
+            "lemma": "Directors"
+        },
+        {
+            "id": 279,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 280,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 281,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 282,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 283,
+            "text": "hugely",
+            "lemma": "hugely"
+        },
+        {
+            "id": 284,
+            "text": "positive",
+            "lemma": "positive"
+        },
+        {
+            "id": 285,
+            "text": "step",
+            "lemma": "step"
+        },
+        {
+            "id": 286,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 287,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 288,
+            "text": "Guy",
+            "lemma": "Guy"
+        },
+        {
+            "id": 289,
+            "text": "Verhofstadt",
+            "lemma": "Verhofstadt"
+        },
+        {
+            "id": 290,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 291,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 292,
+            "text": "European",
+            "lemma": "European"
+        },
+        {
+            "id": 293,
+            "text": "Parliament",
+            "lemma": "Parliament"
+        },
+        {
+            "id": 294,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 295,
+            "text": "Brexit",
+            "lemma": "Brexit"
+        },
+        {
+            "id": 296,
+            "text": "negotiator",
+            "lemma": "negotiator"
+        },
+        {
+            "id": 297,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 298,
+            "text": "tweeted",
+            "lemma": "tweet"
+        },
+        {
+            "id": 299,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 300,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 301,
+            "text": "idea",
+            "lemma": "idea"
+        },
+        {
+            "id": 302,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 303,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 304,
+            "text": "invisible",
+            "lemma": "invisible"
+        },
+        {
+            "id": 305,
+            "text": "borders",
+            "lemma": "border"
+        },
+        {
+            "id": 306,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 307,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 308,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 309,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 310,
+            "text": "fantasy",
+            "lemma": "fantasy"
+        },
+        {
+            "id": 311,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 312,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 313,
+            "text": "Ms",
+            "lemma": "Ms"
+        },
+        {
+            "id": 314,
+            "text": "Sturgeon",
+            "lemma": "Sturgeon"
+        },
+        {
+            "id": 315,
+            "text": "posted",
+            "lemma": "post"
+        },
+        {
+            "id": 316,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 317,
+            "text": "initial",
+            "lemma": "initial"
+        },
+        {
+            "id": 318,
+            "text": "reaction",
+            "lemma": "reaction"
+        },
+        {
+            "id": 319,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 320,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 321,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 322,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 323,
+            "text": "plan",
+            "lemma": "plan"
+        },
+        {
+            "id": 324,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 325,
+            "text": "Twitter",
+            "lemma": "Twitter"
+        },
+        {
+            "id": 326,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 327,
+            "text": "saying",
+            "lemma": "say"
+        },
+        {
+            "id": 328,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 329,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 330,
+            "text": "Seems",
+            "lemma": "seem"
+        },
+        {
+            "id": 331,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 332,
+            "text": "gov",
+            "lemma": "gov"
+        },
+        {
+            "id": 333,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 334,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 335,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 336,
+            "text": "its",
+            "lemma": "its"
+        },
+        {
+            "id": 337,
+            "text": "daft",
+            "lemma": "daft"
+        },
+        {
+            "id": 338,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 339,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 340,
+            "text": "cake",
+            "lemma": "cake"
+        },
+        {
+            "id": 341,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 342,
+            "text": "eat",
+            "lemma": "eat"
+        },
+        {
+            "id": 343,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 344,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 345,
+            "text": "approach",
+            "lemma": "approach"
+        },
+        {
+            "id": 346,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 347,
+            "text": "Brexit",
+            "lemma": "Brexit"
+        },
+        {
+            "id": 348,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 349,
+            "text": "They",
+            "lemma": "they"
+        },
+        {
+            "id": 350,
+            "text": "should",
+            "lemma": "should"
+        },
+        {
+            "id": 351,
+            "text": "commit",
+            "lemma": "commit"
+        },
+        {
+            "id": 352,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 353,
+            "text": "staying",
+            "lemma": "stay"
+        },
+        {
+            "id": 354,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 355,
+            "text": "single",
+            "lemma": "single"
+        },
+        {
+            "id": 356,
+            "text": "market",
+            "lemma": "market"
+        },
+        {
+            "id": 357,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 358,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 359,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 360,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 361,
+            "text": "period",
+            "lemma": "period"
+        },
+        {
+            "id": 362,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 363,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 364,
+            "text": "End",
+            "lemma": "end"
+        },
+        {
+            "id": 365,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 366,
+            "text": "Twitter",
+            "lemma": "Twitter"
+        },
+        {
+            "id": 367,
+            "text": "post",
+            "lemma": "post"
+        },
+        {
+            "id": 368,
+            "text": " ",
+            "lemma": " "
+        },
+        {
+            "id": 369,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 370,
+            "text": "@NicolaSturgeon",
+            "lemma": "@nicolasturgeon"
+        },
+        {
+            "id": 371,
+            "text": "Speaking",
+            "lemma": "speak"
+        },
+        {
+            "id": 372,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 373,
+            "text": "Montrose",
+            "lemma": "Montrose"
+        },
+        {
+            "id": 374,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 375,
+            "text": "where",
+            "lemma": "where"
+        },
+        {
+            "id": 376,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 377,
+            "text": "Scottish",
+            "lemma": "scottish"
+        },
+        {
+            "id": 378,
+            "text": "government",
+            "lemma": "government"
+        },
+        {
+            "id": 379,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 380,
+            "text": "cabinet",
+            "lemma": "cabinet"
+        },
+        {
+            "id": 381,
+            "text": "held",
+            "lemma": "hold"
+        },
+        {
+            "id": 382,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 383,
+            "text": "meeting",
+            "lemma": "meeting"
+        },
+        {
+            "id": 384,
+            "text": "prior",
+            "lemma": "prior"
+        },
+        {
+            "id": 385,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 386,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 387,
+            "text": "public",
+            "lemma": "public"
+        },
+        {
+            "id": 388,
+            "text": "discussion",
+            "lemma": "discussion"
+        },
+        {
+            "id": 389,
+            "text": "event",
+            "lemma": "event"
+        },
+        {
+            "id": 390,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 391,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 392,
+            "text": "SNP",
+            "lemma": "SNP"
+        },
+        {
+            "id": 393,
+            "text": "leader",
+            "lemma": "leader"
+        },
+        {
+            "id": 394,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 395,
+            "text": "BBC",
+            "lemma": "BBC"
+        },
+        {
+            "id": 396,
+            "text": "Scotland",
+            "lemma": "Scotland"
+        },
+        {
+            "id": 397,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 398,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 399,
+            "text": "plan",
+            "lemma": "plan"
+        },
+        {
+            "id": 400,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 401,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 402,
+            "text": "almost",
+            "lemma": "almost"
+        },
+        {
+            "id": 403,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 404,
+            "text": "laughable",
+            "lemma": "laughable"
+        },
+        {
+            "id": 405,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 406,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 407,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 408,
+            "text": "issues",
+            "lemma": "issue"
+        },
+        {
+            "id": 409,
+            "text": "involved",
+            "lemma": "involve"
+        },
+        {
+            "id": 410,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 411,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 412,
+            "text": "so",
+            "lemma": "so"
+        },
+        {
+            "id": 413,
+            "text": "serious",
+            "lemma": "serious"
+        },
+        {
+            "id": 414,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 415,
+            "text": "She",
+            "lemma": "she"
+        },
+        {
+            "id": 416,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 417,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 418,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 419,
+            "text": "You",
+            "lemma": "you"
+        },
+        {
+            "id": 420,
+            "text": "'ve",
+            "lemma": "'ve"
+        },
+        {
+            "id": 421,
+            "text": "got",
+            "lemma": "get"
+        },
+        {
+            "id": 422,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 423,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 424,
+            "text": "government",
+            "lemma": "government"
+        },
+        {
+            "id": 425,
+            "text": "appearing",
+            "lemma": "appear"
+        },
+        {
+            "id": 426,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 427,
+            "text": "say",
+            "lemma": "say"
+        },
+        {
+            "id": 428,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 429,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 430,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 431,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 432,
+            "text": "want",
+            "lemma": "want"
+        },
+        {
+            "id": 433,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 434,
+            "text": "say",
+            "lemma": "say"
+        },
+        {
+            "id": 435,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 436,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 437,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 438,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 439,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 440,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 441,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 442,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 443,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 444,
+            "text": "want",
+            "lemma": "want"
+        },
+        {
+            "id": 445,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 446,
+            "text": "stay",
+            "lemma": "stay"
+        },
+        {
+            "id": 447,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 448,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 449,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 450,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 451,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 452,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 453,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 454,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 455,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 456,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 457,
+            "text": "pretty",
+            "lemma": "pretty"
+        },
+        {
+            "id": 458,
+            "text": "much",
+            "lemma": "much"
+        },
+        {
+            "id": 459,
+            "text": "identical",
+            "lemma": "identical"
+        },
+        {
+            "id": 460,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 461,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 462,
+            "text": "European",
+            "lemma": "european"
+        },
+        {
+            "id": 463,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 464,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 465,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 466,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 467,
+            "text": "'re",
+            "lemma": "be"
+        },
+        {
+            "id": 468,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 469,
+            "text": "already",
+            "lemma": "already"
+        },
+        {
+            "id": 470,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 471,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 472,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 473,
+            "text": "nonsensical",
+            "lemma": "nonsensical"
+        },
+        {
+            "id": 474,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 475,
+            "text": "ridiculous",
+            "lemma": "ridiculous"
+        },
+        {
+            "id": 476,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 477,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 478,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 479,
+            "text": "think",
+            "lemma": "think"
+        },
+        {
+            "id": 480,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 481,
+            "text": "increasingly",
+            "lemma": "increasingly"
+        },
+        {
+            "id": 482,
+            "text": "makes",
+            "lemma": "make"
+        },
+        {
+            "id": 483,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 484,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 485,
+            "text": "government",
+            "lemma": "government"
+        },
+        {
+            "id": 486,
+            "text": "look",
+            "lemma": "look"
+        },
+        {
+            "id": 487,
+            "text": "like",
+            "lemma": "like"
+        },
+        {
+            "id": 488,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 489,
+            "text": "bit",
+            "lemma": "bit"
+        },
+        {
+            "id": 490,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 491,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 492,
+            "text": "laughing",
+            "lemma": "laugh"
+        },
+        {
+            "id": 493,
+            "text": "stock",
+            "lemma": "stock"
+        },
+        {
+            "id": 494,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 495,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 496,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 497,
+            "text": "wish",
+            "lemma": "wish"
+        },
+        {
+            "id": 498,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 499,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 500,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 501,
+            "text": "leaving",
+            "lemma": "leave"
+        },
+        {
+            "id": 502,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 503,
+            "text": "EU",
+            "lemma": "EU"
+        },
+        {
+            "id": 504,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 505,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 506,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 507,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 508,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 509,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 510,
+            "text": "leaving",
+            "lemma": "leave"
+        },
+        {
+            "id": 511,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 512,
+            "text": "EU",
+            "lemma": "EU"
+        },
+        {
+            "id": 513,
+            "text": "then",
+            "lemma": "then"
+        },
+        {
+            "id": 514,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 515,
+            "text": "common",
+            "lemma": "common"
+        },
+        {
+            "id": 516,
+            "text": "sense",
+            "lemma": "sense"
+        },
+        {
+            "id": 517,
+            "text": "thing",
+            "lemma": "thing"
+        },
+        {
+            "id": 518,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 519,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 520,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 521,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 522,
+            "text": "stay",
+            "lemma": "stay"
+        },
+        {
+            "id": 523,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 524,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 525,
+            "text": "single",
+            "lemma": "single"
+        },
+        {
+            "id": 526,
+            "text": "market",
+            "lemma": "market"
+        },
+        {
+            "id": 527,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 528,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 529,
+            "text": "stay",
+            "lemma": "stay"
+        },
+        {
+            "id": 530,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 531,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 532,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 533,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 534,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 535,
+            "text": "Because",
+            "lemma": "because"
+        },
+        {
+            "id": 536,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 537,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 538,
+            "text": "mean",
+            "lemma": "mean"
+        },
+        {
+            "id": 539,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 540,
+            "text": "can",
+            "lemma": "can"
+        },
+        {
+            "id": 541,
+            "text": "continue",
+            "lemma": "continue"
+        },
+        {
+            "id": 542,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 543,
+            "text": "export",
+            "lemma": "export"
+        },
+        {
+            "id": 544,
+            "text": "goods",
+            "lemma": "good"
+        },
+        {
+            "id": 545,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 546,
+            "text": "services",
+            "lemma": "service"
+        },
+        {
+            "id": 547,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 548,
+            "text": "continue",
+            "lemma": "continue"
+        },
+        {
+            "id": 549,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 550,
+            "text": "travel",
+            "lemma": "travel"
+        },
+        {
+            "id": 551,
+            "text": "freely",
+            "lemma": "freely"
+        },
+        {
+            "id": 552,
+            "text": "like",
+            "lemma": "like"
+        },
+        {
+            "id": 553,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 554,
+            "text": "can",
+            "lemma": "can"
+        },
+        {
+            "id": 555,
+            "text": "today",
+            "lemma": "today"
+        },
+        {
+            "id": 556,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 557,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 558,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 559,
+            "text": "think",
+            "lemma": "think"
+        },
+        {
+            "id": 560,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 561,
+            "text": "sooner",
+            "lemma": "soon"
+        },
+        {
+            "id": 562,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 563,
+            "text": "get",
+            "lemma": "get"
+        },
+        {
+            "id": 564,
+            "text": "into",
+            "lemma": "into"
+        },
+        {
+            "id": 565,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 566,
+            "text": "common",
+            "lemma": "common"
+        },
+        {
+            "id": 567,
+            "text": "sense",
+            "lemma": "sense"
+        },
+        {
+            "id": 568,
+            "text": "position",
+            "lemma": "position"
+        },
+        {
+            "id": 569,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 570,
+            "text": "better",
+            "lemma": "well"
+        },
+        {
+            "id": 571,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 572,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 573,
+            "text": "Secretary",
+            "lemma": "Secretary"
+        },
+        {
+            "id": 574,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 575,
+            "text": "State",
+            "lemma": "State"
+        },
+        {
+            "id": 576,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 577,
+            "text": "Exiting",
+            "lemma": "exit"
+        },
+        {
+            "id": 578,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 579,
+            "text": "European",
+            "lemma": "European"
+        },
+        {
+            "id": 580,
+            "text": "Union",
+            "lemma": "Union"
+        },
+        {
+            "id": 581,
+            "text": "David",
+            "lemma": "David"
+        },
+        {
+            "id": 582,
+            "text": "Davis",
+            "lemma": "Davis"
+        },
+        {
+            "id": 583,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 584,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 585,
+            "text": "envisioned",
+            "lemma": "envision"
+        },
+        {
+            "id": 586,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 587,
+            "text": "future",
+            "lemma": "future"
+        },
+        {
+            "id": 588,
+            "text": "settlement",
+            "lemma": "settlement"
+        },
+        {
+            "id": 589,
+            "text": "being",
+            "lemma": "be"
+        },
+        {
+            "id": 590,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 591,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 592,
+            "text": "close",
+            "lemma": "close"
+        },
+        {
+            "id": 593,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 594,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 595,
+            "text": "can",
+            "lemma": "can"
+        },
+        {
+            "id": 596,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 597,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 598,
+            "text": "current",
+            "lemma": "current"
+        },
+        {
+            "id": 599,
+            "text": "arrangements",
+            "lemma": "arrangement"
+        },
+        {
+            "id": 600,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 601,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 602,
+            "text": "Ms",
+            "lemma": "Ms"
+        },
+        {
+            "id": 603,
+            "text": "Sturgeon",
+            "lemma": "Sturgeon"
+        },
+        {
+            "id": 604,
+            "text": "hit",
+            "lemma": "hit"
+        },
+        {
+            "id": 605,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 606,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 607,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 608,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 609,
+            "text": "saying",
+            "lemma": "say"
+        },
+        {
+            "id": 610,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 611,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 612,
+            "text": "Why",
+            "lemma": "why"
+        },
+        {
+            "id": 613,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 614,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 615,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 616,
+            "text": "just",
+            "lemma": "just"
+        },
+        {
+            "id": 617,
+            "text": "stay",
+            "lemma": "stay"
+        },
+        {
+            "id": 618,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 619,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 620,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 621,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 622,
+            "text": "?",
+            "lemma": "?"
+        },
+        {
+            "id": 623,
+            "text": "If",
+            "lemma": "if"
+        },
+        {
+            "id": 624,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 625,
+            "text": "looks",
+            "lemma": "look"
+        },
+        {
+            "id": 626,
+            "text": "like",
+            "lemma": "like"
+        },
+        {
+            "id": 627,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 628,
+            "text": "duck",
+            "lemma": "duck"
+        },
+        {
+            "id": 629,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 630,
+            "text": "walks",
+            "lemma": "walk"
+        },
+        {
+            "id": 631,
+            "text": "like",
+            "lemma": "like"
+        },
+        {
+            "id": 632,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 633,
+            "text": "duck",
+            "lemma": "duck"
+        },
+        {
+            "id": 634,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 635,
+            "text": "quacks",
+            "lemma": "quack"
+        },
+        {
+            "id": 636,
+            "text": "like",
+            "lemma": "like"
+        },
+        {
+            "id": 637,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 638,
+            "text": "duck",
+            "lemma": "duck"
+        },
+        {
+            "id": 639,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 640,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 641,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 642,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 643,
+            "text": "duck",
+            "lemma": "duck"
+        },
+        {
+            "id": 644,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 645,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 646,
+            "text": "They",
+            "lemma": "they"
+        },
+        {
+            "id": 647,
+            "text": "seem",
+            "lemma": "seem"
+        },
+        {
+            "id": 648,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 649,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 650,
+            "text": "going",
+            "lemma": "go"
+        },
+        {
+            "id": 651,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 652,
+            "text": "great",
+            "lemma": "great"
+        },
+        {
+            "id": 653,
+            "text": "lengths",
+            "lemma": "length"
+        },
+        {
+            "id": 654,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 655,
+            "text": "differentiate",
+            "lemma": "differentiate"
+        },
+        {
+            "id": 656,
+            "text": "something",
+            "lemma": "something"
+        },
+        {
+            "id": 657,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 658,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 659,
+            "text": "pretty",
+            "lemma": "pretty"
+        },
+        {
+            "id": 660,
+            "text": "much",
+            "lemma": "much"
+        },
+        {
+            "id": 661,
+            "text": "identical",
+            "lemma": "identical"
+        },
+        {
+            "id": 662,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 663,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 664,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 665,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 666,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 667,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 668,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 669,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 670,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 671,
+            "text": "That",
+            "lemma": "that"
+        },
+        {
+            "id": 672,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 673,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 674,
+            "text": "makes",
+            "lemma": "make"
+        },
+        {
+            "id": 675,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 676,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 677,
+            "text": "think",
+            "lemma": "think"
+        },
+        {
+            "id": 678,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 679,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 680,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 681,
+            "text": "government",
+            "lemma": "government"
+        },
+        {
+            "id": 682,
+            "text": "increasingly",
+            "lemma": "increasingly"
+        },
+        {
+            "id": 683,
+            "text": "look",
+            "lemma": "look"
+        },
+        {
+            "id": 684,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 685,
+            "text": "bit",
+            "lemma": "bit"
+        },
+        {
+            "id": 686,
+            "text": "ridiculous",
+            "lemma": "ridiculous"
+        },
+        {
+            "id": 687,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 688,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 689,
+            "text": "While",
+            "lemma": "while"
+        },
+        {
+            "id": 690,
+            "text": "customs",
+            "lemma": "custom"
+        },
+        {
+            "id": 691,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 692,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 693,
+            "text": "reserved",
+            "lemma": "reserve"
+        },
+        {
+            "id": 694,
+            "text": "matter",
+            "lemma": "matter"
+        },
+        {
+            "id": 695,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 696,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 697,
+            "text": "paper",
+            "lemma": "paper"
+        },
+        {
+            "id": 698,
+            "text": "says",
+            "lemma": "say"
+        },
+        {
+            "id": 699,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 700,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 701,
+            "text": "government",
+            "lemma": "government"
+        },
+        {
+            "id": 702,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 703,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 704,
+            "text": "committed",
+            "lemma": "commit"
+        },
+        {
+            "id": 705,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 706,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 707,
+            "text": "working",
+            "lemma": "work"
+        },
+        {
+            "id": 708,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 709,
+            "text": "devolved",
+            "lemma": "devolve"
+        },
+        {
+            "id": 710,
+            "text": "administrations",
+            "lemma": "administration"
+        },
+        {
+            "id": 711,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 712,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 713,
+            "text": "understand",
+            "lemma": "understand"
+        },
+        {
+            "id": 714,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 715,
+            "text": "practical",
+            "lemma": "practical"
+        },
+        {
+            "id": 716,
+            "text": "impact",
+            "lemma": "impact"
+        },
+        {
+            "id": 717,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 718,
+            "text": "new",
+            "lemma": "new"
+        },
+        {
+            "id": 719,
+            "text": "arrangements",
+            "lemma": "arrangement"
+        },
+        {
+            "id": 720,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 721,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 722,
+            "text": "notes",
+            "lemma": "note"
+        },
+        {
+            "id": 723,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 724,
+            "text": "specific",
+            "lemma": "specific"
+        },
+        {
+            "id": 725,
+            "text": "issues",
+            "lemma": "issue"
+        },
+        {
+            "id": 726,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 727,
+            "text": "such",
+            "lemma": "such"
+        },
+        {
+            "id": 728,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 729,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 730,
+            "text": "Irish",
+            "lemma": "irish"
+        },
+        {
+            "id": 731,
+            "text": "border",
+            "lemma": "border"
+        },
+        {
+            "id": 732,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 733,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 734,
+            "text": "implications",
+            "lemma": "implication"
+        },
+        {
+            "id": 735,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 736,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 737,
+            "text": "ports",
+            "lemma": "port"
+        },
+        {
+            "id": 738,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 739,
+            "text": "Scotland",
+            "lemma": "Scotland"
+        },
+        {
+            "id": 740,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 741,
+            "text": "Wales",
+            "lemma": "Wales"
+        },
+        {
+            "id": 742,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 743,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 744,
+            "text": "Davis",
+            "lemma": "Davis"
+        },
+        {
+            "id": 745,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 746,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 747,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 748,
+            "text": "We",
+            "lemma": "we"
+        },
+        {
+            "id": 749,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 750,
+            "text": "take",
+            "lemma": "take"
+        },
+        {
+            "id": 751,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 752,
+            "text": "board",
+            "lemma": "board"
+        },
+        {
+            "id": 753,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 754,
+            "text": "concerns",
+            "lemma": "concern"
+        },
+        {
+            "id": 755,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 756,
+            "text": "our",
+            "lemma": "our"
+        },
+        {
+            "id": 757,
+            "text": "primary",
+            "lemma": "primary"
+        },
+        {
+            "id": 758,
+            "text": "aim",
+            "lemma": "aim"
+        },
+        {
+            "id": 759,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 760,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 761,
+            "text": "look",
+            "lemma": "look"
+        },
+        {
+            "id": 762,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 763,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 764,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 765,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 766,
+            "text": "Scotland",
+            "lemma": "Scotland"
+        },
+        {
+            "id": 767,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 768,
+            "text": "Wales",
+            "lemma": "Wales"
+        },
+        {
+            "id": 769,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 770,
+            "text": "Northern",
+            "lemma": "Northern"
+        },
+        {
+            "id": 771,
+            "text": "Ireland",
+            "lemma": "Ireland"
+        },
+        {
+            "id": 772,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 773,
+            "text": "This",
+            "lemma": "this"
+        },
+        {
+            "id": 774,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 775,
+            "text": "aimed",
+            "lemma": "aim"
+        },
+        {
+            "id": 776,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 777,
+            "text": "help",
+            "lemma": "help"
+        },
+        {
+            "id": 778,
+            "text": "them",
+            "lemma": "they"
+        },
+        {
+            "id": 779,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 780,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 781,
+            "text": "For",
+            "lemma": "for"
+        },
+        {
+            "id": 782,
+            "text": "example",
+            "lemma": "example"
+        },
+        {
+            "id": 783,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 784,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 785,
+            "text": "NI",
+            "lemma": "NI"
+        },
+        {
+            "id": 786,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 787,
+            "text": "want",
+            "lemma": "want"
+        },
+        {
+            "id": 788,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 789,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 790,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 791,
+            "text": "invisible",
+            "lemma": "invisible"
+        },
+        {
+            "id": 792,
+            "text": "border",
+            "lemma": "border"
+        },
+        {
+            "id": 793,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 794,
+            "text": "Northern",
+            "lemma": "Northern"
+        },
+        {
+            "id": 795,
+            "text": "Ireland",
+            "lemma": "Ireland"
+        },
+        {
+            "id": 796,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 797,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 798,
+            "text": "Republic",
+            "lemma": "Republic"
+        },
+        {
+            "id": 799,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 800,
+            "text": "Ireland",
+            "lemma": "Ireland"
+        },
+        {
+            "id": 801,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 802,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 803,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 804,
+            "text": "Scotland",
+            "lemma": "Scotland"
+        },
+        {
+            "id": 805,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 806,
+            "text": "want",
+            "lemma": "want"
+        },
+        {
+            "id": 807,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 808,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 809,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 810,
+            "text": "running",
+            "lemma": "run"
+        },
+        {
+            "id": 811,
+            "text": "businesses",
+            "lemma": "business"
+        },
+        {
+            "id": 812,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 813,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 814,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 815,
+            "text": "frictionless",
+            "lemma": "frictionless"
+        },
+        {
+            "id": 816,
+            "text": "trade",
+            "lemma": "trade"
+        },
+        {
+            "id": 817,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 818,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 819,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 820,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 821,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 822,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 823,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 824,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 825,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 826,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 827,
+            "text": "Scottish",
+            "lemma": "scottish"
+        },
+        {
+            "id": 828,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 829,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 830,
+            "text": "ministers",
+            "lemma": "minister"
+        },
+        {
+            "id": 831,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 832,
+            "text": "set",
+            "lemma": "set"
+        },
+        {
+            "id": 833,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 834,
+            "text": "further",
+            "lemma": "further"
+        },
+        {
+            "id": 835,
+            "text": "talks",
+            "lemma": "talk"
+        },
+        {
+            "id": 836,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 837,
+            "text": "Brexit",
+            "lemma": "Brexit"
+        },
+        {
+            "id": 838,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 839,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 840,
+            "text": "coming",
+            "lemma": "come"
+        },
+        {
+            "id": 841,
+            "text": "weeks",
+            "lemma": "week"
+        },
+        {
+            "id": 842,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 843,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 844,
+            "text": "most",
+            "lemma": "most"
+        },
+        {
+            "id": 845,
+            "text": "recent",
+            "lemma": "recent"
+        },
+        {
+            "id": 846,
+            "text": "summit",
+            "lemma": "summit"
+        },
+        {
+            "id": 847,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 848,
+            "text": "Edinburgh",
+            "lemma": "Edinburgh"
+        },
+        {
+            "id": 849,
+            "text": "ended",
+            "lemma": "end"
+        },
+        {
+            "id": 850,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 851,
+            "text": "stalemate",
+            "lemma": "stalemate"
+        },
+        {
+            "id": 852,
+            "text": ".",
+            "lemma": "."
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Nicola",
+            "lemma": "Nicola",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "Sturgeon",
+            "lemma": "Sturgeon",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "has",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 3,
+            "text": "described",
+            "lemma": "describe",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "UK",
+            "lemma": "UK",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "government",
+            "lemma": "government",
+            "spans": [
+                2,
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "'s",
+            "lemma": "'s",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "plan",
+            "lemma": "plan",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "for",
+            "lemma": "for",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "Brexit",
+            "lemma": "Brexit",
+            "spans": [
+                2,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "as",
+            "lemma": "as",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "nonsensical",
+            "lemma": "nonsensical",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "and",
+            "lemma": "and",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "ridiculous",
+            "lemma": "ridiculous",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 2,
+            "qaIds": [
+                0
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 0
+        },
+        {
+            "start": 3,
+            "end": 4,
+            "qaIds": [
+                0,
+                1
+            ],
+            "predicate": true,
+            "similars": [],
+            "id": 1
+        },
+        {
+            "start": 4,
+            "end": 19,
+            "qaIds": [
+                1
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 2
+        },
+        {
+            "start": 4,
+            "end": 7,
+            "qaIds": [
+                2
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 3
+        },
+        {
+            "start": 6,
+            "end": 7,
+            "qaIds": [
+                2,
+                3
+            ],
+            "predicate": true,
+            "similars": [],
+            "id": 4
+        },
+        {
+            "start": 10,
+            "end": 11,
+            "qaIds": [
+                3
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 5
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "described",
+            "questionId": 0,
+            "question": "who described something ?",
+            "answer": "Nicola Sturgeon",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                15
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                2
+            ],
+            "answerId": "0-2",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "described",
+            "questionId": 1,
+            "question": "what did someone describe ?",
+            "answer": "the UK government's plan for Brexit as \"nonsensical\" and \"ridiculous\"",
+            "answerStartChar": [
+                30
+            ],
+            "answerEndChar": [
+                99
+            ],
+            "answerStartToken": [
+                4
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "4-19",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "6-7",
+            "predicate": "government's",
+            "questionId": 0,
+            "question": "who planned something ?",
+            "answer": "the UK government",
+            "answerStartChar": [
+                30
+            ],
+            "answerEndChar": [
+                47
+            ],
+            "answerStartToken": [
+                4
+            ],
+            "answerEndToken": [
+                7
+            ],
+            "answerId": "4-7",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "6-7",
+            "predicate": "government's",
+            "questionId": 1,
+            "question": "what did someone do ?",
+            "answer": "Brexit",
+            "answerStartChar": [
+                59
+            ],
+            "answerEndChar": [
+                65
+            ],
+            "answerStartToken": [
+                10
+            ],
+            "answerEndToken": [
+                11
+            ],
+            "answerId": "10-11",
+            "id": 3
+        }
+    ],
+    "datasource": "xsum",
+    "summaryId": "40934980"
+}

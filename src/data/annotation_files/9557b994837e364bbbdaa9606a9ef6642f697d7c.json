@@ -1,0 +1,2958 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "A",
+            "lemma": "a"
+        },
+        {
+            "id": 1,
+            "text": "Native",
+            "lemma": "native"
+        },
+        {
+            "id": 2,
+            "text": "American",
+            "lemma": "american"
+        },
+        {
+            "id": 3,
+            "text": "woman",
+            "lemma": "woman"
+        },
+        {
+            "id": 4,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 5,
+            "text": "accused",
+            "lemma": "accuse"
+        },
+        {
+            "id": 6,
+            "text": "Facebook",
+            "lemma": "Facebook"
+        },
+        {
+            "id": 7,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 8,
+            "text": "being",
+            "lemma": "be"
+        },
+        {
+            "id": 9,
+            "text": "discriminatory",
+            "lemma": "discriminatory"
+        },
+        {
+            "id": 10,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 11,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 12,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 13,
+            "text": "prevented",
+            "lemma": "prevent"
+        },
+        {
+            "id": 14,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 15,
+            "text": "continuing",
+            "lemma": "continue"
+        },
+        {
+            "id": 16,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 17,
+            "text": "use",
+            "lemma": "use"
+        },
+        {
+            "id": 18,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 19,
+            "text": "unusual",
+            "lemma": "unusual"
+        },
+        {
+            "id": 20,
+            "text": "name",
+            "lemma": "name"
+        },
+        {
+            "id": 21,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 22,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 23,
+            "text": "social",
+            "lemma": "social"
+        },
+        {
+            "id": 24,
+            "text": "media",
+            "lemma": "medium"
+        },
+        {
+            "id": 25,
+            "text": "platform",
+            "lemma": "platform"
+        },
+        {
+            "id": 26,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 27,
+            "text": "Brenna",
+            "lemma": "Brenna"
+        },
+        {
+            "id": 28,
+            "text": "Happy",
+            "lemma": "Happy"
+        },
+        {
+            "id": 29,
+            "text": "Cloud",
+            "lemma": "Cloud"
+        },
+        {
+            "id": 30,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 31,
+            "text": "Salem",
+            "lemma": "Salem"
+        },
+        {
+            "id": 32,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 33,
+            "text": "Oregon",
+            "lemma": "Oregon"
+        },
+        {
+            "id": 34,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 35,
+            "text": "found",
+            "lemma": "find"
+        },
+        {
+            "id": 36,
+            "text": "herself",
+            "lemma": "herself"
+        },
+        {
+            "id": 37,
+            "text": "locked",
+            "lemma": "lock"
+        },
+        {
+            "id": 38,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 39,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 40,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 41,
+            "text": "Facebook",
+            "lemma": "Facebook"
+        },
+        {
+            "id": 42,
+            "text": "account",
+            "lemma": "account"
+        },
+        {
+            "id": 43,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 44,
+            "text": "week",
+            "lemma": "week"
+        },
+        {
+            "id": 45,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 46,
+            "text": "For",
+            "lemma": "for"
+        },
+        {
+            "id": 47,
+            "text": "five",
+            "lemma": "five"
+        },
+        {
+            "id": 48,
+            "text": "days",
+            "lemma": "day"
+        },
+        {
+            "id": 49,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 50,
+            "text": "received",
+            "lemma": "receive"
+        },
+        {
+            "id": 51,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 52,
+            "text": "same",
+            "lemma": "same"
+        },
+        {
+            "id": 53,
+            "text": "message",
+            "lemma": "message"
+        },
+        {
+            "id": 54,
+            "text": "every",
+            "lemma": "every"
+        },
+        {
+            "id": 55,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 56,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 57,
+            "text": "attempted",
+            "lemma": "attempt"
+        },
+        {
+            "id": 58,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 59,
+            "text": "logged",
+            "lemma": "logged"
+        },
+        {
+            "id": 60,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 61,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 62,
+            "text": "Brenna",
+            "lemma": "Brenna"
+        },
+        {
+            "id": 63,
+            "text": "Happy",
+            "lemma": "Happy"
+        },
+        {
+            "id": 64,
+            "text": "Cloud",
+            "lemma": "Cloud"
+        },
+        {
+            "id": 65,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 66,
+            "text": "Salem",
+            "lemma": "Salem"
+        },
+        {
+            "id": 67,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 68,
+            "text": "Oregon",
+            "lemma": "Oregon"
+        },
+        {
+            "id": 69,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 70,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 71,
+            "text": "accused",
+            "lemma": "accuse"
+        },
+        {
+            "id": 72,
+            "text": "Facebook",
+            "lemma": "Facebook"
+        },
+        {
+            "id": 73,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 74,
+            "text": "discrimination",
+            "lemma": "discrimination"
+        },
+        {
+            "id": 75,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 76,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 77,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 78,
+            "text": "prevented",
+            "lemma": "prevent"
+        },
+        {
+            "id": 79,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 80,
+            "text": "continuing",
+            "lemma": "continue"
+        },
+        {
+            "id": 81,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 82,
+            "text": "use",
+            "lemma": "use"
+        },
+        {
+            "id": 83,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 84,
+            "text": "unusual",
+            "lemma": "unusual"
+        },
+        {
+            "id": 85,
+            "text": "name",
+            "lemma": "name"
+        },
+        {
+            "id": 86,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 87,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 88,
+            "text": "locked",
+            "lemma": "lock"
+        },
+        {
+            "id": 89,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 90,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 91,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 92,
+            "text": "account",
+            "lemma": "account"
+        },
+        {
+            "id": 93,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 94,
+            "text": "With",
+            "lemma": "with"
+        },
+        {
+            "id": 95,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 96,
+            "text": "access",
+            "lemma": "access"
+        },
+        {
+            "id": 97,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 98,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 99,
+            "text": "contacts",
+            "lemma": "contact"
+        },
+        {
+            "id": 100,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 101,
+            "text": "photos",
+            "lemma": "photo"
+        },
+        {
+            "id": 102,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 103,
+            "text": "messages",
+            "lemma": "message"
+        },
+        {
+            "id": 104,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 105,
+            "text": "Happy",
+            "lemma": "Happy"
+        },
+        {
+            "id": 106,
+            "text": "Cloud",
+            "lemma": "Cloud"
+        },
+        {
+            "id": 107,
+            "text": "admits",
+            "lemma": "admit"
+        },
+        {
+            "id": 108,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 109,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 110,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 111,
+            "text": "difficult",
+            "lemma": "difficult"
+        },
+        {
+            "id": 112,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 113,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 114,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 115,
+            "text": "typically",
+            "lemma": "typically"
+        },
+        {
+            "id": 116,
+            "text": "posts",
+            "lemma": "post"
+        },
+        {
+            "id": 117,
+            "text": "five",
+            "lemma": "five"
+        },
+        {
+            "id": 118,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 119,
+            "text": "six",
+            "lemma": "six"
+        },
+        {
+            "id": 120,
+            "text": "times",
+            "lemma": "time"
+        },
+        {
+            "id": 121,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 122,
+            "text": "day",
+            "lemma": "day"
+        },
+        {
+            "id": 123,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 124,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 125,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 126,
+            "text": "large",
+            "lemma": "large"
+        },
+        {
+            "id": 127,
+            "text": "network",
+            "lemma": "network"
+        },
+        {
+            "id": 128,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 129,
+            "text": "more",
+            "lemma": "more"
+        },
+        {
+            "id": 130,
+            "text": "than",
+            "lemma": "than"
+        },
+        {
+            "id": 131,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 132,
+            "text": "thousand",
+            "lemma": "thousand"
+        },
+        {
+            "id": 133,
+            "text": "online",
+            "lemma": "online"
+        },
+        {
+            "id": 134,
+            "text": "friends",
+            "lemma": "friend"
+        },
+        {
+            "id": 135,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 136,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 137,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 138,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 139,
+            "text": "gone",
+            "lemma": "go"
+        },
+        {
+            "id": 140,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 141,
+            "text": "And",
+            "lemma": "and"
+        },
+        {
+            "id": 142,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 143,
+            "text": "world",
+            "lemma": "world"
+        },
+        {
+            "id": 144,
+            "text": "did",
+            "lemma": "do"
+        },
+        {
+            "id": 145,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 146,
+            "text": "know",
+            "lemma": "know"
+        },
+        {
+            "id": 147,
+            "text": "where",
+            "lemma": "where"
+        },
+        {
+            "id": 148,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 149,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 150,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 151,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 152,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 153,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 154,
+            "text": "Fox12",
+            "lemma": "Fox12"
+        },
+        {
+            "id": 155,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 156,
+            "text": "Facebook",
+            "lemma": "Facebook"
+        },
+        {
+            "id": 157,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 158,
+            "text": "helpdesk",
+            "lemma": "helpdesk"
+        },
+        {
+            "id": 159,
+            "text": "eventually",
+            "lemma": "eventually"
+        },
+        {
+            "id": 160,
+            "text": "contacted",
+            "lemma": "contact"
+        },
+        {
+            "id": 161,
+            "text": "Happy",
+            "lemma": "Happy"
+        },
+        {
+            "id": 162,
+            "text": "Cloud",
+            "lemma": "Cloud"
+        },
+        {
+            "id": 163,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 164,
+            "text": "asked",
+            "lemma": "ask"
+        },
+        {
+            "id": 165,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 166,
+            "text": "proof",
+            "lemma": "proof"
+        },
+        {
+            "id": 167,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 168,
+            "text": "identity",
+            "lemma": "identity"
+        },
+        {
+            "id": 169,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 170,
+            "text": "even",
+            "lemma": "even"
+        },
+        {
+            "id": 171,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 172,
+            "text": "copy",
+            "lemma": "copy"
+        },
+        {
+            "id": 173,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 174,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 175,
+            "text": "social",
+            "lemma": "social"
+        },
+        {
+            "id": 176,
+            "text": "security",
+            "lemma": "security"
+        },
+        {
+            "id": 177,
+            "text": "card",
+            "lemma": "card"
+        },
+        {
+            "id": 178,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 179,
+            "text": "In",
+            "lemma": "in"
+        },
+        {
+            "id": 180,
+            "text": "order",
+            "lemma": "order"
+        },
+        {
+            "id": 181,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 182,
+            "text": "get",
+            "lemma": "get"
+        },
+        {
+            "id": 183,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 184,
+            "text": "account",
+            "lemma": "account"
+        },
+        {
+            "id": 185,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 186,
+            "text": "online",
+            "lemma": "online"
+        },
+        {
+            "id": 187,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 188,
+            "text": "Happy",
+            "lemma": "Happy"
+        },
+        {
+            "id": 189,
+            "text": "Cloud",
+            "lemma": "Cloud"
+        },
+        {
+            "id": 190,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 191,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 192,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 193,
+            "text": "change",
+            "lemma": "change"
+        },
+        {
+            "id": 194,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 195,
+            "text": "screen",
+            "lemma": "screen"
+        },
+        {
+            "id": 196,
+            "text": "name",
+            "lemma": "name"
+        },
+        {
+            "id": 197,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 198,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 199,
+            "text": "married",
+            "lemma": "married"
+        },
+        {
+            "id": 200,
+            "text": "name",
+            "lemma": "name"
+        },
+        {
+            "id": 201,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 202,
+            "text": "Rojas",
+            "lemma": "Rojas"
+        },
+        {
+            "id": 203,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 204,
+            "text": "even",
+            "lemma": "even"
+        },
+        {
+            "id": 205,
+            "text": "though",
+            "lemma": "though"
+        },
+        {
+            "id": 206,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 207,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 208,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 209,
+            "text": "longer",
+            "lemma": "long"
+        },
+        {
+            "id": 210,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 211,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 212,
+            "text": "husband",
+            "lemma": "husband"
+        },
+        {
+            "id": 213,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 214,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 215,
+            "text": "Other",
+            "lemma": "other"
+        },
+        {
+            "id": 216,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 217,
+            "text": "can",
+            "lemma": "can"
+        },
+        {
+            "id": 218,
+            "text": "use",
+            "lemma": "use"
+        },
+        {
+            "id": 219,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 220,
+            "text": "nicknames",
+            "lemma": "nickname"
+        },
+        {
+            "id": 221,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 222,
+            "text": "inappropriate",
+            "lemma": "inappropriate"
+        },
+        {
+            "id": 223,
+            "text": "names",
+            "lemma": "name"
+        },
+        {
+            "id": 224,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 225,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 226,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 227,
+            "text": "ca",
+            "lemma": "can"
+        },
+        {
+            "id": 228,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 229,
+            "text": "use",
+            "lemma": "use"
+        },
+        {
+            "id": 230,
+            "text": "my",
+            "lemma": "my"
+        },
+        {
+            "id": 231,
+            "text": "real",
+            "lemma": "real"
+        },
+        {
+            "id": 232,
+            "text": "name",
+            "lemma": "name"
+        },
+        {
+            "id": 233,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 234,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 235,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 236,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 237,
+            "text": "Fox",
+            "lemma": "Fox"
+        },
+        {
+            "id": 238,
+            "text": "12",
+            "lemma": "12"
+        },
+        {
+            "id": 239,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 240,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 241,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 242,
+            "text": "kind",
+            "lemma": "kind"
+        },
+        {
+            "id": 243,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 244,
+            "text": "hurts",
+            "lemma": "hurt"
+        },
+        {
+            "id": 245,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 246,
+            "text": "little",
+            "lemma": "little"
+        },
+        {
+            "id": 247,
+            "text": "bit",
+            "lemma": "bit"
+        },
+        {
+            "id": 248,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 249,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 250,
+            "text": "Happy",
+            "lemma": "Happy"
+        },
+        {
+            "id": 251,
+            "text": "Cloud",
+            "lemma": "Cloud"
+        },
+        {
+            "id": 252,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 253,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 254,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 255,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 256,
+            "text": "believes",
+            "lemma": "believe"
+        },
+        {
+            "id": 257,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 258,
+            "text": "Native",
+            "lemma": "native"
+        },
+        {
+            "id": 259,
+            "text": "American",
+            "lemma": "american"
+        },
+        {
+            "id": 260,
+            "text": "heritage",
+            "lemma": "heritage"
+        },
+        {
+            "id": 261,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 262,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 263,
+            "text": "undermined",
+            "lemma": "undermine"
+        },
+        {
+            "id": 264,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 265,
+            "text": "Facebook",
+            "lemma": "Facebook"
+        },
+        {
+            "id": 266,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 267,
+            "text": "discriminatory",
+            "lemma": "discriminatory"
+        },
+        {
+            "id": 268,
+            "text": "policies",
+            "lemma": "policy"
+        },
+        {
+            "id": 269,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 270,
+            "text": "Happy",
+            "lemma": "happy"
+        },
+        {
+            "id": 271,
+            "text": "Cloud",
+            "lemma": "Cloud"
+        },
+        {
+            "id": 272,
+            "text": "believes",
+            "lemma": "believe"
+        },
+        {
+            "id": 273,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 274,
+            "text": "Native",
+            "lemma": "native"
+        },
+        {
+            "id": 275,
+            "text": "American",
+            "lemma": "american"
+        },
+        {
+            "id": 276,
+            "text": "heritage",
+            "lemma": "heritage"
+        },
+        {
+            "id": 277,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 278,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 279,
+            "text": "undermined",
+            "lemma": "undermine"
+        },
+        {
+            "id": 280,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 281,
+            "text": "Facebook",
+            "lemma": "Facebook"
+        },
+        {
+            "id": 282,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 283,
+            "text": "discriminatory",
+            "lemma": "discriminatory"
+        },
+        {
+            "id": 284,
+            "text": "policies",
+            "lemma": "policy"
+        },
+        {
+            "id": 285,
+            "text": ".",
+            "lemma": "."
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Brenna",
+            "lemma": "Brenna",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "Happy",
+            "lemma": "Happy",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "Cloud",
+            "lemma": "Cloud",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "of",
+            "lemma": "of",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "Salem",
+            "lemma": "Salem",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "Oregon",
+            "lemma": "Oregon",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "has",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 9,
+            "text": "accused",
+            "lemma": "accuse",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 10,
+            "text": "Facebook",
+            "lemma": "Facebook",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "of",
+            "lemma": "of",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 12,
+            "text": "discrimination",
+            "lemma": "discrimination",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "after",
+            "lemma": "after",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "she",
+            "lemma": "she",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "was",
+            "lemma": "be",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "prevented",
+            "lemma": "prevent",
+            "spans": [
+                4,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "from",
+            "lemma": "from",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "continuing",
+            "lemma": "continue",
+            "spans": [
+                4,
+                7,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": "to",
+            "lemma": "to",
+            "spans": [
+                4,
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 20,
+            "text": "use",
+            "lemma": "use",
+            "spans": [
+                4,
+                7,
+                9,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 21,
+            "text": "her",
+            "lemma": "her",
+            "spans": [
+                4,
+                7,
+                9,
+                10,
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 22,
+            "text": "unusual",
+            "lemma": "unusual",
+            "spans": [
+                4,
+                7,
+                9,
+                10,
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 23,
+            "text": "name",
+            "lemma": "name",
+            "spans": [
+                4,
+                7,
+                9,
+                10,
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 24,
+            "text": "on",
+            "lemma": "on",
+            "spans": [
+                4,
+                7,
+                10,
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 25,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                4,
+                7,
+                10,
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 26,
+            "text": "social",
+            "lemma": "social",
+            "spans": [
+                4,
+                7,
+                10,
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 27,
+            "text": "media",
+            "lemma": "medium",
+            "spans": [
+                4,
+                7,
+                10,
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 28,
+            "text": "platform",
+            "lemma": "platform",
+            "spans": [
+                4,
+                7,
+                10,
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 29,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 30,
+            "text": "For",
+            "lemma": "for",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 31,
+            "text": "five",
+            "lemma": "five",
+            "spans": [
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 32,
+            "text": "days",
+            "lemma": "day",
+            "spans": [
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 33,
+            "text": "she",
+            "lemma": "she",
+            "spans": [
+                14
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 34,
+            "text": "received",
+            "lemma": "receive",
+            "spans": [
+                15
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 35,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 36,
+            "text": "same",
+            "lemma": "same",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 37,
+            "text": "message",
+            "lemma": "message",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 38,
+            "text": "every",
+            "lemma": "every",
+            "spans": [
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 39,
+            "text": "time",
+            "lemma": "time",
+            "spans": [
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 40,
+            "text": "she",
+            "lemma": "she",
+            "spans": [
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 41,
+            "text": "attempted",
+            "lemma": "attempt",
+            "spans": [
+                17,
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 42,
+            "text": "to",
+            "lemma": "to",
+            "spans": [
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 43,
+            "text": "logged",
+            "lemma": "logged",
+            "spans": [
+                17,
+                19,
+                20
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 44,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                17,
+                19
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 45,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 46,
+            "text": "Facebook",
+            "lemma": "Facebook",
+            "spans": [
+                21
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 47,
+            "text": "'s",
+            "lemma": "'s",
+            "spans": [
+                21
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 48,
+            "text": "helpdesk",
+            "lemma": "helpdesk",
+            "spans": [
+                21
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 49,
+            "text": "eventually",
+            "lemma": "eventually",
+            "spans": [
+                22
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 50,
+            "text": "contacted",
+            "lemma": "contact",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 51,
+            "text": "Happy",
+            "lemma": "Happy",
+            "spans": [
+                23
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 52,
+            "text": "Cloud",
+            "lemma": "Cloud",
+            "spans": [
+                23
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 53,
+            "text": "and",
+            "lemma": "and",
+            "spans": [
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 54,
+            "text": "asked",
+            "lemma": "ask",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 55,
+            "text": "for",
+            "lemma": "for",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 56,
+            "text": "proof",
+            "lemma": "proof",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 57,
+            "text": "of",
+            "lemma": "of",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 58,
+            "text": "identity",
+            "lemma": "identity",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 59,
+            "text": "and",
+            "lemma": "and",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 60,
+            "text": "even",
+            "lemma": "even",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 61,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 62,
+            "text": "copy",
+            "lemma": "copy",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 63,
+            "text": "of",
+            "lemma": "of",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 64,
+            "text": "her",
+            "lemma": "her",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 65,
+            "text": "social",
+            "lemma": "social",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 66,
+            "text": "security",
+            "lemma": "security",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 67,
+            "text": "card",
+            "lemma": "card",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 68,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 7,
+            "qaIds": [
+                0,
+                4,
+                7,
+                11
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 0
+        },
+        {
+            "start": 7,
+            "end": 8,
+            "qaIds": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "predicate": true,
+            "similars": [],
+            "id": 1
+        },
+        {
+            "start": 10,
+            "end": 11,
+            "qaIds": [
+                1
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 2
+        },
+        {
+            "start": 12,
+            "end": 13,
+            "qaIds": [
+                2
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 3
+        },
+        {
+            "start": 13,
+            "end": 29,
+            "qaIds": [
+                3
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 4
+        },
+        {
+            "start": 14,
+            "end": 15,
+            "qaIds": [
+                4,
+                5,
+                5,
+                6,
+                8
+            ],
+            "predicate": true,
+            "similars": [],
+            "id": 5
+        },
+        {
+            "start": 16,
+            "end": 17,
+            "qaIds": [
+                7,
+                8,
+                9,
+                10
+            ],
+            "predicate": true,
+            "similars": [],
+            "id": 6
+        },
+        {
+            "start": 18,
+            "end": 29,
+            "qaIds": [
+                6
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 7
+        },
+        {
+            "start": 18,
+            "end": 19,
+            "qaIds": [
+                11,
+                12,
+                13
+            ],
+            "predicate": true,
+            "similars": [],
+            "id": 8
+        },
+        {
+            "start": 20,
+            "end": 24,
+            "qaIds": [
+                9
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 9
+        },
+        {
+            "start": 20,
+            "end": 29,
+            "qaIds": [
+                10
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 10
+        },
+        {
+            "start": 21,
+            "end": 24,
+            "qaIds": [
+                12
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 11
+        },
+        {
+            "start": 24,
+            "end": 29,
+            "qaIds": [
+                13
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 12
+        },
+        {
+            "start": 31,
+            "end": 33,
+            "qaIds": [],
+            "predicate": false,
+            "similars": [],
+            "id": 13
+        },
+        {
+            "start": 33,
+            "end": 34,
+            "qaIds": [
+                14,
+                17,
+                19
+            ],
+            "predicate": false,
+            "similars": [
+                {
+                    "start": 40,
+                    "end": 41
+                }
+            ],
+            "id": 14
+        },
+        {
+            "start": 34,
+            "end": 35,
+            "qaIds": [
+                14,
+                15,
+                16
+            ],
+            "predicate": true,
+            "similars": [],
+            "id": 15
+        },
+        {
+            "start": 35,
+            "end": 38,
+            "qaIds": [
+                15
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 16
+        },
+        {
+            "start": 38,
+            "end": 45,
+            "qaIds": [
+                16
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 17
+        },
+        {
+            "start": 41,
+            "end": 42,
+            "qaIds": [
+                17,
+                18
+            ],
+            "predicate": true,
+            "similars": [],
+            "id": 18
+        },
+        {
+            "start": 43,
+            "end": 45,
+            "qaIds": [
+                18
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 19
+        },
+        {
+            "start": 43,
+            "end": 44,
+            "qaIds": [
+                19
+            ],
+            "predicate": true,
+            "similars": [],
+            "id": 20
+        },
+        {
+            "start": 46,
+            "end": 49,
+            "qaIds": [
+                20,
+                22
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 21
+        },
+        {
+            "start": 49,
+            "end": 50,
+            "qaIds": [
+                20,
+                21,
+                23
+            ],
+            "predicate": true,
+            "similars": [],
+            "id": 22
+        },
+        {
+            "start": 51,
+            "end": 53,
+            "qaIds": [
+                21,
+                24
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 23
+        },
+        {
+            "start": 53,
+            "end": 54,
+            "qaIds": [
+                22,
+                23,
+                24,
+                25
+            ],
+            "predicate": true,
+            "similars": [],
+            "id": 24
+        },
+        {
+            "start": 55,
+            "end": 68,
+            "qaIds": [
+                25
+            ],
+            "predicate": false,
+            "similars": [],
+            "id": 25
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "7-8",
+            "predicate": "accused",
+            "questionId": 0,
+            "question": "who accused someone of something ?",
+            "answer": "Brenna Happy Cloud of Salem, Oregon",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                35
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                7
+            ],
+            "answerId": "0-7",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "7-8",
+            "predicate": "accused",
+            "questionId": 1,
+            "question": "who did someone accuse of something ?",
+            "answer": "Facebook",
+            "answerStartChar": [
+                49
+            ],
+            "answerEndChar": [
+                57
+            ],
+            "answerStartToken": [
+                10
+            ],
+            "answerEndToken": [
+                11
+            ],
+            "answerId": "10-11",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "7-8",
+            "predicate": "accused",
+            "questionId": 2,
+            "question": "what did someone accus someone of ?",
+            "answer": "discrimination",
+            "answerStartChar": [
+                61
+            ],
+            "answerEndChar": [
+                75
+            ],
+            "answerStartToken": [
+                12
+            ],
+            "answerEndToken": [
+                13
+            ],
+            "answerId": "12-13",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "7-8",
+            "predicate": "accused",
+            "questionId": 3,
+            "question": "when did someone accus someone of something ?",
+            "answer": "after she was prevented from continuing to use her unusual name on the social media platform",
+            "answerStartChar": [
+                76
+            ],
+            "answerEndChar": [
+                168
+            ],
+            "answerStartToken": [
+                13
+            ],
+            "answerEndToken": [
+                29
+            ],
+            "answerId": "13-29",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "14-15",
+            "predicate": "prevented",
+            "questionId": 0,
+            "question": "who was prevented from doing something ?",
+            "answer": "Brenna Happy Cloud of Salem, Oregon",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                35
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                7
+            ],
+            "answerId": "0-7",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "14-15",
+            "predicate": "prevented",
+            "questionId": 0,
+            "question": "who was prevented from doing something ?",
+            "answer": "she",
+            "answerStartChar": [
+                82
+            ],
+            "answerEndChar": [
+                85
+            ],
+            "answerStartToken": [
+                14
+            ],
+            "answerEndToken": [
+                15
+            ],
+            "answerId": "14-15",
+            "id": 5
+        },
+        {
+            "sentId": 0,
+            "predicateId": "14-15",
+            "predicate": "prevented",
+            "questionId": 1,
+            "question": "what was someone prevented from doing ?",
+            "answer": "continuing to use her unusual name on the social media platform",
+            "answerStartChar": [
+                105
+            ],
+            "answerEndChar": [
+                168
+            ],
+            "answerStartToken": [
+                18
+            ],
+            "answerEndToken": [
+                29
+            ],
+            "answerId": "18-29",
+            "id": 6
+        },
+        {
+            "sentId": 0,
+            "predicateId": "16-17",
+            "predicate": "continuing",
+            "questionId": 0,
+            "question": "who wasn't continuing to do something ?",
+            "answer": "Brenna Happy Cloud of Salem, Oregon",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                35
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                7
+            ],
+            "answerId": "0-7",
+            "id": 7
+        },
+        {
+            "sentId": 0,
+            "predicateId": "16-17",
+            "predicate": "continuing",
+            "questionId": 0,
+            "question": "who wasn't continuing to do something ?",
+            "answer": "she",
+            "answerStartChar": [
+                82
+            ],
+            "answerEndChar": [
+                85
+            ],
+            "answerStartToken": [
+                14
+            ],
+            "answerEndToken": [
+                15
+            ],
+            "answerId": "14-15",
+            "id": 8
+        },
+        {
+            "sentId": 0,
+            "predicateId": "16-17",
+            "predicate": "continuing",
+            "questionId": 1,
+            "question": "what wasn't someone continuing to do ?",
+            "answer": "use her unusual name",
+            "answerStartChar": [
+                119
+            ],
+            "answerEndChar": [
+                139
+            ],
+            "answerStartToken": [
+                20
+            ],
+            "answerEndToken": [
+                24
+            ],
+            "answerId": "20-24",
+            "id": 9
+        },
+        {
+            "sentId": 0,
+            "predicateId": "16-17",
+            "predicate": "continuing",
+            "questionId": 1,
+            "question": "what wasn't someone continuing to do ?",
+            "answer": "use her unusual name on the social media platform",
+            "answerStartChar": [
+                119
+            ],
+            "answerEndChar": [
+                168
+            ],
+            "answerStartToken": [
+                20
+            ],
+            "answerEndToken": [
+                29
+            ],
+            "answerId": "20-29",
+            "id": 10
+        },
+        {
+            "sentId": 0,
+            "predicateId": "18-19",
+            "predicate": "use",
+            "questionId": 0,
+            "question": "who didn't use something ?",
+            "answer": "Brenna Happy Cloud of Salem, Oregon",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                35
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                7
+            ],
+            "answerId": "0-7",
+            "id": 11
+        },
+        {
+            "sentId": 0,
+            "predicateId": "18-19",
+            "predicate": "use",
+            "questionId": 1,
+            "question": "what didn't someone use ?",
+            "answer": "her unusual name",
+            "answerStartChar": [
+                123
+            ],
+            "answerEndChar": [
+                139
+            ],
+            "answerStartToken": [
+                21
+            ],
+            "answerEndToken": [
+                24
+            ],
+            "answerId": "21-24",
+            "id": 12
+        },
+        {
+            "sentId": 0,
+            "predicateId": "18-19",
+            "predicate": "use",
+            "questionId": 2,
+            "question": "where didn't someone use something ?",
+            "answer": "on the social media platform",
+            "answerStartChar": [
+                140
+            ],
+            "answerEndChar": [
+                168
+            ],
+            "answerStartToken": [
+                24
+            ],
+            "answerEndToken": [
+                29
+            ],
+            "answerId": "24-29",
+            "id": 13
+        },
+        {
+            "sentId": 1,
+            "predicateId": "34-35",
+            "predicate": "received",
+            "questionId": 0,
+            "question": "who received something ?",
+            "answer": "she",
+            "answerStartChar": [
+                184,
+                225
+            ],
+            "answerEndChar": [
+                187,
+                228
+            ],
+            "answerStartToken": [
+                33,
+                40
+            ],
+            "answerEndToken": [
+                34,
+                41
+            ],
+            "answerId": "33-34",
+            "id": 14
+        },
+        {
+            "sentId": 1,
+            "predicateId": "34-35",
+            "predicate": "received",
+            "questionId": 1,
+            "question": "what did someone receive ?",
+            "answer": "the same message",
+            "answerStartChar": [
+                197
+            ],
+            "answerEndChar": [
+                213
+            ],
+            "answerStartToken": [
+                35
+            ],
+            "answerEndToken": [
+                38
+            ],
+            "answerId": "35-38",
+            "id": 15
+        },
+        {
+            "sentId": 1,
+            "predicateId": "34-35",
+            "predicate": "received",
+            "questionId": 2,
+            "question": "when did someone logged in ?",
+            "answer": "every time she attempted to logged in",
+            "answerStartChar": [
+                214
+            ],
+            "answerEndChar": [
+                251
+            ],
+            "answerStartToken": [
+                38
+            ],
+            "answerEndToken": [
+                45
+            ],
+            "answerId": "38-45",
+            "id": 16
+        },
+        {
+            "sentId": 1,
+            "predicateId": "41-42",
+            "predicate": "attempted",
+            "questionId": 0,
+            "question": "who attempted to do something ?",
+            "answer": "she",
+            "answerStartChar": [
+                184,
+                225
+            ],
+            "answerEndChar": [
+                187,
+                228
+            ],
+            "answerStartToken": [
+                33,
+                40
+            ],
+            "answerEndToken": [
+                34,
+                41
+            ],
+            "answerId": "33-34",
+            "id": 17
+        },
+        {
+            "sentId": 1,
+            "predicateId": "41-42",
+            "predicate": "attempted",
+            "questionId": 1,
+            "question": "what did someone do ?",
+            "answer": "logged in",
+            "answerStartChar": [
+                242
+            ],
+            "answerEndChar": [
+                251
+            ],
+            "answerStartToken": [
+                43
+            ],
+            "answerEndToken": [
+                45
+            ],
+            "answerId": "43-45",
+            "id": 18
+        },
+        {
+            "sentId": 1,
+            "predicateId": "43-44",
+            "predicate": "logged",
+            "questionId": 0,
+            "question": "who logged in ?",
+            "answer": "she",
+            "answerStartChar": [
+                184,
+                225
+            ],
+            "answerEndChar": [
+                187,
+                228
+            ],
+            "answerStartToken": [
+                33,
+                40
+            ],
+            "answerEndToken": [
+                34,
+                41
+            ],
+            "answerId": "33-34",
+            "id": 19
+        },
+        {
+            "sentId": 2,
+            "predicateId": "49-50",
+            "predicate": "contacted",
+            "questionId": 0,
+            "question": "who contacted someone ?",
+            "answer": "Facebook's helpdesk",
+            "answerStartChar": [
+                253
+            ],
+            "answerEndChar": [
+                272
+            ],
+            "answerStartToken": [
+                46
+            ],
+            "answerEndToken": [
+                49
+            ],
+            "answerId": "46-49",
+            "id": 20
+        },
+        {
+            "sentId": 2,
+            "predicateId": "49-50",
+            "predicate": "contacted",
+            "questionId": 1,
+            "question": "who did someone contacted ?",
+            "answer": "Happy Cloud",
+            "answerStartChar": [
+                294
+            ],
+            "answerEndChar": [
+                305
+            ],
+            "answerStartToken": [
+                51
+            ],
+            "answerEndToken": [
+                53
+            ],
+            "answerId": "51-53",
+            "id": 21
+        },
+        {
+            "sentId": 2,
+            "predicateId": "53-54",
+            "predicate": "asked",
+            "questionId": 0,
+            "question": "who asked something ?",
+            "answer": "Facebook's helpdesk",
+            "answerStartChar": [
+                253
+            ],
+            "answerEndChar": [
+                272
+            ],
+            "answerStartToken": [
+                46
+            ],
+            "answerEndToken": [
+                49
+            ],
+            "answerId": "46-49",
+            "id": 22
+        },
+        {
+            "sentId": 2,
+            "predicateId": "53-54",
+            "predicate": "asked",
+            "questionId": 1,
+            "question": "when did someone ask something ?",
+            "answer": "eventually",
+            "answerStartChar": [
+                273
+            ],
+            "answerEndChar": [
+                283
+            ],
+            "answerStartToken": [
+                49
+            ],
+            "answerEndToken": [
+                50
+            ],
+            "answerId": "49-50",
+            "id": 23
+        },
+        {
+            "sentId": 2,
+            "predicateId": "53-54",
+            "predicate": "asked",
+            "questionId": 2,
+            "question": "who did someone ask ?",
+            "answer": "Happy Cloud",
+            "answerStartChar": [
+                294
+            ],
+            "answerEndChar": [
+                305
+            ],
+            "answerStartToken": [
+                51
+            ],
+            "answerEndToken": [
+                53
+            ],
+            "answerId": "51-53",
+            "id": 24
+        },
+        {
+            "sentId": 2,
+            "predicateId": "53-54",
+            "predicate": "asked",
+            "questionId": 3,
+            "question": "what did someone ask ?",
+            "answer": "for proof of identity and even a copy of her social security card",
+            "answerStartChar": [
+                316
+            ],
+            "answerEndChar": [
+                381
+            ],
+            "answerStartToken": [
+                55
+            ],
+            "answerEndToken": [
+                68
+            ],
+            "answerId": "55-68",
+            "id": 25
+        }
+    ],
+    "datasource": "cnn",
+    "summaryId": "9557b994837e364bbbdaa9606a9ef6642f697d7c"
+}

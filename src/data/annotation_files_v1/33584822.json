@@ -1,0 +1,2295 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "Earlier",
+            "lemma": "early"
+        },
+        {
+            "id": 1,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 2,
+            "text": "week",
+            "lemma": "week"
+        },
+        {
+            "id": 3,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 4,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 5,
+            "text": "refused",
+            "lemma": "refuse"
+        },
+        {
+            "id": 6,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 7,
+            "text": "answer",
+            "lemma": "answer"
+        },
+        {
+            "id": 8,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 9,
+            "text": "question",
+            "lemma": "question"
+        },
+        {
+            "id": 10,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 11,
+            "text": "whether",
+            "lemma": "whether"
+        },
+        {
+            "id": 12,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 13,
+            "text": "believed",
+            "lemma": "believe"
+        },
+        {
+            "id": 14,
+            "text": "homosexual",
+            "lemma": "homosexual"
+        },
+        {
+            "id": 15,
+            "text": "sex",
+            "lemma": "sex"
+        },
+        {
+            "id": 16,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 17,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 18,
+            "text": "sin",
+            "lemma": "sin"
+        },
+        {
+            "id": 19,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 20,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 21,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 22,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 23,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 24,
+            "text": "BBC",
+            "lemma": "BBC"
+        },
+        {
+            "id": 25,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 26,
+            "text": "Andrew",
+            "lemma": "Andrew"
+        },
+        {
+            "id": 27,
+            "text": "Marr",
+            "lemma": "Marr"
+        },
+        {
+            "id": 28,
+            "text": "Show",
+            "lemma": "Show"
+        },
+        {
+            "id": 29,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 30,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 31,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 32,
+            "text": "passionate",
+            "lemma": "passionate"
+        },
+        {
+            "id": 33,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 34,
+            "text": "LGBT",
+            "lemma": "LGBT"
+        },
+        {
+            "id": 35,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 36,
+            "text": "plus",
+            "lemma": "plus"
+        },
+        {
+            "id": 37,
+            "text": "rights",
+            "lemma": "right"
+        },
+        {
+            "id": 38,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 39,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 40,
+            "text": "defending",
+            "lemma": "defend"
+        },
+        {
+            "id": 41,
+            "text": "equal",
+            "lemma": "equal"
+        },
+        {
+            "id": 42,
+            "text": "marriage",
+            "lemma": "marriage"
+        },
+        {
+            "id": 43,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 44,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 45,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 46,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 47,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 48,
+            "text": "top",
+            "lemma": "top"
+        },
+        {
+            "id": 49,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 50,
+            "text": "my",
+            "lemma": "my"
+        },
+        {
+            "id": 51,
+            "text": "agenda",
+            "lemma": "agenda"
+        },
+        {
+            "id": 52,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 53,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 54,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 55,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 56,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 57,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 58,
+            "text": "wanted",
+            "lemma": "want"
+        },
+        {
+            "id": 59,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 60,
+            "text": "extend",
+            "lemma": "extend"
+        },
+        {
+            "id": 61,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 62,
+            "text": "marital",
+            "lemma": "marital"
+        },
+        {
+            "id": 63,
+            "text": "rights",
+            "lemma": "right"
+        },
+        {
+            "id": 64,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 65,
+            "text": "transgender",
+            "lemma": "transgend"
+        },
+        {
+            "id": 66,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 67,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 68,
+            "text": "Appearing",
+            "lemma": "appear"
+        },
+        {
+            "id": 69,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 70,
+            "text": "Channel",
+            "lemma": "Channel"
+        },
+        {
+            "id": 71,
+            "text": "4",
+            "lemma": "4"
+        },
+        {
+            "id": 72,
+            "text": "News",
+            "lemma": "News"
+        },
+        {
+            "id": 73,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 74,
+            "text": "Friday",
+            "lemma": "Friday"
+        },
+        {
+            "id": 75,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 76,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 77,
+            "text": "Farron",
+            "lemma": "Farron"
+        },
+        {
+            "id": 78,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 79,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 80,
+            "text": "beat",
+            "lemma": "beat"
+        },
+        {
+            "id": 81,
+            "text": "Norman",
+            "lemma": "Norman"
+        },
+        {
+            "id": 82,
+            "text": "Lamb",
+            "lemma": "Lamb"
+        },
+        {
+            "id": 83,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 84,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 85,
+            "text": "leadership",
+            "lemma": "leadership"
+        },
+        {
+            "id": 86,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 87,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 88,
+            "text": "asked",
+            "lemma": "ask"
+        },
+        {
+            "id": 89,
+            "text": "three",
+            "lemma": "three"
+        },
+        {
+            "id": 90,
+            "text": "times",
+            "lemma": "time"
+        },
+        {
+            "id": 91,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 92,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 93,
+            "text": "believed",
+            "lemma": "believe"
+        },
+        {
+            "id": 94,
+            "text": "homosexual",
+            "lemma": "homosexual"
+        },
+        {
+            "id": 95,
+            "text": "sex",
+            "lemma": "sex"
+        },
+        {
+            "id": 96,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 97,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 98,
+            "text": "sin",
+            "lemma": "sin"
+        },
+        {
+            "id": 99,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 100,
+            "text": "Each",
+            "lemma": "each"
+        },
+        {
+            "id": 101,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 102,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 103,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 104,
+            "text": "refused",
+            "lemma": "refuse"
+        },
+        {
+            "id": 105,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 106,
+            "text": "give",
+            "lemma": "give"
+        },
+        {
+            "id": 107,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 108,
+            "text": "direct",
+            "lemma": "direct"
+        },
+        {
+            "id": 109,
+            "text": "answer",
+            "lemma": "answer"
+        },
+        {
+            "id": 110,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 111,
+            "text": "instead",
+            "lemma": "instead"
+        },
+        {
+            "id": 112,
+            "text": "choosing",
+            "lemma": "choose"
+        },
+        {
+            "id": 113,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 114,
+            "text": "say",
+            "lemma": "say"
+        },
+        {
+            "id": 115,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 116,
+            "text": "my",
+            "lemma": "my"
+        },
+        {
+            "id": 117,
+            "text": "firm",
+            "lemma": "firm"
+        },
+        {
+            "id": 118,
+            "text": "belief",
+            "lemma": "belief"
+        },
+        {
+            "id": 119,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 120,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 121,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 122,
+            "text": "all",
+            "lemma": "all"
+        },
+        {
+            "id": 123,
+            "text": "sinners",
+            "lemma": "sinner"
+        },
+        {
+            "id": 124,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 125,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 126,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 127,
+            "text": "Farron",
+            "lemma": "Farron"
+        },
+        {
+            "id": 128,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 129,
+            "text": "asked",
+            "lemma": "ask"
+        },
+        {
+            "id": 130,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 131,
+            "text": "Andrew",
+            "lemma": "Andrew"
+        },
+        {
+            "id": 132,
+            "text": "Marr",
+            "lemma": "Marr"
+        },
+        {
+            "id": 133,
+            "text": "why",
+            "lemma": "why"
+        },
+        {
+            "id": 134,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 135,
+            "text": "voted",
+            "lemma": "vote"
+        },
+        {
+            "id": 136,
+            "text": "against",
+            "lemma": "against"
+        },
+        {
+            "id": 137,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 138,
+            "text": "Equality",
+            "lemma": "Equality"
+        },
+        {
+            "id": 139,
+            "text": "Bill",
+            "lemma": "Bill"
+        },
+        {
+            "id": 140,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 141,
+            "text": "2007",
+            "lemma": "2007"
+        },
+        {
+            "id": 142,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 143,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 144,
+            "text": "law",
+            "lemma": "law"
+        },
+        {
+            "id": 145,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 146,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 147,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 148,
+            "text": "made",
+            "lemma": "make"
+        },
+        {
+            "id": 149,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 150,
+            "text": "harder",
+            "lemma": "hard"
+        },
+        {
+            "id": 151,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 152,
+            "text": "businesses",
+            "lemma": "business"
+        },
+        {
+            "id": 153,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 154,
+            "text": "discriminate",
+            "lemma": "discriminate"
+        },
+        {
+            "id": 155,
+            "text": "against",
+            "lemma": "against"
+        },
+        {
+            "id": 156,
+            "text": "gay",
+            "lemma": "gay"
+        },
+        {
+            "id": 157,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 158,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 159,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 160,
+            "text": "Let",
+            "lemma": "let"
+        },
+        {
+            "id": 161,
+            "text": "me",
+            "lemma": "I"
+        },
+        {
+            "id": 162,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 163,
+            "text": "crystal",
+            "lemma": "crystal"
+        },
+        {
+            "id": 164,
+            "text": "clear",
+            "lemma": "clear"
+        },
+        {
+            "id": 165,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 166,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 167,
+            "text": "'m",
+            "lemma": "be"
+        },
+        {
+            "id": 168,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 169,
+            "text": "liberal",
+            "lemma": "liberal"
+        },
+        {
+            "id": 170,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 171,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 172,
+            "text": "absolutely",
+            "lemma": "absolutely"
+        },
+        {
+            "id": 173,
+            "text": "support",
+            "lemma": "support"
+        },
+        {
+            "id": 174,
+            "text": "equality",
+            "lemma": "equality"
+        },
+        {
+            "id": 175,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 176,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 177,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 178,
+            "text": "replied",
+            "lemma": "reply"
+        },
+        {
+            "id": 179,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 180,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 181,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 182,
+            "text": "'m",
+            "lemma": "be"
+        },
+        {
+            "id": 183,
+            "text": "passionate",
+            "lemma": "passionate"
+        },
+        {
+            "id": 184,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 185,
+            "text": "LGBT",
+            "lemma": "LGBT"
+        },
+        {
+            "id": 186,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 187,
+            "text": "plus",
+            "lemma": "plus"
+        },
+        {
+            "id": 188,
+            "text": "rights",
+            "lemma": "right"
+        },
+        {
+            "id": 189,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 190,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 191,
+            "text": "example",
+            "lemma": "example"
+        },
+        {
+            "id": 192,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 193,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 194,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 195,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 196,
+            "text": "leader",
+            "lemma": "leader"
+        },
+        {
+            "id": 197,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 198,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 199,
+            "text": "liberal",
+            "lemma": "liberal"
+        },
+        {
+            "id": 200,
+            "text": "party",
+            "lemma": "party"
+        },
+        {
+            "id": 201,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 202,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 203,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 204,
+            "text": "something",
+            "lemma": "something"
+        },
+        {
+            "id": 205,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 206,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 207,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 208,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 209,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 210,
+            "text": "top",
+            "lemma": "top"
+        },
+        {
+            "id": 211,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 212,
+            "text": "my",
+            "lemma": "my"
+        },
+        {
+            "id": 213,
+            "text": "agenda",
+            "lemma": "agenda"
+        },
+        {
+            "id": 214,
+            "text": "throughout",
+            "lemma": "throughout"
+        },
+        {
+            "id": 215,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 216,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 217,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 218,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 219,
+            "text": "am",
+            "lemma": "be"
+        },
+        {
+            "id": 220,
+            "text": "leader",
+            "lemma": "leader"
+        },
+        {
+            "id": 221,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 222,
+            "text": "our",
+            "lemma": "our"
+        },
+        {
+            "id": 223,
+            "text": "party",
+            "lemma": "party"
+        },
+        {
+            "id": 224,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 225,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 226,
+            "text": "Not",
+            "lemma": "not"
+        },
+        {
+            "id": 227,
+            "text": "just",
+            "lemma": "just"
+        },
+        {
+            "id": 228,
+            "text": "defending",
+            "lemma": "defend"
+        },
+        {
+            "id": 229,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 230,
+            "text": "law",
+            "lemma": "law"
+        },
+        {
+            "id": 231,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 232,
+            "text": "equal",
+            "lemma": "equal"
+        },
+        {
+            "id": 233,
+            "text": "marriage",
+            "lemma": "marriage"
+        },
+        {
+            "id": 234,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 235,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 236,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 237,
+            "text": "saying",
+            "lemma": "say"
+        },
+        {
+            "id": 238,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 239,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 240,
+            "text": "areas",
+            "lemma": "area"
+        },
+        {
+            "id": 241,
+            "text": "where",
+            "lemma": "where"
+        },
+        {
+            "id": 242,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 243,
+            "text": "needs",
+            "lemma": "need"
+        },
+        {
+            "id": 244,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 245,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 246,
+            "text": "extended",
+            "lemma": "extend"
+        },
+        {
+            "id": 247,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 248,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 249,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 250,
+            "text": "Farron",
+            "lemma": "Farron"
+        },
+        {
+            "id": 251,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 252,
+            "text": "transgender",
+            "lemma": "transgend"
+        },
+        {
+            "id": 253,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 254,
+            "text": "currently",
+            "lemma": "currently"
+        },
+        {
+            "id": 255,
+            "text": "did",
+            "lemma": "do"
+        },
+        {
+            "id": 256,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 257,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 258,
+            "text": "equal",
+            "lemma": "equal"
+        },
+        {
+            "id": 259,
+            "text": "access",
+            "lemma": "access"
+        },
+        {
+            "id": 260,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 261,
+            "text": "marriage",
+            "lemma": "marriage"
+        },
+        {
+            "id": 262,
+            "text": "due",
+            "lemma": "due"
+        },
+        {
+            "id": 263,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 264,
+            "text": "something",
+            "lemma": "something"
+        },
+        {
+            "id": 265,
+            "text": "known",
+            "lemma": "know"
+        },
+        {
+            "id": 266,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 267,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 268,
+            "text": "spousal",
+            "lemma": "spousal"
+        },
+        {
+            "id": 269,
+            "text": "veto",
+            "lemma": "veto"
+        },
+        {
+            "id": 270,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 271,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 272,
+            "text": "means",
+            "lemma": "mean"
+        },
+        {
+            "id": 273,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 274,
+            "text": "husband",
+            "lemma": "husband"
+        },
+        {
+            "id": 275,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 276,
+            "text": "wife",
+            "lemma": "wife"
+        },
+        {
+            "id": 277,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 278,
+            "text": "someone",
+            "lemma": "someone"
+        },
+        {
+            "id": 279,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 280,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 281,
+            "text": "changed",
+            "lemma": "change"
+        },
+        {
+            "id": 282,
+            "text": "gender",
+            "lemma": "gender"
+        },
+        {
+            "id": 283,
+            "text": "must",
+            "lemma": "must"
+        },
+        {
+            "id": 284,
+            "text": "give",
+            "lemma": "give"
+        },
+        {
+            "id": 285,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 286,
+            "text": "consent",
+            "lemma": "consent"
+        },
+        {
+            "id": 287,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 288,
+            "text": "order",
+            "lemma": "order"
+        },
+        {
+            "id": 289,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 290,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 291,
+            "text": "marriage",
+            "lemma": "marriage"
+        },
+        {
+            "id": 292,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 293,
+            "text": "continue",
+            "lemma": "continue"
+        },
+        {
+            "id": 294,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 295,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 296,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 297,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 298,
+            "text": "Lib",
+            "lemma": "Lib"
+        },
+        {
+            "id": 299,
+            "text": "Dems",
+            "lemma": "Dems"
+        },
+        {
+            "id": 300,
+            "text": "tabled",
+            "lemma": "table"
+        },
+        {
+            "id": 301,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 302,
+            "text": "amendment",
+            "lemma": "amendment"
+        },
+        {
+            "id": 303,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 304,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 305,
+            "text": "Equality",
+            "lemma": "Equality"
+        },
+        {
+            "id": 306,
+            "text": "Bill",
+            "lemma": "Bill"
+        },
+        {
+            "id": 307,
+            "text": "because",
+            "lemma": "because"
+        },
+        {
+            "id": 308,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 309,
+            "text": "concerns",
+            "lemma": "concern"
+        },
+        {
+            "id": 310,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 311,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 312,
+            "text": "protection",
+            "lemma": "protection"
+        },
+        {
+            "id": 313,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 314,
+            "text": "individual",
+            "lemma": "individual"
+        },
+        {
+            "id": 315,
+            "text": "liberties",
+            "lemma": "liberty"
+        },
+        {
+            "id": 316,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 317,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 318,
+            "text": "when",
+            "lemma": "when"
+        },
+        {
+            "id": 319,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 320,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 321,
+            "text": "defeated",
+            "lemma": "defeat"
+        },
+        {
+            "id": 322,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 323,
+            "text": "voted",
+            "lemma": "vote"
+        },
+        {
+            "id": 324,
+            "text": "against",
+            "lemma": "against"
+        },
+        {
+            "id": 325,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 326,
+            "text": "bill",
+            "lemma": "bill"
+        },
+        {
+            "id": 327,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 328,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 329,
+            "text": "did",
+            "lemma": "do"
+        },
+        {
+            "id": 330,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 331,
+            "text": "answer",
+            "lemma": "answer"
+        },
+        {
+            "id": 332,
+            "text": "directly",
+            "lemma": "directly"
+        },
+        {
+            "id": 333,
+            "text": "when",
+            "lemma": "when"
+        },
+        {
+            "id": 334,
+            "text": "asked",
+            "lemma": "ask"
+        },
+        {
+            "id": 335,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 336,
+            "text": "those",
+            "lemma": "those"
+        },
+        {
+            "id": 337,
+            "text": "concerns",
+            "lemma": "concern"
+        },
+        {
+            "id": 338,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 339,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 340,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 341,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 342,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 343,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 344,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 345,
+            "text": "am",
+            "lemma": "be"
+        },
+        {
+            "id": 346,
+            "text": "absolutely",
+            "lemma": "absolutely"
+        },
+        {
+            "id": 347,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 348,
+            "text": "favour",
+            "lemma": "favour"
+        },
+        {
+            "id": 349,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 350,
+            "text": "equal",
+            "lemma": "equal"
+        },
+        {
+            "id": 351,
+            "text": "access",
+            "lemma": "access"
+        },
+        {
+            "id": 352,
+            "text": "under",
+            "lemma": "under"
+        },
+        {
+            "id": 353,
+            "text": "law",
+            "lemma": "law"
+        },
+        {
+            "id": 354,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 355,
+            "text": "all",
+            "lemma": "all"
+        },
+        {
+            "id": 356,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 357,
+            "text": "whatever",
+            "lemma": "whatever"
+        },
+        {
+            "id": 358,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 359,
+            "text": "sexuality",
+            "lemma": "sexuality"
+        },
+        {
+            "id": 360,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 361,
+            "text": "\"",
+            "lemma": "\""
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Liberal",
+            "lemma": "liberal",
+            "spans": [
+                0,
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "Democrat",
+            "lemma": "Democrat",
+            "spans": [
+                0,
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "leader",
+            "lemma": "leader",
+            "spans": [
+                1,
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "Tim",
+            "lemma": "Tim",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "Farron",
+            "lemma": "Farron",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "has",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 6,
+            "text": "said",
+            "lemma": "say",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "he",
+            "lemma": "he",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "absolutely",
+            "lemma": "absolutely",
+            "spans": [
+                5,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "support",
+            "lemma": "support",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "equality",
+            "lemma": "equality",
+            "spans": [
+                5,
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "for",
+            "lemma": "for",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "gay",
+            "lemma": "gay",
+            "spans": [
+                5,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "and",
+            "lemma": "and",
+            "spans": [
+                5,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "lesbian",
+            "lemma": "lesbian",
+            "spans": [
+                5,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "people",
+            "lemma": "people",
+            "spans": [
+                5,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 2,
+            "qaIds": [
+                0
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 0,
+            "end": 3,
+            "qaIds": [
+                3,
+                6
+            ],
+            "id": 1,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 2,
+            "end": 3,
+            "qaIds": [
+                0,
+                1
+            ],
+            "id": 2,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 3,
+            "end": 5,
+            "qaIds": [
+                1,
+                2,
+                5
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 6,
+            "end": 7,
+            "qaIds": [
+                2,
+                3,
+                4
+            ],
+            "id": 4,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 7,
+            "end": 18,
+            "qaIds": [
+                4
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 9,
+            "end": 10,
+            "qaIds": [
+                5,
+                6,
+                7,
+                8
+            ],
+            "id": 6,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 11,
+            "end": 12,
+            "qaIds": [
+                7
+            ],
+            "id": 7,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 14,
+            "end": 18,
+            "qaIds": [
+                8
+            ],
+            "id": 8,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "leader",
+            "questionId": 0,
+            "question": "what does someone leader in ?",
+            "answer": "Liberal Democrat",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                16
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                2
+            ],
+            "answerId": "0-2",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "leader",
+            "questionId": 1,
+            "question": "who supports something ?",
+            "answer": "Tim Farron",
+            "answerStartChar": [
+                24
+            ],
+            "answerEndChar": [
+                34
+            ],
+            "answerStartToken": [
+                3
+            ],
+            "answerEndToken": [
+                5
+            ],
+            "answerId": "3-5",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "6-7",
+            "predicate": "said",
+            "questionId": 0,
+            "question": "who said something ?",
+            "answer": "Tim Farron",
+            "answerStartChar": [
+                24
+            ],
+            "answerEndChar": [
+                34
+            ],
+            "answerStartToken": [
+                3
+            ],
+            "answerEndToken": [
+                5
+            ],
+            "answerId": "3-5",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "6-7",
+            "predicate": "said",
+            "questionId": 0,
+            "question": "who said something ?",
+            "answer": "Liberal Democrat leader",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                23
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                3
+            ],
+            "answerId": "0-3",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "6-7",
+            "predicate": "said",
+            "questionId": 1,
+            "question": "what did someone say ?",
+            "answer": "he \"absolutely support equality\" for gay and lesbian people",
+            "answerStartChar": [
+                44
+            ],
+            "answerEndChar": [
+                103
+            ],
+            "answerStartToken": [
+                7
+            ],
+            "answerEndToken": [
+                18
+            ],
+            "answerId": "7-18",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "support",
+            "questionId": 0,
+            "question": "who supports something ?",
+            "answer": "Tim Farron",
+            "answerStartChar": [
+                24
+            ],
+            "answerEndChar": [
+                34
+            ],
+            "answerStartToken": [
+                3
+            ],
+            "answerEndToken": [
+                5
+            ],
+            "answerId": "3-5",
+            "id": 5
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "support",
+            "questionId": 0,
+            "question": "who supports something ?",
+            "answer": "Liberal Democrat leader",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                23
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                3
+            ],
+            "answerId": "0-3",
+            "id": 6
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "support",
+            "questionId": 1,
+            "question": "what does someone support ?",
+            "answer": "equality",
+            "answerStartChar": [
+                67
+            ],
+            "answerEndChar": [
+                75
+            ],
+            "answerStartToken": [
+                11
+            ],
+            "answerEndToken": [
+                12
+            ],
+            "answerId": "11-12",
+            "id": 7
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "support",
+            "questionId": 2,
+            "question": "who does someone support something for ?",
+            "answer": "gay and lesbian people",
+            "answerStartChar": [
+                81
+            ],
+            "answerEndChar": [
+                103
+            ],
+            "answerStartToken": [
+                14
+            ],
+            "answerEndToken": [
+                18
+            ],
+            "answerId": "14-18",
+            "id": 8
+        }
+    ],
+    "datasource": "xsum",
+    "summaryId": "33584822"
+}

@@ -1,0 +1,5582 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "Presidio",
+            "lemma": "Presidio"
+        },
+        {
+            "id": 1,
+            "text": "Terrace",
+            "lemma": "Terrace"
+        },
+        {
+            "id": 2,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 3,
+            "text": "now",
+            "lemma": "now"
+        },
+        {
+            "id": 4,
+            "text": "owned",
+            "lemma": "own"
+        },
+        {
+            "id": 5,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 6,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 7,
+            "text": "investors",
+            "lemma": "investor"
+        },
+        {
+            "id": 8,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 9,
+            "text": "Tina",
+            "lemma": "Tina"
+        },
+        {
+            "id": 10,
+            "text": "Lam",
+            "lemma": "Lam"
+        },
+        {
+            "id": 11,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 12,
+            "text": "Michael",
+            "lemma": "Michael"
+        },
+        {
+            "id": 13,
+            "text": "Cheng",
+            "lemma": "Cheng"
+        },
+        {
+            "id": 14,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 15,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 16,
+            "text": "snapped",
+            "lemma": "snap"
+        },
+        {
+            "id": 17,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 18,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 19,
+            "text": "private",
+            "lemma": "private"
+        },
+        {
+            "id": 20,
+            "text": "road",
+            "lemma": "road"
+        },
+        {
+            "id": 21,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 22,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 23,
+            "text": "$",
+            "lemma": "$"
+        },
+        {
+            "id": 24,
+            "text": "90,000",
+            "lemma": "90,000"
+        },
+        {
+            "id": 25,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 26,
+            "text": "\u00a3",
+            "lemma": "\u00a3"
+        },
+        {
+            "id": 27,
+            "text": "69,039",
+            "lemma": "69,039"
+        },
+        {
+            "id": 28,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 29,
+            "text": "\u20ac",
+            "lemma": "\u20ac"
+        },
+        {
+            "id": 30,
+            "text": "76,203",
+            "lemma": "76,203"
+        },
+        {
+            "id": 31,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 32,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 33,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 34,
+            "text": "street",
+            "lemma": "street"
+        },
+        {
+            "id": 35,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 36,
+            "text": "parking",
+            "lemma": "parking"
+        },
+        {
+            "id": 37,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 38,
+            "text": "pathways",
+            "lemma": "pathway"
+        },
+        {
+            "id": 39,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 40,
+            "text": "all",
+            "lemma": "all"
+        },
+        {
+            "id": 41,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 42,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 43,
+            "text": "sold",
+            "lemma": "sell"
+        },
+        {
+            "id": 44,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 45,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 46,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 47,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 48,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 49,
+            "text": "$",
+            "lemma": "$"
+        },
+        {
+            "id": 50,
+            "text": "14",
+            "lemma": "14"
+        },
+        {
+            "id": 51,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 52,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 53,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 54,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 55,
+            "text": "tax",
+            "lemma": "tax"
+        },
+        {
+            "id": 56,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 57,
+            "text": "went",
+            "lemma": "go"
+        },
+        {
+            "id": 58,
+            "text": "unpaid",
+            "lemma": "unpaid"
+        },
+        {
+            "id": 59,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 60,
+            "text": "decades",
+            "lemma": "decade"
+        },
+        {
+            "id": 61,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 62,
+            "text": "Wealthy",
+            "lemma": "wealthy"
+        },
+        {
+            "id": 63,
+            "text": "residents",
+            "lemma": "resident"
+        },
+        {
+            "id": 64,
+            "text": "say",
+            "lemma": "say"
+        },
+        {
+            "id": 65,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 66,
+            "text": "knew",
+            "lemma": "know"
+        },
+        {
+            "id": 67,
+            "text": "nothing",
+            "lemma": "nothing"
+        },
+        {
+            "id": 68,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 69,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 70,
+            "text": "sale",
+            "lemma": "sale"
+        },
+        {
+            "id": 71,
+            "text": "until",
+            "lemma": "until"
+        },
+        {
+            "id": 72,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 73,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 74,
+            "text": "done",
+            "lemma": "do"
+        },
+        {
+            "id": 75,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 76,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 77,
+            "text": "result",
+            "lemma": "result"
+        },
+        {
+            "id": 78,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 79,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 80,
+            "text": "residents",
+            "lemma": "resident"
+        },
+        {
+            "id": 81,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 82,
+            "text": "longer",
+            "lemma": "long"
+        },
+        {
+            "id": 83,
+            "text": "own",
+            "lemma": "own"
+        },
+        {
+            "id": 84,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 85,
+            "text": "road",
+            "lemma": "road"
+        },
+        {
+            "id": 86,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 87,
+            "text": "pavements",
+            "lemma": "pavement"
+        },
+        {
+            "id": 88,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 89,
+            "text": "trees",
+            "lemma": "tree"
+        },
+        {
+            "id": 90,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 91,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 92,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 93,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 94,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 95,
+            "text": "common",
+            "lemma": "common"
+        },
+        {
+            "id": 96,
+            "text": "land",
+            "lemma": "land"
+        },
+        {
+            "id": 97,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 98,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 99,
+            "text": "might",
+            "lemma": "might"
+        },
+        {
+            "id": 100,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 101,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 102,
+            "text": "pay",
+            "lemma": "pay"
+        },
+        {
+            "id": 103,
+            "text": "its",
+            "lemma": "its"
+        },
+        {
+            "id": 104,
+            "text": "new",
+            "lemma": "new"
+        },
+        {
+            "id": 105,
+            "text": "owners",
+            "lemma": "owner"
+        },
+        {
+            "id": 106,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 107,
+            "text": "parking",
+            "lemma": "parking"
+        },
+        {
+            "id": 108,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 109,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 110,
+            "text": "terrace",
+            "lemma": "terrace"
+        },
+        {
+            "id": 111,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 112,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 113,
+            "text": "oval",
+            "lemma": "oval"
+        },
+        {
+            "id": 114,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 115,
+            "text": "shaped",
+            "lemma": "shape"
+        },
+        {
+            "id": 116,
+            "text": "private",
+            "lemma": "private"
+        },
+        {
+            "id": 117,
+            "text": "compound",
+            "lemma": "compound"
+        },
+        {
+            "id": 118,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 119,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 120,
+            "text": "seen",
+            "lemma": "see"
+        },
+        {
+            "id": 121,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 122,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 123,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 124,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 125,
+            "text": "expensive",
+            "lemma": "expensive"
+        },
+        {
+            "id": 126,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 127,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 128,
+            "text": "most",
+            "lemma": "most"
+        },
+        {
+            "id": 129,
+            "text": "prestigious",
+            "lemma": "prestigious"
+        },
+        {
+            "id": 130,
+            "text": "addresses",
+            "lemma": "address"
+        },
+        {
+            "id": 131,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 132,
+            "text": "Like",
+            "lemma": "like"
+        },
+        {
+            "id": 133,
+            "text": "other",
+            "lemma": "other"
+        },
+        {
+            "id": 134,
+            "text": "US",
+            "lemma": "US"
+        },
+        {
+            "id": 135,
+            "text": "municipalities",
+            "lemma": "municipality"
+        },
+        {
+            "id": 136,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 137,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 138,
+            "text": "City",
+            "lemma": "City"
+        },
+        {
+            "id": 139,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 140,
+            "text": "San",
+            "lemma": "San"
+        },
+        {
+            "id": 141,
+            "text": "Francisco",
+            "lemma": "Francisco"
+        },
+        {
+            "id": 142,
+            "text": "regularly",
+            "lemma": "regularly"
+        },
+        {
+            "id": 143,
+            "text": "auctions",
+            "lemma": "auction"
+        },
+        {
+            "id": 144,
+            "text": "off",
+            "lemma": "off"
+        },
+        {
+            "id": 145,
+            "text": "properties",
+            "lemma": "property"
+        },
+        {
+            "id": 146,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 147,
+            "text": "owners",
+            "lemma": "owner"
+        },
+        {
+            "id": 148,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 149,
+            "text": "failed",
+            "lemma": "fail"
+        },
+        {
+            "id": 150,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 151,
+            "text": "pay",
+            "lemma": "pay"
+        },
+        {
+            "id": 152,
+            "text": "taxes",
+            "lemma": "taxis"
+        },
+        {
+            "id": 153,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 154,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 155,
+            "text": "According",
+            "lemma": "accord"
+        },
+        {
+            "id": 156,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 157,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 158,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 159,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 160,
+            "text": "website",
+            "lemma": "website"
+        },
+        {
+            "id": 161,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 162,
+            "text": "San",
+            "lemma": "San"
+        },
+        {
+            "id": 163,
+            "text": "Francisco",
+            "lemma": "Francisco"
+        },
+        {
+            "id": 164,
+            "text": "advises",
+            "lemma": "advise"
+        },
+        {
+            "id": 165,
+            "text": "bidders",
+            "lemma": "bidder"
+        },
+        {
+            "id": 166,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 167,
+            "text": "all",
+            "lemma": "all"
+        },
+        {
+            "id": 168,
+            "text": "sales",
+            "lemma": "sale"
+        },
+        {
+            "id": 169,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 170,
+            "text": "final",
+            "lemma": "final"
+        },
+        {
+            "id": 171,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 172,
+            "text": "so",
+            "lemma": "so"
+        },
+        {
+            "id": 173,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 174,
+            "text": "must",
+            "lemma": "must"
+        },
+        {
+            "id": 175,
+            "text": "thoroughly",
+            "lemma": "thoroughly"
+        },
+        {
+            "id": 176,
+            "text": "inspect",
+            "lemma": "inspect"
+        },
+        {
+            "id": 177,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 178,
+            "text": "property",
+            "lemma": "property"
+        },
+        {
+            "id": 179,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 180,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 181,
+            "text": "damage",
+            "lemma": "damage"
+        },
+        {
+            "id": 182,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 183,
+            "text": "consult",
+            "lemma": "consult"
+        },
+        {
+            "id": 184,
+            "text": "local",
+            "lemma": "local"
+        },
+        {
+            "id": 185,
+            "text": "zoning",
+            "lemma": "zoning"
+        },
+        {
+            "id": 186,
+            "text": "rules",
+            "lemma": "rule"
+        },
+        {
+            "id": 187,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 188,
+            "text": "Because",
+            "lemma": "because"
+        },
+        {
+            "id": 189,
+            "text": "maintenance",
+            "lemma": "maintenance"
+        },
+        {
+            "id": 190,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 191,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 192,
+            "text": "duty",
+            "lemma": "duty"
+        },
+        {
+            "id": 193,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 194,
+            "text": "owners",
+            "lemma": "owner"
+        },
+        {
+            "id": 195,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 196,
+            "text": "privately",
+            "lemma": "privately"
+        },
+        {
+            "id": 197,
+            "text": "owned",
+            "lemma": "own"
+        },
+        {
+            "id": 198,
+            "text": "roads",
+            "lemma": "road"
+        },
+        {
+            "id": 199,
+            "text": "can",
+            "lemma": "can"
+        },
+        {
+            "id": 200,
+            "text": "save",
+            "lemma": "save"
+        },
+        {
+            "id": 201,
+            "text": "money",
+            "lemma": "money"
+        },
+        {
+            "id": 202,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 203,
+            "text": "cities",
+            "lemma": "city"
+        },
+        {
+            "id": 204,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 205,
+            "text": "However",
+            "lemma": "however"
+        },
+        {
+            "id": 206,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 207,
+            "text": "some",
+            "lemma": "some"
+        },
+        {
+            "id": 208,
+            "text": "cities",
+            "lemma": "city"
+        },
+        {
+            "id": 209,
+            "text": "discourage",
+            "lemma": "discourage"
+        },
+        {
+            "id": 210,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 211,
+            "text": "practice",
+            "lemma": "practice"
+        },
+        {
+            "id": 212,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 213,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 214,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 215,
+            "text": "concern",
+            "lemma": "concern"
+        },
+        {
+            "id": 216,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 217,
+            "text": "private",
+            "lemma": "private"
+        },
+        {
+            "id": 218,
+            "text": "owners",
+            "lemma": "owner"
+        },
+        {
+            "id": 219,
+            "text": "might",
+            "lemma": "might"
+        },
+        {
+            "id": 220,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 221,
+            "text": "some",
+            "lemma": "some"
+        },
+        {
+            "id": 222,
+            "text": "point",
+            "lemma": "point"
+        },
+        {
+            "id": 223,
+            "text": "require",
+            "lemma": "require"
+        },
+        {
+            "id": 224,
+            "text": "taxpayer",
+            "lemma": "taxpayer"
+        },
+        {
+            "id": 225,
+            "text": "dollars",
+            "lemma": "dollar"
+        },
+        {
+            "id": 226,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 227,
+            "text": "keep",
+            "lemma": "keep"
+        },
+        {
+            "id": 228,
+            "text": "roadways",
+            "lemma": "roadway"
+        },
+        {
+            "id": 229,
+            "text": "functioning",
+            "lemma": "function"
+        },
+        {
+            "id": 230,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 231,
+            "text": "Owners",
+            "lemma": "owner"
+        },
+        {
+            "id": 232,
+            "text": "become",
+            "lemma": "become"
+        },
+        {
+            "id": 233,
+            "text": "legally",
+            "lemma": "legally"
+        },
+        {
+            "id": 234,
+            "text": "liable",
+            "lemma": "liable"
+        },
+        {
+            "id": 235,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 236,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 237,
+            "text": "accident",
+            "lemma": "accident"
+        },
+        {
+            "id": 238,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 239,
+            "text": "injury",
+            "lemma": "injury"
+        },
+        {
+            "id": 240,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 241,
+            "text": "occurs",
+            "lemma": "occur"
+        },
+        {
+            "id": 242,
+            "text": "due",
+            "lemma": "due"
+        },
+        {
+            "id": 243,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 244,
+            "text": "lax",
+            "lemma": "lax"
+        },
+        {
+            "id": 245,
+            "text": "upkeep",
+            "lemma": "upkeep"
+        },
+        {
+            "id": 246,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 247,
+            "text": "such",
+            "lemma": "such"
+        },
+        {
+            "id": 248,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 249,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 250,
+            "text": "clearing",
+            "lemma": "clear"
+        },
+        {
+            "id": 251,
+            "text": "snow",
+            "lemma": "snow"
+        },
+        {
+            "id": 252,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 253,
+            "text": "repairing",
+            "lemma": "repair"
+        },
+        {
+            "id": 254,
+            "text": "potholes",
+            "lemma": "pothole"
+        },
+        {
+            "id": 255,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 256,
+            "text": "Number",
+            "lemma": "number"
+        },
+        {
+            "id": 257,
+            "text": "24",
+            "lemma": "24"
+        },
+        {
+            "id": 258,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 259,
+            "text": "recently",
+            "lemma": "recently"
+        },
+        {
+            "id": 260,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 261,
+            "text": "sale",
+            "lemma": "sale"
+        },
+        {
+            "id": 262,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 263,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 264,
+            "text": "listed",
+            "lemma": "list"
+        },
+        {
+            "id": 265,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 266,
+            "text": "$",
+            "lemma": "$"
+        },
+        {
+            "id": 267,
+            "text": "6.5",
+            "lemma": "6.5"
+        },
+        {
+            "id": 268,
+            "text": "m.",
+            "lemma": "m."
+        },
+        {
+            "id": 269,
+            "text": "Number",
+            "lemma": "Number"
+        },
+        {
+            "id": 270,
+            "text": "26",
+            "lemma": "26"
+        },
+        {
+            "id": 271,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 272,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 273,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 274,
+            "text": "exceptional",
+            "lemma": "exceptional"
+        },
+        {
+            "id": 275,
+            "text": "residence",
+            "lemma": "residence"
+        },
+        {
+            "id": 276,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 277,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 278,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 279,
+            "text": "southern",
+            "lemma": "southern"
+        },
+        {
+            "id": 280,
+            "text": "slope",
+            "lemma": "slope"
+        },
+        {
+            "id": 281,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 282,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 283,
+            "text": "listed",
+            "lemma": "list"
+        },
+        {
+            "id": 284,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 285,
+            "text": "$",
+            "lemma": "$"
+        },
+        {
+            "id": 286,
+            "text": "14.5",
+            "lemma": "14.5"
+        },
+        {
+            "id": 287,
+            "text": "m.",
+            "lemma": "m."
+        },
+        {
+            "id": 288,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 289,
+            "text": "Among",
+            "lemma": "among"
+        },
+        {
+            "id": 290,
+            "text": "San",
+            "lemma": "San"
+        },
+        {
+            "id": 291,
+            "text": "Francisco",
+            "lemma": "Francisco"
+        },
+        {
+            "id": 292,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 293,
+            "text": "many",
+            "lemma": "many"
+        },
+        {
+            "id": 294,
+            "text": "prestigious",
+            "lemma": "prestigious"
+        },
+        {
+            "id": 295,
+            "text": "communities",
+            "lemma": "community"
+        },
+        {
+            "id": 296,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 297,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 298,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 299,
+            "text": "few",
+            "lemma": "few"
+        },
+        {
+            "id": 300,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 301,
+            "text": "offer",
+            "lemma": "offer"
+        },
+        {
+            "id": 302,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 303,
+            "text": "privilege",
+            "lemma": "privilege"
+        },
+        {
+            "id": 304,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 305,
+            "text": "privacy",
+            "lemma": "privacy"
+        },
+        {
+            "id": 306,
+            "text": "amid",
+            "lemma": "amid"
+        },
+        {
+            "id": 307,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 308,
+            "text": "magnificence",
+            "lemma": "magnificence"
+        },
+        {
+            "id": 309,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 310,
+            "text": "nature",
+            "lemma": "nature"
+        },
+        {
+            "id": 311,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 312,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 313,
+            "text": "reads",
+            "lemma": "read"
+        },
+        {
+            "id": 314,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 315,
+            "text": "blurb",
+            "lemma": "blurb"
+        },
+        {
+            "id": 316,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 317,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 318,
+            "text": "property",
+            "lemma": "property"
+        },
+        {
+            "id": 319,
+            "text": "ad",
+            "lemma": "ad"
+        },
+        {
+            "id": 320,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 321,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 322,
+            "text": "agency",
+            "lemma": "agency"
+        },
+        {
+            "id": 323,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 324,
+            "text": "keen",
+            "lemma": "keen"
+        },
+        {
+            "id": 325,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 326,
+            "text": "point",
+            "lemma": "point"
+        },
+        {
+            "id": 327,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 328,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 329,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 330,
+            "text": "stone",
+            "lemma": "stone"
+        },
+        {
+            "id": 331,
+            "text": "privacy",
+            "lemma": "privacy"
+        },
+        {
+            "id": 332,
+            "text": "walls",
+            "lemma": "wall"
+        },
+        {
+            "id": 333,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 334,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 335,
+            "text": "round",
+            "lemma": "round"
+        },
+        {
+            "id": 336,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 337,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 338,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 339,
+            "text": "clock",
+            "lemma": "clock"
+        },
+        {
+            "id": 340,
+            "text": "security",
+            "lemma": "security"
+        },
+        {
+            "id": 341,
+            "text": "guard",
+            "lemma": "guard"
+        },
+        {
+            "id": 342,
+            "text": "provide",
+            "lemma": "provide"
+        },
+        {
+            "id": 343,
+            "text": "peace",
+            "lemma": "peace"
+        },
+        {
+            "id": 344,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 345,
+            "text": "mind",
+            "lemma": "mind"
+        },
+        {
+            "id": 346,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 347,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 348,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 349,
+            "text": "despite",
+            "lemma": "despite"
+        },
+        {
+            "id": 350,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 351,
+            "text": "affluence",
+            "lemma": "affluence"
+        },
+        {
+            "id": 352,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 353,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 354,
+            "text": "neighbourhood",
+            "lemma": "neighbourhood"
+        },
+        {
+            "id": 355,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 356,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 357,
+            "text": "did",
+            "lemma": "do"
+        },
+        {
+            "id": 358,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 359,
+            "text": "pay",
+            "lemma": "pay"
+        },
+        {
+            "id": 360,
+            "text": "its",
+            "lemma": "its"
+        },
+        {
+            "id": 361,
+            "text": "taxes",
+            "lemma": "taxis"
+        },
+        {
+            "id": 362,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 363,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 364,
+            "text": "so",
+            "lemma": "so"
+        },
+        {
+            "id": 365,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 366,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 367,
+            "text": "sold",
+            "lemma": "sell"
+        },
+        {
+            "id": 368,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 369,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 370,
+            "text": "auction",
+            "lemma": "auction"
+        },
+        {
+            "id": 371,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 372,
+            "text": "defaulting",
+            "lemma": "default"
+        },
+        {
+            "id": 373,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 374,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 375,
+            "text": "$",
+            "lemma": "$"
+        },
+        {
+            "id": 376,
+            "text": "944",
+            "lemma": "944"
+        },
+        {
+            "id": 377,
+            "text": "tax",
+            "lemma": "tax"
+        },
+        {
+            "id": 378,
+            "text": "debt",
+            "lemma": "debt"
+        },
+        {
+            "id": 379,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 380,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 381,
+            "text": "auction",
+            "lemma": "auction"
+        },
+        {
+            "id": 382,
+            "text": "took",
+            "lemma": "take"
+        },
+        {
+            "id": 383,
+            "text": "place",
+            "lemma": "place"
+        },
+        {
+            "id": 384,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 385,
+            "text": "2015",
+            "lemma": "2015"
+        },
+        {
+            "id": 386,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 387,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 388,
+            "text": "San",
+            "lemma": "San"
+        },
+        {
+            "id": 389,
+            "text": "Francisco",
+            "lemma": "Francisco"
+        },
+        {
+            "id": 390,
+            "text": "Chronicle",
+            "lemma": "Chronicle"
+        },
+        {
+            "id": 391,
+            "text": "reported",
+            "lemma": "report"
+        },
+        {
+            "id": 392,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 393,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 394,
+            "text": "residents",
+            "lemma": "resident"
+        },
+        {
+            "id": 395,
+            "text": "did",
+            "lemma": "do"
+        },
+        {
+            "id": 396,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 397,
+            "text": "know",
+            "lemma": "know"
+        },
+        {
+            "id": 398,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 399,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 400,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 401,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 402,
+            "text": "took",
+            "lemma": "take"
+        },
+        {
+            "id": 403,
+            "text": "place",
+            "lemma": "place"
+        },
+        {
+            "id": 404,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 405,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 406,
+            "text": "online",
+            "lemma": "online"
+        },
+        {
+            "id": 407,
+            "text": "auction",
+            "lemma": "auction"
+        },
+        {
+            "id": 408,
+            "text": "among",
+            "lemma": "among"
+        },
+        {
+            "id": 409,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 410,
+            "text": "mix",
+            "lemma": "mix"
+        },
+        {
+            "id": 411,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 412,
+            "text": "properties",
+            "lemma": "property"
+        },
+        {
+            "id": 413,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 414,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 415,
+            "text": "We",
+            "lemma": "we"
+        },
+        {
+            "id": 416,
+            "text": "just",
+            "lemma": "just"
+        },
+        {
+            "id": 417,
+            "text": "got",
+            "lemma": "get"
+        },
+        {
+            "id": 418,
+            "text": "lucky",
+            "lemma": "lucky"
+        },
+        {
+            "id": 419,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 420,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 421,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 422,
+            "text": "Cheng",
+            "lemma": "Cheng"
+        },
+        {
+            "id": 423,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 424,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 425,
+            "text": "newspaper",
+            "lemma": "newspaper"
+        },
+        {
+            "id": 426,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 427,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 428,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 429,
+            "text": "Ms",
+            "lemma": "Ms"
+        },
+        {
+            "id": 430,
+            "text": "Lam",
+            "lemma": "Lam"
+        },
+        {
+            "id": 431,
+            "text": "outbid",
+            "lemma": "outbid"
+        },
+        {
+            "id": 432,
+            "text": "dozens",
+            "lemma": "dozen"
+        },
+        {
+            "id": 433,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 434,
+            "text": "others",
+            "lemma": "other"
+        },
+        {
+            "id": 435,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 436,
+            "text": "buy",
+            "lemma": "buy"
+        },
+        {
+            "id": 437,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 438,
+            "text": "street",
+            "lemma": "street"
+        },
+        {
+            "id": 439,
+            "text": "without",
+            "lemma": "without"
+        },
+        {
+            "id": 440,
+            "text": "seeing",
+            "lemma": "see"
+        },
+        {
+            "id": 441,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 442,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 443,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 444,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 445,
+            "text": "deciding",
+            "lemma": "decide"
+        },
+        {
+            "id": 446,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 447,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 448,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 449,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 450,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 451,
+            "text": "investment",
+            "lemma": "investment"
+        },
+        {
+            "id": 452,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 453,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 454,
+            "text": "We",
+            "lemma": "we"
+        },
+        {
+            "id": 455,
+            "text": "could",
+            "lemma": "could"
+        },
+        {
+            "id": 456,
+            "text": "charge",
+            "lemma": "charge"
+        },
+        {
+            "id": 457,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 458,
+            "text": "reasonable",
+            "lemma": "reasonable"
+        },
+        {
+            "id": 459,
+            "text": "rent",
+            "lemma": "rent"
+        },
+        {
+            "id": 460,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 461,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 462,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 463,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 464,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 465,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 466,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 467,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 468,
+            "text": "120",
+            "lemma": "120"
+        },
+        {
+            "id": 469,
+            "text": "lucrative",
+            "lemma": "lucrative"
+        },
+        {
+            "id": 470,
+            "text": "parking",
+            "lemma": "parking"
+        },
+        {
+            "id": 471,
+            "text": "spaces",
+            "lemma": "space"
+        },
+        {
+            "id": 472,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 473,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 474,
+            "text": "now",
+            "lemma": "now"
+        },
+        {
+            "id": 475,
+            "text": "own",
+            "lemma": "own"
+        },
+        {
+            "id": 476,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 477,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 478,
+            "text": "some",
+            "lemma": "some"
+        },
+        {
+            "id": 479,
+            "text": "residents",
+            "lemma": "resident"
+        },
+        {
+            "id": 480,
+            "text": "believe",
+            "lemma": "believe"
+        },
+        {
+            "id": 481,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 482,
+            "text": "new",
+            "lemma": "new"
+        },
+        {
+            "id": 483,
+            "text": "landlords",
+            "lemma": "landlord"
+        },
+        {
+            "id": 484,
+            "text": "may",
+            "lemma": "may"
+        },
+        {
+            "id": 485,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 486,
+            "text": "looking",
+            "lemma": "look"
+        },
+        {
+            "id": 487,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 488,
+            "text": "sell",
+            "lemma": "sell"
+        },
+        {
+            "id": 489,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 490,
+            "text": "street",
+            "lemma": "street"
+        },
+        {
+            "id": 491,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 492,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 493,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 494,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 495,
+            "text": "profit",
+            "lemma": "profit"
+        },
+        {
+            "id": 496,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 497,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 498,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 499,
+            "text": "locals",
+            "lemma": "local"
+        },
+        {
+            "id": 500,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 501,
+            "text": "believe",
+            "lemma": "believe"
+        },
+        {
+            "id": 502,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 503,
+            "text": "should",
+            "lemma": "should"
+        },
+        {
+            "id": 504,
+            "text": "still",
+            "lemma": "still"
+        },
+        {
+            "id": 505,
+            "text": "own",
+            "lemma": "own"
+        },
+        {
+            "id": 506,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 507,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 508,
+            "text": "You",
+            "lemma": "you"
+        },
+        {
+            "id": 509,
+            "text": "may",
+            "lemma": "may"
+        },
+        {
+            "id": 510,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 511,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 512,
+            "text": "interested",
+            "lemma": "interested"
+        },
+        {
+            "id": 513,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 514,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 515,
+            "text": "In",
+            "lemma": "in"
+        },
+        {
+            "id": 516,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 517,
+            "text": "twist",
+            "lemma": "twist"
+        },
+        {
+            "id": 518,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 519,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 520,
+            "text": "street",
+            "lemma": "street"
+        },
+        {
+            "id": 521,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 522,
+            "text": "now",
+            "lemma": "now"
+        },
+        {
+            "id": 523,
+            "text": "owned",
+            "lemma": "own"
+        },
+        {
+            "id": 524,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 525,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 526,
+            "text": "investors",
+            "lemma": "investor"
+        },
+        {
+            "id": 527,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 528,
+            "text": "Asian",
+            "lemma": "asian"
+        },
+        {
+            "id": 529,
+            "text": "origin",
+            "lemma": "origin"
+        },
+        {
+            "id": 530,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 531,
+            "text": "despite",
+            "lemma": "despite"
+        },
+        {
+            "id": 532,
+            "text": "originally",
+            "lemma": "originally"
+        },
+        {
+            "id": 533,
+            "text": "being",
+            "lemma": "be"
+        },
+        {
+            "id": 534,
+            "text": "governed",
+            "lemma": "govern"
+        },
+        {
+            "id": 535,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 536,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 537,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 538,
+            "text": "racial",
+            "lemma": "racial"
+        },
+        {
+            "id": 539,
+            "text": "covenant",
+            "lemma": "covenant"
+        },
+        {
+            "id": 540,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 541,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 542,
+            "text": "prevented",
+            "lemma": "prevent"
+        },
+        {
+            "id": 543,
+            "text": "anyone",
+            "lemma": "anyone"
+        },
+        {
+            "id": 544,
+            "text": "except",
+            "lemma": "except"
+        },
+        {
+            "id": 545,
+            "text": "Caucasian",
+            "lemma": "caucasian"
+        },
+        {
+            "id": 546,
+            "text": "whites",
+            "lemma": "white"
+        },
+        {
+            "id": 547,
+            "text": "buying",
+            "lemma": "buy"
+        },
+        {
+            "id": 548,
+            "text": "property",
+            "lemma": "property"
+        },
+        {
+            "id": 549,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 550,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 551,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 552,
+            "text": "provision",
+            "lemma": "provision"
+        },
+        {
+            "id": 553,
+            "text": "made",
+            "lemma": "make"
+        },
+        {
+            "id": 554,
+            "text": "illegal",
+            "lemma": "illegal"
+        },
+        {
+            "id": 555,
+            "text": "decades",
+            "lemma": "decade"
+        },
+        {
+            "id": 556,
+            "text": "ago",
+            "lemma": "ago"
+        },
+        {
+            "id": 557,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 558,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 559,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 560,
+            "text": "Cheng",
+            "lemma": "Cheng"
+        },
+        {
+            "id": 561,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 562,
+            "text": "originally",
+            "lemma": "originally"
+        },
+        {
+            "id": 563,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 564,
+            "text": "Taiwan",
+            "lemma": "Taiwan"
+        },
+        {
+            "id": 565,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 566,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 567,
+            "text": "Ms",
+            "lemma": "Ms"
+        },
+        {
+            "id": 568,
+            "text": "Lam",
+            "lemma": "Lam"
+        },
+        {
+            "id": 569,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 570,
+            "text": "Hong",
+            "lemma": "Hong"
+        },
+        {
+            "id": 571,
+            "text": "Kong",
+            "lemma": "Kong"
+        },
+        {
+            "id": 572,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 573,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 574,
+            "text": "Cheng",
+            "lemma": "Cheng"
+        },
+        {
+            "id": 575,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 576,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 577,
+            "text": "Mercury",
+            "lemma": "Mercury"
+        },
+        {
+            "id": 578,
+            "text": "News",
+            "lemma": "News"
+        },
+        {
+            "id": 579,
+            "text": "newspaper",
+            "lemma": "newspaper"
+        },
+        {
+            "id": 580,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 581,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 582,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 583,
+            "text": "considering",
+            "lemma": "consider"
+        },
+        {
+            "id": 584,
+            "text": "building",
+            "lemma": "build"
+        },
+        {
+            "id": 585,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 586,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 587,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 588,
+            "text": "himself",
+            "lemma": "himself"
+        },
+        {
+            "id": 589,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 590,
+            "text": "Ms",
+            "lemma": "Ms"
+        },
+        {
+            "id": 591,
+            "text": "Lam",
+            "lemma": "Lam"
+        },
+        {
+            "id": 592,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 593,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 594,
+            "text": "street",
+            "lemma": "street"
+        },
+        {
+            "id": 595,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 596,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 597,
+            "text": "land",
+            "lemma": "land"
+        },
+        {
+            "id": 598,
+            "text": "use",
+            "lemma": "use"
+        },
+        {
+            "id": 599,
+            "text": "rules",
+            "lemma": "rule"
+        },
+        {
+            "id": 600,
+            "text": "allow",
+            "lemma": "allow"
+        },
+        {
+            "id": 601,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 602,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 603,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 604,
+            "text": "now",
+            "lemma": "now"
+        },
+        {
+            "id": 605,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 606,
+            "text": "homeowners",
+            "lemma": "homeowner"
+        },
+        {
+            "id": 607,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 608,
+            "text": "asking",
+            "lemma": "ask"
+        },
+        {
+            "id": 609,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 610,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 611,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 612,
+            "text": "reverse",
+            "lemma": "reverse"
+        },
+        {
+            "id": 613,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 614,
+            "text": "sale",
+            "lemma": "sale"
+        },
+        {
+            "id": 615,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 616,
+            "text": "portraying",
+            "lemma": "portray"
+        },
+        {
+            "id": 617,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 618,
+            "text": "deal",
+            "lemma": "deal"
+        },
+        {
+            "id": 619,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 620,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 621,
+            "text": "money",
+            "lemma": "money"
+        },
+        {
+            "id": 622,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 623,
+            "text": "making",
+            "lemma": "make"
+        },
+        {
+            "id": 624,
+            "text": "ploy",
+            "lemma": "ploy"
+        },
+        {
+            "id": 625,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 626,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 627,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 628,
+            "text": "residents",
+            "lemma": "resident"
+        },
+        {
+            "id": 629,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 630,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 631,
+            "text": "heard",
+            "lemma": "hear"
+        },
+        {
+            "id": 632,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 633,
+            "text": "until",
+            "lemma": "until"
+        },
+        {
+            "id": 634,
+            "text": "May",
+            "lemma": "May"
+        },
+        {
+            "id": 635,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 636,
+            "text": "almost",
+            "lemma": "almost"
+        },
+        {
+            "id": 637,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 638,
+            "text": "years",
+            "lemma": "year"
+        },
+        {
+            "id": 639,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 640,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 641,
+            "text": "auction",
+            "lemma": "auction"
+        },
+        {
+            "id": 642,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 643,
+            "text": "Scott",
+            "lemma": "Scott"
+        },
+        {
+            "id": 644,
+            "text": "Emblidge",
+            "lemma": "Emblidge"
+        },
+        {
+            "id": 645,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 646,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 647,
+            "text": "lawyer",
+            "lemma": "lawyer"
+        },
+        {
+            "id": 648,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 649,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 650,
+            "text": "homeowners",
+            "lemma": "homeowner"
+        },
+        {
+            "id": 651,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 652,
+            "text": "association",
+            "lemma": "association"
+        },
+        {
+            "id": 653,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 654,
+            "text": "claimed",
+            "lemma": "claim"
+        },
+        {
+            "id": 655,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 656,
+            "text": "street",
+            "lemma": "street"
+        },
+        {
+            "id": 657,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 658,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 659,
+            "text": "owned",
+            "lemma": "own"
+        },
+        {
+            "id": 660,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 661,
+            "text": "controlled",
+            "lemma": "control"
+        },
+        {
+            "id": 662,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 663,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 664,
+            "text": "association",
+            "lemma": "association"
+        },
+        {
+            "id": 665,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 666,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 667,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 668,
+            "text": "letter",
+            "lemma": "letter"
+        },
+        {
+            "id": 669,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 670,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 671,
+            "text": "authorities",
+            "lemma": "authority"
+        },
+        {
+            "id": 672,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 673,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 674,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 675,
+            "text": "association",
+            "lemma": "association"
+        },
+        {
+            "id": 676,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 677,
+            "text": "shocked",
+            "lemma": "shock"
+        },
+        {
+            "id": 678,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 679,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 680,
+            "text": "property",
+            "lemma": "property"
+        },
+        {
+            "id": 681,
+            "text": "management",
+            "lemma": "management"
+        },
+        {
+            "id": 682,
+            "text": "firm",
+            "lemma": "firm"
+        },
+        {
+            "id": 683,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 684,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 685,
+            "text": "aware",
+            "lemma": "aware"
+        },
+        {
+            "id": 686,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 687,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 688,
+            "text": "sale",
+            "lemma": "sale"
+        },
+        {
+            "id": 689,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 690,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 691,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 692,
+            "text": "taxes",
+            "lemma": "taxis"
+        },
+        {
+            "id": 693,
+            "text": "owed",
+            "lemma": "owe"
+        },
+        {
+            "id": 694,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 695,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 696,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 697,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 698,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 699,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 700,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 701,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 702,
+            "text": "hard",
+            "lemma": "hard"
+        },
+        {
+            "id": 703,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 704,
+            "text": "understand",
+            "lemma": "understand"
+        },
+        {
+            "id": 705,
+            "text": "why",
+            "lemma": "why"
+        },
+        {
+            "id": 706,
+            "text": "anyone",
+            "lemma": "anyone"
+        },
+        {
+            "id": 707,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 708,
+            "text": "buy",
+            "lemma": "buy"
+        },
+        {
+            "id": 709,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 710,
+            "text": "property",
+            "lemma": "property"
+        },
+        {
+            "id": 711,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 712,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 713,
+            "text": "amount",
+            "lemma": "amount"
+        },
+        {
+            "id": 714,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 715,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 716,
+            "text": "perhaps",
+            "lemma": "perhaps"
+        },
+        {
+            "id": 717,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 718,
+            "text": "explanation",
+            "lemma": "explanation"
+        },
+        {
+            "id": 719,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 720,
+            "text": "provided",
+            "lemma": "provide"
+        },
+        {
+            "id": 721,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 722,
+            "text": "Ms",
+            "lemma": "Ms"
+        },
+        {
+            "id": 723,
+            "text": "Lam",
+            "lemma": "Lam"
+        },
+        {
+            "id": 724,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 725,
+            "text": "subsequent",
+            "lemma": "subsequent"
+        },
+        {
+            "id": 726,
+            "text": "attempt",
+            "lemma": "attempt"
+        },
+        {
+            "id": 727,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 728,
+            "text": "get",
+            "lemma": "get"
+        },
+        {
+            "id": 729,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 730,
+            "text": "association",
+            "lemma": "association"
+        },
+        {
+            "id": 731,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 732,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 733,
+            "text": "buy",
+            "lemma": "buy"
+        },
+        {
+            "id": 734,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 735,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 736,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 737,
+            "text": "property",
+            "lemma": "property"
+        },
+        {
+            "id": 738,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 739,
+            "text": "her",
+            "lemma": "she"
+        },
+        {
+            "id": 740,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 741,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 742,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 743,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 744,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 745,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 746,
+            "text": "document",
+            "lemma": "document"
+        },
+        {
+            "id": 747,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 748,
+            "text": "lays",
+            "lemma": "lay"
+        },
+        {
+            "id": 749,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 750,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 751,
+            "text": "explanation",
+            "lemma": "explanation"
+        },
+        {
+            "id": 752,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 753,
+            "text": "how",
+            "lemma": "how"
+        },
+        {
+            "id": 754,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 755,
+            "text": "bizarre",
+            "lemma": "bizarre"
+        },
+        {
+            "id": 756,
+            "text": "turn",
+            "lemma": "turn"
+        },
+        {
+            "id": 757,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 758,
+            "text": "events",
+            "lemma": "event"
+        },
+        {
+            "id": 759,
+            "text": "occurred",
+            "lemma": "occur"
+        },
+        {
+            "id": 760,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 761,
+            "text": "citing",
+            "lemma": "cite"
+        },
+        {
+            "id": 762,
+            "text": "information",
+            "lemma": "information"
+        },
+        {
+            "id": 763,
+            "text": "gleaned",
+            "lemma": "glean"
+        },
+        {
+            "id": 764,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 765,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 766,
+            "text": "tax",
+            "lemma": "tax"
+        },
+        {
+            "id": 767,
+            "text": "collector",
+            "lemma": "collector"
+        },
+        {
+            "id": 768,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 769,
+            "text": "office",
+            "lemma": "office"
+        },
+        {
+            "id": 770,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 771,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 772,
+            "text": "small",
+            "lemma": "small"
+        },
+        {
+            "id": 773,
+            "text": "tax",
+            "lemma": "tax"
+        },
+        {
+            "id": 774,
+            "text": "bill",
+            "lemma": "bill"
+        },
+        {
+            "id": 775,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 776,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 777,
+            "text": "common",
+            "lemma": "common"
+        },
+        {
+            "id": 778,
+            "text": "area",
+            "lemma": "area"
+        },
+        {
+            "id": 779,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 780,
+            "text": "sent",
+            "lemma": "send"
+        },
+        {
+            "id": 781,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 782,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 783,
+            "text": "many",
+            "lemma": "many"
+        },
+        {
+            "id": 784,
+            "text": "years",
+            "lemma": "year"
+        },
+        {
+            "id": 785,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 786,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 787,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 788,
+            "text": "address",
+            "lemma": "address"
+        },
+        {
+            "id": 789,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 790,
+            "text": "Kearny",
+            "lemma": "Kearny"
+        },
+        {
+            "id": 791,
+            "text": "Street",
+            "lemma": "Street"
+        },
+        {
+            "id": 792,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 793,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 794,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 795,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 796,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 797,
+            "text": "address",
+            "lemma": "address"
+        },
+        {
+            "id": 798,
+            "text": "apparently",
+            "lemma": "apparently"
+        },
+        {
+            "id": 799,
+            "text": "unknown",
+            "lemma": "unknown"
+        },
+        {
+            "id": 800,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 801,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 802,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 803,
+            "text": "Presidio",
+            "lemma": "Presidio"
+        },
+        {
+            "id": 804,
+            "text": "Terrace",
+            "lemma": "Terrace"
+        },
+        {
+            "id": 805,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 806,
+            "text": "inhabitants",
+            "lemma": "inhabitant"
+        },
+        {
+            "id": 807,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 808,
+            "text": "property",
+            "lemma": "property"
+        },
+        {
+            "id": 809,
+            "text": "managers",
+            "lemma": "manager"
+        },
+        {
+            "id": 810,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 811,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 812,
+            "text": "Emblidge",
+            "lemma": "Emblidge"
+        },
+        {
+            "id": 813,
+            "text": "wrote",
+            "lemma": "write"
+        },
+        {
+            "id": 814,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 815,
+            "text": "Since",
+            "lemma": "since"
+        },
+        {
+            "id": 816,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 817,
+            "text": "bills",
+            "lemma": "bill"
+        },
+        {
+            "id": 818,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 819,
+            "text": "never",
+            "lemma": "never"
+        },
+        {
+            "id": 820,
+            "text": "received",
+            "lemma": "receive"
+        },
+        {
+            "id": 821,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 822,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 823,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 824,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 825,
+            "text": "paid",
+            "lemma": "pay"
+        },
+        {
+            "id": 826,
+            "text": "them",
+            "lemma": "they"
+        },
+        {
+            "id": 827,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 828,
+            "text": "And",
+            "lemma": "and"
+        },
+        {
+            "id": 829,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 830,
+            "text": "notice",
+            "lemma": "notice"
+        },
+        {
+            "id": 831,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 832,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 833,
+            "text": "impending",
+            "lemma": "impending"
+        },
+        {
+            "id": 834,
+            "text": "sale",
+            "lemma": "sale"
+        },
+        {
+            "id": 835,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 836,
+            "text": "posted",
+            "lemma": "post"
+        },
+        {
+            "id": 837,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 838,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 839,
+            "text": "street",
+            "lemma": "street"
+        },
+        {
+            "id": 840,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 841,
+            "text": "delivered",
+            "lemma": "deliver"
+        },
+        {
+            "id": 842,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 843,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 844,
+            "text": "resident",
+            "lemma": "resident"
+        },
+        {
+            "id": 845,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 846,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 847,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 848,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 849,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 850,
+            "text": "argued",
+            "lemma": "argue"
+        },
+        {
+            "id": 851,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 852,
+            "text": "sale",
+            "lemma": "sale"
+        },
+        {
+            "id": 853,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 854,
+            "text": "unlawful",
+            "lemma": "unlawful"
+        },
+        {
+            "id": 855,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 856,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 857,
+            "text": "requested",
+            "lemma": "request"
+        },
+        {
+            "id": 858,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 859,
+            "text": "hearing",
+            "lemma": "hearing"
+        },
+        {
+            "id": 860,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 861,
+            "text": "rescind",
+            "lemma": "rescind"
+        },
+        {
+            "id": 862,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 863,
+            "text": "sale",
+            "lemma": "sale"
+        },
+        {
+            "id": 864,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 865,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 866,
+            "text": "speaking",
+            "lemma": "speak"
+        },
+        {
+            "id": 867,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 868,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 869,
+            "text": "San",
+            "lemma": "San"
+        },
+        {
+            "id": 870,
+            "text": "Francisco",
+            "lemma": "Francisco"
+        },
+        {
+            "id": 871,
+            "text": "Chronicle",
+            "lemma": "Chronicle"
+        },
+        {
+            "id": 872,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 873,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 874,
+            "text": "spokeswoman",
+            "lemma": "spokeswoman"
+        },
+        {
+            "id": 875,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 876,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 877,
+            "text": "tax",
+            "lemma": "tax"
+        },
+        {
+            "id": 878,
+            "text": "office",
+            "lemma": "office"
+        },
+        {
+            "id": 879,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 880,
+            "text": "everything",
+            "lemma": "everything"
+        },
+        {
+            "id": 881,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 882,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 883,
+            "text": "above",
+            "lemma": "above"
+        },
+        {
+            "id": 884,
+            "text": "board",
+            "lemma": "board"
+        },
+        {
+            "id": 885,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 886,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 887,
+            "text": "Ninety",
+            "lemma": "ninety"
+        },
+        {
+            "id": 888,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 889,
+            "text": "nine",
+            "lemma": "nine"
+        },
+        {
+            "id": 890,
+            "text": "percent",
+            "lemma": "percent"
+        },
+        {
+            "id": 891,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 892,
+            "text": "property",
+            "lemma": "property"
+        },
+        {
+            "id": 893,
+            "text": "owners",
+            "lemma": "owner"
+        },
+        {
+            "id": 894,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 895,
+            "text": "San",
+            "lemma": "San"
+        },
+        {
+            "id": 896,
+            "text": "Francisco",
+            "lemma": "Francisco"
+        },
+        {
+            "id": 897,
+            "text": "know",
+            "lemma": "know"
+        },
+        {
+            "id": 898,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 899,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 900,
+            "text": "need",
+            "lemma": "need"
+        },
+        {
+            "id": 901,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 902,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 903,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 904,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 905,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 906,
+            "text": "pay",
+            "lemma": "pay"
+        },
+        {
+            "id": 907,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 908,
+            "text": "taxes",
+            "lemma": "taxis"
+        },
+        {
+            "id": 909,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 910,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 911,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 912,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 913,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 914,
+            "text": "keep",
+            "lemma": "keep"
+        },
+        {
+            "id": 915,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 916,
+            "text": "mailing",
+            "lemma": "mailing"
+        },
+        {
+            "id": 917,
+            "text": "address",
+            "lemma": "address"
+        },
+        {
+            "id": 918,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 919,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 920,
+            "text": "date",
+            "lemma": "date"
+        },
+        {
+            "id": 921,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 922,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 923,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 924,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 925,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 926,
+            "text": "paper",
+            "lemma": "paper"
+        },
+        {
+            "id": 927,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 928,
+            "text": "Ms",
+            "lemma": "Ms"
+        },
+        {
+            "id": 929,
+            "text": "Lam",
+            "lemma": "Lam"
+        },
+        {
+            "id": 930,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 931,
+            "text": "meanwhile",
+            "lemma": "meanwhile"
+        },
+        {
+            "id": 932,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 933,
+            "text": "denied",
+            "lemma": "deny"
+        },
+        {
+            "id": 934,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 935,
+            "text": "intent",
+            "lemma": "intent"
+        },
+        {
+            "id": 936,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 937,
+            "text": "exploit",
+            "lemma": "exploit"
+        },
+        {
+            "id": 938,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 939,
+            "text": "residents",
+            "lemma": "resident"
+        },
+        {
+            "id": 940,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 941,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 942,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 943,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 944,
+            "text": "pair",
+            "lemma": "pair"
+        },
+        {
+            "id": 945,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 946,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 947,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 948,
+            "text": "hurry",
+            "lemma": "hurry"
+        },
+        {
+            "id": 949,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 950,
+            "text": "sell",
+            "lemma": "sell"
+        },
+        {
+            "id": 951,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 952,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 953,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 954,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 955,
+            "text": "really",
+            "lemma": "really"
+        },
+        {
+            "id": 956,
+            "text": "just",
+            "lemma": "just"
+        },
+        {
+            "id": 957,
+            "text": "wanted",
+            "lemma": "want"
+        },
+        {
+            "id": 958,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 959,
+            "text": "own",
+            "lemma": "own"
+        },
+        {
+            "id": 960,
+            "text": "something",
+            "lemma": "something"
+        },
+        {
+            "id": 961,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 962,
+            "text": "San",
+            "lemma": "San"
+        },
+        {
+            "id": 963,
+            "text": "Francisco",
+            "lemma": "Francisco"
+        },
+        {
+            "id": 964,
+            "text": "because",
+            "lemma": "because"
+        },
+        {
+            "id": 965,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 966,
+            "text": "my",
+            "lemma": "my"
+        },
+        {
+            "id": 967,
+            "text": "affinity",
+            "lemma": "affinity"
+        },
+        {
+            "id": 968,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 969,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 970,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 971,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 972,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 973,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 974,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 975,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 976,
+            "text": "Get",
+            "lemma": "get"
+        },
+        {
+            "id": 977,
+            "text": "news",
+            "lemma": "news"
+        },
+        {
+            "id": 978,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 979,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 980,
+            "text": "BBC",
+            "lemma": "BBC"
+        },
+        {
+            "id": 981,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 982,
+            "text": "your",
+            "lemma": "your"
+        },
+        {
+            "id": 983,
+            "text": "inbox",
+            "lemma": "inbox"
+        },
+        {
+            "id": 984,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 985,
+            "text": "each",
+            "lemma": "each"
+        },
+        {
+            "id": 986,
+            "text": "weekday",
+            "lemma": "weekday"
+        },
+        {
+            "id": 987,
+            "text": "morning",
+            "lemma": "morning"
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Residents",
+            "lemma": "resident",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "of",
+            "lemma": "of",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "one",
+            "lemma": "one",
+            "spans": [
+                0,
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "of",
+            "lemma": "of",
+            "spans": [
+                0,
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "San",
+            "lemma": "San",
+            "spans": [
+                0,
+                1,
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "Francisco",
+            "lemma": "Francisco",
+            "spans": [
+                0,
+                1,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "'s",
+            "lemma": "'s",
+            "spans": [
+                0,
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "most",
+            "lemma": "most",
+            "spans": [
+                0,
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "exclusive",
+            "lemma": "exclusive",
+            "spans": [
+                0,
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "neighbourhoods",
+            "lemma": "neighbourhood",
+            "spans": [
+                0,
+                1,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "say",
+            "lemma": "say",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 11,
+            "text": "they",
+            "lemma": "they",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "have",
+            "lemma": "have",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "been",
+            "lemma": "be",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "shocked",
+            "lemma": "shock",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "by",
+            "lemma": "by",
+            "spans": [
+                5,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                5,
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": "city",
+            "lemma": "city",
+            "spans": [
+                5,
+                7,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 20,
+            "text": "'s",
+            "lemma": "'s",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 21,
+            "text": "decision",
+            "lemma": "decision",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 22,
+            "text": "to",
+            "lemma": "to",
+            "spans": [
+                5,
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 23,
+            "text": "sell",
+            "lemma": "sell",
+            "spans": [
+                5,
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 24,
+            "text": "their",
+            "lemma": "their",
+            "spans": [
+                5,
+                9,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 25,
+            "text": "street",
+            "lemma": "street",
+            "spans": [
+                5,
+                9,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 26,
+            "text": "at",
+            "lemma": "at",
+            "spans": [
+                5,
+                9,
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 27,
+            "text": "auction",
+            "lemma": "auction",
+            "spans": [
+                5,
+                9,
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 28,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 10,
+            "qaIds": [
+                5
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 2,
+            "end": 10,
+            "qaIds": [
+                3
+            ],
+            "id": 1,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 4,
+            "end": 5,
+            "qaIds": [
+                2
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 5,
+            "end": 6,
+            "qaIds": [
+                2,
+                3,
+                4
+            ],
+            "id": 3,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 9,
+            "end": 10,
+            "qaIds": [
+                5,
+                6
+            ],
+            "id": 4,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 11,
+            "end": 28,
+            "qaIds": [
+                6
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 17,
+            "end": 18,
+            "qaIds": [
+                0,
+                1
+            ],
+            "id": 6,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 18,
+            "end": 20,
+            "qaIds": [
+                0,
+                7
+            ],
+            "id": 7,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 19,
+            "end": 20,
+            "qaIds": [
+                7,
+                8,
+                9
+            ],
+            "id": 8,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 22,
+            "end": 28,
+            "qaIds": [
+                1
+            ],
+            "id": 9,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 24,
+            "end": 26,
+            "qaIds": [
+                4,
+                8
+            ],
+            "id": 10,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 26,
+            "end": 28,
+            "qaIds": [
+                9
+            ],
+            "id": 11,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "17-18",
+            "predicate": "decision",
+            "questionId": 0,
+            "question": "who decided something ?",
+            "answer": "the city",
+            "answerStartChar": [
+                98
+            ],
+            "answerEndChar": [
+                106
+            ],
+            "answerStartToken": [
+                18
+            ],
+            "answerEndToken": [
+                20
+            ],
+            "answerId": "18-20",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "17-18",
+            "predicate": "decision",
+            "questionId": 1,
+            "question": "what did someone decide ?",
+            "answer": "to sell their street at auction",
+            "answerStartChar": [
+                118
+            ],
+            "answerEndChar": [
+                149
+            ],
+            "answerStartToken": [
+                22
+            ],
+            "answerEndToken": [
+                28
+            ],
+            "answerId": "22-28",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "5-6",
+            "predicate": "Francisco's",
+            "questionId": 0,
+            "question": "where was something sold ?",
+            "answer": "San",
+            "answerStartChar": [
+                20
+            ],
+            "answerEndChar": [
+                23
+            ],
+            "answerStartToken": [
+                4
+            ],
+            "answerEndToken": [
+                5
+            ],
+            "answerId": "4-5",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "5-6",
+            "predicate": "Francisco's",
+            "questionId": 0,
+            "question": "where was something sold ?",
+            "answer": "one of San Francisco's most exclusive neighbourhoods",
+            "answerStartChar": [
+                13
+            ],
+            "answerEndChar": [
+                65
+            ],
+            "answerStartToken": [
+                2
+            ],
+            "answerEndToken": [
+                10
+            ],
+            "answerId": "2-10",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "5-6",
+            "predicate": "Francisco's",
+            "questionId": 1,
+            "question": "what was sold ?",
+            "answer": "their street",
+            "answerStartChar": [
+                126
+            ],
+            "answerEndChar": [
+                138
+            ],
+            "answerStartToken": [
+                24
+            ],
+            "answerEndToken": [
+                26
+            ],
+            "answerId": "24-26",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "say",
+            "questionId": 0,
+            "question": "who says something ?",
+            "answer": "Residents of one of San Francisco's most exclusive neighbourhoods",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                65
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                10
+            ],
+            "answerId": "0-10",
+            "id": 5
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "say",
+            "questionId": 1,
+            "question": "what does someone say ?",
+            "answer": "they have been \"shocked\" by the city's decision to sell their street at auction",
+            "answerStartChar": [
+                70
+            ],
+            "answerEndChar": [
+                149
+            ],
+            "answerStartToken": [
+                11
+            ],
+            "answerEndToken": [
+                28
+            ],
+            "answerId": "11-28",
+            "id": 6
+        },
+        {
+            "sentId": 0,
+            "predicateId": "19-20",
+            "predicate": "sell",
+            "questionId": 0,
+            "question": "who sold something ?",
+            "answer": "the city",
+            "answerStartChar": [
+                98
+            ],
+            "answerEndChar": [
+                106
+            ],
+            "answerStartToken": [
+                18
+            ],
+            "answerEndToken": [
+                20
+            ],
+            "answerId": "18-20",
+            "id": 7
+        },
+        {
+            "sentId": 0,
+            "predicateId": "19-20",
+            "predicate": "sell",
+            "questionId": 1,
+            "question": "what did someone sell ?",
+            "answer": "their street",
+            "answerStartChar": [
+                126
+            ],
+            "answerEndChar": [
+                138
+            ],
+            "answerStartToken": [
+                24
+            ],
+            "answerEndToken": [
+                26
+            ],
+            "answerId": "24-26",
+            "id": 8
+        },
+        {
+            "sentId": 0,
+            "predicateId": "19-20",
+            "predicate": "sell",
+            "questionId": 2,
+            "question": "where did someone sell something ?",
+            "answer": "at auction",
+            "answerStartChar": [
+                139
+            ],
+            "answerEndChar": [
+                149
+            ],
+            "answerStartToken": [
+                26
+            ],
+            "answerEndToken": [
+                28
+            ],
+            "answerId": "26-28",
+            "id": 9
+        }
+    ],
+    "datasource": "xsum",
+    "summaryId": "40861145"
+}

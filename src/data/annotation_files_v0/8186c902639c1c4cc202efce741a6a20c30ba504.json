@@ -1,0 +1,1683 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "Serie",
+            "lemma": "Serie"
+        },
+        {
+            "id": 1,
+            "text": "A",
+            "lemma": "a"
+        },
+        {
+            "id": 2,
+            "text": "club",
+            "lemma": "club"
+        },
+        {
+            "id": 3,
+            "text": "Parma",
+            "lemma": "Parma"
+        },
+        {
+            "id": 4,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 5,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 6,
+            "text": "deducted",
+            "lemma": "deduct"
+        },
+        {
+            "id": 7,
+            "text": "four",
+            "lemma": "four"
+        },
+        {
+            "id": 8,
+            "text": "points",
+            "lemma": "point"
+        },
+        {
+            "id": 9,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 10,
+            "text": "breaching",
+            "lemma": "breach"
+        },
+        {
+            "id": 11,
+            "text": "financial",
+            "lemma": "financial"
+        },
+        {
+            "id": 12,
+            "text": "regulations",
+            "lemma": "regulation"
+        },
+        {
+            "id": 13,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 14,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 15,
+            "text": "sanction",
+            "lemma": "sanction"
+        },
+        {
+            "id": 16,
+            "text": "adds",
+            "lemma": "add"
+        },
+        {
+            "id": 17,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 18,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 19,
+            "text": "three",
+            "lemma": "three"
+        },
+        {
+            "id": 20,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 21,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 22,
+            "text": "penalised",
+            "lemma": "penalise"
+        },
+        {
+            "id": 23,
+            "text": "earlier",
+            "lemma": "early"
+        },
+        {
+            "id": 24,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 25,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 26,
+            "text": "season",
+            "lemma": "season"
+        },
+        {
+            "id": 27,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 28,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 29,
+            "text": "Italian",
+            "lemma": "Italian"
+        },
+        {
+            "id": 30,
+            "text": "Football",
+            "lemma": "Football"
+        },
+        {
+            "id": 31,
+            "text": "Federation",
+            "lemma": "Federation"
+        },
+        {
+            "id": 32,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 33,
+            "text": "FIGC",
+            "lemma": "FIGC"
+        },
+        {
+            "id": 34,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 35,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 36,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 37,
+            "text": "Thursday",
+            "lemma": "Thursday"
+        },
+        {
+            "id": 38,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 39,
+            "text": "Parma",
+            "lemma": "Parma"
+        },
+        {
+            "id": 40,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 41,
+            "text": "players",
+            "lemma": "player"
+        },
+        {
+            "id": 42,
+            "text": "celebrate",
+            "lemma": "celebrate"
+        },
+        {
+            "id": 43,
+            "text": "beating",
+            "lemma": "beat"
+        },
+        {
+            "id": 44,
+            "text": "Juventus",
+            "lemma": "Juventus"
+        },
+        {
+            "id": 45,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 46,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 47,
+            "text": "weekend",
+            "lemma": "weekend"
+        },
+        {
+            "id": 48,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 49,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 50,
+            "text": "club",
+            "lemma": "club"
+        },
+        {
+            "id": 51,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 52,
+            "text": "rooted",
+            "lemma": "root"
+        },
+        {
+            "id": 53,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 54,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 55,
+            "text": "bottom",
+            "lemma": "bottom"
+        },
+        {
+            "id": 56,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 57,
+            "text": "Serie",
+            "lemma": "Serie"
+        },
+        {
+            "id": 58,
+            "text": "A",
+            "lemma": "A"
+        },
+        {
+            "id": 59,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 60,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 61,
+            "text": "decision",
+            "lemma": "decision"
+        },
+        {
+            "id": 62,
+            "text": "means",
+            "lemma": "mean"
+        },
+        {
+            "id": 63,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 64,
+            "text": "Parma",
+            "lemma": "Parma"
+        },
+        {
+            "id": 65,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 66,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 67,
+            "text": "despite",
+            "lemma": "despite"
+        },
+        {
+            "id": 68,
+            "text": "being",
+            "lemma": "be"
+        },
+        {
+            "id": 69,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 70,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 71,
+            "text": "Serie",
+            "lemma": "Serie"
+        },
+        {
+            "id": 72,
+            "text": "A",
+            "lemma": "A"
+        },
+        {
+            "id": 73,
+            "text": "beat",
+            "lemma": "beat"
+        },
+        {
+            "id": 74,
+            "text": "leaders",
+            "lemma": "leader"
+        },
+        {
+            "id": 75,
+            "text": "Juventus",
+            "lemma": "Juventus"
+        },
+        {
+            "id": 76,
+            "text": "1",
+            "lemma": "1"
+        },
+        {
+            "id": 77,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 78,
+            "text": "0",
+            "lemma": "0"
+        },
+        {
+            "id": 79,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 80,
+            "text": "Saturday",
+            "lemma": "Saturday"
+        },
+        {
+            "id": 81,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 82,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 83,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 84,
+            "text": "left",
+            "lemma": "leave"
+        },
+        {
+            "id": 85,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 86,
+            "text": "12",
+            "lemma": "12"
+        },
+        {
+            "id": 87,
+            "text": "points",
+            "lemma": "point"
+        },
+        {
+            "id": 88,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 89,
+            "text": "30",
+            "lemma": "30"
+        },
+        {
+            "id": 90,
+            "text": "games",
+            "lemma": "game"
+        },
+        {
+            "id": 91,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 92,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 93,
+            "text": "club",
+            "lemma": "club"
+        },
+        {
+            "id": 94,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 95,
+            "text": "declared",
+            "lemma": "declare"
+        },
+        {
+            "id": 96,
+            "text": "bankrupt",
+            "lemma": "bankrupt"
+        },
+        {
+            "id": 97,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 98,
+            "text": "month",
+            "lemma": "month"
+        },
+        {
+            "id": 99,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 100,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 101,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 102,
+            "text": "paid",
+            "lemma": "pay"
+        },
+        {
+            "id": 103,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 104,
+            "text": "players",
+            "lemma": "player"
+        },
+        {
+            "id": 105,
+            "text": "all",
+            "lemma": "all"
+        },
+        {
+            "id": 106,
+            "text": "season",
+            "lemma": "season"
+        },
+        {
+            "id": 107,
+            "text": ".",
+            "lemma": "."
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Parma",
+            "lemma": "Parma",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "have",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 2,
+            "text": "been",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 3,
+            "text": "deducted",
+            "lemma": "deduct",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "four",
+            "lemma": "four",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "points",
+            "lemma": "point",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "for",
+            "lemma": "for",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "breaching",
+            "lemma": "breach",
+            "spans": [
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "financial",
+            "lemma": "financial",
+            "spans": [
+                3,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "regulations",
+            "lemma": "regulation",
+            "spans": [
+                3,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 11,
+            "text": "The",
+            "lemma": "the",
+            "spans": [
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "club",
+            "lemma": "club",
+            "spans": [
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "were",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 14,
+            "text": "declared",
+            "lemma": "declare",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "bankrupt",
+            "lemma": "bankrupt",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "last",
+            "lemma": "last",
+            "spans": [
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "month",
+            "lemma": "month",
+            "spans": [
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "and",
+            "lemma": "and",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 19,
+            "text": "have",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 20,
+            "text": "not",
+            "lemma": "not",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 21,
+            "text": "paid",
+            "lemma": "pay",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 22,
+            "text": "their",
+            "lemma": "their",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 23,
+            "text": "players",
+            "lemma": "player",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 24,
+            "text": "all",
+            "lemma": "all",
+            "spans": [
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 25,
+            "text": "season",
+            "lemma": "season",
+            "spans": [
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 26,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 27,
+            "text": "The",
+            "lemma": "the",
+            "spans": [
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 28,
+            "text": "decision",
+            "lemma": "decision",
+            "spans": [
+                13,
+                14
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 29,
+            "text": "means",
+            "lemma": "mean",
+            "spans": [
+                15
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 30,
+            "text": "that",
+            "lemma": "that",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 31,
+            "text": "Parma",
+            "lemma": "Parma",
+            "spans": [
+                16,
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 32,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 33,
+            "text": "who",
+            "lemma": "who",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 34,
+            "text": "despite",
+            "lemma": "despite",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 35,
+            "text": "being",
+            "lemma": "be",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 36,
+            "text": "last",
+            "lemma": "last",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 37,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 38,
+            "text": "Serie",
+            "lemma": "Serie",
+            "spans": [
+                16,
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 39,
+            "text": "A",
+            "lemma": "A",
+            "spans": [
+                16,
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 40,
+            "text": "beat",
+            "lemma": "beat",
+            "spans": [
+                16,
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 41,
+            "text": "leaders",
+            "lemma": "leader",
+            "spans": [
+                16,
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 42,
+            "text": "Juventus",
+            "lemma": "Juventus",
+            "spans": [
+                16,
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 43,
+            "text": "1",
+            "lemma": "1",
+            "spans": [
+                16,
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 44,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                16,
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 45,
+            "text": "0",
+            "lemma": "0",
+            "spans": [
+                16,
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 46,
+            "text": "on",
+            "lemma": "on",
+            "spans": [
+                16,
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 47,
+            "text": "Saturday",
+            "lemma": "Saturday",
+            "spans": [
+                16,
+                18,
+                19
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 48,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 49,
+            "text": "have",
+            "lemma": "have",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 50,
+            "text": "been",
+            "lemma": "be",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 51,
+            "text": "left",
+            "lemma": "leave",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 52,
+            "text": "with",
+            "lemma": "with",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 53,
+            "text": "12",
+            "lemma": "12",
+            "spans": [
+                16,
+                20
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 54,
+            "text": "points",
+            "lemma": "point",
+            "spans": [
+                16,
+                20
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 55,
+            "text": "from",
+            "lemma": "from",
+            "spans": [
+                16,
+                20
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 56,
+            "text": "30",
+            "lemma": "30",
+            "spans": [
+                16,
+                20
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 57,
+            "text": "games",
+            "lemma": "game",
+            "spans": [
+                16,
+                20
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 58,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 1,
+            "qaIds": [
+                0,
+                3
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 3,
+            "end": 4,
+            "qaIds": [
+                0,
+                1,
+                2
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 4,
+            "end": 6,
+            "qaIds": [
+                1
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 6,
+            "end": 10,
+            "qaIds": [
+                2
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 7,
+            "end": 8,
+            "qaIds": [
+                3,
+                4
+            ],
+            "id": 4,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 8,
+            "end": 10,
+            "qaIds": [
+                4
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 11,
+            "end": 13,
+            "qaIds": [
+                5,
+                8
+            ],
+            "id": 6,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 14,
+            "end": 15,
+            "qaIds": [
+                5,
+                6,
+                7
+            ],
+            "id": 7,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 15,
+            "end": 16,
+            "qaIds": [
+                6
+            ],
+            "id": 8,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 16,
+            "end": 18,
+            "qaIds": [
+                7
+            ],
+            "id": 9,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 21,
+            "end": 22,
+            "qaIds": [
+                8,
+                9,
+                10
+            ],
+            "id": 10,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 22,
+            "end": 24,
+            "qaIds": [
+                9
+            ],
+            "id": 11,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 24,
+            "end": 26,
+            "qaIds": [
+                10
+            ],
+            "id": 12,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 27,
+            "end": 29,
+            "qaIds": [
+                13
+            ],
+            "id": 13,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 28,
+            "end": 29,
+            "qaIds": [
+                11,
+                12
+            ],
+            "id": 14,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 29,
+            "end": 30,
+            "qaIds": [
+                13,
+                14
+            ],
+            "id": 15,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 30,
+            "end": 58,
+            "qaIds": [
+                14
+            ],
+            "id": 16,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 31,
+            "end": 32,
+            "qaIds": [
+                11,
+                15
+            ],
+            "id": 17,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 38,
+            "end": 48,
+            "qaIds": [
+                12
+            ],
+            "id": 18,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 47,
+            "end": 48,
+            "qaIds": [
+                15,
+                16
+            ],
+            "id": 19,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 53,
+            "end": 58,
+            "qaIds": [
+                16
+            ],
+            "id": 20,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "deducted",
+            "questionId": 0,
+            "question": "who has deducted ?",
+            "answer": "Parma",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                5
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "deducted",
+            "questionId": 1,
+            "question": "how much has someone deducted ?",
+            "answer": "four points",
+            "answerStartChar": [
+                25
+            ],
+            "answerEndChar": [
+                36
+            ],
+            "answerStartToken": [
+                4
+            ],
+            "answerEndToken": [
+                6
+            ],
+            "answerId": "4-6",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "deducted",
+            "questionId": 2,
+            "question": "why has someone deducted ?",
+            "answer": "for breaching financial regulations",
+            "answerStartChar": [
+                37
+            ],
+            "answerEndChar": [
+                72
+            ],
+            "answerStartToken": [
+                6
+            ],
+            "answerEndToken": [
+                10
+            ],
+            "answerId": "6-10",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "7-8",
+            "predicate": "breaching",
+            "questionId": 0,
+            "question": "who breached something ?",
+            "answer": "Parma",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                5
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "7-8",
+            "predicate": "breaching",
+            "questionId": 1,
+            "question": "what did someone breach ?",
+            "answer": "financial regulations",
+            "answerStartChar": [
+                51
+            ],
+            "answerEndChar": [
+                72
+            ],
+            "answerStartToken": [
+                8
+            ],
+            "answerEndToken": [
+                10
+            ],
+            "answerId": "8-10",
+            "id": 4
+        },
+        {
+            "sentId": 1,
+            "predicateId": "14-15",
+            "predicate": "declared",
+            "questionId": 0,
+            "question": "who was declared something ?",
+            "answer": "The club",
+            "answerStartChar": [
+                74
+            ],
+            "answerEndChar": [
+                82
+            ],
+            "answerStartToken": [
+                11
+            ],
+            "answerEndToken": [
+                13
+            ],
+            "answerId": "11-13",
+            "id": 5
+        },
+        {
+            "sentId": 1,
+            "predicateId": "14-15",
+            "predicate": "declared",
+            "questionId": 1,
+            "question": "what was someone declared ?",
+            "answer": "bankrupt",
+            "answerStartChar": [
+                97
+            ],
+            "answerEndChar": [
+                105
+            ],
+            "answerStartToken": [
+                15
+            ],
+            "answerEndToken": [
+                16
+            ],
+            "answerId": "15-16",
+            "id": 6
+        },
+        {
+            "sentId": 1,
+            "predicateId": "14-15",
+            "predicate": "declared",
+            "questionId": 2,
+            "question": "when was someone declared something ?",
+            "answer": "last month",
+            "answerStartChar": [
+                106
+            ],
+            "answerEndChar": [
+                116
+            ],
+            "answerStartToken": [
+                16
+            ],
+            "answerEndToken": [
+                18
+            ],
+            "answerId": "16-18",
+            "id": 7
+        },
+        {
+            "sentId": 1,
+            "predicateId": "21-22",
+            "predicate": "paid",
+            "questionId": 0,
+            "question": "who didn't pay someone ?",
+            "answer": "The club",
+            "answerStartChar": [
+                74
+            ],
+            "answerEndChar": [
+                82
+            ],
+            "answerStartToken": [
+                11
+            ],
+            "answerEndToken": [
+                13
+            ],
+            "answerId": "11-13",
+            "id": 8
+        },
+        {
+            "sentId": 1,
+            "predicateId": "21-22",
+            "predicate": "paid",
+            "questionId": 1,
+            "question": "who didn't someone pay ?",
+            "answer": "their players",
+            "answerStartChar": [
+                135
+            ],
+            "answerEndChar": [
+                148
+            ],
+            "answerStartToken": [
+                22
+            ],
+            "answerEndToken": [
+                24
+            ],
+            "answerId": "22-24",
+            "id": 9
+        },
+        {
+            "sentId": 1,
+            "predicateId": "21-22",
+            "predicate": "paid",
+            "questionId": 2,
+            "question": "when didn't someone pay someone ?",
+            "answer": "all season",
+            "answerStartChar": [
+                149
+            ],
+            "answerEndChar": [
+                159
+            ],
+            "answerStartToken": [
+                24
+            ],
+            "answerEndToken": [
+                26
+            ],
+            "answerId": "24-26",
+            "id": 10
+        },
+        {
+            "sentId": 2,
+            "predicateId": "28-29",
+            "predicate": "decision",
+            "questionId": 0,
+            "question": "who was deciding something ?",
+            "answer": "Parma",
+            "answerStartChar": [
+                185
+            ],
+            "answerEndChar": [
+                190
+            ],
+            "answerStartToken": [
+                31
+            ],
+            "answerEndToken": [
+                32
+            ],
+            "answerId": "31-32",
+            "id": 11
+        },
+        {
+            "sentId": 2,
+            "predicateId": "28-29",
+            "predicate": "decision",
+            "questionId": 1,
+            "question": "what was someone deciding ?",
+            "answer": "Serie A beat leaders Juventus 1-0 on Saturday",
+            "answerStartChar": [
+                218
+            ],
+            "answerEndChar": [
+                263
+            ],
+            "answerStartToken": [
+                38
+            ],
+            "answerEndToken": [
+                48
+            ],
+            "answerId": "38-48",
+            "id": 12
+        },
+        {
+            "sentId": 2,
+            "predicateId": "29-30",
+            "predicate": "means",
+            "questionId": 0,
+            "question": "what means something ?",
+            "answer": "The decision",
+            "answerStartChar": [
+                161
+            ],
+            "answerEndChar": [
+                173
+            ],
+            "answerStartToken": [
+                27
+            ],
+            "answerEndToken": [
+                29
+            ],
+            "answerId": "27-29",
+            "id": 13
+        },
+        {
+            "sentId": 2,
+            "predicateId": "29-30",
+            "predicate": "means",
+            "questionId": 1,
+            "question": "what does something mean ?",
+            "answer": "that Parma, who despite being last in Serie A beat leaders Juventus 1-0 on Saturday, have been left with 12 points from 30 games",
+            "answerStartChar": [
+                180
+            ],
+            "answerEndChar": [
+                308
+            ],
+            "answerStartToken": [
+                30
+            ],
+            "answerEndToken": [
+                58
+            ],
+            "answerId": "30-58",
+            "id": 14
+        },
+        {
+            "sentId": 2,
+            "predicateId": "47-48",
+            "predicate": "left",
+            "questionId": 0,
+            "question": "who has left with something ?",
+            "answer": "Parma",
+            "answerStartChar": [
+                185
+            ],
+            "answerEndChar": [
+                190
+            ],
+            "answerStartToken": [
+                31
+            ],
+            "answerEndToken": [
+                32
+            ],
+            "answerId": "31-32",
+            "id": 15
+        },
+        {
+            "sentId": 2,
+            "predicateId": "47-48",
+            "predicate": "left",
+            "questionId": 1,
+            "question": "what has someone left with ?",
+            "answer": "12 points from 30 games",
+            "answerStartChar": [
+                285
+            ],
+            "answerEndChar": [
+                308
+            ],
+            "answerStartToken": [
+                53
+            ],
+            "answerEndToken": [
+                58
+            ],
+            "answerId": "53-58",
+            "id": 16
+        }
+    ],
+    "datasource": "cnn",
+    "summaryId": "8186c902639c1c4cc202efce741a6a20c30ba504"
+}

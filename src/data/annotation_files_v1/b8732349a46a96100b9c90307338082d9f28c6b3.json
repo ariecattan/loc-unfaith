@@ -1,0 +1,7904 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "Shane",
+            "lemma": "Shane"
+        },
+        {
+            "id": 1,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 2,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 3,
+            "text": "25",
+            "lemma": "25"
+        },
+        {
+            "id": 4,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 5,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 6,
+            "text": "Tunbridge",
+            "lemma": "Tunbridge"
+        },
+        {
+            "id": 7,
+            "text": "Wells",
+            "lemma": "Wells"
+        },
+        {
+            "id": 8,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 9,
+            "text": "stabbed",
+            "lemma": "stab"
+        },
+        {
+            "id": 10,
+            "text": "victim",
+            "lemma": "victim"
+        },
+        {
+            "id": 11,
+            "text": "Ian",
+            "lemma": "Ian"
+        },
+        {
+            "id": 12,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 13,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 14,
+            "text": "55",
+            "lemma": "55"
+        },
+        {
+            "id": 15,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 16,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 17,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 18,
+            "text": "neck",
+            "lemma": "neck"
+        },
+        {
+            "id": 19,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 20,
+            "text": "meeting",
+            "lemma": "meet"
+        },
+        {
+            "id": 21,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 22,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 23,
+            "text": "gay",
+            "lemma": "gay"
+        },
+        {
+            "id": 24,
+            "text": "dating",
+            "lemma": "date"
+        },
+        {
+            "id": 25,
+            "text": "app",
+            "lemma": "app"
+        },
+        {
+            "id": 26,
+            "text": "Grindr",
+            "lemma": "Grindr"
+        },
+        {
+            "id": 27,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 28,
+            "text": "A",
+            "lemma": "a"
+        },
+        {
+            "id": 29,
+            "text": "drug",
+            "lemma": "drug"
+        },
+        {
+            "id": 30,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 31,
+            "text": "fuelled",
+            "lemma": "fuel"
+        },
+        {
+            "id": 32,
+            "text": "thug",
+            "lemma": "thug"
+        },
+        {
+            "id": 33,
+            "text": "calling",
+            "lemma": "call"
+        },
+        {
+            "id": 34,
+            "text": "himself",
+            "lemma": "himself"
+        },
+        {
+            "id": 35,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 36,
+            "text": "Gypsy",
+            "lemma": "Gypsy"
+        },
+        {
+            "id": 37,
+            "text": "Lad",
+            "lemma": "Lad"
+        },
+        {
+            "id": 38,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 39,
+            "text": "slashed",
+            "lemma": "slash"
+        },
+        {
+            "id": 40,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 41,
+            "text": "middle",
+            "lemma": "middle"
+        },
+        {
+            "id": 42,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 43,
+            "text": "aged",
+            "lemma": "aged"
+        },
+        {
+            "id": 44,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 45,
+            "text": "around",
+            "lemma": "around"
+        },
+        {
+            "id": 46,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 47,
+            "text": "throat",
+            "lemma": "throat"
+        },
+        {
+            "id": 48,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 49,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 50,
+            "text": "kitchen",
+            "lemma": "kitchen"
+        },
+        {
+            "id": 51,
+            "text": "knife",
+            "lemma": "knife"
+        },
+        {
+            "id": 52,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 53,
+            "text": "meeting",
+            "lemma": "meet"
+        },
+        {
+            "id": 54,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 55,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 56,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 57,
+            "text": "gay",
+            "lemma": "gay"
+        },
+        {
+            "id": 58,
+            "text": "dating",
+            "lemma": "date"
+        },
+        {
+            "id": 59,
+            "text": "app",
+            "lemma": "app"
+        },
+        {
+            "id": 60,
+            "text": "Grindr",
+            "lemma": "Grindr"
+        },
+        {
+            "id": 61,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 62,
+            "text": "Shane",
+            "lemma": "Shane"
+        },
+        {
+            "id": 63,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 64,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 65,
+            "text": "25",
+            "lemma": "25"
+        },
+        {
+            "id": 66,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 67,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 68,
+            "text": "Tunbridge",
+            "lemma": "Tunbridge"
+        },
+        {
+            "id": 69,
+            "text": "Wells",
+            "lemma": "Wells"
+        },
+        {
+            "id": 70,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 71,
+            "text": "Kent",
+            "lemma": "Kent"
+        },
+        {
+            "id": 72,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 73,
+            "text": "carried",
+            "lemma": "carry"
+        },
+        {
+            "id": 74,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 75,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 76,
+            "text": "attack",
+            "lemma": "attack"
+        },
+        {
+            "id": 77,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 78,
+            "text": "going",
+            "lemma": "go"
+        },
+        {
+            "id": 79,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 80,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 81,
+            "text": "Ian",
+            "lemma": "Ian"
+        },
+        {
+            "id": 82,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 83,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 84,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 85,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 86,
+            "text": "Medway",
+            "lemma": "Medway"
+        },
+        {
+            "id": 87,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 88,
+            "text": "sex",
+            "lemma": "sex"
+        },
+        {
+            "id": 89,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 90,
+            "text": "September",
+            "lemma": "September"
+        },
+        {
+            "id": 91,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 92,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 93,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 94,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 95,
+            "text": "when",
+            "lemma": "when"
+        },
+        {
+            "id": 96,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 97,
+            "text": "55",
+            "lemma": "55"
+        },
+        {
+            "id": 98,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 99,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 100,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 101,
+            "text": "old",
+            "lemma": "old"
+        },
+        {
+            "id": 102,
+            "text": "sat",
+            "lemma": "sit"
+        },
+        {
+            "id": 103,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 104,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 105,
+            "text": "bed",
+            "lemma": "bed"
+        },
+        {
+            "id": 106,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 107,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 108,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 109,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 110,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 111,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 112,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 113,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 114,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 115,
+            "text": "cool",
+            "lemma": "cool"
+        },
+        {
+            "id": 116,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 117,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 118,
+            "text": "cucumber",
+            "lemma": "cucumber"
+        },
+        {
+            "id": 119,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 120,
+            "text": "during",
+            "lemma": "during"
+        },
+        {
+            "id": 121,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 122,
+            "text": "attack",
+            "lemma": "attack"
+        },
+        {
+            "id": 123,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 124,
+            "text": "stabbed",
+            "lemma": "stab"
+        },
+        {
+            "id": 125,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 126,
+            "text": " ",
+            "lemma": " "
+        },
+        {
+            "id": 127,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 128,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 129,
+            "text": "throat",
+            "lemma": "throat"
+        },
+        {
+            "id": 130,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 131,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 132,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 133,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 134,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 135,
+            "text": "high",
+            "lemma": "high"
+        },
+        {
+            "id": 136,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 137,
+            "text": "Class",
+            "lemma": "Class"
+        },
+        {
+            "id": 138,
+            "text": "A",
+            "lemma": "A"
+        },
+        {
+            "id": 139,
+            "text": "Mephedrone",
+            "lemma": "Mephedrone"
+        },
+        {
+            "id": 140,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 141,
+            "text": "then",
+            "lemma": "then"
+        },
+        {
+            "id": 142,
+            "text": "left",
+            "lemma": "leave"
+        },
+        {
+            "id": 143,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 144,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 145,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 146,
+            "text": "fear",
+            "lemma": "fear"
+        },
+        {
+            "id": 147,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 148,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 149,
+            "text": "life",
+            "lemma": "life"
+        },
+        {
+            "id": 150,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 151,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 152,
+            "text": "fleeing",
+            "lemma": "flee"
+        },
+        {
+            "id": 153,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 154,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 155,
+            "text": "property",
+            "lemma": "property"
+        },
+        {
+            "id": 156,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 157,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 158,
+            "text": "victim",
+            "lemma": "victim"
+        },
+        {
+            "id": 159,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 160,
+            "text": "wallet",
+            "lemma": "wallet"
+        },
+        {
+            "id": 161,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 162,
+            "text": "iPhone",
+            "lemma": "iPhone"
+        },
+        {
+            "id": 163,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 164,
+            "text": "iPad",
+            "lemma": "iPad"
+        },
+        {
+            "id": 165,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 166,
+            "text": "jewellery",
+            "lemma": "jewellery"
+        },
+        {
+            "id": 167,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 168,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 169,
+            "text": "callous",
+            "lemma": "callous"
+        },
+        {
+            "id": 170,
+            "text": "attacker",
+            "lemma": "attacker"
+        },
+        {
+            "id": 171,
+            "text": "even",
+            "lemma": "even"
+        },
+        {
+            "id": 172,
+            "text": "pretended",
+            "lemma": "pretend"
+        },
+        {
+            "id": 173,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 174,
+            "text": "call",
+            "lemma": "call"
+        },
+        {
+            "id": 175,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 176,
+            "text": "ambulance",
+            "lemma": "ambulance"
+        },
+        {
+            "id": 177,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 178,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 179,
+            "text": "victim",
+            "lemma": "victim"
+        },
+        {
+            "id": 180,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 181,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 182,
+            "text": "instead",
+            "lemma": "instead"
+        },
+        {
+            "id": 183,
+            "text": "left",
+            "lemma": "leave"
+        },
+        {
+            "id": 184,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 185,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 186,
+            "text": "dead",
+            "lemma": "dead"
+        },
+        {
+            "id": 187,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 188,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 189,
+            "text": "6cm",
+            "lemma": "6cm"
+        },
+        {
+            "id": 190,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 191,
+            "text": "deep",
+            "lemma": "deep"
+        },
+        {
+            "id": 192,
+            "text": "wound",
+            "lemma": "wound"
+        },
+        {
+            "id": 193,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 194,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 195,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 196,
+            "text": "later",
+            "lemma": "later"
+        },
+        {
+            "id": 197,
+            "text": "caught",
+            "lemma": "catch"
+        },
+        {
+            "id": 198,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 199,
+            "text": "police",
+            "lemma": "police"
+        },
+        {
+            "id": 200,
+            "text": "examined",
+            "lemma": "examine"
+        },
+        {
+            "id": 201,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 202,
+            "text": "cigarette",
+            "lemma": "cigarette"
+        },
+        {
+            "id": 203,
+            "text": "butts",
+            "lemma": "butt"
+        },
+        {
+            "id": 204,
+            "text": "found",
+            "lemma": "find"
+        },
+        {
+            "id": 205,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 206,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 207,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 208,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 209,
+            "text": "garden",
+            "lemma": "garden"
+        },
+        {
+            "id": 210,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 211,
+            "text": "both",
+            "lemma": "both"
+        },
+        {
+            "id": 212,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 213,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 214,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 215,
+            "text": "DNA",
+            "lemma": "dna"
+        },
+        {
+            "id": 216,
+            "text": "linking",
+            "lemma": "link"
+        },
+        {
+            "id": 217,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 218,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 219,
+            "text": "attacker",
+            "lemma": "attacker"
+        },
+        {
+            "id": 220,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 221,
+            "text": "Luckily",
+            "lemma": "luckily"
+        },
+        {
+            "id": 222,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 223,
+            "text": "\u00a0",
+            "lemma": "\u00a0"
+        },
+        {
+            "id": 224,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 225,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 226,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 227,
+            "text": "housemate",
+            "lemma": "housemate"
+        },
+        {
+            "id": 228,
+            "text": "returned",
+            "lemma": "return"
+        },
+        {
+            "id": 229,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 230,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 231,
+            "text": "property",
+            "lemma": "property"
+        },
+        {
+            "id": 232,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 233,
+            "text": "called",
+            "lemma": "call"
+        },
+        {
+            "id": 234,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 235,
+            "text": "ambulance",
+            "lemma": "ambulance"
+        },
+        {
+            "id": 236,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 237,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 238,
+            "text": "court",
+            "lemma": "court"
+        },
+        {
+            "id": 239,
+            "text": "heard",
+            "lemma": "hear"
+        },
+        {
+            "id": 240,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 241,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 242,
+            "text": "only",
+            "lemma": "only"
+        },
+        {
+            "id": 243,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 244,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 245,
+            "text": "skill",
+            "lemma": "skill"
+        },
+        {
+            "id": 246,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 247,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 248,
+            "text": "surgeon",
+            "lemma": "surgeon"
+        },
+        {
+            "id": 249,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 250,
+            "text": "Medway",
+            "lemma": "Medway"
+        },
+        {
+            "id": 251,
+            "text": "Maritime",
+            "lemma": "Maritime"
+        },
+        {
+            "id": 252,
+            "text": "Hospital",
+            "lemma": "Hospital"
+        },
+        {
+            "id": 253,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 254,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 255,
+            "text": "victim",
+            "lemma": "victim"
+        },
+        {
+            "id": 256,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 257,
+            "text": "life",
+            "lemma": "life"
+        },
+        {
+            "id": 258,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 259,
+            "text": "saved",
+            "lemma": "save"
+        },
+        {
+            "id": 260,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 261,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 262,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 263,
+            "text": "now",
+            "lemma": "now"
+        },
+        {
+            "id": 264,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 265,
+            "text": "jailed",
+            "lemma": "jail"
+        },
+        {
+            "id": 266,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 267,
+            "text": "12",
+            "lemma": "12"
+        },
+        {
+            "id": 268,
+            "text": "years",
+            "lemma": "year"
+        },
+        {
+            "id": 269,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 270,
+            "text": "being",
+            "lemma": "be"
+        },
+        {
+            "id": 271,
+            "text": "found",
+            "lemma": "find"
+        },
+        {
+            "id": 272,
+            "text": "guilty",
+            "lemma": "guilty"
+        },
+        {
+            "id": 273,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 274,
+            "text": "wounding",
+            "lemma": "wound"
+        },
+        {
+            "id": 275,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 276,
+            "text": "intent",
+            "lemma": "intent"
+        },
+        {
+            "id": 277,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 278,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 279,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 280,
+            "text": "cleared",
+            "lemma": "clear"
+        },
+        {
+            "id": 281,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 282,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 283,
+            "text": "jury",
+            "lemma": "jury"
+        },
+        {
+            "id": 284,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 285,
+            "text": "attempted",
+            "lemma": "attempt"
+        },
+        {
+            "id": 286,
+            "text": "murder",
+            "lemma": "murder"
+        },
+        {
+            "id": 287,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 288,
+            "text": "Judge",
+            "lemma": "Judge"
+        },
+        {
+            "id": 289,
+            "text": "Jeremy",
+            "lemma": "Jeremy"
+        },
+        {
+            "id": 290,
+            "text": "Carey",
+            "lemma": "Carey"
+        },
+        {
+            "id": 291,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 292,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 293,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 294,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 295,
+            "text": "narrowly",
+            "lemma": "narrowly"
+        },
+        {
+            "id": 296,
+            "text": "decided",
+            "lemma": "decide"
+        },
+        {
+            "id": 297,
+            "text": "against",
+            "lemma": "against"
+        },
+        {
+            "id": 298,
+            "text": "finding",
+            "lemma": "find"
+        },
+        {
+            "id": 299,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 300,
+            "text": "dangerous",
+            "lemma": "dangerous"
+        },
+        {
+            "id": 301,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 302,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 303,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 304,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 305,
+            "text": "led",
+            "lemma": "lead"
+        },
+        {
+            "id": 306,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 307,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 308,
+            "text": "extended",
+            "lemma": "extended"
+        },
+        {
+            "id": 309,
+            "text": "sentence",
+            "lemma": "sentence"
+        },
+        {
+            "id": 310,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 311,
+            "text": "Judge",
+            "lemma": "Judge"
+        },
+        {
+            "id": 312,
+            "text": "Carey",
+            "lemma": "Carey"
+        },
+        {
+            "id": 313,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 314,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 315,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 316,
+            "text": "convicted",
+            "lemma": "convict"
+        },
+        {
+            "id": 317,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 318,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 319,
+            "text": "wounding",
+            "lemma": "wound"
+        },
+        {
+            "id": 320,
+            "text": "charge",
+            "lemma": "charge"
+        },
+        {
+            "id": 321,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 322,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 323,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 324,
+            "text": "clearest",
+            "lemma": "clear"
+        },
+        {
+            "id": 325,
+            "text": "evidence",
+            "lemma": "evidence"
+        },
+        {
+            "id": 326,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 327,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 328,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 329,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 330,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 331,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 332,
+            "text": "You",
+            "lemma": "you"
+        },
+        {
+            "id": 333,
+            "text": "asserted",
+            "lemma": "assert"
+        },
+        {
+            "id": 334,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 335,
+            "text": "effectively",
+            "lemma": "effectively"
+        },
+        {
+            "id": 336,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 337,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 338,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 339,
+            "text": "person",
+            "lemma": "person"
+        },
+        {
+            "id": 340,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 341,
+            "text": "stabbed",
+            "lemma": "stab"
+        },
+        {
+            "id": 342,
+            "text": "Ian",
+            "lemma": "Ian"
+        },
+        {
+            "id": 343,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 344,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 345,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 346,
+            "text": "jury",
+            "lemma": "jury"
+        },
+        {
+            "id": 347,
+            "text": "found",
+            "lemma": "find"
+        },
+        {
+            "id": 348,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 349,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 350,
+            "text": "evidence",
+            "lemma": "evidence"
+        },
+        {
+            "id": 351,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 352,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 353,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 354,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 355,
+            "text": "intended",
+            "lemma": "intend"
+        },
+        {
+            "id": 356,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 357,
+            "text": "cause",
+            "lemma": "cause"
+        },
+        {
+            "id": 358,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 359,
+            "text": "really",
+            "lemma": "really"
+        },
+        {
+            "id": 360,
+            "text": "serious",
+            "lemma": "serious"
+        },
+        {
+            "id": 361,
+            "text": "harm",
+            "lemma": "harm"
+        },
+        {
+            "id": 362,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 363,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 364,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 365,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 366,
+            "text": "hardly",
+            "lemma": "hardly"
+        },
+        {
+            "id": 367,
+            "text": "surprising",
+            "lemma": "surprising"
+        },
+        {
+            "id": 368,
+            "text": "since",
+            "lemma": "since"
+        },
+        {
+            "id": 369,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 370,
+            "text": "cut",
+            "lemma": "cut"
+        },
+        {
+            "id": 371,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 372,
+            "text": "throat",
+            "lemma": "throat"
+        },
+        {
+            "id": 373,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 374,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 375,
+            "text": "depth",
+            "lemma": "depth"
+        },
+        {
+            "id": 376,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 377,
+            "text": "6",
+            "lemma": "6"
+        },
+        {
+            "id": 378,
+            "text": "cm",
+            "lemma": "cm"
+        },
+        {
+            "id": 379,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 380,
+            "text": "Only",
+            "lemma": "only"
+        },
+        {
+            "id": 381,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 382,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 383,
+            "text": "skill",
+            "lemma": "skill"
+        },
+        {
+            "id": 384,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 385,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 386,
+            "text": "surgeon",
+            "lemma": "surgeon"
+        },
+        {
+            "id": 387,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 388,
+            "text": "Medway",
+            "lemma": "Medway"
+        },
+        {
+            "id": 389,
+            "text": "Maritime",
+            "lemma": "Maritime"
+        },
+        {
+            "id": 390,
+            "text": "Hospital",
+            "lemma": "Hospital"
+        },
+        {
+            "id": 391,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 392,
+            "text": "flow",
+            "lemma": "flow"
+        },
+        {
+            "id": 393,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 394,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 395,
+            "text": "blood",
+            "lemma": "blood"
+        },
+        {
+            "id": 396,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 397,
+            "text": "clipped",
+            "lemma": "clip"
+        },
+        {
+            "id": 398,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 399,
+            "text": "stemmed",
+            "lemma": "stem"
+        },
+        {
+            "id": 400,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 401,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 402,
+            "text": "Otherwise",
+            "lemma": "otherwise"
+        },
+        {
+            "id": 403,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 404,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 405,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 406,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 407,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 408,
+            "text": "convicted",
+            "lemma": "convict"
+        },
+        {
+            "id": 409,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 410,
+            "text": "murder",
+            "lemma": "murder"
+        },
+        {
+            "id": 411,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 412,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 413,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 414,
+            "text": "judge",
+            "lemma": "judge"
+        },
+        {
+            "id": 415,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 416,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 417,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 418,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 419,
+            "text": "inevitable",
+            "lemma": "inevitable"
+        },
+        {
+            "id": 420,
+            "text": "uncertainties",
+            "lemma": "uncertainty"
+        },
+        {
+            "id": 421,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 422,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 423,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 424,
+            "text": "happened",
+            "lemma": "happen"
+        },
+        {
+            "id": 425,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 426,
+            "text": "night",
+            "lemma": "night"
+        },
+        {
+            "id": 427,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 428,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 429,
+            "text": "continued",
+            "lemma": "continue"
+        },
+        {
+            "id": 430,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 431,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 432,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 433,
+            "text": "am",
+            "lemma": "be"
+        },
+        {
+            "id": 434,
+            "text": "quite",
+            "lemma": "quite"
+        },
+        {
+            "id": 435,
+            "text": "sure",
+            "lemma": "sure"
+        },
+        {
+            "id": 436,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 437,
+            "text": "did",
+            "lemma": "do"
+        },
+        {
+            "id": 438,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 439,
+            "text": "attend",
+            "lemma": "attend"
+        },
+        {
+            "id": 440,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 441,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 442,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 443,
+            "text": "intention",
+            "lemma": "intention"
+        },
+        {
+            "id": 444,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 445,
+            "text": "committing",
+            "lemma": "commit"
+        },
+        {
+            "id": 446,
+            "text": "acts",
+            "lemma": "act"
+        },
+        {
+            "id": 447,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 448,
+            "text": "violence",
+            "lemma": "violence"
+        },
+        {
+            "id": 449,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 450,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 451,
+            "text": "am",
+            "lemma": "be"
+        },
+        {
+            "id": 452,
+            "text": "quite",
+            "lemma": "quite"
+        },
+        {
+            "id": 453,
+            "text": "sure",
+            "lemma": "sure"
+        },
+        {
+            "id": 454,
+            "text": "something",
+            "lemma": "something"
+        },
+        {
+            "id": 455,
+            "text": "happened",
+            "lemma": "happen"
+        },
+        {
+            "id": 456,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 457,
+            "text": "night",
+            "lemma": "night"
+        },
+        {
+            "id": 458,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 459,
+            "text": "caused",
+            "lemma": "cause"
+        },
+        {
+            "id": 460,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 461,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 462,
+            "text": "lose",
+            "lemma": "lose"
+        },
+        {
+            "id": 463,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 464,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 465,
+            "text": "Maidstone",
+            "lemma": "Maidstone"
+        },
+        {
+            "id": 466,
+            "text": "Crown",
+            "lemma": "Crown"
+        },
+        {
+            "id": 467,
+            "text": "Court",
+            "lemma": "Court"
+        },
+        {
+            "id": 468,
+            "text": "heard",
+            "lemma": "hear"
+        },
+        {
+            "id": 469,
+            "text": "how",
+            "lemma": "how"
+        },
+        {
+            "id": 470,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 471,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 472,
+            "text": "caught",
+            "lemma": "catch"
+        },
+        {
+            "id": 473,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 474,
+            "text": "police",
+            "lemma": "police"
+        },
+        {
+            "id": 475,
+            "text": "examined",
+            "lemma": "examine"
+        },
+        {
+            "id": 476,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 477,
+            "text": "cigarette",
+            "lemma": "cigarette"
+        },
+        {
+            "id": 478,
+            "text": "butts",
+            "lemma": "butt"
+        },
+        {
+            "id": 479,
+            "text": "found",
+            "lemma": "find"
+        },
+        {
+            "id": 480,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 481,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 482,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 483,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 484,
+            "text": "garden",
+            "lemma": "garden"
+        },
+        {
+            "id": 485,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 486,
+            "text": "both",
+            "lemma": "both"
+        },
+        {
+            "id": 487,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 488,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 489,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 490,
+            "text": "DNA",
+            "lemma": "dna"
+        },
+        {
+            "id": 491,
+            "text": "linking",
+            "lemma": "link"
+        },
+        {
+            "id": 492,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 493,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 494,
+            "text": "attacker",
+            "lemma": "attacker"
+        },
+        {
+            "id": 495,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 496,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 497,
+            "text": "You",
+            "lemma": "you"
+        },
+        {
+            "id": 498,
+            "text": "say",
+            "lemma": "say"
+        },
+        {
+            "id": 499,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 500,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 501,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 502,
+            "text": "remember",
+            "lemma": "remember"
+        },
+        {
+            "id": 503,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 504,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 505,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 506,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 507,
+            "text": "know",
+            "lemma": "know"
+        },
+        {
+            "id": 508,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 509,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 510,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 511,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 512,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 513,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 514,
+            "text": "You",
+            "lemma": "you"
+        },
+        {
+            "id": 515,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 516,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 517,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 518,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 519,
+            "text": "prone",
+            "lemma": "prone"
+        },
+        {
+            "id": 520,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 521,
+            "text": "extreme",
+            "lemma": "extreme"
+        },
+        {
+            "id": 522,
+            "text": "violence",
+            "lemma": "violence"
+        },
+        {
+            "id": 523,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 524,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 525,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 526,
+            "text": "think",
+            "lemma": "think"
+        },
+        {
+            "id": 527,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 528,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 529,
+            "text": "combination",
+            "lemma": "combination"
+        },
+        {
+            "id": 530,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 531,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 532,
+            "text": "Class",
+            "lemma": "Class"
+        },
+        {
+            "id": 533,
+            "text": "A",
+            "lemma": "A"
+        },
+        {
+            "id": 534,
+            "text": "drug",
+            "lemma": "drug"
+        },
+        {
+            "id": 535,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 536,
+            "text": "used",
+            "lemma": "use"
+        },
+        {
+            "id": 537,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 538,
+            "text": "night",
+            "lemma": "night"
+        },
+        {
+            "id": 539,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 540,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 541,
+            "text": "revelation",
+            "lemma": "revelation"
+        },
+        {
+            "id": 542,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 543,
+            "text": "something",
+            "lemma": "something"
+        },
+        {
+            "id": 544,
+            "text": "possibly",
+            "lemma": "possibly"
+        },
+        {
+            "id": 545,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 546,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 547,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 548,
+            "text": "HIV",
+            "lemma": "HIV"
+        },
+        {
+            "id": 549,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 550,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 551,
+            "text": "part",
+            "lemma": "part"
+        },
+        {
+            "id": 552,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 553,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 554,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 555,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 556,
+            "text": "lost",
+            "lemma": "lose"
+        },
+        {
+            "id": 557,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 558,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 559,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 560,
+            "text": "You",
+            "lemma": "you"
+        },
+        {
+            "id": 561,
+            "text": "got",
+            "lemma": "get"
+        },
+        {
+            "id": 562,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 563,
+            "text": "knife",
+            "lemma": "knife"
+        },
+        {
+            "id": 564,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 565,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 566,
+            "text": "block",
+            "lemma": "block"
+        },
+        {
+            "id": 567,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 568,
+            "text": "went",
+            "lemma": "go"
+        },
+        {
+            "id": 569,
+            "text": "upstairs",
+            "lemma": "upstairs"
+        },
+        {
+            "id": 570,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 571,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 572,
+            "text": "cool",
+            "lemma": "cool"
+        },
+        {
+            "id": 573,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 574,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 575,
+            "text": "cucumber",
+            "lemma": "cucumber"
+        },
+        {
+            "id": 576,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 577,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 578,
+            "text": "slit",
+            "lemma": "slit"
+        },
+        {
+            "id": 579,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 580,
+            "text": "throat",
+            "lemma": "throat"
+        },
+        {
+            "id": 581,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 582,
+            "text": "Anyone",
+            "lemma": "anyone"
+        },
+        {
+            "id": 583,
+            "text": "listening",
+            "lemma": "listen"
+        },
+        {
+            "id": 584,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 585,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 586,
+            "text": "must",
+            "lemma": "must"
+        },
+        {
+            "id": 587,
+            "text": "realise",
+            "lemma": "realise"
+        },
+        {
+            "id": 588,
+            "text": "how",
+            "lemma": "how"
+        },
+        {
+            "id": 589,
+            "text": "serious",
+            "lemma": "serious"
+        },
+        {
+            "id": 590,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 591,
+            "text": "offending",
+            "lemma": "offending"
+        },
+        {
+            "id": 592,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 593,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 594,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 595,
+            "text": "You",
+            "lemma": "you"
+        },
+        {
+            "id": 596,
+            "text": "made",
+            "lemma": "make"
+        },
+        {
+            "id": 597,
+            "text": "your",
+            "lemma": "your"
+        },
+        {
+            "id": 598,
+            "text": "position",
+            "lemma": "position"
+        },
+        {
+            "id": 599,
+            "text": "worse",
+            "lemma": "worse"
+        },
+        {
+            "id": 600,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 601,
+            "text": "You",
+            "lemma": "you"
+        },
+        {
+            "id": 602,
+            "text": "pretended",
+            "lemma": "pretend"
+        },
+        {
+            "id": 603,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 604,
+            "text": "call",
+            "lemma": "call"
+        },
+        {
+            "id": 605,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 606,
+            "text": "ambulance",
+            "lemma": "ambulance"
+        },
+        {
+            "id": 607,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 608,
+            "text": "stole",
+            "lemma": "steal"
+        },
+        {
+            "id": 609,
+            "text": "items",
+            "lemma": "item"
+        },
+        {
+            "id": 610,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 611,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 612,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 613,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 614,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 615,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 616,
+            "text": "particularly",
+            "lemma": "particularly"
+        },
+        {
+            "id": 617,
+            "text": "callous",
+            "lemma": "callous"
+        },
+        {
+            "id": 618,
+            "text": "thing",
+            "lemma": "thing"
+        },
+        {
+            "id": 619,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 620,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 621,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 622,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 623,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 624,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 625,
+            "text": "lying",
+            "lemma": "lie"
+        },
+        {
+            "id": 626,
+            "text": "bleeding",
+            "lemma": "bleed"
+        },
+        {
+            "id": 627,
+            "text": "towards",
+            "lemma": "towards"
+        },
+        {
+            "id": 628,
+            "text": "fatality",
+            "lemma": "fatality"
+        },
+        {
+            "id": 629,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 630,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 631,
+            "text": "Judge",
+            "lemma": "Judge"
+        },
+        {
+            "id": 632,
+            "text": "Carey",
+            "lemma": "Carey"
+        },
+        {
+            "id": 633,
+            "text": "added",
+            "lemma": "add"
+        },
+        {
+            "id": 634,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 635,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 636,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 637,
+            "text": "am",
+            "lemma": "be"
+        },
+        {
+            "id": 638,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 639,
+            "text": "going",
+            "lemma": "go"
+        },
+        {
+            "id": 640,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 641,
+            "text": "make",
+            "lemma": "make"
+        },
+        {
+            "id": 642,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 643,
+            "text": "comment",
+            "lemma": "comment"
+        },
+        {
+            "id": 644,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 645,
+            "text": "Grindr",
+            "lemma": "Grindr"
+        },
+        {
+            "id": 646,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 647,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 648,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 649,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 650,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 651,
+            "text": "willing",
+            "lemma": "willing"
+        },
+        {
+            "id": 652,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 653,
+            "text": "take",
+            "lemma": "take"
+        },
+        {
+            "id": 654,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 655,
+            "text": "others",
+            "lemma": "other"
+        },
+        {
+            "id": 656,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 657,
+            "text": "hardly",
+            "lemma": "hardly"
+        },
+        {
+            "id": 658,
+            "text": "know",
+            "lemma": "know"
+        },
+        {
+            "id": 659,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 660,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 661,
+            "text": "relations",
+            "lemma": "relation"
+        },
+        {
+            "id": 662,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 663,
+            "text": "them",
+            "lemma": "they"
+        },
+        {
+            "id": 664,
+            "text": "when",
+            "lemma": "when"
+        },
+        {
+            "id": 665,
+            "text": "drugs",
+            "lemma": "drug"
+        },
+        {
+            "id": 666,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 667,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 668,
+            "text": "smoked",
+            "lemma": "smoke"
+        },
+        {
+            "id": 669,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 670,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 671,
+            "text": "does",
+            "lemma": "do"
+        },
+        {
+            "id": 672,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 673,
+            "text": "assist",
+            "lemma": "assist"
+        },
+        {
+            "id": 674,
+            "text": "anyone",
+            "lemma": "anyone"
+        },
+        {
+            "id": 675,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 676,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 677,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 678,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 679,
+            "text": "pretty",
+            "lemma": "pretty"
+        },
+        {
+            "id": 680,
+            "text": "shocking",
+            "lemma": "shocking"
+        },
+        {
+            "id": 681,
+            "text": "state",
+            "lemma": "state"
+        },
+        {
+            "id": 682,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 683,
+            "text": "affairs",
+            "lemma": "affair"
+        },
+        {
+            "id": 684,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 685,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 686,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 687,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 688,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 689,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 690,
+            "text": "now",
+            "lemma": "now"
+        },
+        {
+            "id": 691,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 692,
+            "text": "jailed",
+            "lemma": "jail"
+        },
+        {
+            "id": 693,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 694,
+            "text": "12",
+            "lemma": "12"
+        },
+        {
+            "id": 695,
+            "text": "years",
+            "lemma": "year"
+        },
+        {
+            "id": 696,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 697,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 698,
+            "text": "attack",
+            "lemma": "attack"
+        },
+        {
+            "id": 699,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 700,
+            "text": "called",
+            "lemma": "call"
+        },
+        {
+            "id": 701,
+            "text": "himself",
+            "lemma": "himself"
+        },
+        {
+            "id": 702,
+            "text": "Gypsy",
+            "lemma": "Gypsy"
+        },
+        {
+            "id": 703,
+            "text": "Boy",
+            "lemma": "Boy"
+        },
+        {
+            "id": 704,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 705,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 706,
+            "text": "dating",
+            "lemma": "date"
+        },
+        {
+            "id": 707,
+            "text": "app",
+            "lemma": "app"
+        },
+        {
+            "id": 708,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 709,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 710,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 711,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 712,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 713,
+            "text": "previously",
+            "lemma": "previously"
+        },
+        {
+            "id": 714,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 715,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 716,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 717,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 718,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 719,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 720,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 721,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 722,
+            "text": "sex",
+            "lemma": "sex"
+        },
+        {
+            "id": 723,
+            "text": "session",
+            "lemma": "session"
+        },
+        {
+            "id": 724,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 725,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 726,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 727,
+            "text": "evidence",
+            "lemma": "evidence"
+        },
+        {
+            "id": 728,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 729,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 730,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 731,
+            "text": "memory",
+            "lemma": "memory"
+        },
+        {
+            "id": 732,
+            "text": "blank",
+            "lemma": "blank"
+        },
+        {
+            "id": 733,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 734,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 735,
+            "text": "being",
+            "lemma": "be"
+        },
+        {
+            "id": 736,
+            "text": "injected",
+            "lemma": "inject"
+        },
+        {
+            "id": 737,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 738,
+            "text": "Mephedrone",
+            "lemma": "Mephedrone"
+        },
+        {
+            "id": 739,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 740,
+            "text": "During",
+            "lemma": "during"
+        },
+        {
+            "id": 741,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 742,
+            "text": "evidence",
+            "lemma": "evidence"
+        },
+        {
+            "id": 743,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 744,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 745,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 746,
+            "text": "court",
+            "lemma": "court"
+        },
+        {
+            "id": 747,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 748,
+            "text": "went",
+            "lemma": "go"
+        },
+        {
+            "id": 749,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 750,
+            "text": "see",
+            "lemma": "see"
+        },
+        {
+            "id": 751,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 752,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 753,
+            "text": "because",
+            "lemma": "because"
+        },
+        {
+            "id": 754,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 755,
+            "text": "knew",
+            "lemma": "know"
+        },
+        {
+            "id": 756,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 757,
+            "text": "could",
+            "lemma": "could"
+        },
+        {
+            "id": 758,
+            "text": "get",
+            "lemma": "get"
+        },
+        {
+            "id": 759,
+            "text": "drugs",
+            "lemma": "drug"
+        },
+        {
+            "id": 760,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 761,
+            "text": "sex",
+            "lemma": "sex"
+        },
+        {
+            "id": 762,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 763,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 764,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 765,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 766,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 767,
+            "text": "At",
+            "lemma": "at"
+        },
+        {
+            "id": 768,
+            "text": "some",
+            "lemma": "some"
+        },
+        {
+            "id": 769,
+            "text": "point",
+            "lemma": "point"
+        },
+        {
+            "id": 770,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 771,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 772,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 773,
+            "text": "glass",
+            "lemma": "glass"
+        },
+        {
+            "id": 774,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 775,
+            "text": "water",
+            "lemma": "water"
+        },
+        {
+            "id": 776,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 777,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 778,
+            "text": "couple",
+            "lemma": "couple"
+        },
+        {
+            "id": 779,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 780,
+            "text": "cigarettes",
+            "lemma": "cigarette"
+        },
+        {
+            "id": 781,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 782,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 783,
+            "text": "tied",
+            "lemma": "tie"
+        },
+        {
+            "id": 784,
+            "text": "my",
+            "lemma": "my"
+        },
+        {
+            "id": 785,
+            "text": "arm",
+            "lemma": "arm"
+        },
+        {
+            "id": 786,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 787,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 788,
+            "text": "elastic",
+            "lemma": "elastic"
+        },
+        {
+            "id": 789,
+            "text": "thing",
+            "lemma": "thing"
+        },
+        {
+            "id": 790,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 791,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 792,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 793,
+            "text": "waited",
+            "lemma": "wait"
+        },
+        {
+            "id": 794,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 795,
+            "text": "my",
+            "lemma": "my"
+        },
+        {
+            "id": 796,
+            "text": "vein",
+            "lemma": "vein"
+        },
+        {
+            "id": 797,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 798,
+            "text": "come",
+            "lemma": "come"
+        },
+        {
+            "id": 799,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 800,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 801,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 802,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 803,
+            "text": "injected",
+            "lemma": "inject"
+        },
+        {
+            "id": 804,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 805,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 806,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 807,
+            "text": "immediately",
+            "lemma": "immediately"
+        },
+        {
+            "id": 808,
+            "text": "felt",
+            "lemma": "feel"
+        },
+        {
+            "id": 809,
+            "text": "really",
+            "lemma": "really"
+        },
+        {
+            "id": 810,
+            "text": "strange",
+            "lemma": "strange"
+        },
+        {
+            "id": 811,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 812,
+            "text": "like",
+            "lemma": "like"
+        },
+        {
+            "id": 813,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 814,
+            "text": "wanted",
+            "lemma": "want"
+        },
+        {
+            "id": 815,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 816,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 817,
+            "text": "sick",
+            "lemma": "sick"
+        },
+        {
+            "id": 818,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 819,
+            "text": "like",
+            "lemma": "like"
+        },
+        {
+            "id": 820,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 821,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 822,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 823,
+            "text": "know",
+            "lemma": "know"
+        },
+        {
+            "id": 824,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 825,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 826,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 827,
+            "text": "doing",
+            "lemma": "do"
+        },
+        {
+            "id": 828,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 829,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 830,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 831,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 832,
+            "text": "thing",
+            "lemma": "thing"
+        },
+        {
+            "id": 833,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 834,
+            "text": "remember",
+            "lemma": "remember"
+        },
+        {
+            "id": 835,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 836,
+            "text": "saying",
+            "lemma": "say"
+        },
+        {
+            "id": 837,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 838,
+            "text": "me",
+            "lemma": "I"
+        },
+        {
+            "id": 839,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 840,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 841,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 842,
+            "text": "Just",
+            "lemma": "just"
+        },
+        {
+            "id": 843,
+            "text": "sit",
+            "lemma": "sit"
+        },
+        {
+            "id": 844,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 845,
+            "text": "straight",
+            "lemma": "straight"
+        },
+        {
+            "id": 846,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 847,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 848,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 849,
+            "text": "panic",
+            "lemma": "panic"
+        },
+        {
+            "id": 850,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 851,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 852,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 853,
+            "text": "next",
+            "lemma": "next"
+        },
+        {
+            "id": 854,
+            "text": "thing",
+            "lemma": "thing"
+        },
+        {
+            "id": 855,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 856,
+            "text": "remember",
+            "lemma": "remember"
+        },
+        {
+            "id": 857,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 858,
+            "text": "waking",
+            "lemma": "wake"
+        },
+        {
+            "id": 859,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 860,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 861,
+            "text": "my",
+            "lemma": "my"
+        },
+        {
+            "id": 862,
+            "text": "bed",
+            "lemma": "bed"
+        },
+        {
+            "id": 863,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 864,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 865,
+            "text": "4",
+            "lemma": "4"
+        },
+        {
+            "id": 866,
+            "text": "pm",
+            "lemma": "pm"
+        },
+        {
+            "id": 867,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 868,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 869,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 870,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 871,
+            "text": "remember",
+            "lemma": "remember"
+        },
+        {
+            "id": 872,
+            "text": "how",
+            "lemma": "how"
+        },
+        {
+            "id": 873,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 874,
+            "text": "got",
+            "lemma": "get"
+        },
+        {
+            "id": 875,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 876,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 877,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 878,
+            "text": "Asked",
+            "lemma": "ask"
+        },
+        {
+            "id": 879,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 880,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 881,
+            "text": "caused",
+            "lemma": "cause"
+        },
+        {
+            "id": 882,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 883,
+            "text": "wound",
+            "lemma": "wound"
+        },
+        {
+            "id": 884,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 885,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 886,
+            "text": "replied",
+            "lemma": "reply"
+        },
+        {
+            "id": 887,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 888,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 889,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 890,
+            "text": "ca",
+            "lemma": "can"
+        },
+        {
+            "id": 891,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 892,
+            "text": "answer",
+            "lemma": "answer"
+        },
+        {
+            "id": 893,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 894,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 895,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 896,
+            "text": "During",
+            "lemma": "during"
+        },
+        {
+            "id": 897,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 898,
+            "text": "trial",
+            "lemma": "trial"
+        },
+        {
+            "id": 899,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 900,
+            "text": "Maidstone",
+            "lemma": "Maidstone"
+        },
+        {
+            "id": 901,
+            "text": "Crown",
+            "lemma": "Crown"
+        },
+        {
+            "id": 902,
+            "text": "Court",
+            "lemma": "Court"
+        },
+        {
+            "id": 903,
+            "text": "Deborah",
+            "lemma": "Deborah"
+        },
+        {
+            "id": 904,
+            "text": "Charles",
+            "lemma": "Charles"
+        },
+        {
+            "id": 905,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 906,
+            "text": "prosecuting",
+            "lemma": "prosecute"
+        },
+        {
+            "id": 907,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 908,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 909,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 910,
+            "text": "pretended",
+            "lemma": "pretend"
+        },
+        {
+            "id": 911,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 912,
+            "text": "call",
+            "lemma": "call"
+        },
+        {
+            "id": 913,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 914,
+            "text": "ambulance",
+            "lemma": "ambulance"
+        },
+        {
+            "id": 915,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 916,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 917,
+            "text": "attack",
+            "lemma": "attack"
+        },
+        {
+            "id": 918,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 919,
+            "text": "She",
+            "lemma": "she"
+        },
+        {
+            "id": 920,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 921,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 922,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 923,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 924,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 925,
+            "text": "felt",
+            "lemma": "feel"
+        },
+        {
+            "id": 926,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 927,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 928,
+            "text": "someone",
+            "lemma": "someone"
+        },
+        {
+            "id": 929,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 930,
+            "text": "slapped",
+            "lemma": "slap"
+        },
+        {
+            "id": 931,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 932,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 933,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 934,
+            "text": "neck",
+            "lemma": "neck"
+        },
+        {
+            "id": 935,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 936,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 937,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 938,
+            "text": "put",
+            "lemma": "put"
+        },
+        {
+            "id": 939,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 940,
+            "text": "hand",
+            "lemma": "hand"
+        },
+        {
+            "id": 941,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 942,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 943,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 944,
+            "text": "neck",
+            "lemma": "neck"
+        },
+        {
+            "id": 945,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 946,
+            "text": "realised",
+            "lemma": "realise"
+        },
+        {
+            "id": 947,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 948,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 949,
+            "text": "covered",
+            "lemma": "cover"
+        },
+        {
+            "id": 950,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 951,
+            "text": "blood",
+            "lemma": "blood"
+        },
+        {
+            "id": 952,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 953,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 954,
+            "text": "never",
+            "lemma": "never"
+        },
+        {
+            "id": 955,
+            "text": "saw",
+            "lemma": "see"
+        },
+        {
+            "id": 956,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 957,
+            "text": "weapon",
+            "lemma": "weapon"
+        },
+        {
+            "id": 958,
+            "text": "coming",
+            "lemma": "come"
+        },
+        {
+            "id": 959,
+            "text": "towards",
+            "lemma": "towards"
+        },
+        {
+            "id": 960,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 961,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 962,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 963,
+            "text": "happened",
+            "lemma": "happen"
+        },
+        {
+            "id": 964,
+            "text": "too",
+            "lemma": "too"
+        },
+        {
+            "id": 965,
+            "text": "quickly",
+            "lemma": "quickly"
+        },
+        {
+            "id": 966,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 967,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 968,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 969,
+            "text": "just",
+            "lemma": "just"
+        },
+        {
+            "id": 970,
+            "text": "thought",
+            "lemma": "think"
+        },
+        {
+            "id": 971,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 972,
+            "text": "defendant",
+            "lemma": "defendant"
+        },
+        {
+            "id": 973,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 974,
+            "text": "leaning",
+            "lemma": "lean"
+        },
+        {
+            "id": 975,
+            "text": "towards",
+            "lemma": "towards"
+        },
+        {
+            "id": 976,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 977,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 978,
+            "text": "perhaps",
+            "lemma": "perhaps"
+        },
+        {
+            "id": 979,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 980,
+            "text": "kiss",
+            "lemma": "kiss"
+        },
+        {
+            "id": 981,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 982,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 983,
+            "text": "carry",
+            "lemma": "carry"
+        },
+        {
+            "id": 984,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 985,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 986,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 987,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 988,
+            "text": "doing",
+            "lemma": "do"
+        },
+        {
+            "id": 989,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 990,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 991,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 992,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 993,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 994,
+            "text": "begging",
+            "lemma": "beg"
+        },
+        {
+            "id": 995,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 996,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 997,
+            "text": "call",
+            "lemma": "call"
+        },
+        {
+            "id": 998,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 999,
+            "text": "ambulance",
+            "lemma": "ambulance"
+        },
+        {
+            "id": 1000,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 1001,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 1002,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 1003,
+            "text": "pretended",
+            "lemma": "pretend"
+        },
+        {
+            "id": 1004,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 1005,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 1006,
+            "text": "just",
+            "lemma": "just"
+        },
+        {
+            "id": 1007,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 1008,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 1009,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 1010,
+            "text": "pretended",
+            "lemma": "pretend"
+        },
+        {
+            "id": 1011,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 1012,
+            "text": "make",
+            "lemma": "make"
+        },
+        {
+            "id": 1013,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 1014,
+            "text": "call",
+            "lemma": "call"
+        },
+        {
+            "id": 1015,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 1016,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 1017,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 1018,
+            "text": "ambulance",
+            "lemma": "ambulance"
+        },
+        {
+            "id": 1019,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 1020,
+            "text": "coming",
+            "lemma": "come"
+        },
+        {
+            "id": 1021,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 1022,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 1023,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 1024,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 1025,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 1026,
+            "text": "left",
+            "lemma": "leave"
+        },
+        {
+            "id": 1027,
+            "text": "lying",
+            "lemma": "lie"
+        },
+        {
+            "id": 1028,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 1029,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1030,
+            "text": "bed",
+            "lemma": "bed"
+        },
+        {
+            "id": 1031,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 1032,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 1033,
+            "text": "wound",
+            "lemma": "wound"
+        },
+        {
+            "id": 1034,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 1035,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 1036,
+            "text": "life",
+            "lemma": "life"
+        },
+        {
+            "id": 1037,
+            "text": "threatening",
+            "lemma": "threaten"
+        },
+        {
+            "id": 1038,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 1039,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 1040,
+            "text": "At",
+            "lemma": "at"
+        },
+        {
+            "id": 1041,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1042,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 1043,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 1044,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1045,
+            "text": "alleged",
+            "lemma": "allege"
+        },
+        {
+            "id": 1046,
+            "text": "attack",
+            "lemma": "attack"
+        },
+        {
+            "id": 1047,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 1048,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 1049,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 1050,
+            "text": "living",
+            "lemma": "live"
+        },
+        {
+            "id": 1051,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 1052,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 1053,
+            "text": "friend",
+            "lemma": "friend"
+        },
+        {
+            "id": 1054,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 1055,
+            "text": "whom",
+            "lemma": "whom"
+        },
+        {
+            "id": 1056,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 1057,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 1058,
+            "text": "previously",
+            "lemma": "previously"
+        },
+        {
+            "id": 1059,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 1060,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 1061,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 1062,
+            "text": "relationship",
+            "lemma": "relationship"
+        },
+        {
+            "id": 1063,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 1064,
+            "text": "Miss",
+            "lemma": "Miss"
+        },
+        {
+            "id": 1065,
+            "text": "Charles",
+            "lemma": "Charles"
+        },
+        {
+            "id": 1066,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 1067,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 1068,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 1069,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 1070,
+            "text": "spent",
+            "lemma": "spend"
+        },
+        {
+            "id": 1071,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1072,
+            "text": "previous",
+            "lemma": "previous"
+        },
+        {
+            "id": 1073,
+            "text": "night",
+            "lemma": "night"
+        },
+        {
+            "id": 1074,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 1075,
+            "text": "another",
+            "lemma": "another"
+        },
+        {
+            "id": 1076,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 1077,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 1078,
+            "text": "meeting",
+            "lemma": "meet"
+        },
+        {
+            "id": 1079,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 1080,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 1081,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1082,
+            "text": "dating",
+            "lemma": "date"
+        },
+        {
+            "id": 1083,
+            "text": "app",
+            "lemma": "app"
+        },
+        {
+            "id": 1084,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 1085,
+            "text": "When",
+            "lemma": "when"
+        },
+        {
+            "id": 1086,
+            "text": "Dunn",
+            "lemma": "Dunn"
+        },
+        {
+            "id": 1087,
+            "text": "arrived",
+            "lemma": "arrive"
+        },
+        {
+            "id": 1088,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 1089,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 1090,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 1091,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 1092,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 1093,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 1094,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 1095,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 1096,
+            "text": "brought",
+            "lemma": "bring"
+        },
+        {
+            "id": 1097,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 1098,
+            "text": "drug",
+            "lemma": "drug"
+        },
+        {
+            "id": 1099,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 1100,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 1101,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 1102,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 1103,
+            "text": "both",
+            "lemma": "both"
+        },
+        {
+            "id": 1104,
+            "text": "took",
+            "lemma": "take"
+        },
+        {
+            "id": 1105,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 1106,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 1107,
+            "text": "court",
+            "lemma": "court"
+        },
+        {
+            "id": 1108,
+            "text": "heard",
+            "lemma": "hear"
+        },
+        {
+            "id": 1109,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 1110,
+            "text": "Garrod",
+            "lemma": "Garrod"
+        },
+        {
+            "id": 1111,
+            "text": "regularly",
+            "lemma": "regularly"
+        },
+        {
+            "id": 1112,
+            "text": "used",
+            "lemma": "use"
+        },
+        {
+            "id": 1113,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 1114,
+            "text": "drug",
+            "lemma": "drug"
+        },
+        {
+            "id": 1115,
+            "text": "called",
+            "lemma": "call"
+        },
+        {
+            "id": 1116,
+            "text": "Tina",
+            "lemma": "Tina"
+        },
+        {
+            "id": 1117,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 1118,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 1119,
+            "text": "type",
+            "lemma": "type"
+        },
+        {
+            "id": 1120,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 1121,
+            "text": "crystal",
+            "lemma": "crystal"
+        },
+        {
+            "id": 1122,
+            "text": "meth",
+            "lemma": "meth"
+        },
+        {
+            "id": 1123,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 1124,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 1125,
+            "text": "sexual",
+            "lemma": "sexual"
+        },
+        {
+            "id": 1126,
+            "text": "encounters",
+            "lemma": "encounter"
+        },
+        {
+            "id": 1127,
+            "text": ".",
+            "lemma": "."
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Shane",
+            "lemma": "Shane",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "Dunn",
+            "lemma": "Dunn",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": ",",
+            "lemma": ",",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 3,
+            "text": "25",
+            "lemma": "25",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": ",",
+            "lemma": ",",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 5,
+            "text": "met",
+            "lemma": "meet",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 6,
+            "text": "victim",
+            "lemma": "victim",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "Ian",
+            "lemma": "Ian",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "Garrod",
+            "lemma": "Garrod",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": ",",
+            "lemma": ",",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 10,
+            "text": "55",
+            "lemma": "55",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": ",",
+            "lemma": ",",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 12,
+            "text": "on",
+            "lemma": "on",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "gay",
+            "lemma": "gay",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "dating",
+            "lemma": "date",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "app",
+            "lemma": "app",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "Grindr",
+            "lemma": "Grindr",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 18,
+            "text": "He",
+            "lemma": "he",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": "went",
+            "lemma": "go",
+            "spans": [
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 20,
+            "text": "back",
+            "lemma": "back",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 21,
+            "text": "to",
+            "lemma": "to",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 22,
+            "text": "Mr",
+            "lemma": "Mr",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 23,
+            "text": "Garrod",
+            "lemma": "Garrod",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 24,
+            "text": "'s",
+            "lemma": "'s",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 25,
+            "text": "home",
+            "lemma": "home",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 26,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 27,
+            "text": "Medway",
+            "lemma": "Medway",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 28,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 29,
+            "text": "Kent",
+            "lemma": "Kent",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 30,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 31,
+            "text": "for",
+            "lemma": "for",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 32,
+            "text": "sex",
+            "lemma": "sex",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 33,
+            "text": "in",
+            "lemma": "in",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 34,
+            "text": "September",
+            "lemma": "September",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 35,
+            "text": "last",
+            "lemma": "last",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 36,
+            "text": "year",
+            "lemma": "year",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 37,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 38,
+            "text": "But",
+            "lemma": "but",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 39,
+            "text": "when",
+            "lemma": "when",
+            "spans": [
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 40,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                9,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 41,
+            "text": "55",
+            "lemma": "55",
+            "spans": [
+                9,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 42,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                9,
+                10,
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 43,
+            "text": "year",
+            "lemma": "year",
+            "spans": [
+                9,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 44,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                9,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 45,
+            "text": "old",
+            "lemma": "old",
+            "spans": [
+                9,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 46,
+            "text": "sat",
+            "lemma": "sit",
+            "spans": [
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 47,
+            "text": "on",
+            "lemma": "on",
+            "spans": [
+                9,
+                12,
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 48,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                9,
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 49,
+            "text": "bed",
+            "lemma": "bed",
+            "spans": [
+                9,
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 50,
+            "text": ",",
+            "lemma": ",",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 51,
+            "text": "Dunn",
+            "lemma": "Dunn",
+            "spans": [
+                14
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 52,
+            "text": "stabbed",
+            "lemma": "stab",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 53,
+            "text": "him",
+            "lemma": "he",
+            "spans": [
+                15
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 54,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 55,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 56,
+            "text": "throat",
+            "lemma": "throat",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 57,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 58,
+            "text": "Dunn",
+            "lemma": "Dunn",
+            "spans": [
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 59,
+            "text": ",",
+            "lemma": ",",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 60,
+            "text": "who",
+            "lemma": "who",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 61,
+            "text": "was",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 62,
+            "text": "high",
+            "lemma": "high",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 63,
+            "text": "on",
+            "lemma": "on",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 64,
+            "text": "Class",
+            "lemma": "Class",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 65,
+            "text": "A",
+            "lemma": "A",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 66,
+            "text": "Mephedrone",
+            "lemma": "Mephedrone",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 67,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 68,
+            "text": "then",
+            "lemma": "then",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 69,
+            "text": "left",
+            "lemma": "leave",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 70,
+            "text": "him",
+            "lemma": "he",
+            "spans": [
+                19
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 71,
+            "text": "for",
+            "lemma": "for",
+            "spans": [
+                20
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 72,
+            "text": "dead",
+            "lemma": "dead",
+            "spans": [
+                20
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 73,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 74,
+            "text": "He",
+            "lemma": "he",
+            "spans": [
+                21
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 75,
+            "text": "fled",
+            "lemma": "flee",
+            "spans": [
+                22
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 76,
+            "text": "from",
+            "lemma": "from",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 77,
+            "text": "property",
+            "lemma": "property",
+            "spans": [
+                23
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 78,
+            "text": "with",
+            "lemma": "with",
+            "spans": [
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 79,
+            "text": "victim",
+            "lemma": "victim",
+            "spans": [
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 80,
+            "text": "'s",
+            "lemma": "'s",
+            "spans": [
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 81,
+            "text": "wallet",
+            "lemma": "wallet",
+            "spans": [
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 82,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 83,
+            "text": "iPhone",
+            "lemma": "iPhone",
+            "spans": [
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 84,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 85,
+            "text": "iPad",
+            "lemma": "iPad",
+            "spans": [
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 86,
+            "text": "and",
+            "lemma": "and",
+            "spans": [
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 87,
+            "text": "jewellery",
+            "lemma": "jewellery",
+            "spans": [
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 88,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 89,
+            "text": "But",
+            "lemma": "but",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 90,
+            "text": "he",
+            "lemma": "he",
+            "spans": [
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 91,
+            "text": "was",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 92,
+            "text": "caught",
+            "lemma": "catch",
+            "spans": [
+                26
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 93,
+            "text": "after",
+            "lemma": "after",
+            "spans": [
+                27
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 94,
+            "text": "police",
+            "lemma": "police",
+            "spans": [
+                27,
+                28
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 95,
+            "text": "examined",
+            "lemma": "examine",
+            "spans": [
+                27,
+                29
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 96,
+            "text": "two",
+            "lemma": "two",
+            "spans": [
+                27,
+                30
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 97,
+            "text": "cigarette",
+            "lemma": "cigarette",
+            "spans": [
+                27,
+                30
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 98,
+            "text": "butts",
+            "lemma": "butt",
+            "spans": [
+                27,
+                30
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 99,
+            "text": "found",
+            "lemma": "find",
+            "spans": [
+                27,
+                31
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 100,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                27,
+                32
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 101,
+            "text": "garden",
+            "lemma": "garden",
+            "spans": [
+                27,
+                32,
+                33
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 102,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 103,
+            "text": "Both",
+            "lemma": "both",
+            "spans": [
+                34
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 104,
+            "text": "had",
+            "lemma": "have",
+            "spans": [
+                35
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 105,
+            "text": "DNA",
+            "lemma": "dna",
+            "spans": [
+                36,
+                37
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 106,
+            "text": "linking",
+            "lemma": "link",
+            "spans": [
+                37,
+                38
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 107,
+            "text": "to",
+            "lemma": "to",
+            "spans": [
+                37
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 108,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                37,
+                39
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 109,
+            "text": "attacker",
+            "lemma": "attacker",
+            "spans": [
+                37,
+                39
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 110,
+            "text": ",",
+            "lemma": ",",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 111,
+            "text": "who",
+            "lemma": "who",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 112,
+            "text": "has",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 113,
+            "text": "now",
+            "lemma": "now",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 114,
+            "text": "been",
+            "lemma": "be",
+            "spans": [
+                40
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 115,
+            "text": "jailed",
+            "lemma": "jail",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 116,
+            "text": "for",
+            "lemma": "for",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 117,
+            "text": "12",
+            "lemma": "12",
+            "spans": [
+                41
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 118,
+            "text": "years",
+            "lemma": "year",
+            "spans": [
+                41
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 119,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 2,
+            "qaIds": [
+                0,
+                3
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 3,
+            "end": 4,
+            "qaIds": [
+                0,
+                1,
+                2
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 6,
+            "end": 9,
+            "qaIds": [
+                1,
+                4
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 10,
+            "end": 11,
+            "qaIds": [
+                3,
+                4,
+                5
+            ],
+            "id": 3,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 12,
+            "end": 17,
+            "qaIds": [
+                2,
+                5
+            ],
+            "id": 4,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 18,
+            "end": 19,
+            "qaIds": [
+                6
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 19,
+            "end": 20,
+            "qaIds": [
+                6,
+                7,
+                8
+            ],
+            "id": 6,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 20,
+            "end": 33,
+            "qaIds": [
+                7
+            ],
+            "id": 7,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 34,
+            "end": 37,
+            "qaIds": [
+                8
+            ],
+            "id": 8,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 39,
+            "end": 50,
+            "qaIds": [
+                12
+            ],
+            "id": 9,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 40,
+            "end": 46,
+            "qaIds": [
+                9
+            ],
+            "id": 10,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 42,
+            "end": 43,
+            "qaIds": [
+                9,
+                10,
+                11
+            ],
+            "id": 11,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 47,
+            "end": 48,
+            "qaIds": [
+                12,
+                13,
+                14,
+                15
+            ],
+            "id": 12,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 47,
+            "end": 50,
+            "qaIds": [
+                10
+            ],
+            "id": 13,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 51,
+            "end": 52,
+            "qaIds": [
+                11,
+                13
+            ],
+            "id": 14,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 53,
+            "end": 54,
+            "qaIds": [
+                14
+            ],
+            "id": 15,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 54,
+            "end": 57,
+            "qaIds": [
+                15
+            ],
+            "id": 16,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 58,
+            "end": 59,
+            "qaIds": [
+                16
+            ],
+            "id": 17,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 67,
+            "end": 68,
+            "qaIds": [
+                16,
+                17,
+                18
+            ],
+            "id": 18,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 70,
+            "end": 71,
+            "qaIds": [
+                17
+            ],
+            "id": 19,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 71,
+            "end": 73,
+            "qaIds": [
+                18
+            ],
+            "id": 20,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 74,
+            "end": 75,
+            "qaIds": [
+                19
+            ],
+            "id": 21,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 75,
+            "end": 76,
+            "qaIds": [
+                19,
+                20,
+                21
+            ],
+            "id": 22,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 77,
+            "end": 78,
+            "qaIds": [
+                20
+            ],
+            "id": 23,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 78,
+            "end": 88,
+            "qaIds": [
+                21
+            ],
+            "id": 24,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 90,
+            "end": 91,
+            "qaIds": [
+                22
+            ],
+            "id": 25,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 92,
+            "end": 93,
+            "qaIds": [
+                22,
+                23
+            ],
+            "id": 26,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 93,
+            "end": 102,
+            "qaIds": [
+                23
+            ],
+            "id": 27,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 94,
+            "end": 95,
+            "qaIds": [
+                24
+            ],
+            "id": 28,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 95,
+            "end": 96,
+            "qaIds": [
+                24,
+                25,
+                26
+            ],
+            "id": 29,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 96,
+            "end": 99,
+            "qaIds": [
+                25,
+                27
+            ],
+            "id": 30,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 99,
+            "end": 100,
+            "qaIds": [
+                27,
+                28
+            ],
+            "id": 31,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 100,
+            "end": 102,
+            "qaIds": [
+                28
+            ],
+            "id": 32,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 101,
+            "end": 102,
+            "qaIds": [
+                26
+            ],
+            "id": 33,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 103,
+            "end": 104,
+            "qaIds": [
+                29
+            ],
+            "id": 34,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 104,
+            "end": 105,
+            "qaIds": [
+                29,
+                30
+            ],
+            "id": 35,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 105,
+            "end": 106,
+            "qaIds": [
+                31
+            ],
+            "id": 36,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 105,
+            "end": 110,
+            "qaIds": [
+                30
+            ],
+            "id": 37,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 106,
+            "end": 107,
+            "qaIds": [
+                31,
+                32
+            ],
+            "id": 38,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 108,
+            "end": 110,
+            "qaIds": [
+                32,
+                33
+            ],
+            "id": 39,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 114,
+            "end": 115,
+            "qaIds": [
+                33,
+                34
+            ],
+            "id": 40,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 117,
+            "end": 119,
+            "qaIds": [
+                34
+            ],
+            "id": 41,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "met",
+            "questionId": 0,
+            "question": "who met someone ?",
+            "answer": "Shane Dunn",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                10
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                2
+            ],
+            "answerId": "0-2",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "met",
+            "questionId": 1,
+            "question": "who did someone meet ?",
+            "answer": "victim Ian Garrod",
+            "answerStartChar": [
+                20
+            ],
+            "answerEndChar": [
+                37
+            ],
+            "answerStartToken": [
+                6
+            ],
+            "answerEndToken": [
+                9
+            ],
+            "answerId": "6-9",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "met",
+            "questionId": 2,
+            "question": "where did someone meet someone ?",
+            "answer": "on gay dating app Grindr",
+            "answerStartChar": [
+                43
+            ],
+            "answerEndChar": [
+                67
+            ],
+            "answerStartToken": [
+                12
+            ],
+            "answerEndToken": [
+                17
+            ],
+            "answerId": "12-17",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "dating",
+            "questionId": 0,
+            "question": "who met someone ?",
+            "answer": "Shane Dunn",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                10
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                2
+            ],
+            "answerId": "0-2",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "dating",
+            "questionId": 1,
+            "question": "who did someone meet ?",
+            "answer": "victim Ian Garrod",
+            "answerStartChar": [
+                20
+            ],
+            "answerEndChar": [
+                37
+            ],
+            "answerStartToken": [
+                6
+            ],
+            "answerEndToken": [
+                9
+            ],
+            "answerId": "6-9",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "dating",
+            "questionId": 2,
+            "question": "where did someone meet someone ?",
+            "answer": "on gay dating app Grindr",
+            "answerStartChar": [
+                43
+            ],
+            "answerEndChar": [
+                67
+            ],
+            "answerStartToken": [
+                12
+            ],
+            "answerEndToken": [
+                17
+            ],
+            "answerId": "12-17",
+            "id": 5
+        },
+        {
+            "sentId": 1,
+            "predicateId": "19-20",
+            "predicate": "went",
+            "questionId": 0,
+            "question": "who went somewhere ?",
+            "answer": "He",
+            "answerStartChar": [
+                69
+            ],
+            "answerEndChar": [
+                71
+            ],
+            "answerStartToken": [
+                18
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "18-19",
+            "id": 6
+        },
+        {
+            "sentId": 1,
+            "predicateId": "19-20",
+            "predicate": "went",
+            "questionId": 1,
+            "question": "where did someone go ?",
+            "answer": "back to Mr Garrod's home in Medway, Kent, for sex",
+            "answerStartChar": [
+                77
+            ],
+            "answerEndChar": [
+                126
+            ],
+            "answerStartToken": [
+                20
+            ],
+            "answerEndToken": [
+                33
+            ],
+            "answerId": "20-33",
+            "id": 7
+        },
+        {
+            "sentId": 1,
+            "predicateId": "19-20",
+            "predicate": "went",
+            "questionId": 2,
+            "question": "when did someone go somewhere ?",
+            "answer": "September last year",
+            "answerStartChar": [
+                130
+            ],
+            "answerEndChar": [
+                149
+            ],
+            "answerStartToken": [
+                34
+            ],
+            "answerEndToken": [
+                37
+            ],
+            "answerId": "34-37",
+            "id": 8
+        },
+        {
+            "sentId": 2,
+            "predicateId": "42-43",
+            "predicate": "sat",
+            "questionId": 0,
+            "question": "who sat somewhere ?",
+            "answer": "the 55-year-old",
+            "answerStartChar": [
+                160
+            ],
+            "answerEndChar": [
+                175
+            ],
+            "answerStartToken": [
+                40
+            ],
+            "answerEndToken": [
+                46
+            ],
+            "answerId": "40-46",
+            "id": 9
+        },
+        {
+            "sentId": 2,
+            "predicateId": "42-43",
+            "predicate": "sat",
+            "questionId": 1,
+            "question": "where did someone stab someone ?",
+            "answer": "on the bed",
+            "answerStartChar": [
+                180
+            ],
+            "answerEndChar": [
+                190
+            ],
+            "answerStartToken": [
+                47
+            ],
+            "answerEndToken": [
+                50
+            ],
+            "answerId": "47-50",
+            "id": 10
+        },
+        {
+            "sentId": 2,
+            "predicateId": "42-43",
+            "predicate": "sat",
+            "questionId": 2,
+            "question": "who did someone stab somewhere ?",
+            "answer": "Dunn",
+            "answerStartChar": [
+                192
+            ],
+            "answerEndChar": [
+                196
+            ],
+            "answerStartToken": [
+                51
+            ],
+            "answerEndToken": [
+                52
+            ],
+            "answerId": "51-52",
+            "id": 11
+        },
+        {
+            "sentId": 2,
+            "predicateId": "47-48",
+            "predicate": "stabbed",
+            "questionId": 0,
+            "question": "when did someone stab someone ?",
+            "answer": "when the 55-year-old sat on the bed",
+            "answerStartChar": [
+                155
+            ],
+            "answerEndChar": [
+                190
+            ],
+            "answerStartToken": [
+                39
+            ],
+            "answerEndToken": [
+                50
+            ],
+            "answerId": "39-50",
+            "id": 12
+        },
+        {
+            "sentId": 2,
+            "predicateId": "47-48",
+            "predicate": "stabbed",
+            "questionId": 1,
+            "question": "who stabbed someone ?",
+            "answer": "Dunn",
+            "answerStartChar": [
+                192
+            ],
+            "answerEndChar": [
+                196
+            ],
+            "answerStartToken": [
+                51
+            ],
+            "answerEndToken": [
+                52
+            ],
+            "answerId": "51-52",
+            "id": 13
+        },
+        {
+            "sentId": 2,
+            "predicateId": "47-48",
+            "predicate": "stabbed",
+            "questionId": 2,
+            "question": "who did someone stab ?",
+            "answer": "him",
+            "answerStartChar": [
+                205
+            ],
+            "answerEndChar": [
+                208
+            ],
+            "answerStartToken": [
+                53
+            ],
+            "answerEndToken": [
+                54
+            ],
+            "answerId": "53-54",
+            "id": 14
+        },
+        {
+            "sentId": 2,
+            "predicateId": "47-48",
+            "predicate": "stabbed",
+            "questionId": 3,
+            "question": "where did someone stab someone ?",
+            "answer": "in the throat",
+            "answerStartChar": [
+                209
+            ],
+            "answerEndChar": [
+                222
+            ],
+            "answerStartToken": [
+                54
+            ],
+            "answerEndToken": [
+                57
+            ],
+            "answerId": "54-57",
+            "id": 15
+        },
+        {
+            "sentId": 3,
+            "predicateId": "67-68",
+            "predicate": "left",
+            "questionId": 0,
+            "question": "who left someone ?",
+            "answer": "Dunn",
+            "answerStartChar": [
+                224
+            ],
+            "answerEndChar": [
+                228
+            ],
+            "answerStartToken": [
+                58
+            ],
+            "answerEndToken": [
+                59
+            ],
+            "answerId": "58-59",
+            "id": 16
+        },
+        {
+            "sentId": 3,
+            "predicateId": "67-68",
+            "predicate": "left",
+            "questionId": 1,
+            "question": "who did someone leave ?",
+            "answer": "him",
+            "answerStartChar": [
+                276
+            ],
+            "answerEndChar": [
+                279
+            ],
+            "answerStartToken": [
+                70
+            ],
+            "answerEndToken": [
+                71
+            ],
+            "answerId": "70-71",
+            "id": 17
+        },
+        {
+            "sentId": 3,
+            "predicateId": "67-68",
+            "predicate": "left",
+            "questionId": 2,
+            "question": "why did someone leave someone ?",
+            "answer": "for dead",
+            "answerStartChar": [
+                280
+            ],
+            "answerEndChar": [
+                288
+            ],
+            "answerStartToken": [
+                71
+            ],
+            "answerEndToken": [
+                73
+            ],
+            "answerId": "71-73",
+            "id": 18
+        },
+        {
+            "sentId": 4,
+            "predicateId": "75-76",
+            "predicate": "fled",
+            "questionId": 0,
+            "question": "who fled from something ?",
+            "answer": "He",
+            "answerStartChar": [
+                290
+            ],
+            "answerEndChar": [
+                292
+            ],
+            "answerStartToken": [
+                74
+            ],
+            "answerEndToken": [
+                75
+            ],
+            "answerId": "74-75",
+            "id": 19
+        },
+        {
+            "sentId": 4,
+            "predicateId": "75-76",
+            "predicate": "fled",
+            "questionId": 1,
+            "question": "what did someone fled from ?",
+            "answer": "property",
+            "answerStartChar": [
+                303
+            ],
+            "answerEndChar": [
+                311
+            ],
+            "answerStartToken": [
+                77
+            ],
+            "answerEndToken": [
+                78
+            ],
+            "answerId": "77-78",
+            "id": 20
+        },
+        {
+            "sentId": 4,
+            "predicateId": "75-76",
+            "predicate": "fled",
+            "questionId": 2,
+            "question": "how did someone fled from something ?",
+            "answer": "with victim's wallet, iPhone, iPad and jewellery",
+            "answerStartChar": [
+                312
+            ],
+            "answerEndChar": [
+                360
+            ],
+            "answerStartToken": [
+                78
+            ],
+            "answerEndToken": [
+                88
+            ],
+            "answerId": "78-88",
+            "id": 21
+        },
+        {
+            "sentId": 5,
+            "predicateId": "92-93",
+            "predicate": "caught",
+            "questionId": 0,
+            "question": "who was caught ?",
+            "answer": "he",
+            "answerStartChar": [
+                366
+            ],
+            "answerEndChar": [
+                368
+            ],
+            "answerStartToken": [
+                90
+            ],
+            "answerEndToken": [
+                91
+            ],
+            "answerId": "90-91",
+            "id": 22
+        },
+        {
+            "sentId": 5,
+            "predicateId": "92-93",
+            "predicate": "caught",
+            "questionId": 1,
+            "question": "when was someone caught ?",
+            "answer": "after police examined two cigarette butts found in garden",
+            "answerStartChar": [
+                380
+            ],
+            "answerEndChar": [
+                437
+            ],
+            "answerStartToken": [
+                93
+            ],
+            "answerEndToken": [
+                102
+            ],
+            "answerId": "93-102",
+            "id": 23
+        },
+        {
+            "sentId": 5,
+            "predicateId": "95-96",
+            "predicate": "examined",
+            "questionId": 0,
+            "question": "who examined something ?",
+            "answer": "police",
+            "answerStartChar": [
+                386
+            ],
+            "answerEndChar": [
+                392
+            ],
+            "answerStartToken": [
+                94
+            ],
+            "answerEndToken": [
+                95
+            ],
+            "answerId": "94-95",
+            "id": 24
+        },
+        {
+            "sentId": 5,
+            "predicateId": "95-96",
+            "predicate": "examined",
+            "questionId": 1,
+            "question": "what did someone examine ?",
+            "answer": "two cigarette butts",
+            "answerStartChar": [
+                402
+            ],
+            "answerEndChar": [
+                421
+            ],
+            "answerStartToken": [
+                96
+            ],
+            "answerEndToken": [
+                99
+            ],
+            "answerId": "96-99",
+            "id": 25
+        },
+        {
+            "sentId": 5,
+            "predicateId": "95-96",
+            "predicate": "examined",
+            "questionId": 2,
+            "question": "where did someone examine something ?",
+            "answer": "garden",
+            "answerStartChar": [
+                431
+            ],
+            "answerEndChar": [
+                437
+            ],
+            "answerStartToken": [
+                101
+            ],
+            "answerEndToken": [
+                102
+            ],
+            "answerId": "101-102",
+            "id": 26
+        },
+        {
+            "sentId": 5,
+            "predicateId": "99-100",
+            "predicate": "found",
+            "questionId": 0,
+            "question": "what was found somewhere ?",
+            "answer": "two cigarette butts",
+            "answerStartChar": [
+                402
+            ],
+            "answerEndChar": [
+                421
+            ],
+            "answerStartToken": [
+                96
+            ],
+            "answerEndToken": [
+                99
+            ],
+            "answerId": "96-99",
+            "id": 27
+        },
+        {
+            "sentId": 5,
+            "predicateId": "99-100",
+            "predicate": "found",
+            "questionId": 1,
+            "question": "where was something found ?",
+            "answer": "in garden",
+            "answerStartChar": [
+                428
+            ],
+            "answerEndChar": [
+                437
+            ],
+            "answerStartToken": [
+                100
+            ],
+            "answerEndToken": [
+                102
+            ],
+            "answerId": "100-102",
+            "id": 28
+        },
+        {
+            "sentId": 6,
+            "predicateId": "104-105",
+            "predicate": "had",
+            "questionId": 0,
+            "question": "who had something ?",
+            "answer": "Both",
+            "answerStartChar": [
+                439
+            ],
+            "answerEndChar": [
+                443
+            ],
+            "answerStartToken": [
+                103
+            ],
+            "answerEndToken": [
+                104
+            ],
+            "answerId": "103-104",
+            "id": 29
+        },
+        {
+            "sentId": 6,
+            "predicateId": "104-105",
+            "predicate": "had",
+            "questionId": 1,
+            "question": "what did someone have ?",
+            "answer": "DNA linking to the attacker",
+            "answerStartChar": [
+                448
+            ],
+            "answerEndChar": [
+                475
+            ],
+            "answerStartToken": [
+                105
+            ],
+            "answerEndToken": [
+                110
+            ],
+            "answerId": "105-110",
+            "id": 30
+        },
+        {
+            "sentId": 6,
+            "predicateId": "106-107",
+            "predicate": "linking",
+            "questionId": 0,
+            "question": "what was linking to someone ?",
+            "answer": "DNA",
+            "answerStartChar": [
+                448
+            ],
+            "answerEndChar": [
+                451
+            ],
+            "answerStartToken": [
+                105
+            ],
+            "answerEndToken": [
+                106
+            ],
+            "answerId": "105-106",
+            "id": 31
+        },
+        {
+            "sentId": 6,
+            "predicateId": "106-107",
+            "predicate": "linking",
+            "questionId": 1,
+            "question": "who was something linking to ?",
+            "answer": "the attacker",
+            "answerStartChar": [
+                463
+            ],
+            "answerEndChar": [
+                475
+            ],
+            "answerStartToken": [
+                108
+            ],
+            "answerEndToken": [
+                110
+            ],
+            "answerId": "108-110",
+            "id": 32
+        },
+        {
+            "sentId": 6,
+            "predicateId": "114-115",
+            "predicate": "jailed",
+            "questionId": 0,
+            "question": "who has jailed ?",
+            "answer": "the attacker",
+            "answerStartChar": [
+                463
+            ],
+            "answerEndChar": [
+                475
+            ],
+            "answerStartToken": [
+                108
+            ],
+            "answerEndToken": [
+                110
+            ],
+            "answerId": "108-110",
+            "id": 33
+        },
+        {
+            "sentId": 6,
+            "predicateId": "114-115",
+            "predicate": "jailed",
+            "questionId": 1,
+            "question": "how long has someone jailed ?",
+            "answer": "12 years",
+            "answerStartChar": [
+                505
+            ],
+            "answerEndChar": [
+                513
+            ],
+            "answerStartToken": [
+                117
+            ],
+            "answerEndToken": [
+                119
+            ],
+            "answerId": "117-119",
+            "id": 34
+        }
+    ],
+    "datasource": "cnn",
+    "summaryId": "b8732349a46a96100b9c90307338082d9f28c6b3"
+}

@@ -1,0 +1,2115 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 1,
+            "text": "works",
+            "lemma": "work"
+        },
+        {
+            "id": 2,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 3,
+            "text": "Gdynia",
+            "lemma": "Gdynia"
+        },
+        {
+            "id": 4,
+            "text": "Way",
+            "lemma": "Way"
+        },
+        {
+            "id": 5,
+            "text": "near",
+            "lemma": "near"
+        },
+        {
+            "id": 6,
+            "text": "Plymouth",
+            "lemma": "Plymouth"
+        },
+        {
+            "id": 7,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 8,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 9,
+            "text": "centre",
+            "lemma": "centre"
+        },
+        {
+            "id": 10,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 11,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 12,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 13,
+            "text": "place",
+            "lemma": "place"
+        },
+        {
+            "id": 14,
+            "text": "since",
+            "lemma": "since"
+        },
+        {
+            "id": 15,
+            "text": "June",
+            "lemma": "June"
+        },
+        {
+            "id": 16,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 17,
+            "text": "widen",
+            "lemma": "widen"
+        },
+        {
+            "id": 18,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 19,
+            "text": "road",
+            "lemma": "road"
+        },
+        {
+            "id": 20,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 21,
+            "text": "three",
+            "lemma": "three"
+        },
+        {
+            "id": 22,
+            "text": "lanes",
+            "lemma": "lane"
+        },
+        {
+            "id": 23,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 24,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 25,
+            "text": "police",
+            "lemma": "police"
+        },
+        {
+            "id": 26,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 27,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 28,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 29,
+            "text": "seen",
+            "lemma": "see"
+        },
+        {
+            "id": 30,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 31,
+            "text": "increase",
+            "lemma": "increase"
+        },
+        {
+            "id": 32,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 33,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 34,
+            "text": "number",
+            "lemma": "number"
+        },
+        {
+            "id": 35,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 36,
+            "text": "collisions",
+            "lemma": "collision"
+        },
+        {
+            "id": 37,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 38,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 39,
+            "text": "Maxwell",
+            "lemma": "Maxwell"
+        },
+        {
+            "id": 40,
+            "text": "Road",
+            "lemma": "Road"
+        },
+        {
+            "id": 41,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 42,
+            "text": "Macadam",
+            "lemma": "Macadam"
+        },
+        {
+            "id": 43,
+            "text": "Road",
+            "lemma": "Road"
+        },
+        {
+            "id": 44,
+            "text": "junction",
+            "lemma": "junction"
+        },
+        {
+            "id": 45,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 46,
+            "text": "Plymouth",
+            "lemma": "Plymouth"
+        },
+        {
+            "id": 47,
+            "text": "City",
+            "lemma": "City"
+        },
+        {
+            "id": 48,
+            "text": "Council",
+            "lemma": "Council"
+        },
+        {
+            "id": 49,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 50,
+            "text": "PCC",
+            "lemma": "PCC"
+        },
+        {
+            "id": 51,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 52,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 53,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 54,
+            "text": "new",
+            "lemma": "new"
+        },
+        {
+            "id": 55,
+            "text": "set",
+            "lemma": "set"
+        },
+        {
+            "id": 56,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 57,
+            "text": "temporary",
+            "lemma": "temporary"
+        },
+        {
+            "id": 58,
+            "text": "traffic",
+            "lemma": "traffic"
+        },
+        {
+            "id": 59,
+            "text": "lights",
+            "lemma": "light"
+        },
+        {
+            "id": 60,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 61,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 62,
+            "text": "put",
+            "lemma": "put"
+        },
+        {
+            "id": 63,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 64,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 65,
+            "text": "junction",
+            "lemma": "junction"
+        },
+        {
+            "id": 66,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 67,
+            "text": "Pc",
+            "lemma": "Pc"
+        },
+        {
+            "id": 68,
+            "text": "Ian",
+            "lemma": "Ian"
+        },
+        {
+            "id": 69,
+            "text": "Tanner",
+            "lemma": "Tanner"
+        },
+        {
+            "id": 70,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 71,
+            "text": "Plymouth",
+            "lemma": "Plymouth"
+        },
+        {
+            "id": 72,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 73,
+            "text": "road",
+            "lemma": "road"
+        },
+        {
+            "id": 74,
+            "text": "casualty",
+            "lemma": "casualty"
+        },
+        {
+            "id": 75,
+            "text": "reduction",
+            "lemma": "reduction"
+        },
+        {
+            "id": 76,
+            "text": "officer",
+            "lemma": "officer"
+        },
+        {
+            "id": 77,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 78,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 79,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 80,
+            "text": "There",
+            "lemma": "there"
+        },
+        {
+            "id": 81,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 82,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 83,
+            "text": "some",
+            "lemma": "some"
+        },
+        {
+            "id": 84,
+            "text": "collisions",
+            "lemma": "collision"
+        },
+        {
+            "id": 85,
+            "text": "since",
+            "lemma": "since"
+        },
+        {
+            "id": 86,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 87,
+            "text": "new",
+            "lemma": "new"
+        },
+        {
+            "id": 88,
+            "text": "system",
+            "lemma": "system"
+        },
+        {
+            "id": 89,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 90,
+            "text": "put",
+            "lemma": "put"
+        },
+        {
+            "id": 91,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 92,
+            "text": "place",
+            "lemma": "place"
+        },
+        {
+            "id": 93,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 94,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 95,
+            "text": "four",
+            "lemma": "four"
+        },
+        {
+            "id": 96,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 97,
+            "text": "five",
+            "lemma": "five"
+        },
+        {
+            "id": 98,
+            "text": "injury",
+            "lemma": "injury"
+        },
+        {
+            "id": 99,
+            "text": "collisions",
+            "lemma": "collision"
+        },
+        {
+            "id": 100,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 101,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 102,
+            "text": "area",
+            "lemma": "area"
+        },
+        {
+            "id": 103,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 104,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 105,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 106,
+            "text": "council",
+            "lemma": "council"
+        },
+        {
+            "id": 107,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 108,
+            "text": "diverting",
+            "lemma": "divert"
+        },
+        {
+            "id": 109,
+            "text": "quite",
+            "lemma": "quite"
+        },
+        {
+            "id": 110,
+            "text": "large",
+            "lemma": "large"
+        },
+        {
+            "id": 111,
+            "text": "volumes",
+            "lemma": "volume"
+        },
+        {
+            "id": 112,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 113,
+            "text": "traffic",
+            "lemma": "traffic"
+        },
+        {
+            "id": 114,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 115,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 116,
+            "text": "roads",
+            "lemma": "road"
+        },
+        {
+            "id": 117,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 118,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 119,
+            "text": "although",
+            "lemma": "although"
+        },
+        {
+            "id": 120,
+            "text": "perfectly",
+            "lemma": "perfectly"
+        },
+        {
+            "id": 121,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 122,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 123,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 124,
+            "text": "job",
+            "lemma": "job"
+        },
+        {
+            "id": 125,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 126,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 127,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 128,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 129,
+            "text": "usually",
+            "lemma": "usually"
+        },
+        {
+            "id": 130,
+            "text": "travel",
+            "lemma": "travel"
+        },
+        {
+            "id": 131,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 132,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 133,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 134,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 135,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 136,
+            "text": "result",
+            "lemma": "result"
+        },
+        {
+            "id": 137,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 138,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 139,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 140,
+            "text": "worked",
+            "lemma": "work"
+        },
+        {
+            "id": 141,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 142,
+            "text": "well",
+            "lemma": "well"
+        },
+        {
+            "id": 143,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 144,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 145,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 146,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 147,
+            "text": "liked",
+            "lemma": "like"
+        },
+        {
+            "id": 148,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 149,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 150,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 151,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 152,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 153,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 154,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 155,
+            "text": "balancing",
+            "lemma": "balancing"
+        },
+        {
+            "id": 156,
+            "text": "act",
+            "lemma": "act"
+        },
+        {
+            "id": 157,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 158,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 159,
+            "text": "council",
+            "lemma": "council"
+        },
+        {
+            "id": 160,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 161,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 162,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 163,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 164,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 165,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 166,
+            "text": "best",
+            "lemma": "good"
+        },
+        {
+            "id": 167,
+            "text": "thing",
+            "lemma": "thing"
+        },
+        {
+            "id": 168,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 169,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 170,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 171,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 172,
+            "text": "keep",
+            "lemma": "keep"
+        },
+        {
+            "id": 173,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 174,
+            "text": "traffic",
+            "lemma": "traffic"
+        },
+        {
+            "id": 175,
+            "text": "moving",
+            "lemma": "move"
+        },
+        {
+            "id": 176,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 177,
+            "text": "well",
+            "lemma": "well"
+        },
+        {
+            "id": 178,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 179,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 180,
+            "text": "can",
+            "lemma": "can"
+        },
+        {
+            "id": 181,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 182,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 183,
+            "text": "keep",
+            "lemma": "keep"
+        },
+        {
+            "id": 184,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 185,
+            "text": "level",
+            "lemma": "level"
+        },
+        {
+            "id": 186,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 187,
+            "text": "injuries",
+            "lemma": "injury"
+        },
+        {
+            "id": 188,
+            "text": "down",
+            "lemma": "down"
+        },
+        {
+            "id": 189,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 190,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 191,
+            "text": "Pc",
+            "lemma": "Pc"
+        },
+        {
+            "id": 192,
+            "text": "Tanner",
+            "lemma": "Tanner"
+        },
+        {
+            "id": 193,
+            "text": "added",
+            "lemma": "add"
+        },
+        {
+            "id": 194,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 195,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 196,
+            "text": "increase",
+            "lemma": "increase"
+        },
+        {
+            "id": 197,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 198,
+            "text": "collisions",
+            "lemma": "collision"
+        },
+        {
+            "id": 199,
+            "text": "could",
+            "lemma": "could"
+        },
+        {
+            "id": 200,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 201,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 202,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 203,
+            "text": "result",
+            "lemma": "result"
+        },
+        {
+            "id": 204,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 205,
+            "text": "drivers",
+            "lemma": "driver"
+        },
+        {
+            "id": 206,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 207,
+            "text": "familiar",
+            "lemma": "familiar"
+        },
+        {
+            "id": 208,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 209,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 210,
+            "text": "route",
+            "lemma": "route"
+        },
+        {
+            "id": 211,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 212,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 213,
+            "text": "reading",
+            "lemma": "read"
+        },
+        {
+            "id": 214,
+            "text": "new",
+            "lemma": "new"
+        },
+        {
+            "id": 215,
+            "text": "signs",
+            "lemma": "sign"
+        },
+        {
+            "id": 216,
+            "text": "properly",
+            "lemma": "properly"
+        },
+        {
+            "id": 217,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 218,
+            "text": "In",
+            "lemma": "in"
+        },
+        {
+            "id": 219,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 220,
+            "text": "statement",
+            "lemma": "statement"
+        },
+        {
+            "id": 221,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 222,
+            "text": "PCC",
+            "lemma": "PCC"
+        },
+        {
+            "id": 223,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 224,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 225,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 226,
+            "text": "During",
+            "lemma": "during"
+        },
+        {
+            "id": 227,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 228,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 229,
+            "text": "couple",
+            "lemma": "couple"
+        },
+        {
+            "id": 230,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 231,
+            "text": "months",
+            "lemma": "month"
+        },
+        {
+            "id": 232,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 233,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 234,
+            "text": "become",
+            "lemma": "become"
+        },
+        {
+            "id": 235,
+            "text": "apparent",
+            "lemma": "apparent"
+        },
+        {
+            "id": 236,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 237,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 238,
+            "text": "could",
+            "lemma": "could"
+        },
+        {
+            "id": 239,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 240,
+            "text": "further",
+            "lemma": "further"
+        },
+        {
+            "id": 241,
+            "text": "improvements",
+            "lemma": "improvement"
+        },
+        {
+            "id": 242,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 243,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 244,
+            "text": "revised",
+            "lemma": "revise"
+        },
+        {
+            "id": 245,
+            "text": "junction",
+            "lemma": "junction"
+        },
+        {
+            "id": 246,
+            "text": "layout",
+            "lemma": "layout"
+        },
+        {
+            "id": 247,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 248,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 249,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 250,
+            "text": "decision",
+            "lemma": "decision"
+        },
+        {
+            "id": 251,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 252,
+            "text": "install",
+            "lemma": "install"
+        },
+        {
+            "id": 253,
+            "text": "temporary",
+            "lemma": "temporary"
+        },
+        {
+            "id": 254,
+            "text": "lights",
+            "lemma": "light"
+        },
+        {
+            "id": 255,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 256,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 257,
+            "text": "made",
+            "lemma": "make"
+        },
+        {
+            "id": 258,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 259,
+            "text": "routine",
+            "lemma": "routine"
+        },
+        {
+            "id": 260,
+            "text": "discussions",
+            "lemma": "discussion"
+        },
+        {
+            "id": 261,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 262,
+            "text": "various",
+            "lemma": "various"
+        },
+        {
+            "id": 263,
+            "text": "stakeholders",
+            "lemma": "stakeholder"
+        },
+        {
+            "id": 264,
+            "text": "including",
+            "lemma": "include"
+        },
+        {
+            "id": 265,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 266,
+            "text": "police",
+            "lemma": "police"
+        },
+        {
+            "id": 267,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 268,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 269,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 270,
+            "text": "lights",
+            "lemma": "light"
+        },
+        {
+            "id": 271,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 272,
+            "text": "reinforce",
+            "lemma": "reinforce"
+        },
+        {
+            "id": 273,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 274,
+            "text": "changed",
+            "lemma": "change"
+        },
+        {
+            "id": 275,
+            "text": "priorities",
+            "lemma": "priority"
+        },
+        {
+            "id": 276,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 277,
+            "text": "help",
+            "lemma": "help"
+        },
+        {
+            "id": 278,
+            "text": "drivers",
+            "lemma": "driver"
+        },
+        {
+            "id": 279,
+            "text": "negotiate",
+            "lemma": "negotiate"
+        },
+        {
+            "id": 280,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 281,
+            "text": "junction",
+            "lemma": "junction"
+        },
+        {
+            "id": 282,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 283,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 284,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 285,
+            "text": "council",
+            "lemma": "council"
+        },
+        {
+            "id": 286,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 287,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 288,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 289,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 290,
+            "text": "1,000",
+            "lemma": "1,000"
+        },
+        {
+            "id": 291,
+            "text": "drivers",
+            "lemma": "driver"
+        },
+        {
+            "id": 292,
+            "text": "used",
+            "lemma": "use"
+        },
+        {
+            "id": 293,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 294,
+            "text": "junction",
+            "lemma": "junction"
+        },
+        {
+            "id": 295,
+            "text": "each",
+            "lemma": "each"
+        },
+        {
+            "id": 296,
+            "text": "hour",
+            "lemma": "hour"
+        },
+        {
+            "id": 297,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 298,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 299,
+            "text": "new",
+            "lemma": "new"
+        },
+        {
+            "id": 300,
+            "text": "traffic",
+            "lemma": "traffic"
+        },
+        {
+            "id": 301,
+            "text": "lights",
+            "lemma": "light"
+        },
+        {
+            "id": 302,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 303,
+            "text": "give",
+            "lemma": "give"
+        },
+        {
+            "id": 304,
+            "text": "priority",
+            "lemma": "priority"
+        },
+        {
+            "id": 305,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 306,
+            "text": "traffic",
+            "lemma": "traffic"
+        },
+        {
+            "id": 307,
+            "text": "travelling",
+            "lemma": "travel"
+        },
+        {
+            "id": 308,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 309,
+            "text": "Plymstock",
+            "lemma": "Plymstock"
+        },
+        {
+            "id": 310,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 311,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 312,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 313,
+            "text": "centre",
+            "lemma": "centre"
+        },
+        {
+            "id": 314,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 315,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 316,
+            "text": "morning",
+            "lemma": "morning"
+        },
+        {
+            "id": 317,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 318,
+            "text": "vice",
+            "lemma": "vice"
+        },
+        {
+            "id": 319,
+            "text": "versa",
+            "lemma": "versa"
+        },
+        {
+            "id": 320,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 321,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 322,
+            "text": "evening",
+            "lemma": "evening"
+        },
+        {
+            "id": 323,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 324,
+            "text": "until",
+            "lemma": "until"
+        },
+        {
+            "id": 325,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 326,
+            "text": "work",
+            "lemma": "work"
+        },
+        {
+            "id": 327,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 328,
+            "text": "completed",
+            "lemma": "complete"
+        },
+        {
+            "id": 329,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 330,
+            "text": "October",
+            "lemma": "October"
+        },
+        {
+            "id": 331,
+            "text": ".",
+            "lemma": "."
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "A",
+            "lemma": "a",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "new",
+            "lemma": "new",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "set",
+            "lemma": "set",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "of",
+            "lemma": "of",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "traffic",
+            "lemma": "traffic",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "lights",
+            "lemma": "light",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "are",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 7,
+            "text": "to",
+            "lemma": "to",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 8,
+            "text": "be",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 9,
+            "text": "installed",
+            "lemma": "install",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "at",
+            "lemma": "at",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "busy",
+            "lemma": "busy",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "junction",
+            "lemma": "junction",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "following",
+            "lemma": "follow",
+            "spans": [
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "an",
+            "lemma": "an",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "increase",
+            "lemma": "increase",
+            "spans": [
+                4,
+                5,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "injuries",
+            "lemma": "injury",
+            "spans": [
+                4,
+                5,
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 6,
+            "qaIds": [
+                2,
+                5
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 9,
+            "end": 10,
+            "qaIds": [
+                2,
+                3,
+                4
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 10,
+            "end": 14,
+            "qaIds": [
+                0,
+                3,
+                6
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 14,
+            "end": 15,
+            "qaIds": [
+                5,
+                6,
+                7
+            ],
+            "id": 3,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 14,
+            "end": 19,
+            "qaIds": [
+                4
+            ],
+            "id": 4,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 15,
+            "end": 19,
+            "qaIds": [
+                7
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 16,
+            "end": 17,
+            "qaIds": [
+                0,
+                1
+            ],
+            "id": 6,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 18,
+            "end": 19,
+            "qaIds": [
+                1
+            ],
+            "id": 7,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "16-17",
+            "predicate": "increase",
+            "questionId": 0,
+            "question": "where was something increased ?",
+            "answer": "at a busy junction",
+            "answerStartChar": [
+                48
+            ],
+            "answerEndChar": [
+                66
+            ],
+            "answerStartToken": [
+                10
+            ],
+            "answerEndToken": [
+                14
+            ],
+            "answerId": "10-14",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "16-17",
+            "predicate": "increase",
+            "questionId": 1,
+            "question": "what was increased ?",
+            "answer": "injuries",
+            "answerStartChar": [
+                92
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                18
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "18-19",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "installed",
+            "questionId": 0,
+            "question": "what is installed somewhere ?",
+            "answer": "A new set of traffic lights",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                27
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                6
+            ],
+            "answerId": "0-6",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "installed",
+            "questionId": 1,
+            "question": "where is something installed ?",
+            "answer": "at a busy junction",
+            "answerStartChar": [
+                48
+            ],
+            "answerEndChar": [
+                66
+            ],
+            "answerStartToken": [
+                10
+            ],
+            "answerEndToken": [
+                14
+            ],
+            "answerId": "10-14",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "9-10",
+            "predicate": "installed",
+            "questionId": 2,
+            "question": "why is something installed somewhere ?",
+            "answer": "following an increase in injuries",
+            "answerStartChar": [
+                67
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                14
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "14-19",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "14-15",
+            "predicate": "following",
+            "questionId": 0,
+            "question": "what is following something ?",
+            "answer": "A new set of traffic lights",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                27
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                6
+            ],
+            "answerId": "0-6",
+            "id": 5
+        },
+        {
+            "sentId": 0,
+            "predicateId": "14-15",
+            "predicate": "following",
+            "questionId": 1,
+            "question": "where is something following something ?",
+            "answer": "at a busy junction",
+            "answerStartChar": [
+                48
+            ],
+            "answerEndChar": [
+                66
+            ],
+            "answerStartToken": [
+                10
+            ],
+            "answerEndToken": [
+                14
+            ],
+            "answerId": "10-14",
+            "id": 6
+        },
+        {
+            "sentId": 0,
+            "predicateId": "14-15",
+            "predicate": "following",
+            "questionId": 2,
+            "question": "what is something following ?",
+            "answer": "an increase in injuries",
+            "answerStartChar": [
+                77
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                15
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "15-19",
+            "id": 7
+        }
+    ],
+    "datasource": "xsum",
+    "summaryId": "10891591"
+}
