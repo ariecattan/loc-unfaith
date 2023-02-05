@@ -106,15 +106,50 @@ import jsonData from "./data/annotation_files/0ceb4cea35c3e964a2e54ec9715de42e13
 import NodeLevel from "./components/NodeLevel.vue";
 import SourceArticle from "./components/SourceArticle.vue";
 import QALevel from "./components/QALevel.vue";
+import Vuetify from "vuetify/lib";
+import Vue from 'vue'
+
+
+import {
+  VIcon,
+  VDivider,
+  VBtn,
+  VStepper,
+  VStepperContent,
+  VStepperHeader,
+  VStepperItems,
+  VStepperStep,
+  VRow,
+  VCol,
+  VApp,
+  VMain
+} from "vuetify/lib";
+
+Vue.use(Vuetify);
+var vuetify = new Vuetify({
+  
+});
 
 
 export default {
   name: "App",
-
+  vuetify,
   components: {
     SourceArticle,
     NodeLevel,
-    QALevel
+    QALevel,
+    VIcon,
+    VDivider,
+    VBtn,
+    VStepper,
+    VStepperContent,
+    VStepperHeader,
+    VStepperItems,
+    VStepperStep,
+    VRow,
+    VCol,
+    VApp,
+    VMain
   },
   props: {
     json: {
@@ -124,7 +159,7 @@ export default {
   },
   data() {
     const data =
-      !this.json || this.json == "${data}"
+    !this.json || this.json == "${data}"
         ? jsonData
         : JSON.parse(unescape(this.json).replace("\u00e2\u20ac\u2122", "'"));
     data.links = ["Span", "QAs", "Global"];
@@ -234,6 +269,11 @@ export default {
 </script>
 
 <style>
+@import url("https://fonts.googleapis.com/css?family=Material+Icons");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900");
+@import url("https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css");
+@import url("../node_modules/vuetify/dist/vuetify.min.css");
+
 .current {
   background: #ddeff9;
   color: #2d9cdb;

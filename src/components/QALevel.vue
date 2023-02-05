@@ -186,12 +186,41 @@
 </template>
 
 <script>
+import {
+  VSheet,
+  VContainer,
+  VRow,
+  VCol,
+  VCard,
+  VIcon,
+  VBtn,
+  VChip,
+  VChipGroup,
+  VCardTitle,
+  VCardText,
+  VCardActions,
+  VBtnToggle,
+} from "vuetify/lib";
+
 import draggable from "vuedraggable";
 
 export default {
   name: "QALevel",
   components: {
     draggable,
+    VSheet,
+    VContainer,
+    VRow,
+    VCol,
+    VCard,
+    VIcon,
+    VBtn,
+    VChip,
+    VChipGroup,
+    VCardTitle,
+    VCardText,
+    VCardActions,
+    VBtnToggle,
   },
   props: {
     summary: Array,

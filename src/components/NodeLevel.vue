@@ -123,8 +123,35 @@
 </template>
 
 <script>
+import {
+  VSheet,
+  VContainer,
+  VRow,
+  VCol,
+  VCard,
+  VIcon,
+  VBtn,
+  VChip,
+  VChipGroup,
+  VCardTitle,
+  VCardText
+} from "vuetify/lib";
+
 export default {
   name: "NodeLevel",
+  components: {
+    VSheet,
+    VContainer,
+    VRow,
+    VCol,
+    VCard,
+    VIcon,
+    VBtn,
+    VChip,
+    VChipGroup,
+    VCardTitle,
+    VCardText
+  },
   props: {
     summary: Array,
     spans: Array,
