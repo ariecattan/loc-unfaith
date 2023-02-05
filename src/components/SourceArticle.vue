@@ -15,8 +15,19 @@
 </template>
 
 <script>
+import {
+  VSheet,
+  VContainer,
+  VRow
+} from "vuetify/lib";
+
 export default {
   name: "SourceArticle",
+  components: {
+    VSheet,
+    VContainer,
+    VRow
+  },
   props: {
     source: Array,
     mention: Array,

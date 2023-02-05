@@ -1,0 +1,4510 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "Media",
+            "lemma": "medium"
+        },
+        {
+            "id": 1,
+            "text": "playback",
+            "lemma": "playback"
+        },
+        {
+            "id": 2,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 3,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 4,
+            "text": "supported",
+            "lemma": "support"
+        },
+        {
+            "id": 5,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 6,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 7,
+            "text": "device",
+            "lemma": "device"
+        },
+        {
+            "id": 8,
+            "text": "Tries",
+            "lemma": "Tries"
+        },
+        {
+            "id": 9,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 10,
+            "text": "Tom",
+            "lemma": "Tom"
+        },
+        {
+            "id": 11,
+            "text": "Habberfield",
+            "lemma": "Habberfield"
+        },
+        {
+            "id": 12,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 13,
+            "text": "Tyler",
+            "lemma": "Tyler"
+        },
+        {
+            "id": 14,
+            "text": "Ardron",
+            "lemma": "Ardron"
+        },
+        {
+            "id": 15,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 16,
+            "text": "converted",
+            "lemma": "convert"
+        },
+        {
+            "id": 17,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 18,
+            "text": "Dan",
+            "lemma": "Dan"
+        },
+        {
+            "id": 19,
+            "text": "Biggar",
+            "lemma": "Biggar"
+        },
+        {
+            "id": 20,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 21,
+            "text": "gave",
+            "lemma": "give"
+        },
+        {
+            "id": 22,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 23,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 24,
+            "text": "team",
+            "lemma": "team"
+        },
+        {
+            "id": 25,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 26,
+            "text": "14",
+            "lemma": "14"
+        },
+        {
+            "id": 27,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 28,
+            "text": "point",
+            "lemma": "point"
+        },
+        {
+            "id": 29,
+            "text": "interval",
+            "lemma": "interval"
+        },
+        {
+            "id": 30,
+            "text": "lead",
+            "lemma": "lead"
+        },
+        {
+            "id": 31,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 32,
+            "text": "Ulster",
+            "lemma": "Ulster"
+        },
+        {
+            "id": 33,
+            "text": "dominated",
+            "lemma": "dominate"
+        },
+        {
+            "id": 34,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 35,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 36,
+            "text": "break",
+            "lemma": "break"
+        },
+        {
+            "id": 37,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 38,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 39,
+            "text": "Brendan",
+            "lemma": "Brendan"
+        },
+        {
+            "id": 40,
+            "text": "Leonard",
+            "lemma": "Leonard"
+        },
+        {
+            "id": 41,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 42,
+            "text": "try",
+            "lemma": "try"
+        },
+        {
+            "id": 43,
+            "text": "saw",
+            "lemma": "see"
+        },
+        {
+            "id": 44,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 45,
+            "text": "game",
+            "lemma": "game"
+        },
+        {
+            "id": 46,
+            "text": "off",
+            "lemma": "off"
+        },
+        {
+            "id": 47,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 48,
+            "text": "Jacob",
+            "lemma": "Jacob"
+        },
+        {
+            "id": 49,
+            "text": "Stockdale",
+            "lemma": "Stockdale"
+        },
+        {
+            "id": 50,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 51,
+            "text": "late",
+            "lemma": "late"
+        },
+        {
+            "id": 52,
+            "text": "score",
+            "lemma": "score"
+        },
+        {
+            "id": 53,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 54,
+            "text": "Ospreys",
+            "lemma": "Ospreys"
+        },
+        {
+            "id": 55,
+            "text": "need",
+            "lemma": "need"
+        },
+        {
+            "id": 56,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 57,
+            "text": "point",
+            "lemma": "point"
+        },
+        {
+            "id": 58,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 59,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 60,
+            "text": "final",
+            "lemma": "final"
+        },
+        {
+            "id": 61,
+            "text": "game",
+            "lemma": "game"
+        },
+        {
+            "id": 62,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 63,
+            "text": "secure",
+            "lemma": "secure"
+        },
+        {
+            "id": 64,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 65,
+            "text": "play",
+            "lemma": "play"
+        },
+        {
+            "id": 66,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 67,
+            "text": "off",
+            "lemma": "off"
+        },
+        {
+            "id": 68,
+            "text": "spot",
+            "lemma": "spot"
+        },
+        {
+            "id": 69,
+            "text": "while",
+            "lemma": "while"
+        },
+        {
+            "id": 70,
+            "text": "Ulster",
+            "lemma": "Ulster"
+        },
+        {
+            "id": 71,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 72,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 73,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 74,
+            "text": "beat",
+            "lemma": "beat"
+        },
+        {
+            "id": 75,
+            "text": "Leinster",
+            "lemma": "Leinster"
+        },
+        {
+            "id": 76,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 77,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 78,
+            "text": "chance",
+            "lemma": "chance"
+        },
+        {
+            "id": 79,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 80,
+            "text": "making",
+            "lemma": "make"
+        },
+        {
+            "id": 81,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 82,
+            "text": "final",
+            "lemma": "final"
+        },
+        {
+            "id": 83,
+            "text": "stages",
+            "lemma": "stage"
+        },
+        {
+            "id": 84,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 85,
+            "text": "They",
+            "lemma": "they"
+        },
+        {
+            "id": 86,
+            "text": "face",
+            "lemma": "face"
+        },
+        {
+            "id": 87,
+            "text": "Scarlets",
+            "lemma": "scarlet"
+        },
+        {
+            "id": 88,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 89,
+            "text": "6",
+            "lemma": "6"
+        },
+        {
+            "id": 90,
+            "text": "May",
+            "lemma": "May"
+        },
+        {
+            "id": 91,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 92,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 93,
+            "text": "west",
+            "lemma": "west"
+        },
+        {
+            "id": 94,
+            "text": "Wales",
+            "lemma": "Wales"
+        },
+        {
+            "id": 95,
+            "text": "region",
+            "lemma": "region"
+        },
+        {
+            "id": 96,
+            "text": "secure",
+            "lemma": "secure"
+        },
+        {
+            "id": 97,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 98,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 99,
+            "text": "play",
+            "lemma": "play"
+        },
+        {
+            "id": 100,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 101,
+            "text": "off",
+            "lemma": "off"
+        },
+        {
+            "id": 102,
+            "text": "places",
+            "lemma": "place"
+        },
+        {
+            "id": 103,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 104,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 105,
+            "text": "30",
+            "lemma": "30"
+        },
+        {
+            "id": 106,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 107,
+            "text": "8",
+            "lemma": "8"
+        },
+        {
+            "id": 108,
+            "text": "win",
+            "lemma": "win"
+        },
+        {
+            "id": 109,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 110,
+            "text": "Connacht",
+            "lemma": "Connacht"
+        },
+        {
+            "id": 111,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 112,
+            "text": "Fifth",
+            "lemma": "fifth"
+        },
+        {
+            "id": 113,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 114,
+            "text": "placed",
+            "lemma": "place"
+        },
+        {
+            "id": 115,
+            "text": "Ulster",
+            "lemma": "Ulster"
+        },
+        {
+            "id": 116,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 117,
+            "text": "need",
+            "lemma": "need"
+        },
+        {
+            "id": 118,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 119,
+            "text": "miracle",
+            "lemma": "miracle"
+        },
+        {
+            "id": 120,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 121,
+            "text": "overtake",
+            "lemma": "overtake"
+        },
+        {
+            "id": 122,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 123,
+            "text": "overtake",
+            "lemma": "overtake"
+        },
+        {
+            "id": 124,
+            "text": "Ospreys",
+            "lemma": "Ospreys"
+        },
+        {
+            "id": 125,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 126,
+            "text": "fourth",
+            "lemma": "fourth"
+        },
+        {
+            "id": 127,
+            "text": "place",
+            "lemma": "place"
+        },
+        {
+            "id": 128,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 129,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 130,
+            "text": "regret",
+            "lemma": "regret"
+        },
+        {
+            "id": 131,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 132,
+            "text": "number",
+            "lemma": "number"
+        },
+        {
+            "id": 133,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 134,
+            "text": "missed",
+            "lemma": "miss"
+        },
+        {
+            "id": 135,
+            "text": "opportunities",
+            "lemma": "opportunity"
+        },
+        {
+            "id": 136,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 137,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 138,
+            "text": "break",
+            "lemma": "break"
+        },
+        {
+            "id": 139,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 140,
+            "text": "Swansea",
+            "lemma": "Swansea"
+        },
+        {
+            "id": 141,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 142,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 143,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 144,
+            "text": "now",
+            "lemma": "now"
+        },
+        {
+            "id": 145,
+            "text": "seems",
+            "lemma": "seem"
+        },
+        {
+            "id": 146,
+            "text": "likely",
+            "lemma": "likely"
+        },
+        {
+            "id": 147,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 148,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 149,
+            "text": "fail",
+            "lemma": "fail"
+        },
+        {
+            "id": 150,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 151,
+            "text": "make",
+            "lemma": "make"
+        },
+        {
+            "id": 152,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 153,
+            "text": "play",
+            "lemma": "play"
+        },
+        {
+            "id": 154,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 155,
+            "text": "offs",
+            "lemma": "off"
+        },
+        {
+            "id": 156,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 157,
+            "text": "Stockdale",
+            "lemma": "Stockdale"
+        },
+        {
+            "id": 158,
+            "text": "beat",
+            "lemma": "beat"
+        },
+        {
+            "id": 159,
+            "text": "most",
+            "lemma": "most"
+        },
+        {
+            "id": 160,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 161,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 162,
+            "text": "defence",
+            "lemma": "defence"
+        },
+        {
+            "id": 163,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 164,
+            "text": "only",
+            "lemma": "only"
+        },
+        {
+            "id": 165,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 166,
+            "text": "see",
+            "lemma": "see"
+        },
+        {
+            "id": 167,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 168,
+            "text": "final",
+            "lemma": "final"
+        },
+        {
+            "id": 169,
+            "text": "pass",
+            "lemma": "pass"
+        },
+        {
+            "id": 170,
+            "text": "go",
+            "lemma": "go"
+        },
+        {
+            "id": 171,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 172,
+            "text": "ground",
+            "lemma": "ground"
+        },
+        {
+            "id": 173,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 174,
+            "text": "later",
+            "lemma": "later"
+        },
+        {
+            "id": 175,
+            "text": "kicked",
+            "lemma": "kick"
+        },
+        {
+            "id": 176,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 177,
+            "text": "ball",
+            "lemma": "ball"
+        },
+        {
+            "id": 178,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 179,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 180,
+            "text": "dead",
+            "lemma": "dead"
+        },
+        {
+            "id": 181,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 182,
+            "text": "ball",
+            "lemma": "ball"
+        },
+        {
+            "id": 183,
+            "text": "line",
+            "lemma": "line"
+        },
+        {
+            "id": 184,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 185,
+            "text": "outstripping",
+            "lemma": "outstrip"
+        },
+        {
+            "id": 186,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 187,
+            "text": "cover",
+            "lemma": "cover"
+        },
+        {
+            "id": 188,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 189,
+            "text": "Charles",
+            "lemma": "Charles"
+        },
+        {
+            "id": 190,
+            "text": "Piutau",
+            "lemma": "Piutau"
+        },
+        {
+            "id": 191,
+            "text": "dropped",
+            "lemma": "drop"
+        },
+        {
+            "id": 192,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 193,
+            "text": "ball",
+            "lemma": "ball"
+        },
+        {
+            "id": 194,
+            "text": "close",
+            "lemma": "close"
+        },
+        {
+            "id": 195,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 196,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 197,
+            "text": "Ospreys",
+            "lemma": "Ospreys"
+        },
+        {
+            "id": 198,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 199,
+            "text": "line",
+            "lemma": "line"
+        },
+        {
+            "id": 200,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 201,
+            "text": "Ulster",
+            "lemma": "Ulster"
+        },
+        {
+            "id": 202,
+            "text": "put",
+            "lemma": "put"
+        },
+        {
+            "id": 203,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 204,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 205,
+            "text": "team",
+            "lemma": "team"
+        },
+        {
+            "id": 206,
+            "text": "under",
+            "lemma": "under"
+        },
+        {
+            "id": 207,
+            "text": "pressure",
+            "lemma": "pressure"
+        },
+        {
+            "id": 208,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 209,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 210,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 211,
+            "text": "visitors",
+            "lemma": "visitor"
+        },
+        {
+            "id": 212,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 213,
+            "text": "made",
+            "lemma": "make"
+        },
+        {
+            "id": 214,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 215,
+            "text": "pay",
+            "lemma": "pay"
+        },
+        {
+            "id": 216,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 217,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 218,
+            "text": "profligacy",
+            "lemma": "profligacy"
+        },
+        {
+            "id": 219,
+            "text": "when",
+            "lemma": "when"
+        },
+        {
+            "id": 220,
+            "text": "substitute",
+            "lemma": "substitute"
+        },
+        {
+            "id": 221,
+            "text": "Leonard",
+            "lemma": "Leonard"
+        },
+        {
+            "id": 222,
+            "text": "crossed",
+            "lemma": "cross"
+        },
+        {
+            "id": 223,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 224,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 225,
+            "text": "Ospreys",
+            "lemma": "Ospreys"
+        },
+        {
+            "id": 226,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 227,
+            "text": "third",
+            "lemma": "third"
+        },
+        {
+            "id": 228,
+            "text": "try",
+            "lemma": "try"
+        },
+        {
+            "id": 229,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 230,
+            "text": "minutes",
+            "lemma": "minute"
+        },
+        {
+            "id": 231,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 232,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 233,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 234,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 235,
+            "text": "rare",
+            "lemma": "rare"
+        },
+        {
+            "id": 236,
+            "text": "second",
+            "lemma": "second"
+        },
+        {
+            "id": 237,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 238,
+            "text": "half",
+            "lemma": "half"
+        },
+        {
+            "id": 239,
+            "text": "attack",
+            "lemma": "attack"
+        },
+        {
+            "id": 240,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 241,
+            "text": "When",
+            "lemma": "when"
+        },
+        {
+            "id": 242,
+            "text": "Stockdale",
+            "lemma": "Stockdale"
+        },
+        {
+            "id": 243,
+            "text": "scored",
+            "lemma": "score"
+        },
+        {
+            "id": 244,
+            "text": "practically",
+            "lemma": "practically"
+        },
+        {
+            "id": 245,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 246,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 247,
+            "text": "re",
+            "lemma": "re"
+        },
+        {
+            "id": 248,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 249,
+            "text": "start",
+            "lemma": "start"
+        },
+        {
+            "id": 250,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 251,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 252,
+            "text": "left",
+            "lemma": "leave"
+        },
+        {
+            "id": 253,
+            "text": "Ulster",
+            "lemma": "Ulster"
+        },
+        {
+            "id": 254,
+            "text": "looking",
+            "lemma": "look"
+        },
+        {
+            "id": 255,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 256,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 257,
+            "text": "second",
+            "lemma": "second"
+        },
+        {
+            "id": 258,
+            "text": "try",
+            "lemma": "try"
+        },
+        {
+            "id": 259,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 260,
+            "text": "conversion",
+            "lemma": "conversion"
+        },
+        {
+            "id": 261,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 262,
+            "text": "claim",
+            "lemma": "claim"
+        },
+        {
+            "id": 263,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 264,
+            "text": "losing",
+            "lemma": "lose"
+        },
+        {
+            "id": 265,
+            "text": "bonus",
+            "lemma": "bonus"
+        },
+        {
+            "id": 266,
+            "text": "point",
+            "lemma": "point"
+        },
+        {
+            "id": 267,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 268,
+            "text": "only",
+            "lemma": "only"
+        },
+        {
+            "id": 269,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 270,
+            "text": "lose",
+            "lemma": "lose"
+        },
+        {
+            "id": 271,
+            "text": "possession",
+            "lemma": "possession"
+        },
+        {
+            "id": 272,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 273,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 274,
+            "text": "breakdown",
+            "lemma": "breakdown"
+        },
+        {
+            "id": 275,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 276,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 277,
+            "text": "umpteenth",
+            "lemma": "umpteenth"
+        },
+        {
+            "id": 278,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 279,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 280,
+            "text": "Ospreys",
+            "lemma": "Ospreys"
+        },
+        {
+            "id": 281,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 282,
+            "text": "coming",
+            "lemma": "come"
+        },
+        {
+            "id": 283,
+            "text": "into",
+            "lemma": "into"
+        },
+        {
+            "id": 284,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 285,
+            "text": "game",
+            "lemma": "game"
+        },
+        {
+            "id": 286,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 287,
+            "text": "three",
+            "lemma": "three"
+        },
+        {
+            "id": 288,
+            "text": "successive",
+            "lemma": "successive"
+        },
+        {
+            "id": 289,
+            "text": "league",
+            "lemma": "league"
+        },
+        {
+            "id": 290,
+            "text": "defeats",
+            "lemma": "defeat"
+        },
+        {
+            "id": 291,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 292,
+            "text": "weathered",
+            "lemma": "weather"
+        },
+        {
+            "id": 293,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 294,
+            "text": "early",
+            "lemma": "early"
+        },
+        {
+            "id": 295,
+            "text": "storm",
+            "lemma": "storm"
+        },
+        {
+            "id": 296,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 297,
+            "text": "scored",
+            "lemma": "score"
+        },
+        {
+            "id": 298,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 299,
+            "text": "practically",
+            "lemma": "practically"
+        },
+        {
+            "id": 300,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 301,
+            "text": "first",
+            "lemma": "first"
+        },
+        {
+            "id": 302,
+            "text": "attack",
+            "lemma": "attack"
+        },
+        {
+            "id": 303,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 304,
+            "text": "centre",
+            "lemma": "centre"
+        },
+        {
+            "id": 305,
+            "text": "Ashley",
+            "lemma": "Ashley"
+        },
+        {
+            "id": 306,
+            "text": "Beck",
+            "lemma": "Beck"
+        },
+        {
+            "id": 307,
+            "text": "tied",
+            "lemma": "tie"
+        },
+        {
+            "id": 308,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 309,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 310,
+            "text": "defenders",
+            "lemma": "defender"
+        },
+        {
+            "id": 311,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 312,
+            "text": "send",
+            "lemma": "send"
+        },
+        {
+            "id": 313,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 314,
+            "text": "unmarked",
+            "lemma": "unmarked"
+        },
+        {
+            "id": 315,
+            "text": "Habberfield",
+            "lemma": "Habberfield"
+        },
+        {
+            "id": 316,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 317,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 318,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 319,
+            "text": "corner",
+            "lemma": "corner"
+        },
+        {
+            "id": 320,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 321,
+            "text": "Paddy",
+            "lemma": "Paddy"
+        },
+        {
+            "id": 322,
+            "text": "Jackson",
+            "lemma": "Jackson"
+        },
+        {
+            "id": 323,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 324,
+            "text": "Biggar",
+            "lemma": "Biggar"
+        },
+        {
+            "id": 325,
+            "text": "exchanged",
+            "lemma": "exchange"
+        },
+        {
+            "id": 326,
+            "text": "penalties",
+            "lemma": "penalty"
+        },
+        {
+            "id": 327,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 328,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 329,
+            "text": "Welsh",
+            "lemma": "Welsh"
+        },
+        {
+            "id": 330,
+            "text": "side",
+            "lemma": "side"
+        },
+        {
+            "id": 331,
+            "text": "took",
+            "lemma": "take"
+        },
+        {
+            "id": 332,
+            "text": "control",
+            "lemma": "control"
+        },
+        {
+            "id": 333,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 334,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 335,
+            "text": "lead",
+            "lemma": "lead"
+        },
+        {
+            "id": 336,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 337,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 338,
+            "text": "half",
+            "lemma": "half"
+        },
+        {
+            "id": 339,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 340,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 341,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 342,
+            "text": "only",
+            "lemma": "only"
+        },
+        {
+            "id": 343,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 344,
+            "text": "combination",
+            "lemma": "combination"
+        },
+        {
+            "id": 345,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 346,
+            "text": "good",
+            "lemma": "good"
+        },
+        {
+            "id": 347,
+            "text": "Ulster",
+            "lemma": "Ulster"
+        },
+        {
+            "id": 348,
+            "text": "defence",
+            "lemma": "defence"
+        },
+        {
+            "id": 349,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 350,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 351,
+            "text": "own",
+            "lemma": "own"
+        },
+        {
+            "id": 352,
+            "text": "lack",
+            "lemma": "lack"
+        },
+        {
+            "id": 353,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 354,
+            "text": "composure",
+            "lemma": "composure"
+        },
+        {
+            "id": 355,
+            "text": "keeping",
+            "lemma": "keep"
+        },
+        {
+            "id": 356,
+            "text": "Ospreys",
+            "lemma": "Ospreys"
+        },
+        {
+            "id": 357,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 358,
+            "text": "bay",
+            "lemma": "bay"
+        },
+        {
+            "id": 359,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 360,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 361,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 362,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 363,
+            "text": "stroke",
+            "lemma": "stroke"
+        },
+        {
+            "id": 364,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 365,
+            "text": "half",
+            "lemma": "half"
+        },
+        {
+            "id": 366,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 367,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 368,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 369,
+            "text": "long",
+            "lemma": "long"
+        },
+        {
+            "id": 370,
+            "text": "kick",
+            "lemma": "kick"
+        },
+        {
+            "id": 371,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 372,
+            "text": "Jackson",
+            "lemma": "Jackson"
+        },
+        {
+            "id": 373,
+            "text": "saw",
+            "lemma": "see"
+        },
+        {
+            "id": 374,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 375,
+            "text": "full",
+            "lemma": "full"
+        },
+        {
+            "id": 376,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 377,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 378,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 379,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 380,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 381,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 382,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 383,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 384,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 385,
+            "text": "match",
+            "lemma": "match"
+        },
+        {
+            "id": 386,
+            "text": "Dan",
+            "lemma": "Dan"
+        },
+        {
+            "id": 387,
+            "text": "Evans",
+            "lemma": "Evans"
+        },
+        {
+            "id": 388,
+            "text": "carve",
+            "lemma": "carve"
+        },
+        {
+            "id": 389,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 390,
+            "text": "defence",
+            "lemma": "defence"
+        },
+        {
+            "id": 391,
+            "text": "open",
+            "lemma": "open"
+        },
+        {
+            "id": 392,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 393,
+            "text": "handing",
+            "lemma": "hand"
+        },
+        {
+            "id": 394,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 395,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 396,
+            "text": "Habberfield",
+            "lemma": "Habberfield"
+        },
+        {
+            "id": 397,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 398,
+            "text": "put",
+            "lemma": "put"
+        },
+        {
+            "id": 399,
+            "text": "Ardron",
+            "lemma": "Ardron"
+        },
+        {
+            "id": 400,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 401,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 402,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 403,
+            "text": "posts",
+            "lemma": "post"
+        },
+        {
+            "id": 404,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 405,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 406,
+            "text": "conversion",
+            "lemma": "conversion"
+        },
+        {
+            "id": 407,
+            "text": "opened",
+            "lemma": "open"
+        },
+        {
+            "id": 408,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 409,
+            "text": "14",
+            "lemma": "14"
+        },
+        {
+            "id": 410,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 411,
+            "text": "point",
+            "lemma": "point"
+        },
+        {
+            "id": 412,
+            "text": "gap",
+            "lemma": "gap"
+        },
+        {
+            "id": 413,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 414,
+            "text": "better",
+            "lemma": "well"
+        },
+        {
+            "id": 415,
+            "text": "reflected",
+            "lemma": "reflect"
+        },
+        {
+            "id": 416,
+            "text": "Ospreys",
+            "lemma": "Ospreys"
+        },
+        {
+            "id": 417,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 418,
+            "text": "dominance",
+            "lemma": "dominance"
+        },
+        {
+            "id": 419,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 420,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 421,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 422,
+            "text": "Ulster",
+            "lemma": "Ulster"
+        },
+        {
+            "id": 423,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 424,
+            "text": "turn",
+            "lemma": "turn"
+        },
+        {
+            "id": 425,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 426,
+            "text": "dominate",
+            "lemma": "dominate"
+        },
+        {
+            "id": 427,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 428,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 429,
+            "text": "second",
+            "lemma": "second"
+        },
+        {
+            "id": 430,
+            "text": "half",
+            "lemma": "half"
+        },
+        {
+            "id": 431,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 432,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 433,
+            "text": "mistakes",
+            "lemma": "mistake"
+        },
+        {
+            "id": 434,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 435,
+            "text": "stubborn",
+            "lemma": "stubborn"
+        },
+        {
+            "id": 436,
+            "text": "defending",
+            "lemma": "defending"
+        },
+        {
+            "id": 437,
+            "text": "left",
+            "lemma": "leave"
+        },
+        {
+            "id": 438,
+            "text": "them",
+            "lemma": "they"
+        },
+        {
+            "id": 439,
+            "text": "wondering",
+            "lemma": "wonder"
+        },
+        {
+            "id": 440,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 441,
+            "text": "might",
+            "lemma": "might"
+        },
+        {
+            "id": 442,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 443,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 444,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 445,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 446,
+            "text": "facing",
+            "lemma": "face"
+        },
+        {
+            "id": 447,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 448,
+            "text": "almighty",
+            "lemma": "almighty"
+        },
+        {
+            "id": 449,
+            "text": "challenge",
+            "lemma": "challenge"
+        },
+        {
+            "id": 450,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 451,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 452,
+            "text": "final",
+            "lemma": "final"
+        },
+        {
+            "id": 453,
+            "text": "game",
+            "lemma": "game"
+        },
+        {
+            "id": 454,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 455,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 456,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 457,
+            "text": "Leinster",
+            "lemma": "Leinster"
+        },
+        {
+            "id": 458,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 459,
+            "text": "Ulster",
+            "lemma": "Ulster"
+        },
+        {
+            "id": 460,
+            "text": "scrum",
+            "lemma": "scrum"
+        },
+        {
+            "id": 461,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 462,
+            "text": "half",
+            "lemma": "half"
+        },
+        {
+            "id": 463,
+            "text": "Ruan",
+            "lemma": "Ruan"
+        },
+        {
+            "id": 464,
+            "text": "Pienaar",
+            "lemma": "Pienaar"
+        },
+        {
+            "id": 465,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 466,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 467,
+            "text": "leaves",
+            "lemma": "leave"
+        },
+        {
+            "id": 468,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 469,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 470,
+            "text": "end",
+            "lemma": "end"
+        },
+        {
+            "id": 471,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 472,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 473,
+            "text": "season",
+            "lemma": "season"
+        },
+        {
+            "id": 474,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 475,
+            "text": " ",
+            "lemma": " "
+        },
+        {
+            "id": 476,
+            "text": "may",
+            "lemma": "may"
+        },
+        {
+            "id": 477,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 478,
+            "text": "played",
+            "lemma": "play"
+        },
+        {
+            "id": 479,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 480,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 481,
+            "text": "game",
+            "lemma": "game"
+        },
+        {
+            "id": 482,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 483,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 484,
+            "text": "province",
+            "lemma": "province"
+        },
+        {
+            "id": 485,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 486,
+            "text": "suffering",
+            "lemma": "suffer"
+        },
+        {
+            "id": 487,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 488,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 489,
+            "text": "spasm",
+            "lemma": "spasm"
+        },
+        {
+            "id": 490,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 491,
+            "text": "saw",
+            "lemma": "see"
+        },
+        {
+            "id": 492,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 493,
+            "text": "leave",
+            "lemma": "leave"
+        },
+        {
+            "id": 494,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 495,
+            "text": "field",
+            "lemma": "field"
+        },
+        {
+            "id": 496,
+            "text": "during",
+            "lemma": "during"
+        },
+        {
+            "id": 497,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 498,
+            "text": "first",
+            "lemma": "first"
+        },
+        {
+            "id": 499,
+            "text": "half",
+            "lemma": "half"
+        },
+        {
+            "id": 500,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 501,
+            "text": "Ulster",
+            "lemma": "Ulster"
+        },
+        {
+            "id": 502,
+            "text": "director",
+            "lemma": "director"
+        },
+        {
+            "id": 503,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 504,
+            "text": "rugby",
+            "lemma": "rugby"
+        },
+        {
+            "id": 505,
+            "text": "Les",
+            "lemma": "Les"
+        },
+        {
+            "id": 506,
+            "text": "Kiss",
+            "lemma": "Kiss"
+        },
+        {
+            "id": 507,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 508,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 509,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 510,
+            "text": "Frustrated",
+            "lemma": "frustrated"
+        },
+        {
+            "id": 511,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 512,
+            "text": "disappointed",
+            "lemma": "disappoint"
+        },
+        {
+            "id": 513,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 514,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 515,
+            "text": "words",
+            "lemma": "word"
+        },
+        {
+            "id": 516,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 517,
+            "text": "describe",
+            "lemma": "describe"
+        },
+        {
+            "id": 518,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 519,
+            "text": "lot",
+            "lemma": "lot"
+        },
+        {
+            "id": 520,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 521,
+            "text": "things",
+            "lemma": "thing"
+        },
+        {
+            "id": 522,
+            "text": "because",
+            "lemma": "because"
+        },
+        {
+            "id": 523,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 524,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 525,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 526,
+            "text": "fair",
+            "lemma": "fair"
+        },
+        {
+            "id": 527,
+            "text": "bit",
+            "lemma": "bit"
+        },
+        {
+            "id": 528,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 529,
+            "text": "pain",
+            "lemma": "pain"
+        },
+        {
+            "id": 530,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 531,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 532,
+            "text": "dressing",
+            "lemma": "dressing"
+        },
+        {
+            "id": 533,
+            "text": "room",
+            "lemma": "room"
+        },
+        {
+            "id": 534,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 535,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 536,
+            "text": "Ruan",
+            "lemma": "Ruan"
+        },
+        {
+            "id": 537,
+            "text": "[",
+            "lemma": "["
+        },
+        {
+            "id": 538,
+            "text": "Pienaar",
+            "lemma": "pienaar"
+        },
+        {
+            "id": 539,
+            "text": "]",
+            "lemma": "]"
+        },
+        {
+            "id": 540,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 541,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 542,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 543,
+            "text": "spasm",
+            "lemma": "spasm"
+        },
+        {
+            "id": 544,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 545,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 546,
+            "text": "game",
+            "lemma": "game"
+        },
+        {
+            "id": 547,
+            "text": "started",
+            "lemma": "start"
+        },
+        {
+            "id": 548,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 549,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 550,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 551,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 552,
+            "text": "'d",
+            "lemma": "would"
+        },
+        {
+            "id": 553,
+            "text": "ride",
+            "lemma": "ride"
+        },
+        {
+            "id": 554,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 555,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 556,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 557,
+            "text": "within",
+            "lemma": "within"
+        },
+        {
+            "id": 558,
+            "text": "20",
+            "lemma": "20"
+        },
+        {
+            "id": 559,
+            "text": "minutes",
+            "lemma": "minute"
+        },
+        {
+            "id": 560,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 561,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 562,
+            "text": "gone",
+            "lemma": "go"
+        },
+        {
+            "id": 563,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 564,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 565,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 566,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 567,
+            "text": "fairly",
+            "lemma": "fairly"
+        },
+        {
+            "id": 568,
+            "text": "significant",
+            "lemma": "significant"
+        },
+        {
+            "id": 569,
+            "text": "spasm",
+            "lemma": "spasm"
+        },
+        {
+            "id": 570,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 571,
+            "text": "those",
+            "lemma": "those"
+        },
+        {
+            "id": 572,
+            "text": "things",
+            "lemma": "thing"
+        },
+        {
+            "id": 573,
+            "text": "can",
+            "lemma": "can"
+        },
+        {
+            "id": 574,
+            "text": "take",
+            "lemma": "take"
+        },
+        {
+            "id": 575,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 576,
+            "text": "while",
+            "lemma": "while"
+        },
+        {
+            "id": 577,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 578,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 579,
+            "text": "Stu",
+            "lemma": "Stu"
+        },
+        {
+            "id": 580,
+            "text": "McCloskey",
+            "lemma": "McCloskey"
+        },
+        {
+            "id": 581,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 582,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 583,
+            "text": "bad",
+            "lemma": "bad"
+        },
+        {
+            "id": 584,
+            "text": "dead",
+            "lemma": "dead"
+        },
+        {
+            "id": 585,
+            "text": "leg",
+            "lemma": "leg"
+        },
+        {
+            "id": 586,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 587,
+            "text": "Stuart",
+            "lemma": "Stuart"
+        },
+        {
+            "id": 588,
+            "text": "Olding",
+            "lemma": "Olding"
+        },
+        {
+            "id": 589,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 590,
+            "text": "hit",
+            "lemma": "hit"
+        },
+        {
+            "id": 591,
+            "text": "hard",
+            "lemma": "hard"
+        },
+        {
+            "id": 592,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 593,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 594,
+            "text": "first",
+            "lemma": "first"
+        },
+        {
+            "id": 595,
+            "text": "touch",
+            "lemma": "touch"
+        },
+        {
+            "id": 596,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 597,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 598,
+            "text": "ankle",
+            "lemma": "ankle"
+        },
+        {
+            "id": 599,
+            "text": "injury",
+            "lemma": "injury"
+        },
+        {
+            "id": 600,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 601,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 602,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 603,
+            "text": "probably",
+            "lemma": "probably"
+        },
+        {
+            "id": 604,
+            "text": "season",
+            "lemma": "season"
+        },
+        {
+            "id": 605,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 606,
+            "text": "ending",
+            "lemma": "end"
+        },
+        {
+            "id": 607,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 608,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 609,
+            "text": "Ospreys",
+            "lemma": "Ospreys"
+        },
+        {
+            "id": 610,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 611,
+            "text": "Dan",
+            "lemma": "Dan"
+        },
+        {
+            "id": 612,
+            "text": "Evans",
+            "lemma": "Evans"
+        },
+        {
+            "id": 613,
+            "text": ";",
+            "lemma": ";"
+        },
+        {
+            "id": 614,
+            "text": "Keelan",
+            "lemma": "Keelan"
+        },
+        {
+            "id": 615,
+            "text": "Giles",
+            "lemma": "Giles"
+        },
+        {
+            "id": 616,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 617,
+            "text": "Kieron",
+            "lemma": "Kieron"
+        },
+        {
+            "id": 618,
+            "text": "Fonotia",
+            "lemma": "Fonotia"
+        },
+        {
+            "id": 619,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 620,
+            "text": "Ashley",
+            "lemma": "Ashley"
+        },
+        {
+            "id": 621,
+            "text": "Beck",
+            "lemma": "Beck"
+        },
+        {
+            "id": 622,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 623,
+            "text": "Tom",
+            "lemma": "Tom"
+        },
+        {
+            "id": 624,
+            "text": "Habberfield",
+            "lemma": "Habberfield"
+        },
+        {
+            "id": 625,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 626,
+            "text": "Dan",
+            "lemma": "Dan"
+        },
+        {
+            "id": 627,
+            "text": "Biggar",
+            "lemma": "Biggar"
+        },
+        {
+            "id": 628,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 629,
+            "text": "Rhys",
+            "lemma": "Rhys"
+        },
+        {
+            "id": 630,
+            "text": "Webb",
+            "lemma": "Webb"
+        },
+        {
+            "id": 631,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 632,
+            "text": "Capt",
+            "lemma": "Capt"
+        },
+        {
+            "id": 633,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 634,
+            "text": ";",
+            "lemma": ";"
+        },
+        {
+            "id": 635,
+            "text": "Nicky",
+            "lemma": "Nicky"
+        },
+        {
+            "id": 636,
+            "text": "Smith",
+            "lemma": "Smith"
+        },
+        {
+            "id": 637,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 638,
+            "text": "Scott",
+            "lemma": "Scott"
+        },
+        {
+            "id": 639,
+            "text": "Baldwin",
+            "lemma": "Baldwin"
+        },
+        {
+            "id": 640,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 641,
+            "text": "Brian",
+            "lemma": "Brian"
+        },
+        {
+            "id": 642,
+            "text": "Mujati",
+            "lemma": "Mujati"
+        },
+        {
+            "id": 643,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 644,
+            "text": "Bradley",
+            "lemma": "Bradley"
+        },
+        {
+            "id": 645,
+            "text": "Davies",
+            "lemma": "Davies"
+        },
+        {
+            "id": 646,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 647,
+            "text": "Tyler",
+            "lemma": "Tyler"
+        },
+        {
+            "id": 648,
+            "text": "Ardron",
+            "lemma": "Ardron"
+        },
+        {
+            "id": 649,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 650,
+            "text": "Sam",
+            "lemma": "Sam"
+        },
+        {
+            "id": 651,
+            "text": "Underhill",
+            "lemma": "Underhill"
+        },
+        {
+            "id": 652,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 653,
+            "text": "Justin",
+            "lemma": "Justin"
+        },
+        {
+            "id": 654,
+            "text": "Tipuric",
+            "lemma": "Tipuric"
+        },
+        {
+            "id": 655,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 656,
+            "text": "James",
+            "lemma": "James"
+        },
+        {
+            "id": 657,
+            "text": "King",
+            "lemma": "King"
+        },
+        {
+            "id": 658,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 659,
+            "text": "Replacements",
+            "lemma": "replacement"
+        },
+        {
+            "id": 660,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 661,
+            "text": "Scott",
+            "lemma": "Scott"
+        },
+        {
+            "id": 662,
+            "text": "Otten",
+            "lemma": "Otten"
+        },
+        {
+            "id": 663,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 664,
+            "text": "Paul",
+            "lemma": "Paul"
+        },
+        {
+            "id": 665,
+            "text": "James",
+            "lemma": "James"
+        },
+        {
+            "id": 666,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 667,
+            "text": "Rhodri",
+            "lemma": "Rhodri"
+        },
+        {
+            "id": 668,
+            "text": "Jones",
+            "lemma": "Jones"
+        },
+        {
+            "id": 669,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 670,
+            "text": "Lloyd",
+            "lemma": "Lloyd"
+        },
+        {
+            "id": 671,
+            "text": "Ashley",
+            "lemma": "Ashley"
+        },
+        {
+            "id": 672,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 673,
+            "text": "Dan",
+            "lemma": "Dan"
+        },
+        {
+            "id": 674,
+            "text": "Baker",
+            "lemma": "Baker"
+        },
+        {
+            "id": 675,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 676,
+            "text": "Brendon",
+            "lemma": "Brendon"
+        },
+        {
+            "id": 677,
+            "text": "Leonard",
+            "lemma": "Leonard"
+        },
+        {
+            "id": 678,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 679,
+            "text": "Sam",
+            "lemma": "Sam"
+        },
+        {
+            "id": 680,
+            "text": "Davies",
+            "lemma": "Davies"
+        },
+        {
+            "id": 681,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 682,
+            "text": "Josh",
+            "lemma": "Josh"
+        },
+        {
+            "id": 683,
+            "text": "Matavesi",
+            "lemma": "Matavesi"
+        },
+        {
+            "id": 684,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 685,
+            "text": "Ulster",
+            "lemma": "Ulster"
+        },
+        {
+            "id": 686,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 687,
+            "text": "C",
+            "lemma": "C"
+        },
+        {
+            "id": 688,
+            "text": "Gilroy",
+            "lemma": "Gilroy"
+        },
+        {
+            "id": 689,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 690,
+            "text": "A",
+            "lemma": "a"
+        },
+        {
+            "id": 691,
+            "text": "Trimble",
+            "lemma": "Trimble"
+        },
+        {
+            "id": 692,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 693,
+            "text": "capt",
+            "lemma": "capt"
+        },
+        {
+            "id": 694,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 695,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 696,
+            "text": "L",
+            "lemma": "L"
+        },
+        {
+            "id": 697,
+            "text": "Marshall",
+            "lemma": "Marshall"
+        },
+        {
+            "id": 698,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 699,
+            "text": "S",
+            "lemma": "S"
+        },
+        {
+            "id": 700,
+            "text": "McCloskey",
+            "lemma": "McCloskey"
+        },
+        {
+            "id": 701,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 702,
+            "text": "C",
+            "lemma": "C"
+        },
+        {
+            "id": 703,
+            "text": "Piutau",
+            "lemma": "Piutau"
+        },
+        {
+            "id": 704,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 705,
+            "text": "P",
+            "lemma": "P"
+        },
+        {
+            "id": 706,
+            "text": "Jackson",
+            "lemma": "Jackson"
+        },
+        {
+            "id": 707,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 708,
+            "text": "R",
+            "lemma": "R"
+        },
+        {
+            "id": 709,
+            "text": "Pienaar",
+            "lemma": "pienaar"
+        },
+        {
+            "id": 710,
+            "text": ";",
+            "lemma": ";"
+        },
+        {
+            "id": 711,
+            "text": "A",
+            "lemma": "a"
+        },
+        {
+            "id": 712,
+            "text": "Warwick",
+            "lemma": "Warwick"
+        },
+        {
+            "id": 713,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 714,
+            "text": "R",
+            "lemma": "R"
+        },
+        {
+            "id": 715,
+            "text": "Best",
+            "lemma": "Best"
+        },
+        {
+            "id": 716,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 717,
+            "text": "W",
+            "lemma": "W"
+        },
+        {
+            "id": 718,
+            "text": "Herbst",
+            "lemma": "Herbst"
+        },
+        {
+            "id": 719,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 720,
+            "text": "K",
+            "lemma": "K"
+        },
+        {
+            "id": 721,
+            "text": "Treadwell",
+            "lemma": "Treadwell"
+        },
+        {
+            "id": 722,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 723,
+            "text": "A",
+            "lemma": "a"
+        },
+        {
+            "id": 724,
+            "text": "O'Connor",
+            "lemma": "O'Connor"
+        },
+        {
+            "id": 725,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 726,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 727,
+            "text": "Henderson",
+            "lemma": "Henderson"
+        },
+        {
+            "id": 728,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 729,
+            "text": "S",
+            "lemma": "S"
+        },
+        {
+            "id": 730,
+            "text": "Reidy",
+            "lemma": "Reidy"
+        },
+        {
+            "id": 731,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 732,
+            "text": "R",
+            "lemma": "R"
+        },
+        {
+            "id": 733,
+            "text": "Diack",
+            "lemma": "diack"
+        },
+        {
+            "id": 734,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 735,
+            "text": "Replacements",
+            "lemma": "replacement"
+        },
+        {
+            "id": 736,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 737,
+            "text": "R",
+            "lemma": "R"
+        },
+        {
+            "id": 738,
+            "text": "Herring",
+            "lemma": "Herring"
+        },
+        {
+            "id": 739,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 740,
+            "text": "C",
+            "lemma": "C"
+        },
+        {
+            "id": 741,
+            "text": "Black",
+            "lemma": "Black"
+        },
+        {
+            "id": 742,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 743,
+            "text": "R",
+            "lemma": "r"
+        },
+        {
+            "id": 744,
+            "text": "Ah",
+            "lemma": "ah"
+        },
+        {
+            "id": 745,
+            "text": "You",
+            "lemma": "you"
+        },
+        {
+            "id": 746,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 747,
+            "text": "F",
+            "lemma": "F"
+        },
+        {
+            "id": 748,
+            "text": "van",
+            "lemma": "van"
+        },
+        {
+            "id": 749,
+            "text": "der",
+            "lemma": "der"
+        },
+        {
+            "id": 750,
+            "text": "Merwe",
+            "lemma": "Merwe"
+        },
+        {
+            "id": 751,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 752,
+            "text": "N",
+            "lemma": "N"
+        },
+        {
+            "id": 753,
+            "text": "Timoney",
+            "lemma": "Timoney"
+        },
+        {
+            "id": 754,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 755,
+            "text": "P",
+            "lemma": "P"
+        },
+        {
+            "id": 756,
+            "text": "Marshall",
+            "lemma": "Marshall"
+        },
+        {
+            "id": 757,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 758,
+            "text": "S",
+            "lemma": "S"
+        },
+        {
+            "id": 759,
+            "text": "Olding",
+            "lemma": "Olding"
+        },
+        {
+            "id": 760,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 761,
+            "text": "J",
+            "lemma": "J"
+        },
+        {
+            "id": 762,
+            "text": "Stockdale",
+            "lemma": "Stockdale"
+        },
+        {
+            "id": 763,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 764,
+            "text": "Referee",
+            "lemma": "referee"
+        },
+        {
+            "id": 765,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 766,
+            "text": "John",
+            "lemma": "John"
+        },
+        {
+            "id": 767,
+            "text": "Lacey",
+            "lemma": "Lacey"
+        },
+        {
+            "id": 768,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 769,
+            "text": "IRFU",
+            "lemma": "IRFU"
+        },
+        {
+            "id": 770,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 771,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 772,
+            "text": "Assistant",
+            "lemma": "assistant"
+        },
+        {
+            "id": 773,
+            "text": "referees",
+            "lemma": "referee"
+        },
+        {
+            "id": 774,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 775,
+            "text": "George",
+            "lemma": "George"
+        },
+        {
+            "id": 776,
+            "text": "Clancy",
+            "lemma": "Clancy"
+        },
+        {
+            "id": 777,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 778,
+            "text": "IRFU",
+            "lemma": "IRFU"
+        },
+        {
+            "id": 779,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 780,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 781,
+            "text": "Ben",
+            "lemma": "Ben"
+        },
+        {
+            "id": 782,
+            "text": "Whitehouse",
+            "lemma": "Whitehouse"
+        },
+        {
+            "id": 783,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 784,
+            "text": "WRU",
+            "lemma": "WRU"
+        },
+        {
+            "id": 785,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 786,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 787,
+            "text": "TMO",
+            "lemma": "TMO"
+        },
+        {
+            "id": 788,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 789,
+            "text": "Neil",
+            "lemma": "Neil"
+        },
+        {
+            "id": 790,
+            "text": "Paterson",
+            "lemma": "Paterson"
+        },
+        {
+            "id": 791,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 792,
+            "text": "SRU",
+            "lemma": "SRU"
+        },
+        {
+            "id": 793,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 794,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 795,
+            "text": "For",
+            "lemma": "for"
+        },
+        {
+            "id": 796,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 797,
+            "text": "latest",
+            "lemma": "late"
+        },
+        {
+            "id": 798,
+            "text": "rugby",
+            "lemma": "rugby"
+        },
+        {
+            "id": 799,
+            "text": "union",
+            "lemma": "union"
+        },
+        {
+            "id": 800,
+            "text": "news",
+            "lemma": "news"
+        },
+        {
+            "id": 801,
+            "text": "follow",
+            "lemma": "follow"
+        },
+        {
+            "id": 802,
+            "text": "@bbcrugbyunion",
+            "lemma": "@bbcrugbyunion"
+        },
+        {
+            "id": 803,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 804,
+            "text": "Twitter",
+            "lemma": "Twitter"
+        },
+        {
+            "id": 805,
+            "text": ".",
+            "lemma": "."
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Ospreys",
+            "lemma": "Ospreys",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "moved",
+            "lemma": "move",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "into",
+            "lemma": "into",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "Pro12",
+            "lemma": "Pro12",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "play",
+            "lemma": "play",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "off",
+            "lemma": "off",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "places",
+            "lemma": "place",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "with",
+            "lemma": "with",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                4,
+                5,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "bonus",
+            "lemma": "bonus",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "point",
+            "lemma": "point",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "win",
+            "lemma": "win",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "over",
+            "lemma": "over",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "Ulster",
+            "lemma": "Ulster",
+            "spans": [
+                4,
+                5,
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "Swansea",
+            "lemma": "Swansea",
+            "spans": [
+                5,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 1,
+            "qaIds": [
+                0,
+                4
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 1,
+            "end": 2,
+            "qaIds": [
+                4,
+                5,
+                6,
+                7
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 2,
+            "end": 9,
+            "qaIds": [
+                5
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 3,
+            "end": 9,
+            "qaIds": [
+                1
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 9,
+            "end": 17,
+            "qaIds": [
+                6
+            ],
+            "id": 4,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 9,
+            "end": 19,
+            "qaIds": [
+                7
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 10,
+            "end": 11,
+            "qaIds": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "id": 6,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 16,
+            "end": 17,
+            "qaIds": [
+                2
+            ],
+            "id": 7,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 18,
+            "end": 19,
+            "qaIds": [
+                3
+            ],
+            "id": 8,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "win",
+            "questionId": 0,
+            "question": "who won ?",
+            "answer": "Ospreys",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                7
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "win",
+            "questionId": 1,
+            "question": "where did someone win ?",
+            "answer": "the Pro12 play-off places",
+            "answerStartChar": [
+                19
+            ],
+            "answerEndChar": [
+                44
+            ],
+            "answerStartToken": [
+                3
+            ],
+            "answerEndToken": [
+                9
+            ],
+            "answerId": "3-9",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "win",
+            "questionId": 2,
+            "question": "who did someone win over ?",
+            "answer": "Ulster",
+            "answerStartChar": [
+                73
+            ],
+            "answerEndChar": [
+                79
+            ],
+            "answerStartToken": [
+                16
+            ],
+            "answerEndToken": [
+                17
+            ],
+            "answerId": "16-17",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "win",
+            "questionId": 3,
+            "question": "where did someone win over someone ?",
+            "answer": "Swansea",
+            "answerStartChar": [
+                83
+            ],
+            "answerEndChar": [
+                90
+            ],
+            "answerStartToken": [
+                18
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "18-19",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "1-2",
+            "predicate": "moved",
+            "questionId": 0,
+            "question": "who moved somewhere ?",
+            "answer": "Ospreys",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                7
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "1-2",
+            "predicate": "moved",
+            "questionId": 1,
+            "question": "where did someone move ?",
+            "answer": "into the Pro12 play-off places",
+            "answerStartChar": [
+                14
+            ],
+            "answerEndChar": [
+                44
+            ],
+            "answerStartToken": [
+                2
+            ],
+            "answerEndToken": [
+                9
+            ],
+            "answerId": "2-9",
+            "id": 5
+        },
+        {
+            "sentId": 0,
+            "predicateId": "1-2",
+            "predicate": "moved",
+            "questionId": 2,
+            "question": "how did someone move somewhere ?",
+            "answer": "with a bonus-point win over Ulster",
+            "answerStartChar": [
+                45
+            ],
+            "answerEndChar": [
+                79
+            ],
+            "answerStartToken": [
+                9
+            ],
+            "answerEndToken": [
+                17
+            ],
+            "answerId": "9-17",
+            "id": 6
+        },
+        {
+            "sentId": 0,
+            "predicateId": "1-2",
+            "predicate": "moved",
+            "questionId": 2,
+            "question": "how did someone move somewhere ?",
+            "answer": "with a bonus-point win over Ulster in Swanse",
+            "answerStartChar": [
+                45
+            ],
+            "answerEndChar": [
+                89
+            ],
+            "answerStartToken": [
+                9
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "9-19",
+            "id": 7
+        }
+    ],
+    "datasource": "xsum",
+    "summaryId": "39744454"
+}

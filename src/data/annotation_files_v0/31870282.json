@@ -1,0 +1,5755 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "They",
+            "lemma": "they"
+        },
+        {
+            "id": 1,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 2,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 3,
+            "text": "three",
+            "lemma": "three"
+        },
+        {
+            "id": 4,
+            "text": "months",
+            "lemma": "month"
+        },
+        {
+            "id": 5,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 6,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 7,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 8,
+            "text": "long",
+            "lemma": "long"
+        },
+        {
+            "id": 9,
+            "text": "enough",
+            "lemma": "enough"
+        },
+        {
+            "id": 10,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 11,
+            "text": "sap",
+            "lemma": "sap"
+        },
+        {
+            "id": 12,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 13,
+            "text": "finances",
+            "lemma": "finance"
+        },
+        {
+            "id": 14,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 15,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 16,
+            "text": "political",
+            "lemma": "political"
+        },
+        {
+            "id": 17,
+            "text": "parties",
+            "lemma": "party"
+        },
+        {
+            "id": 18,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 19,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 20,
+            "text": "energy",
+            "lemma": "energy"
+        },
+        {
+            "id": 21,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 22,
+            "text": "voters",
+            "lemma": "voter"
+        },
+        {
+            "id": 23,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 24,
+            "text": "battered",
+            "lemma": "batter"
+        },
+        {
+            "id": 25,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 26,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 27,
+            "text": "never",
+            "lemma": "never"
+        },
+        {
+            "id": 28,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 29,
+            "text": "ending",
+            "lemma": "end"
+        },
+        {
+            "id": 30,
+            "text": "string",
+            "lemma": "string"
+        },
+        {
+            "id": 31,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 32,
+            "text": "cheap",
+            "lemma": "cheap"
+        },
+        {
+            "id": 33,
+            "text": "shots",
+            "lemma": "shot"
+        },
+        {
+            "id": 34,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 35,
+            "text": "cheap",
+            "lemma": "cheap"
+        },
+        {
+            "id": 36,
+            "text": "internet",
+            "lemma": "internet"
+        },
+        {
+            "id": 37,
+            "text": "videos",
+            "lemma": "video"
+        },
+        {
+            "id": 38,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 39,
+            "text": "Campaign",
+            "lemma": "campaign"
+        },
+        {
+            "id": 40,
+            "text": "2015",
+            "lemma": "2015"
+        },
+        {
+            "id": 41,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 42,
+            "text": "coming",
+            "lemma": "come"
+        },
+        {
+            "id": 43,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 44,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 45,
+            "text": "boil",
+            "lemma": "boil"
+        },
+        {
+            "id": 46,
+            "text": "rather",
+            "lemma": "rather"
+        },
+        {
+            "id": 47,
+            "text": "nicely",
+            "lemma": "nicely"
+        },
+        {
+            "id": 48,
+            "text": "now",
+            "lemma": "now"
+        },
+        {
+            "id": 49,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 50,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 51,
+            "text": "latest",
+            "lemma": "late"
+        },
+        {
+            "id": 52,
+            "text": "opinion",
+            "lemma": "opinion"
+        },
+        {
+            "id": 53,
+            "text": "polls",
+            "lemma": "poll"
+        },
+        {
+            "id": 54,
+            "text": "suggesting",
+            "lemma": "suggest"
+        },
+        {
+            "id": 55,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 56,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 57,
+            "text": "centre",
+            "lemma": "centre"
+        },
+        {
+            "id": 58,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 59,
+            "text": "left",
+            "lemma": "leave"
+        },
+        {
+            "id": 60,
+            "text": "alliance",
+            "lemma": "alliance"
+        },
+        {
+            "id": 61,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 62,
+            "text": "running",
+            "lemma": "run"
+        },
+        {
+            "id": 63,
+            "text": "ahead",
+            "lemma": "ahead"
+        },
+        {
+            "id": 64,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 65,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 66,
+            "text": "hawkish",
+            "lemma": "hawkish"
+        },
+        {
+            "id": 67,
+            "text": "Likud",
+            "lemma": "Likud"
+        },
+        {
+            "id": 68,
+            "text": "Party",
+            "lemma": "Party"
+        },
+        {
+            "id": 69,
+            "text": "headed",
+            "lemma": "head"
+        },
+        {
+            "id": 70,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 71,
+            "text": "Benjamin",
+            "lemma": "Benjamin"
+        },
+        {
+            "id": 72,
+            "text": "Netanyahu",
+            "lemma": "Netanyahu"
+        },
+        {
+            "id": 73,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 74,
+            "text": "That",
+            "lemma": "that"
+        },
+        {
+            "id": 75,
+            "text": "does",
+            "lemma": "do"
+        },
+        {
+            "id": 76,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 77,
+            "text": "necessarily",
+            "lemma": "necessarily"
+        },
+        {
+            "id": 78,
+            "text": "mean",
+            "lemma": "mean"
+        },
+        {
+            "id": 79,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 80,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 81,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 82,
+            "text": "forced",
+            "lemma": "force"
+        },
+        {
+            "id": 83,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 84,
+            "text": "office",
+            "lemma": "office"
+        },
+        {
+            "id": 85,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 86,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 87,
+            "text": "could",
+            "lemma": "could"
+        },
+        {
+            "id": 88,
+            "text": "still",
+            "lemma": "still"
+        },
+        {
+            "id": 89,
+            "text": "form",
+            "lemma": "form"
+        },
+        {
+            "id": 90,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 91,
+            "text": "right",
+            "lemma": "right"
+        },
+        {
+            "id": 92,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 93,
+            "text": "wing",
+            "lemma": "wing"
+        },
+        {
+            "id": 94,
+            "text": "coalition",
+            "lemma": "coalition"
+        },
+        {
+            "id": 95,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 96,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 97,
+            "text": "election",
+            "lemma": "election"
+        },
+        {
+            "id": 98,
+            "text": "night",
+            "lemma": "night"
+        },
+        {
+            "id": 99,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 100,
+            "text": "17",
+            "lemma": "17"
+        },
+        {
+            "id": 101,
+            "text": "March",
+            "lemma": "March"
+        },
+        {
+            "id": 102,
+            "text": "promises",
+            "lemma": "promise"
+        },
+        {
+            "id": 103,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 104,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 105,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 106,
+            "text": "exciting",
+            "lemma": "exciting"
+        },
+        {
+            "id": 107,
+            "text": "affair",
+            "lemma": "affair"
+        },
+        {
+            "id": 108,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 109,
+            "text": "Outsiders",
+            "lemma": "outsider"
+        },
+        {
+            "id": 110,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 111,
+            "text": "though",
+            "lemma": "though"
+        },
+        {
+            "id": 112,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 113,
+            "text": "might",
+            "lemma": "might"
+        },
+        {
+            "id": 114,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 115,
+            "text": "surprised",
+            "lemma": "surprised"
+        },
+        {
+            "id": 116,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 117,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 118,
+            "text": "moribund",
+            "lemma": "moribund"
+        },
+        {
+            "id": 119,
+            "text": "state",
+            "lemma": "state"
+        },
+        {
+            "id": 120,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 121,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 122,
+            "text": "vexed",
+            "lemma": "vex"
+        },
+        {
+            "id": 123,
+            "text": "peace",
+            "lemma": "peace"
+        },
+        {
+            "id": 124,
+            "text": "process",
+            "lemma": "process"
+        },
+        {
+            "id": 125,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 126,
+            "text": "Israel",
+            "lemma": "Israel"
+        },
+        {
+            "id": 127,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 128,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 129,
+            "text": "Palestinians",
+            "lemma": "Palestinians"
+        },
+        {
+            "id": 130,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 131,
+            "text": "never",
+            "lemma": "never"
+        },
+        {
+            "id": 132,
+            "text": "felt",
+            "lemma": "feel"
+        },
+        {
+            "id": 133,
+            "text": "like",
+            "lemma": "like"
+        },
+        {
+            "id": 134,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 135,
+            "text": "major",
+            "lemma": "major"
+        },
+        {
+            "id": 136,
+            "text": "campaign",
+            "lemma": "campaign"
+        },
+        {
+            "id": 137,
+            "text": "issue",
+            "lemma": "issue"
+        },
+        {
+            "id": 138,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 139,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 140,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 141,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 142,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 143,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 144,
+            "text": "background",
+            "lemma": "background"
+        },
+        {
+            "id": 145,
+            "text": "all",
+            "lemma": "all"
+        },
+        {
+            "id": 146,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 147,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 148,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 149,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 150,
+            "text": "course",
+            "lemma": "course"
+        },
+        {
+            "id": 151,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 152,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 153,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 154,
+            "text": "central",
+            "lemma": "central"
+        },
+        {
+            "id": 155,
+            "text": "historical",
+            "lemma": "historical"
+        },
+        {
+            "id": 156,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 157,
+            "text": "strategic",
+            "lemma": "strategic"
+        },
+        {
+            "id": 158,
+            "text": "issue",
+            "lemma": "issue"
+        },
+        {
+            "id": 159,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 160,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 161,
+            "text": "faced",
+            "lemma": "face"
+        },
+        {
+            "id": 162,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 163,
+            "text": "country",
+            "lemma": "country"
+        },
+        {
+            "id": 164,
+            "text": "since",
+            "lemma": "since"
+        },
+        {
+            "id": 165,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 166,
+            "text": "Middle",
+            "lemma": "Middle"
+        },
+        {
+            "id": 167,
+            "text": "East",
+            "lemma": "East"
+        },
+        {
+            "id": 168,
+            "text": "war",
+            "lemma": "war"
+        },
+        {
+            "id": 169,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 170,
+            "text": "1967",
+            "lemma": "1967"
+        },
+        {
+            "id": 171,
+            "text": "when",
+            "lemma": "when"
+        },
+        {
+            "id": 172,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 173,
+            "text": "captured",
+            "lemma": "capture"
+        },
+        {
+            "id": 174,
+            "text": "Gaza",
+            "lemma": "Gaza"
+        },
+        {
+            "id": 175,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 176,
+            "text": "Egypt",
+            "lemma": "Egypt"
+        },
+        {
+            "id": 177,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 178,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 179,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 180,
+            "text": "Bank",
+            "lemma": "Bank"
+        },
+        {
+            "id": 181,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 182,
+            "text": "Jordan",
+            "lemma": "Jordan"
+        },
+        {
+            "id": 183,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 184,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 185,
+            "text": "captured",
+            "lemma": "capture"
+        },
+        {
+            "id": 186,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 187,
+            "text": "Golan",
+            "lemma": "Golan"
+        },
+        {
+            "id": 188,
+            "text": "Heights",
+            "lemma": "Heights"
+        },
+        {
+            "id": 189,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 190,
+            "text": "Syria",
+            "lemma": "Syria"
+        },
+        {
+            "id": 191,
+            "text": "too",
+            "lemma": "too"
+        },
+        {
+            "id": 192,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 193,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 194,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 195,
+            "text": "raises",
+            "lemma": "raise"
+        },
+        {
+            "id": 196,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 197,
+            "text": "different",
+            "lemma": "different"
+        },
+        {
+            "id": 198,
+            "text": "set",
+            "lemma": "set"
+        },
+        {
+            "id": 199,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 200,
+            "text": "strategic",
+            "lemma": "strategic"
+        },
+        {
+            "id": 201,
+            "text": "issues",
+            "lemma": "issue"
+        },
+        {
+            "id": 202,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 203,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 204,
+            "text": "separate",
+            "lemma": "separate"
+        },
+        {
+            "id": 205,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 206,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 207,
+            "text": "particular",
+            "lemma": "particular"
+        },
+        {
+            "id": 208,
+            "text": "diplomatic",
+            "lemma": "diplomatic"
+        },
+        {
+            "id": 209,
+            "text": "equation",
+            "lemma": "equation"
+        },
+        {
+            "id": 210,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 211,
+            "text": "Voters",
+            "lemma": "voter"
+        },
+        {
+            "id": 212,
+            "text": "know",
+            "lemma": "know"
+        },
+        {
+            "id": 213,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 214,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 215,
+            "text": "Zionist",
+            "lemma": "Zionist"
+        },
+        {
+            "id": 216,
+            "text": "Union",
+            "lemma": "Union"
+        },
+        {
+            "id": 217,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 218,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 219,
+            "text": "name",
+            "lemma": "name"
+        },
+        {
+            "id": 220,
+            "text": "chosen",
+            "lemma": "choose"
+        },
+        {
+            "id": 221,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 222,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 223,
+            "text": "alliance",
+            "lemma": "alliance"
+        },
+        {
+            "id": 224,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 225,
+            "text": "Yitzhak",
+            "lemma": "Yitzhak"
+        },
+        {
+            "id": 226,
+            "text": "Herzog",
+            "lemma": "Herzog"
+        },
+        {
+            "id": 227,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 228,
+            "text": "Labour",
+            "lemma": "Labour"
+        },
+        {
+            "id": 229,
+            "text": "Party",
+            "lemma": "Party"
+        },
+        {
+            "id": 230,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 231,
+            "text": "Tzipi",
+            "lemma": "Tzipi"
+        },
+        {
+            "id": 232,
+            "text": "Livni",
+            "lemma": "Livni"
+        },
+        {
+            "id": 233,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 234,
+            "text": "movement",
+            "lemma": "movement"
+        },
+        {
+            "id": 235,
+            "text": "Hatnuah",
+            "lemma": "Hatnuah"
+        },
+        {
+            "id": 236,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 237,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 238,
+            "text": "approach",
+            "lemma": "approach"
+        },
+        {
+            "id": 239,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 240,
+            "text": "prospect",
+            "lemma": "prospect"
+        },
+        {
+            "id": 241,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 242,
+            "text": "talking",
+            "lemma": "talk"
+        },
+        {
+            "id": 243,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 244,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 245,
+            "text": "Palestinians",
+            "lemma": "Palestinians"
+        },
+        {
+            "id": 246,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 247,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 248,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 249,
+            "text": "land",
+            "lemma": "land"
+        },
+        {
+            "id": 250,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 251,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 252,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 253,
+            "text": "peace",
+            "lemma": "peace"
+        },
+        {
+            "id": 254,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 255,
+            "text": "deal",
+            "lemma": "deal"
+        },
+        {
+            "id": 256,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 257,
+            "text": "more",
+            "lemma": "more"
+        },
+        {
+            "id": 258,
+            "text": "enthusiasm",
+            "lemma": "enthusiasm"
+        },
+        {
+            "id": 259,
+            "text": "than",
+            "lemma": "than"
+        },
+        {
+            "id": 260,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 261,
+            "text": "Netanyahu",
+            "lemma": "Netanyahu"
+        },
+        {
+            "id": 262,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 263,
+            "text": "At",
+            "lemma": "at"
+        },
+        {
+            "id": 264,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 265,
+            "text": "point",
+            "lemma": "point"
+        },
+        {
+            "id": 266,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 267,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 268,
+            "text": "campaign",
+            "lemma": "campaign"
+        },
+        {
+            "id": 269,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 270,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 271,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 272,
+            "text": "brief",
+            "lemma": "brief"
+        },
+        {
+            "id": 273,
+            "text": "controversy",
+            "lemma": "controversy"
+        },
+        {
+            "id": 274,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 275,
+            "text": "whether",
+            "lemma": "whether"
+        },
+        {
+            "id": 276,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 277,
+            "text": "speech",
+            "lemma": "speech"
+        },
+        {
+            "id": 278,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 279,
+            "text": "Netanyahu",
+            "lemma": "Netanyahu"
+        },
+        {
+            "id": 280,
+            "text": "made",
+            "lemma": "make"
+        },
+        {
+            "id": 281,
+            "text": "six",
+            "lemma": "six"
+        },
+        {
+            "id": 282,
+            "text": "years",
+            "lemma": "year"
+        },
+        {
+            "id": 283,
+            "text": "ago",
+            "lemma": "ago"
+        },
+        {
+            "id": 284,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 285,
+            "text": "cautiously",
+            "lemma": "cautiously"
+        },
+        {
+            "id": 286,
+            "text": "embracing",
+            "lemma": "embrace"
+        },
+        {
+            "id": 287,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 288,
+            "text": "concept",
+            "lemma": "concept"
+        },
+        {
+            "id": 289,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 290,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 291,
+            "text": "Two",
+            "lemma": "two"
+        },
+        {
+            "id": 292,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 293,
+            "text": "State",
+            "lemma": "state"
+        },
+        {
+            "id": 294,
+            "text": "solution",
+            "lemma": "solution"
+        },
+        {
+            "id": 295,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 296,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 297,
+            "text": "still",
+            "lemma": "still"
+        },
+        {
+            "id": 298,
+            "text": "valid",
+            "lemma": "valid"
+        },
+        {
+            "id": 299,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 300,
+            "text": "His",
+            "lemma": "his"
+        },
+        {
+            "id": 301,
+            "text": "view",
+            "lemma": "view"
+        },
+        {
+            "id": 302,
+            "text": "appears",
+            "lemma": "appear"
+        },
+        {
+            "id": 303,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 304,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 305,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 306,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 307,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 308,
+            "text": "unstable",
+            "lemma": "unstable"
+        },
+        {
+            "id": 309,
+            "text": "Middle",
+            "lemma": "Middle"
+        },
+        {
+            "id": 310,
+            "text": "East",
+            "lemma": "East"
+        },
+        {
+            "id": 311,
+            "text": "where",
+            "lemma": "where"
+        },
+        {
+            "id": 312,
+            "text": "Iraq",
+            "lemma": "Iraq"
+        },
+        {
+            "id": 313,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 314,
+            "text": "Syria",
+            "lemma": "Syria"
+        },
+        {
+            "id": 315,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 316,
+            "text": "disintegrating",
+            "lemma": "disintegrate"
+        },
+        {
+            "id": 317,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 318,
+            "text": "newly",
+            "lemma": "newly"
+        },
+        {
+            "id": 319,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 320,
+            "text": "created",
+            "lemma": "create"
+        },
+        {
+            "id": 321,
+            "text": "Palestinian",
+            "lemma": "palestinian"
+        },
+        {
+            "id": 322,
+            "text": "state",
+            "lemma": "state"
+        },
+        {
+            "id": 323,
+            "text": "could",
+            "lemma": "could"
+        },
+        {
+            "id": 324,
+            "text": "quickly",
+            "lemma": "quickly"
+        },
+        {
+            "id": 325,
+            "text": "become",
+            "lemma": "become"
+        },
+        {
+            "id": 326,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 327,
+            "text": "ungoverned",
+            "lemma": "ungoverned"
+        },
+        {
+            "id": 328,
+            "text": "territory",
+            "lemma": "territory"
+        },
+        {
+            "id": 329,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 330,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 331,
+            "text": "run",
+            "lemma": "run"
+        },
+        {
+            "id": 332,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 333,
+            "text": "Islamist",
+            "lemma": "islamist"
+        },
+        {
+            "id": 334,
+            "text": "extremists",
+            "lemma": "extremist"
+        },
+        {
+            "id": 335,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 336,
+            "text": "His",
+            "lemma": "his"
+        },
+        {
+            "id": 337,
+            "text": "many",
+            "lemma": "many"
+        },
+        {
+            "id": 338,
+            "text": "detractors",
+            "lemma": "detractor"
+        },
+        {
+            "id": 339,
+            "text": "might",
+            "lemma": "might"
+        },
+        {
+            "id": 340,
+            "text": "see",
+            "lemma": "see"
+        },
+        {
+            "id": 341,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 342,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 343,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 344,
+            "text": "excuse",
+            "lemma": "excuse"
+        },
+        {
+            "id": 345,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 346,
+            "text": "avoiding",
+            "lemma": "avoid"
+        },
+        {
+            "id": 347,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 348,
+            "text": "deal",
+            "lemma": "deal"
+        },
+        {
+            "id": 349,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 350,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 351,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 352,
+            "text": "did",
+            "lemma": "do"
+        },
+        {
+            "id": 353,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 354,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 355,
+            "text": "much",
+            "lemma": "much"
+        },
+        {
+            "id": 356,
+            "text": "enthusiasm",
+            "lemma": "enthusiasm"
+        },
+        {
+            "id": 357,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 358,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 359,
+            "text": "first",
+            "lemma": "first"
+        },
+        {
+            "id": 360,
+            "text": "place",
+            "lemma": "place"
+        },
+        {
+            "id": 361,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 362,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 363,
+            "text": "part",
+            "lemma": "part"
+        },
+        {
+            "id": 364,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 365,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 366,
+            "text": "Netanyahu",
+            "lemma": "Netanyahu"
+        },
+        {
+            "id": 367,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 368,
+            "text": "pitch",
+            "lemma": "pitch"
+        },
+        {
+            "id": 369,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 370,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 371,
+            "text": "Israeli",
+            "lemma": "israeli"
+        },
+        {
+            "id": 372,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 373,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 374,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 375,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 376,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 377,
+            "text": "cautious",
+            "lemma": "cautious"
+        },
+        {
+            "id": 378,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 379,
+            "text": "such",
+            "lemma": "such"
+        },
+        {
+            "id": 380,
+            "text": "matters",
+            "lemma": "matter"
+        },
+        {
+            "id": 381,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 382,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 383,
+            "text": "steady",
+            "lemma": "steady"
+        },
+        {
+            "id": 384,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 385,
+            "text": "statesmanlike",
+            "lemma": "statesmanlike"
+        },
+        {
+            "id": 386,
+            "text": "hand",
+            "lemma": "hand"
+        },
+        {
+            "id": 387,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 388,
+            "text": "matters",
+            "lemma": "matter"
+        },
+        {
+            "id": 389,
+            "text": "affecting",
+            "lemma": "affect"
+        },
+        {
+            "id": 390,
+            "text": "Israel",
+            "lemma": "Israel"
+        },
+        {
+            "id": 391,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 392,
+            "text": "security",
+            "lemma": "security"
+        },
+        {
+            "id": 393,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 394,
+            "text": "So",
+            "lemma": "so"
+        },
+        {
+            "id": 395,
+            "text": "while",
+            "lemma": "while"
+        },
+        {
+            "id": 396,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 397,
+            "text": "peace",
+            "lemma": "peace"
+        },
+        {
+            "id": 398,
+            "text": "process",
+            "lemma": "process"
+        },
+        {
+            "id": 399,
+            "text": "might",
+            "lemma": "might"
+        },
+        {
+            "id": 400,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 401,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 402,
+            "text": "prism",
+            "lemma": "prism"
+        },
+        {
+            "id": 403,
+            "text": "through",
+            "lemma": "through"
+        },
+        {
+            "id": 404,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 405,
+            "text": "outsiders",
+            "lemma": "outsider"
+        },
+        {
+            "id": 406,
+            "text": "tend",
+            "lemma": "tend"
+        },
+        {
+            "id": 407,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 408,
+            "text": "view",
+            "lemma": "view"
+        },
+        {
+            "id": 409,
+            "text": "Israeli",
+            "lemma": "israeli"
+        },
+        {
+            "id": 410,
+            "text": "politics",
+            "lemma": "politic"
+        },
+        {
+            "id": 411,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 412,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 413,
+            "text": "campaign",
+            "lemma": "campaign"
+        },
+        {
+            "id": 414,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 415,
+            "text": "centred",
+            "lemma": "centre"
+        },
+        {
+            "id": 416,
+            "text": "much",
+            "lemma": "much"
+        },
+        {
+            "id": 417,
+            "text": "more",
+            "lemma": "more"
+        },
+        {
+            "id": 418,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 419,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 420,
+            "text": "economy",
+            "lemma": "economy"
+        },
+        {
+            "id": 421,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 422,
+            "text": "problems",
+            "lemma": "problem"
+        },
+        {
+            "id": 423,
+            "text": "like",
+            "lemma": "like"
+        },
+        {
+            "id": 424,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 425,
+            "text": "way",
+            "lemma": "way"
+        },
+        {
+            "id": 426,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 427,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 428,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 429,
+            "text": "cost",
+            "lemma": "cost"
+        },
+        {
+            "id": 430,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 431,
+            "text": "housing",
+            "lemma": "housing"
+        },
+        {
+            "id": 432,
+            "text": "outstrips",
+            "lemma": "outstrip"
+        },
+        {
+            "id": 433,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 434,
+            "text": "spending",
+            "lemma": "spending"
+        },
+        {
+            "id": 435,
+            "text": "power",
+            "lemma": "power"
+        },
+        {
+            "id": 436,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 437,
+            "text": "ordinary",
+            "lemma": "ordinary"
+        },
+        {
+            "id": 438,
+            "text": "Israelis",
+            "lemma": "Israelis"
+        },
+        {
+            "id": 439,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 440,
+            "text": "front",
+            "lemma": "front"
+        },
+        {
+            "id": 441,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 442,
+            "text": "centre",
+            "lemma": "centre"
+        },
+        {
+            "id": 443,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 444,
+            "text": "And",
+            "lemma": "and"
+        },
+        {
+            "id": 445,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 446,
+            "text": "political",
+            "lemma": "political"
+        },
+        {
+            "id": 447,
+            "text": "scientists",
+            "lemma": "scientist"
+        },
+        {
+            "id": 448,
+            "text": "call",
+            "lemma": "call"
+        },
+        {
+            "id": 449,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 450,
+            "text": "low",
+            "lemma": "low"
+        },
+        {
+            "id": 451,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 452,
+            "text": "participation",
+            "lemma": "participation"
+        },
+        {
+            "id": 453,
+            "text": "rate",
+            "lemma": "rate"
+        },
+        {
+            "id": 454,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 455,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 456,
+            "text": "ultra",
+            "lemma": "ultra"
+        },
+        {
+            "id": 457,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 458,
+            "text": "Orthodox",
+            "lemma": "orthodox"
+        },
+        {
+            "id": 459,
+            "text": "communities",
+            "lemma": "community"
+        },
+        {
+            "id": 460,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 461,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 462,
+            "text": "economy",
+            "lemma": "economy"
+        },
+        {
+            "id": 463,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 464,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 465,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 466,
+            "text": "army",
+            "lemma": "army"
+        },
+        {
+            "id": 467,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 468,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 469,
+            "text": "major",
+            "lemma": "major"
+        },
+        {
+            "id": 470,
+            "text": "fault",
+            "lemma": "fault"
+        },
+        {
+            "id": 471,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 472,
+            "text": "line",
+            "lemma": "line"
+        },
+        {
+            "id": 473,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 474,
+            "text": "secularists",
+            "lemma": "secularist"
+        },
+        {
+            "id": 475,
+            "text": "like",
+            "lemma": "like"
+        },
+        {
+            "id": 476,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 477,
+            "text": "Yesh",
+            "lemma": "Yesh"
+        },
+        {
+            "id": 478,
+            "text": "Atid",
+            "lemma": "Atid"
+        },
+        {
+            "id": 479,
+            "text": "movement",
+            "lemma": "movement"
+        },
+        {
+            "id": 480,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 481,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 482,
+            "text": "religious",
+            "lemma": "religious"
+        },
+        {
+            "id": 483,
+            "text": "parties",
+            "lemma": "party"
+        },
+        {
+            "id": 484,
+            "text": "like",
+            "lemma": "like"
+        },
+        {
+            "id": 485,
+            "text": "Shas",
+            "lemma": "Shas"
+        },
+        {
+            "id": 486,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 487,
+            "text": "Yaakov",
+            "lemma": "Yaakov"
+        },
+        {
+            "id": 488,
+            "text": "Peri",
+            "lemma": "Peri"
+        },
+        {
+            "id": 489,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 490,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 491,
+            "text": "former",
+            "lemma": "former"
+        },
+        {
+            "id": 492,
+            "text": "head",
+            "lemma": "head"
+        },
+        {
+            "id": 493,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 494,
+            "text": "Israel",
+            "lemma": "Israel"
+        },
+        {
+            "id": 495,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 496,
+            "text": "internal",
+            "lemma": "internal"
+        },
+        {
+            "id": 497,
+            "text": "security",
+            "lemma": "security"
+        },
+        {
+            "id": 498,
+            "text": "agency",
+            "lemma": "agency"
+        },
+        {
+            "id": 499,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 500,
+            "text": "Shin",
+            "lemma": "Shin"
+        },
+        {
+            "id": 501,
+            "text": "Bet",
+            "lemma": "Bet"
+        },
+        {
+            "id": 502,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 503,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 504,
+            "text": "job",
+            "lemma": "job"
+        },
+        {
+            "id": 505,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 506,
+            "text": "required",
+            "lemma": "require"
+        },
+        {
+            "id": 507,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 508,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 509,
+            "text": "reflect",
+            "lemma": "reflect"
+        },
+        {
+            "id": 510,
+            "text": "deeply",
+            "lemma": "deeply"
+        },
+        {
+            "id": 511,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 512,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 513,
+            "text": "country",
+            "lemma": "country"
+        },
+        {
+            "id": 514,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 515,
+            "text": "relationship",
+            "lemma": "relationship"
+        },
+        {
+            "id": 516,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 517,
+            "text": "Palestinian",
+            "lemma": "palestinian"
+        },
+        {
+            "id": 518,
+            "text": "society",
+            "lemma": "society"
+        },
+        {
+            "id": 519,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 520,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 521,
+            "text": "bore",
+            "lemma": "bear"
+        },
+        {
+            "id": 522,
+            "text": "responsibility",
+            "lemma": "responsibility"
+        },
+        {
+            "id": 523,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 524,
+            "text": "neutralising",
+            "lemma": "neutralise"
+        },
+        {
+            "id": 525,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 526,
+            "text": "threat",
+            "lemma": "threat"
+        },
+        {
+            "id": 527,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 528,
+            "text": "militant",
+            "lemma": "militant"
+        },
+        {
+            "id": 529,
+            "text": "groups",
+            "lemma": "group"
+        },
+        {
+            "id": 530,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 531,
+            "text": "Before",
+            "lemma": "before"
+        },
+        {
+            "id": 532,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 533,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 534,
+            "text": "coalition",
+            "lemma": "coalition"
+        },
+        {
+            "id": 535,
+            "text": "collapsed",
+            "lemma": "collapse"
+        },
+        {
+            "id": 536,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 537,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 538,
+            "text": "Minister",
+            "lemma": "Minister"
+        },
+        {
+            "id": 539,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 540,
+            "text": "Science",
+            "lemma": "Science"
+        },
+        {
+            "id": 541,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 542,
+            "text": "Technology",
+            "lemma": "Technology"
+        },
+        {
+            "id": 543,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 544,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 545,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 546,
+            "text": "around",
+            "lemma": "around"
+        },
+        {
+            "id": 547,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 548,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 549,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 550,
+            "text": "candidate",
+            "lemma": "candidate"
+        },
+        {
+            "id": 551,
+            "text": "once",
+            "lemma": "once"
+        },
+        {
+            "id": 552,
+            "text": "again",
+            "lemma": "again"
+        },
+        {
+            "id": 553,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 554,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 555,
+            "text": "centrist",
+            "lemma": "centrist"
+        },
+        {
+            "id": 556,
+            "text": "Yesh",
+            "lemma": "Yesh"
+        },
+        {
+            "id": 557,
+            "text": "Atid",
+            "lemma": "Atid"
+        },
+        {
+            "id": 558,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 559,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 560,
+            "text": "says",
+            "lemma": "say"
+        },
+        {
+            "id": 561,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 562,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 563,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 564,
+            "text": "issue",
+            "lemma": "issue"
+        },
+        {
+            "id": 565,
+            "text": "where",
+            "lemma": "where"
+        },
+        {
+            "id": 566,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 567,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 568,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 569,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 570,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 571,
+            "text": "government",
+            "lemma": "government"
+        },
+        {
+            "id": 572,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 573,
+            "text": "lead",
+            "lemma": "lead"
+        },
+        {
+            "id": 574,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 575,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 576,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 577,
+            "text": "Israeli",
+            "lemma": "israeli"
+        },
+        {
+            "id": 578,
+            "text": "public",
+            "lemma": "public"
+        },
+        {
+            "id": 579,
+            "text": "cares",
+            "lemma": "care"
+        },
+        {
+            "id": 580,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 581,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 582,
+            "text": "cost",
+            "lemma": "cost"
+        },
+        {
+            "id": 583,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 584,
+            "text": "living",
+            "lemma": "living"
+        },
+        {
+            "id": 585,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 586,
+            "text": "housing",
+            "lemma": "housing"
+        },
+        {
+            "id": 587,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 588,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 589,
+            "text": "street",
+            "lemma": "street"
+        },
+        {
+            "id": 590,
+            "text": "does",
+            "lemma": "do"
+        },
+        {
+            "id": 591,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 592,
+            "text": "feel",
+            "lemma": "feel"
+        },
+        {
+            "id": 593,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 594,
+            "text": "urgency",
+            "lemma": "urgency"
+        },
+        {
+            "id": 595,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 596,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 597,
+            "text": "deal",
+            "lemma": "deal"
+        },
+        {
+            "id": 598,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 599,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 600,
+            "text": "Palestinians",
+            "lemma": "Palestinians"
+        },
+        {
+            "id": 601,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 602,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 603,
+            "text": "regional",
+            "lemma": "regional"
+        },
+        {
+            "id": 604,
+            "text": "approach",
+            "lemma": "approach"
+        },
+        {
+            "id": 605,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 606,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 607,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 608,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 609,
+            "text": "me",
+            "lemma": "I"
+        },
+        {
+            "id": 610,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 611,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 612,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 613,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 614,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 615,
+            "text": "reality",
+            "lemma": "reality"
+        },
+        {
+            "id": 616,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 617,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 618,
+            "text": "should",
+            "lemma": "should"
+        },
+        {
+            "id": 619,
+            "text": "look",
+            "lemma": "look"
+        },
+        {
+            "id": 620,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 621,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 622,
+            "text": "when",
+            "lemma": "when"
+        },
+        {
+            "id": 623,
+            "text": "running",
+            "lemma": "run"
+        },
+        {
+            "id": 624,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 625,
+            "text": "election",
+            "lemma": "election"
+        },
+        {
+            "id": 626,
+            "text": "campaign",
+            "lemma": "campaign"
+        },
+        {
+            "id": 627,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 628,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 629,
+            "text": "You",
+            "lemma": "you"
+        },
+        {
+            "id": 630,
+            "text": "get",
+            "lemma": "get"
+        },
+        {
+            "id": 631,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 632,
+            "text": "sense",
+            "lemma": "sense"
+        },
+        {
+            "id": 633,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 634,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 635,
+            "text": "tensions",
+            "lemma": "tension"
+        },
+        {
+            "id": 636,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 637,
+            "text": "brought",
+            "lemma": "bring"
+        },
+        {
+            "id": 638,
+            "text": "down",
+            "lemma": "down"
+        },
+        {
+            "id": 639,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 640,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 641,
+            "text": "coalition",
+            "lemma": "coalition"
+        },
+        {
+            "id": 642,
+            "text": "when",
+            "lemma": "when"
+        },
+        {
+            "id": 643,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 644,
+            "text": "discuss",
+            "lemma": "discuss"
+        },
+        {
+            "id": 645,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 646,
+            "text": "same",
+            "lemma": "same"
+        },
+        {
+            "id": 647,
+            "text": "issues",
+            "lemma": "issue"
+        },
+        {
+            "id": 648,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 649,
+            "text": "Naftali",
+            "lemma": "Naftali"
+        },
+        {
+            "id": 650,
+            "text": "Bennett",
+            "lemma": "Bennett"
+        },
+        {
+            "id": 651,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 652,
+            "text": "leader",
+            "lemma": "leader"
+        },
+        {
+            "id": 653,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 654,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 655,
+            "text": "nationalist",
+            "lemma": "nationalist"
+        },
+        {
+            "id": 656,
+            "text": "right",
+            "lemma": "right"
+        },
+        {
+            "id": 657,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 658,
+            "text": "wing",
+            "lemma": "wing"
+        },
+        {
+            "id": 659,
+            "text": "party",
+            "lemma": "party"
+        },
+        {
+            "id": 660,
+            "text": "Habayit",
+            "lemma": "Habayit"
+        },
+        {
+            "id": 661,
+            "text": "Hayehudi",
+            "lemma": "Hayehudi"
+        },
+        {
+            "id": 662,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 663,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 664,
+            "text": "sat",
+            "lemma": "sit"
+        },
+        {
+            "id": 665,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 666,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 667,
+            "text": "outgoing",
+            "lemma": "outgoing"
+        },
+        {
+            "id": 668,
+            "text": "cabinet",
+            "lemma": "cabinet"
+        },
+        {
+            "id": 669,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 670,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 671,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 672,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 673,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 674,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 675,
+            "text": "should",
+            "lemma": "should"
+        },
+        {
+            "id": 676,
+            "text": "never",
+            "lemma": "never"
+        },
+        {
+            "id": 677,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 678,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 679,
+            "text": "Palestinian",
+            "lemma": "palestinian"
+        },
+        {
+            "id": 680,
+            "text": "state",
+            "lemma": "state"
+        },
+        {
+            "id": 681,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 682,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 683,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 684,
+            "text": "Bank",
+            "lemma": "Bank"
+        },
+        {
+            "id": 685,
+            "text": "because",
+            "lemma": "because"
+        },
+        {
+            "id": 686,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 687,
+            "text": "create",
+            "lemma": "create"
+        },
+        {
+            "id": 688,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 689,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 690,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 691,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 692,
+            "text": "create",
+            "lemma": "create"
+        },
+        {
+            "id": 693,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 694,
+            "text": "existential",
+            "lemma": "existential"
+        },
+        {
+            "id": 695,
+            "text": "threat",
+            "lemma": "threat"
+        },
+        {
+            "id": 696,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 697,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 698,
+            "text": "Jewish",
+            "lemma": "jewish"
+        },
+        {
+            "id": 699,
+            "text": "State",
+            "lemma": "State"
+        },
+        {
+            "id": 700,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 701,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 702,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 703,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 704,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 705,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 706,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 707,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 708,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 709,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 710,
+            "text": "spell",
+            "lemma": "spell"
+        },
+        {
+            "id": 711,
+            "text": "calamity",
+            "lemma": "calamity"
+        },
+        {
+            "id": 712,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 713,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 714,
+            "text": "future",
+            "lemma": "future"
+        },
+        {
+            "id": 715,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 716,
+            "text": "Israel",
+            "lemma": "Israel"
+        },
+        {
+            "id": 717,
+            "text": "...",
+            "lemma": "..."
+        },
+        {
+            "id": 718,
+            "text": "handing",
+            "lemma": "hand"
+        },
+        {
+            "id": 719,
+            "text": "land",
+            "lemma": "land"
+        },
+        {
+            "id": 720,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 721,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 722,
+            "text": "Palestinians",
+            "lemma": "Palestinians"
+        },
+        {
+            "id": 723,
+            "text": "does",
+            "lemma": "do"
+        },
+        {
+            "id": 724,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 725,
+            "text": "bring",
+            "lemma": "bring"
+        },
+        {
+            "id": 726,
+            "text": "peace",
+            "lemma": "peace"
+        },
+        {
+            "id": 727,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 728,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 729,
+            "text": "brings",
+            "lemma": "bring"
+        },
+        {
+            "id": 730,
+            "text": "catastrophe",
+            "lemma": "catastrophe"
+        },
+        {
+            "id": 731,
+            "text": "...",
+            "lemma": "..."
+        },
+        {
+            "id": 732,
+            "text": "This",
+            "lemma": "this"
+        },
+        {
+            "id": 733,
+            "text": "formula",
+            "lemma": "formula"
+        },
+        {
+            "id": 734,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 735,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 736,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 737,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 738,
+            "text": "obsessed",
+            "lemma": "obsess"
+        },
+        {
+            "id": 739,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 740,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 741,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 742,
+            "text": "land",
+            "lemma": "land"
+        },
+        {
+            "id": 743,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 744,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 745,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 746,
+            "text": "peace",
+            "lemma": "peace"
+        },
+        {
+            "id": 747,
+            "text": "simply",
+            "lemma": "simply"
+        },
+        {
+            "id": 748,
+            "text": "does",
+            "lemma": "do"
+        },
+        {
+            "id": 749,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 750,
+            "text": "work",
+            "lemma": "work"
+        },
+        {
+            "id": 751,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 752,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 753,
+            "text": "If",
+            "lemma": "if"
+        },
+        {
+            "id": 754,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 755,
+            "text": "right",
+            "lemma": "right"
+        },
+        {
+            "id": 756,
+            "text": "wins",
+            "lemma": "win"
+        },
+        {
+            "id": 757,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 758,
+            "text": "election",
+            "lemma": "election"
+        },
+        {
+            "id": 759,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 760,
+            "text": "Mr",
+            "lemma": "Mr"
+        },
+        {
+            "id": 761,
+            "text": "Bennett",
+            "lemma": "Bennett"
+        },
+        {
+            "id": 762,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 763,
+            "text": "certain",
+            "lemma": "certain"
+        },
+        {
+            "id": 764,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 765,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 766,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 767,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 768,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 769,
+            "text": "cabinet",
+            "lemma": "cabinet"
+        },
+        {
+            "id": 770,
+            "text": "where",
+            "lemma": "where"
+        },
+        {
+            "id": 771,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 772,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 773,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 774,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 775,
+            "text": "sceptical",
+            "lemma": "sceptical"
+        },
+        {
+            "id": 776,
+            "text": "voice",
+            "lemma": "voice"
+        },
+        {
+            "id": 777,
+            "text": "against",
+            "lemma": "against"
+        },
+        {
+            "id": 778,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 779,
+            "text": "international",
+            "lemma": "international"
+        },
+        {
+            "id": 780,
+            "text": "diplomatic",
+            "lemma": "diplomatic"
+        },
+        {
+            "id": 781,
+            "text": "manoeuvring",
+            "lemma": "manoeuvring"
+        },
+        {
+            "id": 782,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 783,
+            "text": "get",
+            "lemma": "get"
+        },
+        {
+            "id": 784,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 785,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 786,
+            "text": "sides",
+            "lemma": "side"
+        },
+        {
+            "id": 787,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 788,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 789,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 790,
+            "text": "negotiating",
+            "lemma": "negotiating"
+        },
+        {
+            "id": 791,
+            "text": "table",
+            "lemma": "table"
+        },
+        {
+            "id": 792,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 793,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 794,
+            "text": "Palestinian",
+            "lemma": "palestinian"
+        },
+        {
+            "id": 795,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 796,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 797,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 798,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 799,
+            "text": "Bank",
+            "lemma": "Bank"
+        },
+        {
+            "id": 800,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 801,
+            "text": "Gaza",
+            "lemma": "Gaza"
+        },
+        {
+            "id": 802,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 803,
+            "text": "course",
+            "lemma": "course"
+        },
+        {
+            "id": 804,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 805,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 806,
+            "text": "vote",
+            "lemma": "vote"
+        },
+        {
+            "id": 807,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 808,
+            "text": "Israel",
+            "lemma": "Israel"
+        },
+        {
+            "id": 809,
+            "text": "elections",
+            "lemma": "election"
+        },
+        {
+            "id": 810,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 811,
+            "text": "although",
+            "lemma": "although"
+        },
+        {
+            "id": 812,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 813,
+            "text": "small",
+            "lemma": "small"
+        },
+        {
+            "id": 814,
+            "text": "number",
+            "lemma": "number"
+        },
+        {
+            "id": 815,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 816,
+            "text": "East",
+            "lemma": "East"
+        },
+        {
+            "id": 817,
+            "text": "Jerusalem",
+            "lemma": "Jerusalem"
+        },
+        {
+            "id": 818,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 819,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 820,
+            "text": "applied",
+            "lemma": "apply"
+        },
+        {
+            "id": 821,
+            "text": "successfully",
+            "lemma": "successfully"
+        },
+        {
+            "id": 822,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 823,
+            "text": "Israeli",
+            "lemma": "israeli"
+        },
+        {
+            "id": 824,
+            "text": "citizenship",
+            "lemma": "citizenship"
+        },
+        {
+            "id": 825,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 826,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 827,
+            "text": "exception",
+            "lemma": "exception"
+        },
+        {
+            "id": 828,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 829,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 830,
+            "text": "rule",
+            "lemma": "rule"
+        },
+        {
+            "id": 831,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 832,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 833,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 834,
+            "text": "Arab",
+            "lemma": "arab"
+        },
+        {
+            "id": 835,
+            "text": "population",
+            "lemma": "population"
+        },
+        {
+            "id": 836,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 837,
+            "text": "Israel",
+            "lemma": "Israel"
+        },
+        {
+            "id": 838,
+            "text": "itself",
+            "lemma": "itself"
+        },
+        {
+            "id": 839,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 840,
+            "text": "descendants",
+            "lemma": "descendant"
+        },
+        {
+            "id": 841,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 842,
+            "text": "those",
+            "lemma": "those"
+        },
+        {
+            "id": 843,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 844,
+            "text": "remained",
+            "lemma": "remain"
+        },
+        {
+            "id": 845,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 846,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 847,
+            "text": "fighting",
+            "lemma": "fighting"
+        },
+        {
+            "id": 848,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 849,
+            "text": "Israel",
+            "lemma": "Israel"
+        },
+        {
+            "id": 850,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 851,
+            "text": "War",
+            "lemma": "War"
+        },
+        {
+            "id": 852,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 853,
+            "text": "Independence",
+            "lemma": "Independence"
+        },
+        {
+            "id": 854,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 855,
+            "text": "1948",
+            "lemma": "1948"
+        },
+        {
+            "id": 856,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 857,
+            "text": "49",
+            "lemma": "49"
+        },
+        {
+            "id": 858,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 859,
+            "text": "does",
+            "lemma": "do"
+        },
+        {
+            "id": 860,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 861,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 862,
+            "text": "right",
+            "lemma": "right"
+        },
+        {
+            "id": 863,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 864,
+            "text": "vote",
+            "lemma": "vote"
+        },
+        {
+            "id": 865,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 866,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 867,
+            "text": "makes",
+            "lemma": "make"
+        },
+        {
+            "id": 868,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 869,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 870,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 871,
+            "text": "15",
+            "lemma": "15"
+        },
+        {
+            "id": 872,
+            "text": "%",
+            "lemma": "%"
+        },
+        {
+            "id": 873,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 874,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 875,
+            "text": "electorate",
+            "lemma": "electorate"
+        },
+        {
+            "id": 876,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 877,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 878,
+            "text": "proportion",
+            "lemma": "proportion"
+        },
+        {
+            "id": 879,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 880,
+            "text": "rise",
+            "lemma": "rise"
+        },
+        {
+            "id": 881,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 882,
+            "text": "its",
+            "lemma": "its"
+        },
+        {
+            "id": 883,
+            "text": "young",
+            "lemma": "young"
+        },
+        {
+            "id": 884,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 885,
+            "text": "reach",
+            "lemma": "reach"
+        },
+        {
+            "id": 886,
+            "text": "voting",
+            "lemma": "voting"
+        },
+        {
+            "id": 887,
+            "text": "age",
+            "lemma": "age"
+        },
+        {
+            "id": 888,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 889,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 890,
+            "text": "three",
+            "lemma": "three"
+        },
+        {
+            "id": 891,
+            "text": "traditional",
+            "lemma": "traditional"
+        },
+        {
+            "id": 892,
+            "text": "Arab",
+            "lemma": "arab"
+        },
+        {
+            "id": 893,
+            "text": "parties",
+            "lemma": "party"
+        },
+        {
+            "id": 894,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 895,
+            "text": "combined",
+            "lemma": "combine"
+        },
+        {
+            "id": 896,
+            "text": "into",
+            "lemma": "into"
+        },
+        {
+            "id": 897,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 898,
+            "text": "unified",
+            "lemma": "unified"
+        },
+        {
+            "id": 899,
+            "text": "list",
+            "lemma": "list"
+        },
+        {
+            "id": 900,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 901,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 902,
+            "text": "hoping",
+            "lemma": "hope"
+        },
+        {
+            "id": 903,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 904,
+            "text": "raise",
+            "lemma": "raise"
+        },
+        {
+            "id": 905,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 906,
+            "text": "turnout",
+            "lemma": "turnout"
+        },
+        {
+            "id": 907,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 908,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 909,
+            "text": "community",
+            "lemma": "community"
+        },
+        {
+            "id": 910,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 911,
+            "text": "And",
+            "lemma": "and"
+        },
+        {
+            "id": 912,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 913,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 914,
+            "text": "succeed",
+            "lemma": "succeed"
+        },
+        {
+            "id": 915,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 916,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 917,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 918,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 919,
+            "text": "candidates",
+            "lemma": "candidate"
+        },
+        {
+            "id": 920,
+            "text": "Aida",
+            "lemma": "Aida"
+        },
+        {
+            "id": 921,
+            "text": "Touma",
+            "lemma": "Touma"
+        },
+        {
+            "id": 922,
+            "text": "Suleiman",
+            "lemma": "Suleiman"
+        },
+        {
+            "id": 923,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 924,
+            "text": "me",
+            "lemma": "I"
+        },
+        {
+            "id": 925,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 926,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 927,
+            "text": "intend",
+            "lemma": "intend"
+        },
+        {
+            "id": 928,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 929,
+            "text": "put",
+            "lemma": "put"
+        },
+        {
+            "id": 930,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 931,
+            "text": "peace",
+            "lemma": "peace"
+        },
+        {
+            "id": 932,
+            "text": "process",
+            "lemma": "process"
+        },
+        {
+            "id": 933,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 934,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 935,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 936,
+            "text": "national",
+            "lemma": "national"
+        },
+        {
+            "id": 937,
+            "text": "agenda",
+            "lemma": "agenda"
+        },
+        {
+            "id": 938,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 939,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 940,
+            "text": "least",
+            "lemma": "least"
+        },
+        {
+            "id": 941,
+            "text": "because",
+            "lemma": "because"
+        },
+        {
+            "id": 942,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 943,
+            "text": "see",
+            "lemma": "see"
+        },
+        {
+            "id": 944,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 945,
+            "text": "clear",
+            "lemma": "clear"
+        },
+        {
+            "id": 946,
+            "text": "link",
+            "lemma": "link"
+        },
+        {
+            "id": 947,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 948,
+            "text": "economic",
+            "lemma": "economic"
+        },
+        {
+            "id": 949,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 950,
+            "text": "security",
+            "lemma": "security"
+        },
+        {
+            "id": 951,
+            "text": "issues",
+            "lemma": "issue"
+        },
+        {
+            "id": 952,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 953,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 954,
+            "text": "This",
+            "lemma": "this"
+        },
+        {
+            "id": 955,
+            "text": "should",
+            "lemma": "should"
+        },
+        {
+            "id": 956,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 957,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 958,
+            "text": "centre",
+            "lemma": "centre"
+        },
+        {
+            "id": 959,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 960,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 961,
+            "text": "campaign",
+            "lemma": "campaign"
+        },
+        {
+            "id": 962,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 963,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 964,
+            "text": "Ms",
+            "lemma": "Ms"
+        },
+        {
+            "id": 965,
+            "text": "Suleiman",
+            "lemma": "Suleiman"
+        },
+        {
+            "id": 966,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 967,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 968,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 969,
+            "text": "There",
+            "lemma": "there"
+        },
+        {
+            "id": 970,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 971,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 972,
+            "text": "issue",
+            "lemma": "issue"
+        },
+        {
+            "id": 973,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 974,
+            "text": "can",
+            "lemma": "can"
+        },
+        {
+            "id": 975,
+            "text": "discuss",
+            "lemma": "discuss"
+        },
+        {
+            "id": 976,
+            "text": "without",
+            "lemma": "without"
+        },
+        {
+            "id": 977,
+            "text": "making",
+            "lemma": "make"
+        },
+        {
+            "id": 978,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 979,
+            "text": "connection",
+            "lemma": "connection"
+        },
+        {
+            "id": 980,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 981,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 982,
+            "text": "continuation",
+            "lemma": "continuation"
+        },
+        {
+            "id": 983,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 984,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 985,
+            "text": "occupation",
+            "lemma": "occupation"
+        },
+        {
+            "id": 986,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 987,
+            "text": "war",
+            "lemma": "war"
+        },
+        {
+            "id": 988,
+            "text": "policy",
+            "lemma": "policy"
+        },
+        {
+            "id": 989,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 990,
+            "text": "different",
+            "lemma": "different"
+        },
+        {
+            "id": 991,
+            "text": "governments",
+            "lemma": "government"
+        },
+        {
+            "id": 992,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 993,
+            "text": "led",
+            "lemma": "lead"
+        },
+        {
+            "id": 994,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 995,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 996,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 997,
+            "text": "few",
+            "lemma": "few"
+        },
+        {
+            "id": 998,
+            "text": "years",
+            "lemma": "year"
+        },
+        {
+            "id": 999,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 1000,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 1001,
+            "text": "If",
+            "lemma": "if"
+        },
+        {
+            "id": 1002,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 1003,
+            "text": "want",
+            "lemma": "want"
+        },
+        {
+            "id": 1004,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 1005,
+            "text": "talk",
+            "lemma": "talk"
+        },
+        {
+            "id": 1006,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 1007,
+            "text": "housing",
+            "lemma": "housing"
+        },
+        {
+            "id": 1008,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 1009,
+            "text": "need",
+            "lemma": "need"
+        },
+        {
+            "id": 1010,
+            "text": "solutions",
+            "lemma": "solution"
+        },
+        {
+            "id": 1011,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 1012,
+            "text": "come",
+            "lemma": "come"
+        },
+        {
+            "id": 1013,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 1014,
+            "text": "resources",
+            "lemma": "resource"
+        },
+        {
+            "id": 1015,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 1016,
+            "text": "then",
+            "lemma": "then"
+        },
+        {
+            "id": 1017,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 1018,
+            "text": "should",
+            "lemma": "should"
+        },
+        {
+            "id": 1019,
+            "text": "ask",
+            "lemma": "ask"
+        },
+        {
+            "id": 1020,
+            "text": "where",
+            "lemma": "where"
+        },
+        {
+            "id": 1021,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1022,
+            "text": "resources",
+            "lemma": "resource"
+        },
+        {
+            "id": 1023,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 1024,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 1025,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 1026,
+            "text": "country",
+            "lemma": "country"
+        },
+        {
+            "id": 1027,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 1028,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 1029,
+            "text": "Over",
+            "lemma": "over"
+        },
+        {
+            "id": 1030,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1031,
+            "text": "course",
+            "lemma": "course"
+        },
+        {
+            "id": 1032,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 1033,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1034,
+            "text": "campaign",
+            "lemma": "campaign"
+        },
+        {
+            "id": 1035,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 1036,
+            "text": "though",
+            "lemma": "though"
+        },
+        {
+            "id": 1037,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 1038,
+            "text": "those",
+            "lemma": "those"
+        },
+        {
+            "id": 1039,
+            "text": "kind",
+            "lemma": "kind"
+        },
+        {
+            "id": 1040,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 1041,
+            "text": "connections",
+            "lemma": "connection"
+        },
+        {
+            "id": 1042,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 1043,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 1044,
+            "text": "dominated",
+            "lemma": "dominate"
+        },
+        {
+            "id": 1045,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1046,
+            "text": "national",
+            "lemma": "national"
+        },
+        {
+            "id": 1047,
+            "text": "debate",
+            "lemma": "debate"
+        },
+        {
+            "id": 1048,
+            "text": "here",
+            "lemma": "here"
+        },
+        {
+            "id": 1049,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 1050,
+            "text": "How",
+            "lemma": "how"
+        },
+        {
+            "id": 1051,
+            "text": "quickly",
+            "lemma": "quickly"
+        },
+        {
+            "id": 1052,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1053,
+            "text": "issue",
+            "lemma": "issue"
+        },
+        {
+            "id": 1054,
+            "text": "re",
+            "lemma": "re"
+        },
+        {
+            "id": 1055,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 1056,
+            "text": "asserts",
+            "lemma": "assert"
+        },
+        {
+            "id": 1057,
+            "text": "itself",
+            "lemma": "itself"
+        },
+        {
+            "id": 1058,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 1059,
+            "text": "depend",
+            "lemma": "depend"
+        },
+        {
+            "id": 1060,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 1061,
+            "text": "whether",
+            "lemma": "whether"
+        },
+        {
+            "id": 1062,
+            "text": "victory",
+            "lemma": "victory"
+        },
+        {
+            "id": 1063,
+            "text": "goes",
+            "lemma": "go"
+        },
+        {
+            "id": 1064,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 1065,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1066,
+            "text": "left",
+            "lemma": "left"
+        },
+        {
+            "id": 1067,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 1068,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 1069,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 1070,
+            "text": "right",
+            "lemma": "right"
+        },
+        {
+            "id": 1071,
+            "text": ".",
+            "lemma": "."
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Every",
+            "lemma": "every",
+            "spans": [
+                0,
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "five",
+            "lemma": "five",
+            "spans": [
+                0,
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "years",
+            "lemma": "year",
+            "spans": [
+                0,
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "or",
+            "lemma": "or",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "so",
+            "lemma": "so",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": ",",
+            "lemma": ",",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 6,
+            "text": "Israel",
+            "lemma": "Israel",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "goes",
+            "lemma": "go",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 8,
+            "text": "to",
+            "lemma": "to",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 9,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "polls",
+            "lemma": "poll",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "to",
+            "lemma": "to",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "elect",
+            "lemma": "elect",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                5,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "new",
+            "lemma": "new",
+            "spans": [
+                5,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "government",
+            "lemma": "government",
+            "spans": [
+                5,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 3,
+            "qaIds": [
+                4
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 0,
+            "end": 5,
+            "qaIds": [
+                0
+            ],
+            "id": 1,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 6,
+            "end": 7,
+            "qaIds": [
+                0,
+                1,
+                1,
+                2,
+                3,
+                5
+            ],
+            "id": 2,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 9,
+            "end": 11,
+            "qaIds": [
+                2
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 11,
+            "end": 12,
+            "qaIds": [
+                4,
+                5,
+                6
+            ],
+            "id": 4,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 11,
+            "end": 16,
+            "qaIds": [
+                3
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 13,
+            "end": 16,
+            "qaIds": [
+                6
+            ],
+            "id": 6,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "6-7",
+            "predicate": "goes",
+            "questionId": 0,
+            "question": "when does someone go to something ?",
+            "answer": "Every five years or so",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                22
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                5
+            ],
+            "answerId": "0-5",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "6-7",
+            "predicate": "goes",
+            "questionId": 1,
+            "question": "who goes to something ?",
+            "answer": "Israel",
+            "answerStartChar": [
+                24
+            ],
+            "answerEndChar": [
+                30
+            ],
+            "answerStartToken": [
+                6
+            ],
+            "answerEndToken": [
+                7
+            ],
+            "answerId": "6-7",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "6-7",
+            "predicate": "goes",
+            "questionId": 2,
+            "question": "what does someone go to ?",
+            "answer": "the polls",
+            "answerStartChar": [
+                39
+            ],
+            "answerEndChar": [
+                48
+            ],
+            "answerStartToken": [
+                9
+            ],
+            "answerEndToken": [
+                11
+            ],
+            "answerId": "9-11",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "6-7",
+            "predicate": "goes",
+            "questionId": 3,
+            "question": "why does someone go to something ?",
+            "answer": "to elect a new government",
+            "answerStartChar": [
+                49
+            ],
+            "answerEndChar": [
+                74
+            ],
+            "answerStartToken": [
+                11
+            ],
+            "answerEndToken": [
+                16
+            ],
+            "answerId": "11-16",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "11-12",
+            "predicate": "elect",
+            "questionId": 0,
+            "question": "when does someone elect someone ?",
+            "answer": "Every five years",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                16
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                3
+            ],
+            "answerId": "0-3",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "11-12",
+            "predicate": "elect",
+            "questionId": 1,
+            "question": "who elects someone ?",
+            "answer": "Israel",
+            "answerStartChar": [
+                24
+            ],
+            "answerEndChar": [
+                30
+            ],
+            "answerStartToken": [
+                6
+            ],
+            "answerEndToken": [
+                7
+            ],
+            "answerId": "6-7",
+            "id": 5
+        },
+        {
+            "sentId": 0,
+            "predicateId": "11-12",
+            "predicate": "elect",
+            "questionId": 2,
+            "question": "who does someone elect ?",
+            "answer": "a new government",
+            "answerStartChar": [
+                58
+            ],
+            "answerEndChar": [
+                74
+            ],
+            "answerStartToken": [
+                13
+            ],
+            "answerEndToken": [
+                16
+            ],
+            "answerId": "13-16",
+            "id": 6
+        }
+    ],
+    "datasource": "xsum",
+    "summaryId": "31870282"
+}

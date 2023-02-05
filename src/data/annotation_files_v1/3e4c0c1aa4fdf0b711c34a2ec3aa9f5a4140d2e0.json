@@ -1,0 +1,3870 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "More",
+            "lemma": "More"
+        },
+        {
+            "id": 1,
+            "text": "than",
+            "lemma": "than"
+        },
+        {
+            "id": 2,
+            "text": "25",
+            "lemma": "25"
+        },
+        {
+            "id": 3,
+            "text": "women",
+            "lemma": "woman"
+        },
+        {
+            "id": 4,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 5,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 6,
+            "text": "airlifted",
+            "lemma": "airlift"
+        },
+        {
+            "id": 7,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 8,
+            "text": "Royal",
+            "lemma": "Royal"
+        },
+        {
+            "id": 9,
+            "text": "Navy",
+            "lemma": "Navy"
+        },
+        {
+            "id": 10,
+            "text": "ships",
+            "lemma": "ship"
+        },
+        {
+            "id": 11,
+            "text": "because",
+            "lemma": "because"
+        },
+        {
+            "id": 12,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 13,
+            "text": "pregnancy",
+            "lemma": "pregnancy"
+        },
+        {
+            "id": 14,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 15,
+            "text": "One",
+            "lemma": "one"
+        },
+        {
+            "id": 16,
+            "text": "ship",
+            "lemma": "ship"
+        },
+        {
+            "id": 17,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 18,
+            "text": "HMS",
+            "lemma": "HMS"
+        },
+        {
+            "id": 19,
+            "text": "Ocean",
+            "lemma": "Ocean"
+        },
+        {
+            "id": 20,
+            "text": "\u2013",
+            "lemma": "\u2013"
+        },
+        {
+            "id": 21,
+            "text": "even",
+            "lemma": "even"
+        },
+        {
+            "id": 22,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 23,
+            "text": "five",
+            "lemma": "five"
+        },
+        {
+            "id": 24,
+            "text": "pregnant",
+            "lemma": "pregnant"
+        },
+        {
+            "id": 25,
+            "text": "sailors",
+            "lemma": "sailor"
+        },
+        {
+            "id": 26,
+            "text": "removed",
+            "lemma": "remove"
+        },
+        {
+            "id": 27,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 28,
+            "text": "emergency",
+            "lemma": "emergency"
+        },
+        {
+            "id": 29,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 30,
+            "text": "medevacs",
+            "lemma": "medevacs"
+        },
+        {
+            "id": 31,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 32,
+            "text": "during",
+            "lemma": "during"
+        },
+        {
+            "id": 33,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 34,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 35,
+            "text": "nine",
+            "lemma": "nine"
+        },
+        {
+            "id": 36,
+            "text": "years",
+            "lemma": "year"
+        },
+        {
+            "id": 37,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 38,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 39,
+            "text": "Freedom",
+            "lemma": "Freedom"
+        },
+        {
+            "id": 40,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 41,
+            "text": "Information",
+            "lemma": "Information"
+        },
+        {
+            "id": 42,
+            "text": "request",
+            "lemma": "request"
+        },
+        {
+            "id": 43,
+            "text": "revealed",
+            "lemma": "reveal"
+        },
+        {
+            "id": 44,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 45,
+            "text": "And",
+            "lemma": "and"
+        },
+        {
+            "id": 46,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 47,
+            "text": "least",
+            "lemma": "least"
+        },
+        {
+            "id": 48,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 49,
+            "text": "woman",
+            "lemma": "woman"
+        },
+        {
+            "id": 50,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 51,
+            "text": "airlifted",
+            "lemma": "airlift"
+        },
+        {
+            "id": 52,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 53,
+            "text": "HMS",
+            "lemma": "HMS"
+        },
+        {
+            "id": 54,
+            "text": "Illustrious",
+            "lemma": "Illustrious"
+        },
+        {
+            "id": 55,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 56,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 57,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 58,
+            "text": "nicknamed",
+            "lemma": "nickname"
+        },
+        {
+            "id": 59,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 60,
+            "text": "HMS",
+            "lemma": "HMS"
+        },
+        {
+            "id": 61,
+            "text": "Lusty",
+            "lemma": "Lusty"
+        },
+        {
+            "id": 62,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 63,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 64,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 65,
+            "text": "crew",
+            "lemma": "crew"
+        },
+        {
+            "id": 66,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 67,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 68,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 69,
+            "text": "decommissioned",
+            "lemma": "decommission"
+        },
+        {
+            "id": 70,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 71,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 72,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 73,
+            "text": "More",
+            "lemma": "More"
+        },
+        {
+            "id": 74,
+            "text": "than",
+            "lemma": "than"
+        },
+        {
+            "id": 75,
+            "text": "25",
+            "lemma": "25"
+        },
+        {
+            "id": 76,
+            "text": "women",
+            "lemma": "woman"
+        },
+        {
+            "id": 77,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 78,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 79,
+            "text": "airlifted",
+            "lemma": "airlift"
+        },
+        {
+            "id": 80,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 81,
+            "text": "Royal",
+            "lemma": "Royal"
+        },
+        {
+            "id": 82,
+            "text": "Navy",
+            "lemma": "Navy"
+        },
+        {
+            "id": 83,
+            "text": "ships",
+            "lemma": "ship"
+        },
+        {
+            "id": 84,
+            "text": "because",
+            "lemma": "because"
+        },
+        {
+            "id": 85,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 86,
+            "text": "pregnancy",
+            "lemma": "pregnancy"
+        },
+        {
+            "id": 87,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 88,
+            "text": "including",
+            "lemma": "include"
+        },
+        {
+            "id": 89,
+            "text": "\u00a0",
+            "lemma": "\u00a0"
+        },
+        {
+            "id": 90,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 91,
+            "text": "least",
+            "lemma": "least"
+        },
+        {
+            "id": 92,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 93,
+            "text": "woman",
+            "lemma": "woman"
+        },
+        {
+            "id": 94,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 95,
+            "text": "HMS",
+            "lemma": "HMS"
+        },
+        {
+            "id": 96,
+            "text": "Illustrious",
+            "lemma": "Illustrious"
+        },
+        {
+            "id": 97,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 98,
+            "text": "above",
+            "lemma": "above"
+        },
+        {
+            "id": 99,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 100,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 101,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 102,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 103,
+            "text": "nicknamed",
+            "lemma": "nickname"
+        },
+        {
+            "id": 104,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 105,
+            "text": "HMS",
+            "lemma": "HMS"
+        },
+        {
+            "id": 106,
+            "text": "Lusty",
+            "lemma": "Lusty"
+        },
+        {
+            "id": 107,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 108,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 109,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 110,
+            "text": "crew",
+            "lemma": "crew"
+        },
+        {
+            "id": 111,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 112,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 113,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 114,
+            "text": "decommissioned",
+            "lemma": "decommission"
+        },
+        {
+            "id": 115,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 116,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 117,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 118,
+            "text": "Eighteen",
+            "lemma": "eighteen"
+        },
+        {
+            "id": 119,
+            "text": "other",
+            "lemma": "other"
+        },
+        {
+            "id": 120,
+            "text": "ships",
+            "lemma": "ship"
+        },
+        {
+            "id": 121,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 122,
+            "text": "including",
+            "lemma": "include"
+        },
+        {
+            "id": 123,
+            "text": "HMS",
+            "lemma": "HMS"
+        },
+        {
+            "id": 124,
+            "text": "Dragon",
+            "lemma": "Dragon"
+        },
+        {
+            "id": 125,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 126,
+            "text": "HMS",
+            "lemma": "HMS"
+        },
+        {
+            "id": 127,
+            "text": "Enterprise",
+            "lemma": "Enterprise"
+        },
+        {
+            "id": 128,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 129,
+            "text": "HMS",
+            "lemma": "HMS"
+        },
+        {
+            "id": 130,
+            "text": "Richmond",
+            "lemma": "Richmond"
+        },
+        {
+            "id": 131,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 132,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 133,
+            "text": "emergency",
+            "lemma": "emergency"
+        },
+        {
+            "id": 134,
+            "text": "evacuations",
+            "lemma": "evacuation"
+        },
+        {
+            "id": 135,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 136,
+            "text": "data",
+            "lemma": "datum"
+        },
+        {
+            "id": 137,
+            "text": "obtained",
+            "lemma": "obtain"
+        },
+        {
+            "id": 138,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 139,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 140,
+            "text": "Sun",
+            "lemma": "Sun"
+        },
+        {
+            "id": 141,
+            "text": "showed",
+            "lemma": "show"
+        },
+        {
+            "id": 142,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 143,
+            "text": "A",
+            "lemma": "a"
+        },
+        {
+            "id": 144,
+            "text": "Ministry",
+            "lemma": "Ministry"
+        },
+        {
+            "id": 145,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 146,
+            "text": "Defence",
+            "lemma": "Defence"
+        },
+        {
+            "id": 147,
+            "text": "spokesman",
+            "lemma": "spokesman"
+        },
+        {
+            "id": 148,
+            "text": "confirmed",
+            "lemma": "confirm"
+        },
+        {
+            "id": 149,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 150,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 151,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 152,
+            "text": "strict",
+            "lemma": "strict"
+        },
+        {
+            "id": 153,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 154,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 155,
+            "text": "touching",
+            "lemma": "touch"
+        },
+        {
+            "id": 156,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 157,
+            "text": "rule",
+            "lemma": "rule"
+        },
+        {
+            "id": 158,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 159,
+            "text": "place",
+            "lemma": "place"
+        },
+        {
+            "id": 160,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 161,
+            "text": "sea",
+            "lemma": "sea"
+        },
+        {
+            "id": 162,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 163,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 164,
+            "text": "suggests",
+            "lemma": "suggest"
+        },
+        {
+            "id": 165,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 166,
+            "text": "women",
+            "lemma": "woman"
+        },
+        {
+            "id": 167,
+            "text": "conceived",
+            "lemma": "conceive"
+        },
+        {
+            "id": 168,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 169,
+            "text": "boarding",
+            "lemma": "board"
+        },
+        {
+            "id": 170,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 171,
+            "text": "ships",
+            "lemma": "ship"
+        },
+        {
+            "id": 172,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 173,
+            "text": "during",
+            "lemma": "during"
+        },
+        {
+            "id": 174,
+            "text": "leave",
+            "lemma": "leave"
+        },
+        {
+            "id": 175,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 176,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 177,
+            "text": "data",
+            "lemma": "data"
+        },
+        {
+            "id": 178,
+            "text": "comes",
+            "lemma": "come"
+        },
+        {
+            "id": 179,
+            "text": "nine",
+            "lemma": "nine"
+        },
+        {
+            "id": 180,
+            "text": "months",
+            "lemma": "month"
+        },
+        {
+            "id": 181,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 182,
+            "text": "commander",
+            "lemma": "commander"
+        },
+        {
+            "id": 183,
+            "text": "Sarah",
+            "lemma": "Sarah"
+        },
+        {
+            "id": 184,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 185,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 186,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 187,
+            "text": "first",
+            "lemma": "first"
+        },
+        {
+            "id": 188,
+            "text": "woman",
+            "lemma": "woman"
+        },
+        {
+            "id": 189,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 190,
+            "text": "captain",
+            "lemma": "captain"
+        },
+        {
+            "id": 191,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 192,
+            "text": "Royal",
+            "lemma": "Royal"
+        },
+        {
+            "id": 193,
+            "text": "Navy",
+            "lemma": "Navy"
+        },
+        {
+            "id": 194,
+            "text": "warship",
+            "lemma": "warship"
+        },
+        {
+            "id": 195,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 196,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 197,
+            "text": "flown",
+            "lemma": "fly"
+        },
+        {
+            "id": 198,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 199,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 200,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 201,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 202,
+            "text": "following",
+            "lemma": "follow"
+        },
+        {
+            "id": 203,
+            "text": "claims",
+            "lemma": "claim"
+        },
+        {
+            "id": 204,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 205,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 206,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 207,
+            "text": "sexual",
+            "lemma": "sexual"
+        },
+        {
+            "id": 208,
+            "text": "relationship",
+            "lemma": "relationship"
+        },
+        {
+            "id": 209,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 210,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 211,
+            "text": "member",
+            "lemma": "member"
+        },
+        {
+            "id": 212,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 213,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 214,
+            "text": "crew",
+            "lemma": "crew"
+        },
+        {
+            "id": 215,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 216,
+            "text": "An",
+            "lemma": "an"
+        },
+        {
+            "id": 217,
+            "text": "unnamed",
+            "lemma": "unnamed"
+        },
+        {
+            "id": 218,
+            "text": "captain",
+            "lemma": "captain"
+        },
+        {
+            "id": 219,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 220,
+            "text": "appointed",
+            "lemma": "appoint"
+        },
+        {
+            "id": 221,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 222,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 223,
+            "text": "place",
+            "lemma": "place"
+        },
+        {
+            "id": 224,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 225,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 226,
+            "text": "military",
+            "lemma": "military"
+        },
+        {
+            "id": 227,
+            "text": "investigation",
+            "lemma": "investigation"
+        },
+        {
+            "id": 228,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 229,
+            "text": "launched",
+            "lemma": "launch"
+        },
+        {
+            "id": 230,
+            "text": "into",
+            "lemma": "into"
+        },
+        {
+            "id": 231,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 232,
+            "text": "42",
+            "lemma": "42"
+        },
+        {
+            "id": 233,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 234,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 235,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 236,
+            "text": "old",
+            "lemma": "old"
+        },
+        {
+            "id": 237,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 238,
+            "text": "conduct",
+            "lemma": "conduct"
+        },
+        {
+            "id": 239,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 240,
+            "text": "A",
+            "lemma": "a"
+        },
+        {
+            "id": 241,
+            "text": "Ministry",
+            "lemma": "Ministry"
+        },
+        {
+            "id": 242,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 243,
+            "text": "Defence",
+            "lemma": "Defence"
+        },
+        {
+            "id": 244,
+            "text": "spokesman",
+            "lemma": "spokesman"
+        },
+        {
+            "id": 245,
+            "text": "confirmed",
+            "lemma": "confirm"
+        },
+        {
+            "id": 246,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 247,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 248,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 249,
+            "text": "strict",
+            "lemma": "strict"
+        },
+        {
+            "id": 250,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 251,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 252,
+            "text": "touching",
+            "lemma": "touch"
+        },
+        {
+            "id": 253,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 254,
+            "text": "rule",
+            "lemma": "rule"
+        },
+        {
+            "id": 255,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 256,
+            "text": "place",
+            "lemma": "place"
+        },
+        {
+            "id": 257,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 258,
+            "text": "sea",
+            "lemma": "sea"
+        },
+        {
+            "id": 259,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 260,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 261,
+            "text": "suggests",
+            "lemma": "suggest"
+        },
+        {
+            "id": 262,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 263,
+            "text": "women",
+            "lemma": "woman"
+        },
+        {
+            "id": 264,
+            "text": "conceived",
+            "lemma": "conceive"
+        },
+        {
+            "id": 265,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 266,
+            "text": "boarding",
+            "lemma": "board"
+        },
+        {
+            "id": 267,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 268,
+            "text": "ships",
+            "lemma": "ship"
+        },
+        {
+            "id": 269,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 270,
+            "text": "during",
+            "lemma": "during"
+        },
+        {
+            "id": 271,
+            "text": "leave",
+            "lemma": "leave"
+        },
+        {
+            "id": 272,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 273,
+            "text": "stock",
+            "lemma": "stock"
+        },
+        {
+            "id": 274,
+            "text": "image",
+            "lemma": "image"
+        },
+        {
+            "id": 275,
+            "text": "above",
+            "lemma": "above"
+        },
+        {
+            "id": 276,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 277,
+            "text": "Navy",
+            "lemma": "Navy"
+        },
+        {
+            "id": 278,
+            "text": "sources",
+            "lemma": "source"
+        },
+        {
+            "id": 279,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 280,
+            "text": "Ms",
+            "lemma": "Ms"
+        },
+        {
+            "id": 281,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 282,
+            "text": "left",
+            "lemma": "leave"
+        },
+        {
+            "id": 283,
+            "text": "HMS",
+            "lemma": "HMS"
+        },
+        {
+            "id": 284,
+            "text": "Portland",
+            "lemma": "Portland"
+        },
+        {
+            "id": 285,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 286,
+            "text": "\u2018",
+            "lemma": "'"
+        },
+        {
+            "id": 287,
+            "text": "personal",
+            "lemma": "personal"
+        },
+        {
+            "id": 288,
+            "text": "reasons",
+            "lemma": "reason"
+        },
+        {
+            "id": 289,
+            "text": "\u2019",
+            "lemma": "'"
+        },
+        {
+            "id": 290,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 291,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 292,
+            "text": "Ministry",
+            "lemma": "Ministry"
+        },
+        {
+            "id": 293,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 294,
+            "text": "Defence",
+            "lemma": "Defence"
+        },
+        {
+            "id": 295,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 296,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 297,
+            "text": "confirm",
+            "lemma": "confirm"
+        },
+        {
+            "id": 298,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 299,
+            "text": "these",
+            "lemma": "these"
+        },
+        {
+            "id": 300,
+            "text": "reasons",
+            "lemma": "reason"
+        },
+        {
+            "id": 301,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 302,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 303,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 304,
+            "text": "action",
+            "lemma": "action"
+        },
+        {
+            "id": 305,
+            "text": "she",
+            "lemma": "she"
+        },
+        {
+            "id": 306,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 307,
+            "text": "face",
+            "lemma": "face"
+        },
+        {
+            "id": 308,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 309,
+            "text": "Women",
+            "lemma": "woman"
+        },
+        {
+            "id": 310,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 311,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 312,
+            "text": "serving",
+            "lemma": "serve"
+        },
+        {
+            "id": 313,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 314,
+            "text": "Royal",
+            "lemma": "Royal"
+        },
+        {
+            "id": 315,
+            "text": "Navy",
+            "lemma": "Navy"
+        },
+        {
+            "id": 316,
+            "text": "ships",
+            "lemma": "ship"
+        },
+        {
+            "id": 317,
+            "text": "since",
+            "lemma": "since"
+        },
+        {
+            "id": 318,
+            "text": "1990",
+            "lemma": "1990"
+        },
+        {
+            "id": 319,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 320,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 321,
+            "text": "2014",
+            "lemma": "2014"
+        },
+        {
+            "id": 322,
+            "text": "around",
+            "lemma": "around"
+        },
+        {
+            "id": 323,
+            "text": "9",
+            "lemma": "9"
+        },
+        {
+            "id": 324,
+            "text": "per",
+            "lemma": "per"
+        },
+        {
+            "id": 325,
+            "text": "cent",
+            "lemma": "cent"
+        },
+        {
+            "id": 326,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 327,
+            "text": "personnel",
+            "lemma": "personnel"
+        },
+        {
+            "id": 328,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 329,
+            "text": "female",
+            "lemma": "female"
+        },
+        {
+            "id": 330,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 331,
+            "text": "Last",
+            "lemma": "last"
+        },
+        {
+            "id": 332,
+            "text": "May",
+            "lemma": "May"
+        },
+        {
+            "id": 333,
+            "text": "three",
+            "lemma": "three"
+        },
+        {
+            "id": 334,
+            "text": "women",
+            "lemma": "woman"
+        },
+        {
+            "id": 335,
+            "text": "made",
+            "lemma": "make"
+        },
+        {
+            "id": 336,
+            "text": "history",
+            "lemma": "history"
+        },
+        {
+            "id": 337,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 338,
+            "text": "becoming",
+            "lemma": "become"
+        },
+        {
+            "id": 339,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 340,
+            "text": "first",
+            "lemma": "first"
+        },
+        {
+            "id": 341,
+            "text": "female",
+            "lemma": "female"
+        },
+        {
+            "id": 342,
+            "text": "submariners",
+            "lemma": "submariner"
+        },
+        {
+            "id": 343,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 344,
+            "text": "serve",
+            "lemma": "serve"
+        },
+        {
+            "id": 345,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 346,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 347,
+            "text": "Royal",
+            "lemma": "Royal"
+        },
+        {
+            "id": 348,
+            "text": "Navy",
+            "lemma": "Navy"
+        },
+        {
+            "id": 349,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 350,
+            "text": "Nearly",
+            "lemma": "nearly"
+        },
+        {
+            "id": 351,
+            "text": "100",
+            "lemma": "100"
+        },
+        {
+            "id": 352,
+            "text": "female",
+            "lemma": "female"
+        },
+        {
+            "id": 353,
+            "text": "British",
+            "lemma": "british"
+        },
+        {
+            "id": 354,
+            "text": "soldiers",
+            "lemma": "soldier"
+        },
+        {
+            "id": 355,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 356,
+            "text": "sent",
+            "lemma": "send"
+        },
+        {
+            "id": 357,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 358,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 359,
+            "text": "Afghanistan",
+            "lemma": "Afghanistan"
+        },
+        {
+            "id": 360,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 361,
+            "text": "finding",
+            "lemma": "find"
+        },
+        {
+            "id": 362,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 363,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 364,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 365,
+            "text": "pregnant",
+            "lemma": "pregnant"
+        },
+        {
+            "id": 366,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 367,
+            "text": "Ninety",
+            "lemma": "ninety"
+        },
+        {
+            "id": 368,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 369,
+            "text": "nine",
+            "lemma": "nine"
+        },
+        {
+            "id": 370,
+            "text": "servicewomen",
+            "lemma": "servicewoman"
+        },
+        {
+            "id": 371,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 372,
+            "text": "operations",
+            "lemma": "operation"
+        },
+        {
+            "id": 373,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 374,
+            "text": "flown",
+            "lemma": "fly"
+        },
+        {
+            "id": 375,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 376,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 377,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 378,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 379,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 380,
+            "text": "January",
+            "lemma": "January"
+        },
+        {
+            "id": 381,
+            "text": "2006",
+            "lemma": "2006"
+        },
+        {
+            "id": 382,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 383,
+            "text": "December",
+            "lemma": "December"
+        },
+        {
+            "id": 384,
+            "text": "2013",
+            "lemma": "2013"
+        },
+        {
+            "id": 385,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 386,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 387,
+            "text": "Freedom",
+            "lemma": "Freedom"
+        },
+        {
+            "id": 388,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 389,
+            "text": "Information",
+            "lemma": "Information"
+        },
+        {
+            "id": 390,
+            "text": "request",
+            "lemma": "request"
+        },
+        {
+            "id": 391,
+            "text": "revealed",
+            "lemma": "reveal"
+        },
+        {
+            "id": 392,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 393,
+            "text": "Sixteen",
+            "lemma": "sixteen"
+        },
+        {
+            "id": 394,
+            "text": "women",
+            "lemma": "woman"
+        },
+        {
+            "id": 395,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 396,
+            "text": "removed",
+            "lemma": "remove"
+        },
+        {
+            "id": 397,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 398,
+            "text": "Afghanistan",
+            "lemma": "Afghanistan"
+        },
+        {
+            "id": 399,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 400,
+            "text": "2013",
+            "lemma": "2013"
+        },
+        {
+            "id": 401,
+            "text": "due",
+            "lemma": "due"
+        },
+        {
+            "id": 402,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 403,
+            "text": "pregnancy",
+            "lemma": "pregnancy"
+        },
+        {
+            "id": 404,
+            "text": "while",
+            "lemma": "while"
+        },
+        {
+            "id": 405,
+            "text": "18",
+            "lemma": "18"
+        },
+        {
+            "id": 406,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 407,
+            "text": "sent",
+            "lemma": "send"
+        },
+        {
+            "id": 408,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 409,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 410,
+            "text": "2011",
+            "lemma": "2011"
+        },
+        {
+            "id": 411,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 412,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 413,
+            "text": "data",
+            "lemma": "datum"
+        },
+        {
+            "id": 414,
+            "text": "showed",
+            "lemma": "show"
+        },
+        {
+            "id": 415,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 416,
+            "text": "A",
+            "lemma": "a"
+        },
+        {
+            "id": 417,
+            "text": "further",
+            "lemma": "further"
+        },
+        {
+            "id": 418,
+            "text": "102",
+            "lemma": "102"
+        },
+        {
+            "id": 419,
+            "text": "women",
+            "lemma": "woman"
+        },
+        {
+            "id": 420,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 421,
+            "text": "evacuated",
+            "lemma": "evacuate"
+        },
+        {
+            "id": 422,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 423,
+            "text": "Iraq",
+            "lemma": "Iraq"
+        },
+        {
+            "id": 424,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 425,
+            "text": "Strict",
+            "lemma": "strict"
+        },
+        {
+            "id": 426,
+            "text": "military",
+            "lemma": "military"
+        },
+        {
+            "id": 427,
+            "text": "rules",
+            "lemma": "rule"
+        },
+        {
+            "id": 428,
+            "text": "ban",
+            "lemma": "ban"
+        },
+        {
+            "id": 429,
+            "text": "mothers",
+            "lemma": "mother"
+        },
+        {
+            "id": 430,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 431,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 432,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 433,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 434,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 435,
+            "text": "serving",
+            "lemma": "serve"
+        },
+        {
+            "id": 436,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 437,
+            "text": "war",
+            "lemma": "war"
+        },
+        {
+            "id": 438,
+            "text": "zones",
+            "lemma": "zone"
+        },
+        {
+            "id": 439,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 440,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 441,
+            "text": "women",
+            "lemma": "woman"
+        },
+        {
+            "id": 442,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 443,
+            "text": "flown",
+            "lemma": "fly"
+        },
+        {
+            "id": 444,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 445,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 446,
+            "text": "flights",
+            "lemma": "flight"
+        },
+        {
+            "id": 447,
+            "text": "usually",
+            "lemma": "usually"
+        },
+        {
+            "id": 448,
+            "text": "reserved",
+            "lemma": "reserve"
+        },
+        {
+            "id": 449,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 450,
+            "text": "injured",
+            "lemma": "injure"
+        },
+        {
+            "id": 451,
+            "text": "troops",
+            "lemma": "troop"
+        },
+        {
+            "id": 452,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 453,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 454,
+            "text": "true",
+            "lemma": "true"
+        },
+        {
+            "id": 455,
+            "text": "figure",
+            "lemma": "figure"
+        },
+        {
+            "id": 456,
+            "text": "could",
+            "lemma": "could"
+        },
+        {
+            "id": 457,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 458,
+            "text": "higher",
+            "lemma": "high"
+        },
+        {
+            "id": 459,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 460,
+            "text": "others",
+            "lemma": "other"
+        },
+        {
+            "id": 461,
+            "text": "travelled",
+            "lemma": "travel"
+        },
+        {
+            "id": 462,
+            "text": "via",
+            "lemma": "via"
+        },
+        {
+            "id": 463,
+            "text": "routine",
+            "lemma": "routine"
+        },
+        {
+            "id": 464,
+            "text": "flights",
+            "lemma": "flight"
+        },
+        {
+            "id": 465,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 466,
+            "text": "Troops",
+            "lemma": "troop"
+        },
+        {
+            "id": 467,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 468,
+            "text": "reminded",
+            "lemma": "remind"
+        },
+        {
+            "id": 469,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 470,
+            "text": "senior",
+            "lemma": "senior"
+        },
+        {
+            "id": 471,
+            "text": "officers",
+            "lemma": "officer"
+        },
+        {
+            "id": 472,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 473,
+            "text": "check",
+            "lemma": "check"
+        },
+        {
+            "id": 474,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 475,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 476,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 477,
+            "text": "pregnant",
+            "lemma": "pregnant"
+        },
+        {
+            "id": 478,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 479,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 480,
+            "text": "fly",
+            "lemma": "fly"
+        },
+        {
+            "id": 481,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 482,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 483,
+            "text": "front",
+            "lemma": "front"
+        },
+        {
+            "id": 484,
+            "text": "line",
+            "lemma": "line"
+        },
+        {
+            "id": 485,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 486,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 487,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 488,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 489,
+            "text": "made",
+            "lemma": "make"
+        },
+        {
+            "id": 490,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 491,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 492,
+            "text": "pregnancy",
+            "lemma": "pregnancy"
+        },
+        {
+            "id": 493,
+            "text": "tests",
+            "lemma": "test"
+        },
+        {
+            "id": 494,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 495,
+            "text": "Most",
+            "lemma": "Most"
+        },
+        {
+            "id": 496,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 497,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 498,
+            "text": "babies",
+            "lemma": "baby"
+        },
+        {
+            "id": 499,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 500,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 501,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 502,
+            "text": "conceived",
+            "lemma": "conceive"
+        },
+        {
+            "id": 503,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 504,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 505,
+            "text": "mother",
+            "lemma": "mother"
+        },
+        {
+            "id": 506,
+            "text": "left",
+            "lemma": "leave"
+        },
+        {
+            "id": 507,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 508,
+            "text": "UK",
+            "lemma": "UK"
+        },
+        {
+            "id": 509,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 510,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 511,
+            "text": "small",
+            "lemma": "small"
+        },
+        {
+            "id": 512,
+            "text": "number",
+            "lemma": "number"
+        },
+        {
+            "id": 513,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 514,
+            "text": "women",
+            "lemma": "woman"
+        },
+        {
+            "id": 515,
+            "text": "may",
+            "lemma": "may"
+        },
+        {
+            "id": 516,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 517,
+            "text": "become",
+            "lemma": "become"
+        },
+        {
+            "id": 518,
+            "text": "pregnant",
+            "lemma": "pregnant"
+        },
+        {
+            "id": 519,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 520,
+            "text": "tour",
+            "lemma": "tour"
+        },
+        {
+            "id": 521,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 522,
+            "text": "A",
+            "lemma": "a"
+        },
+        {
+            "id": 523,
+            "text": "Ministry",
+            "lemma": "Ministry"
+        },
+        {
+            "id": 524,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 525,
+            "text": "Defence",
+            "lemma": "Defence"
+        },
+        {
+            "id": 526,
+            "text": "spokesman",
+            "lemma": "spokesman"
+        },
+        {
+            "id": 527,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 528,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 529,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 530,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 531,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 532,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 533,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 534,
+            "text": "small",
+            "lemma": "small"
+        },
+        {
+            "id": 535,
+            "text": "numbers",
+            "lemma": "number"
+        },
+        {
+            "id": 536,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 537,
+            "text": "personnel",
+            "lemma": "personnel"
+        },
+        {
+            "id": 538,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 539,
+            "text": "discover",
+            "lemma": "discover"
+        },
+        {
+            "id": 540,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 541,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 542,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 543,
+            "text": "pregnant",
+            "lemma": "pregnant"
+        },
+        {
+            "id": 544,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 545,
+            "text": "operations",
+            "lemma": "operation"
+        },
+        {
+            "id": 546,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 547,
+            "text": "returned",
+            "lemma": "return"
+        },
+        {
+            "id": 548,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 549,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 550,
+            "text": "first",
+            "lemma": "first"
+        },
+        {
+            "id": 551,
+            "text": "convenient",
+            "lemma": "convenient"
+        },
+        {
+            "id": 552,
+            "text": "opportunity",
+            "lemma": "opportunity"
+        },
+        {
+            "id": 553,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 554,
+            "text": "'",
+            "lemma": "'"
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "HMS",
+            "lemma": "HMS",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "Ocean",
+            "lemma": "Ocean",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "had",
+            "lemma": "have",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "five",
+            "lemma": "five",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "pregnant",
+            "lemma": "pregnant",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "sailors",
+            "lemma": "sailor",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "removed",
+            "lemma": "remove",
+            "spans": [
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                3,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "emergency",
+            "lemma": "emergency",
+            "spans": [
+                3,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "'",
+            "lemma": "'",
+            "spans": [
+                3,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "medevacs",
+            "lemma": "medevacs",
+            "spans": [
+                3,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "'",
+            "lemma": "'",
+            "spans": [
+                3,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "At",
+            "lemma": "at",
+            "spans": [
+                3,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "least",
+            "lemma": "least",
+            "spans": [
+                3,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "one",
+            "lemma": "one",
+            "spans": [
+                3,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "woman",
+            "lemma": "woman",
+            "spans": [
+                3,
+                6,
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "was",
+            "lemma": "be",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "airlifted",
+            "lemma": "airlift",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "from",
+            "lemma": "from",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": "HMS",
+            "lemma": "HMS",
+            "spans": [
+                3,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 20,
+            "text": "Illustrious",
+            "lemma": "Illustrious",
+            "spans": [
+                3,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 21,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                3,
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 22,
+            "text": "which",
+            "lemma": "which",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 23,
+            "text": "was",
+            "lemma": "be",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 24,
+            "text": "nicknamed",
+            "lemma": "nickname",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 25,
+            "text": "'",
+            "lemma": "'",
+            "spans": [
+                3,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 26,
+            "text": "HMS",
+            "lemma": "HMS",
+            "spans": [
+                3,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 27,
+            "text": "Lusty",
+            "lemma": "Lusty",
+            "spans": [
+                3,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 28,
+            "text": "'",
+            "lemma": "'",
+            "spans": [
+                3,
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 29,
+            "text": "by",
+            "lemma": "by",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 30,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                3,
+                11,
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 31,
+            "text": "crew",
+            "lemma": "crew",
+            "spans": [
+                3,
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 32,
+            "text": "before",
+            "lemma": "before",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 33,
+            "text": "it",
+            "lemma": "it",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 34,
+            "text": "was",
+            "lemma": "be",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 35,
+            "text": "decommissioned",
+            "lemma": "decommission",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 36,
+            "text": "last",
+            "lemma": "last",
+            "spans": [
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 37,
+            "text": "year",
+            "lemma": "year",
+            "spans": [
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 38,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 39,
+            "text": "Eighteen",
+            "lemma": "eighteen",
+            "spans": [
+                14,
+                15
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 40,
+            "text": "other",
+            "lemma": "other",
+            "spans": [
+                14,
+                15
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 41,
+            "text": "ships",
+            "lemma": "ship",
+            "spans": [
+                14,
+                15
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 42,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                15
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 43,
+            "text": "including",
+            "lemma": "include",
+            "spans": [
+                15,
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 44,
+            "text": "HMS",
+            "lemma": "HMS",
+            "spans": [
+                15,
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 45,
+            "text": "Dragon",
+            "lemma": "Dragon",
+            "spans": [
+                15,
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 46,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                15,
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 47,
+            "text": "HMS",
+            "lemma": "HMS",
+            "spans": [
+                15,
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 48,
+            "text": "Enterprise",
+            "lemma": "Enterprise",
+            "spans": [
+                15,
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 49,
+            "text": "and",
+            "lemma": "and",
+            "spans": [
+                15,
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 50,
+            "text": "HMS",
+            "lemma": "HMS",
+            "spans": [
+                15,
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 51,
+            "text": "Richmond",
+            "lemma": "Richmond",
+            "spans": [
+                15,
+                17
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 52,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 53,
+            "text": "had",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 54,
+            "text": "emergency",
+            "lemma": "emergency",
+            "spans": [
+                19
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 55,
+            "text": "evacuations",
+            "lemma": "evacuation",
+            "spans": [
+                19
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 56,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 2,
+            "qaIds": [
+                0
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 2,
+            "end": 3,
+            "qaIds": [
+                0,
+                1
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 3,
+            "end": 6,
+            "qaIds": [
+                2
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 3,
+            "end": 36,
+            "qaIds": [
+                1
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 6,
+            "end": 7,
+            "qaIds": [
+                2,
+                3
+            ],
+            "id": 4,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 7,
+            "end": 12,
+            "qaIds": [
+                3
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 12,
+            "end": 16,
+            "qaIds": [
+                4
+            ],
+            "id": 6,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 15,
+            "end": 16,
+            "qaIds": [
+                4,
+                5
+            ],
+            "id": 7,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 19,
+            "end": 21,
+            "qaIds": [
+                5,
+                6,
+                9
+            ],
+            "id": 8,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 21,
+            "end": 22,
+            "qaIds": [
+                6,
+                7,
+                8
+            ],
+            "id": 9,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 25,
+            "end": 29,
+            "qaIds": [
+                7
+            ],
+            "id": 10,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 30,
+            "end": 31,
+            "qaIds": [
+                9,
+                10
+            ],
+            "id": 11,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 30,
+            "end": 32,
+            "qaIds": [
+                8
+            ],
+            "id": 12,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 36,
+            "end": 38,
+            "qaIds": [
+                10
+            ],
+            "id": 13,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 39,
+            "end": 42,
+            "qaIds": [
+                11
+            ],
+            "id": 14,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 39,
+            "end": 52,
+            "qaIds": [
+                13
+            ],
+            "id": 15,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 43,
+            "end": 44,
+            "qaIds": [
+                11,
+                12
+            ],
+            "id": 16,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 44,
+            "end": 52,
+            "qaIds": [
+                12
+            ],
+            "id": 17,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 52,
+            "end": 53,
+            "qaIds": [
+                13,
+                14
+            ],
+            "id": 18,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 54,
+            "end": 56,
+            "qaIds": [
+                14
+            ],
+            "id": 19,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "had",
+            "questionId": 0,
+            "question": "what had something ?",
+            "answer": "HMS Ocean",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                9
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                2
+            ],
+            "answerId": "0-2",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "had",
+            "questionId": 1,
+            "question": "what did something have ?",
+            "answer": "five pregnant sailors removed in emergency 'medevacs' At least one woman was airlifted from HMS Illustrious, which was nicknamed 'HMS Lusty' by the crew before it was de",
+            "answerStartChar": [
+                14
+            ],
+            "answerEndChar": [
+                183
+            ],
+            "answerStartToken": [
+                3
+            ],
+            "answerEndToken": [
+                36
+            ],
+            "answerId": "3-36",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "6-7",
+            "predicate": "removed",
+            "questionId": 0,
+            "question": "who was removed ?",
+            "answer": "five pregnant sailors",
+            "answerStartChar": [
+                14
+            ],
+            "answerEndChar": [
+                35
+            ],
+            "answerStartToken": [
+                3
+            ],
+            "answerEndToken": [
+                6
+            ],
+            "answerId": "3-6",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "6-7",
+            "predicate": "removed",
+            "questionId": 1,
+            "question": "where was someone removed ?",
+            "answer": "in emergency 'medevacs'",
+            "answerStartChar": [
+                44
+            ],
+            "answerEndChar": [
+                67
+            ],
+            "answerStartToken": [
+                7
+            ],
+            "answerEndToken": [
+                12
+            ],
+            "answerId": "7-12",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "15-16",
+            "predicate": "airlifted",
+            "questionId": 0,
+            "question": "who was airlifted from something ?",
+            "answer": "At least one woman",
+            "answerStartChar": [
+                68
+            ],
+            "answerEndChar": [
+                86
+            ],
+            "answerStartToken": [
+                12
+            ],
+            "answerEndToken": [
+                16
+            ],
+            "answerId": "12-16",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "15-16",
+            "predicate": "airlifted",
+            "questionId": 1,
+            "question": "what was someone airlifted from ?",
+            "answer": "HMS Illustrious",
+            "answerStartChar": [
+                106
+            ],
+            "answerEndChar": [
+                121
+            ],
+            "answerStartToken": [
+                19
+            ],
+            "answerEndToken": [
+                21
+            ],
+            "answerId": "19-21",
+            "id": 5
+        },
+        {
+            "sentId": 0,
+            "predicateId": "21-22",
+            "predicate": "nicknamed",
+            "questionId": 0,
+            "question": "what was nicknamed something ?",
+            "answer": "HMS Illustrious",
+            "answerStartChar": [
+                106
+            ],
+            "answerEndChar": [
+                121
+            ],
+            "answerStartToken": [
+                19
+            ],
+            "answerEndToken": [
+                21
+            ],
+            "answerId": "19-21",
+            "id": 6
+        },
+        {
+            "sentId": 0,
+            "predicateId": "21-22",
+            "predicate": "nicknamed",
+            "questionId": 1,
+            "question": "what was something nicknamed ?",
+            "answer": "'HMS Lusty'",
+            "answerStartChar": [
+                143
+            ],
+            "answerEndChar": [
+                154
+            ],
+            "answerStartToken": [
+                25
+            ],
+            "answerEndToken": [
+                29
+            ],
+            "answerId": "25-29",
+            "id": 7
+        },
+        {
+            "sentId": 0,
+            "predicateId": "21-22",
+            "predicate": "nicknamed",
+            "questionId": 2,
+            "question": "who nicknamed something ?",
+            "answer": "the crew",
+            "answerStartChar": [
+                158
+            ],
+            "answerEndChar": [
+                166
+            ],
+            "answerStartToken": [
+                30
+            ],
+            "answerEndToken": [
+                32
+            ],
+            "answerId": "30-32",
+            "id": 8
+        },
+        {
+            "sentId": 0,
+            "predicateId": "30-31",
+            "predicate": "decommissioned",
+            "questionId": 0,
+            "question": "what was decommissioned ?",
+            "answer": "HMS Illustrious",
+            "answerStartChar": [
+                106
+            ],
+            "answerEndChar": [
+                121
+            ],
+            "answerStartToken": [
+                19
+            ],
+            "answerEndToken": [
+                21
+            ],
+            "answerId": "19-21",
+            "id": 9
+        },
+        {
+            "sentId": 0,
+            "predicateId": "30-31",
+            "predicate": "decommissioned",
+            "questionId": 1,
+            "question": "when was something decommissioned ?",
+            "answer": "last year",
+            "answerStartChar": [
+                196
+            ],
+            "answerEndChar": [
+                205
+            ],
+            "answerStartToken": [
+                36
+            ],
+            "answerEndToken": [
+                38
+            ],
+            "answerId": "36-38",
+            "id": 10
+        },
+        {
+            "sentId": 1,
+            "predicateId": "43-44",
+            "predicate": "including",
+            "questionId": 0,
+            "question": "what included something ?",
+            "answer": "Eighteen other ships",
+            "answerStartChar": [
+                207
+            ],
+            "answerEndChar": [
+                227
+            ],
+            "answerStartToken": [
+                39
+            ],
+            "answerEndToken": [
+                42
+            ],
+            "answerId": "39-42",
+            "id": 11
+        },
+        {
+            "sentId": 1,
+            "predicateId": "43-44",
+            "predicate": "including",
+            "questionId": 1,
+            "question": "what did something include ?",
+            "answer": "HMS Dragon, HMS Enterprise and HMS Richmond",
+            "answerStartChar": [
+                240
+            ],
+            "answerEndChar": [
+                283
+            ],
+            "answerStartToken": [
+                44
+            ],
+            "answerEndToken": [
+                52
+            ],
+            "answerId": "44-52",
+            "id": 12
+        },
+        {
+            "sentId": 1,
+            "predicateId": "52-53",
+            "predicate": "had",
+            "questionId": 0,
+            "question": "what had something ?",
+            "answer": "Eighteen other ships - including HMS Dragon, HMS Enterprise and HMS Richmond",
+            "answerStartChar": [
+                207
+            ],
+            "answerEndChar": [
+                283
+            ],
+            "answerStartToken": [
+                39
+            ],
+            "answerEndToken": [
+                52
+            ],
+            "answerId": "39-52",
+            "id": 13
+        },
+        {
+            "sentId": 1,
+            "predicateId": "52-53",
+            "predicate": "had",
+            "questionId": 1,
+            "question": "what did something have ?",
+            "answer": "emergency evacuations",
+            "answerStartChar": [
+                290
+            ],
+            "answerEndChar": [
+                311
+            ],
+            "answerStartToken": [
+                54
+            ],
+            "answerEndToken": [
+                56
+            ],
+            "answerId": "54-56",
+            "id": 14
+        }
+    ],
+    "datasource": "cnn",
+    "summaryId": "3e4c0c1aa4fdf0b711c34a2ec3aa9f5a4140d2e0"
+}

@@ -4,13 +4,14 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "vue-cli-service build --mode production --target wc --name loc-unfaith ./src/App.vue",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.8.3",
     "js-sorted-set": "^0.7.0",
     "vue": "^2.6.14",
+    "vuedraggable": "^2.24.3",
     "vuetify": "^2.6.0"
   },
   "devDependencies": {

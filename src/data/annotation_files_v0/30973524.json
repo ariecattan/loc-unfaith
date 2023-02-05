@@ -1,0 +1,2266 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 1,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 2,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 3,
+            "text": "almost",
+            "lemma": "almost"
+        },
+        {
+            "id": 4,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 5,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 6,
+            "text": "since",
+            "lemma": "since"
+        },
+        {
+            "id": 7,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 8,
+            "text": "26",
+            "lemma": "26"
+        },
+        {
+            "id": 9,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 10,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 11,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 12,
+            "text": "old",
+            "lemma": "old"
+        },
+        {
+            "id": 13,
+            "text": "released",
+            "lemma": "release"
+        },
+        {
+            "id": 14,
+            "text": "her",
+            "lemma": "she"
+        },
+        {
+            "id": 15,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 16,
+            "text": "single",
+            "lemma": "single"
+        },
+        {
+            "id": 17,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 18,
+            "text": "McCartney",
+            "lemma": "McCartney"
+        },
+        {
+            "id": 19,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 20,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 21,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 22,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 23,
+            "text": "most",
+            "lemma": "most"
+        },
+        {
+            "id": 24,
+            "text": "celebrated",
+            "lemma": "celebrated"
+        },
+        {
+            "id": 25,
+            "text": "artists",
+            "lemma": "artist"
+        },
+        {
+            "id": 26,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 27,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 28,
+            "text": "20th",
+            "lemma": "20th"
+        },
+        {
+            "id": 29,
+            "text": "century",
+            "lemma": "century"
+        },
+        {
+            "id": 30,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 31,
+            "text": "selling",
+            "lemma": "sell"
+        },
+        {
+            "id": 32,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 33,
+            "text": "100",
+            "lemma": "100"
+        },
+        {
+            "id": 34,
+            "text": "millions",
+            "lemma": "million"
+        },
+        {
+            "id": 35,
+            "text": "albums",
+            "lemma": "album"
+        },
+        {
+            "id": 36,
+            "text": "worldwide",
+            "lemma": "worldwide"
+        },
+        {
+            "id": 37,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 38,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 39,
+            "text": "part",
+            "lemma": "part"
+        },
+        {
+            "id": 40,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 41,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 42,
+            "text": "Beatles",
+            "lemma": "Beatles"
+        },
+        {
+            "id": 43,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 44,
+            "text": "Wings",
+            "lemma": "Wings"
+        },
+        {
+            "id": 45,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 46,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 47,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 48,
+            "text": "solo",
+            "lemma": "solo"
+        },
+        {
+            "id": 49,
+            "text": "artist",
+            "lemma": "artist"
+        },
+        {
+            "id": 50,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 51,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 52,
+            "text": "own",
+            "lemma": "own"
+        },
+        {
+            "id": 53,
+            "text": "right",
+            "lemma": "right"
+        },
+        {
+            "id": 54,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 55,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 56,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 57,
+            "text": "previously",
+            "lemma": "previously"
+        },
+        {
+            "id": 58,
+            "text": "collaborated",
+            "lemma": "collaborate"
+        },
+        {
+            "id": 59,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 60,
+            "text": "both",
+            "lemma": "both"
+        },
+        {
+            "id": 61,
+            "text": "Rihanna",
+            "lemma": "Rihanna"
+        },
+        {
+            "id": 62,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 63,
+            "text": "McCartney",
+            "lemma": "McCartney"
+        },
+        {
+            "id": 64,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 65,
+            "text": "though",
+            "lemma": "though"
+        },
+        {
+            "id": 66,
+            "text": "never",
+            "lemma": "never"
+        },
+        {
+            "id": 67,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 68,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 69,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 70,
+            "text": "trio",
+            "lemma": "trio"
+        },
+        {
+            "id": 71,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 72,
+            "text": "Four",
+            "lemma": "four"
+        },
+        {
+            "id": 73,
+            "text": "Five",
+            "lemma": "five"
+        },
+        {
+            "id": 74,
+            "text": "Seconds",
+            "lemma": "Seconds"
+        },
+        {
+            "id": 75,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 76,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 77,
+            "text": "move",
+            "lemma": "move"
+        },
+        {
+            "id": 78,
+            "text": "away",
+            "lemma": "away"
+        },
+        {
+            "id": 79,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 80,
+            "text": "Rihanna",
+            "lemma": "Rihanna"
+        },
+        {
+            "id": 81,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 82,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 83,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 84,
+            "text": "previous",
+            "lemma": "previous"
+        },
+        {
+            "id": 85,
+            "text": "work",
+            "lemma": "work"
+        },
+        {
+            "id": 86,
+            "text": "together",
+            "lemma": "together"
+        },
+        {
+            "id": 87,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 88,
+            "text": "All",
+            "lemma": "all"
+        },
+        {
+            "id": 89,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 90,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 91,
+            "text": "Lights",
+            "lemma": "Lights"
+        },
+        {
+            "id": 92,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 93,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 94,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 95,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 96,
+            "text": "album",
+            "lemma": "album"
+        },
+        {
+            "id": 97,
+            "text": "My",
+            "lemma": "my"
+        },
+        {
+            "id": 98,
+            "text": "Beautiful",
+            "lemma": "beautiful"
+        },
+        {
+            "id": 99,
+            "text": "Dark",
+            "lemma": "Dark"
+        },
+        {
+            "id": 100,
+            "text": "Twisted",
+            "lemma": "Twisted"
+        },
+        {
+            "id": 101,
+            "text": "Fantasy",
+            "lemma": "Fantasy"
+        },
+        {
+            "id": 102,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 103,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 104,
+            "text": "Run",
+            "lemma": "run"
+        },
+        {
+            "id": 105,
+            "text": "This",
+            "lemma": "this"
+        },
+        {
+            "id": 106,
+            "text": "Town",
+            "lemma": "Town"
+        },
+        {
+            "id": 107,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 108,
+            "text": "where",
+            "lemma": "where"
+        },
+        {
+            "id": 109,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 110,
+            "text": "pair",
+            "lemma": "pair"
+        },
+        {
+            "id": 111,
+            "text": "teamed",
+            "lemma": "team"
+        },
+        {
+            "id": 112,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 113,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 114,
+            "text": "Jay",
+            "lemma": "Jay"
+        },
+        {
+            "id": 115,
+            "text": "Z.",
+            "lemma": "Z."
+        },
+        {
+            "id": 116,
+            "text": "This",
+            "lemma": "this"
+        },
+        {
+            "id": 117,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 118,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 119,
+            "text": "track",
+            "lemma": "track"
+        },
+        {
+            "id": 120,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 121,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 122,
+            "text": "slower",
+            "lemma": "slow"
+        },
+        {
+            "id": 123,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 124,
+            "text": "acoustic",
+            "lemma": "acoustic"
+        },
+        {
+            "id": 125,
+            "text": "guitar",
+            "lemma": "guitar"
+        },
+        {
+            "id": 126,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 127,
+            "text": "driven",
+            "lemma": "drive"
+        },
+        {
+            "id": 128,
+            "text": "number",
+            "lemma": "number"
+        },
+        {
+            "id": 129,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 130,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 131,
+            "text": "played",
+            "lemma": "play"
+        },
+        {
+            "id": 132,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 133,
+            "text": "snippet",
+            "lemma": "snippet"
+        },
+        {
+            "id": 134,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 135,
+            "text": "Four",
+            "lemma": "four"
+        },
+        {
+            "id": 136,
+            "text": "Five",
+            "lemma": "five"
+        },
+        {
+            "id": 137,
+            "text": "Seconds",
+            "lemma": "Seconds"
+        },
+        {
+            "id": 138,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 139,
+            "text": "industry",
+            "lemma": "industry"
+        },
+        {
+            "id": 140,
+            "text": "experts",
+            "lemma": "expert"
+        },
+        {
+            "id": 141,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 142,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 143,
+            "text": "iHeartMedia",
+            "lemma": "iHeartMedia"
+        },
+        {
+            "id": 144,
+            "text": "music",
+            "lemma": "music"
+        },
+        {
+            "id": 145,
+            "text": "summit",
+            "lemma": "summit"
+        },
+        {
+            "id": 146,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 147,
+            "text": "Wednesday",
+            "lemma": "Wednesday"
+        },
+        {
+            "id": 148,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 149,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 150,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 151,
+            "text": "yet",
+            "lemma": "yet"
+        },
+        {
+            "id": 152,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 153,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 154,
+            "text": "confirmed",
+            "lemma": "confirm"
+        },
+        {
+            "id": 155,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 156,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 157,
+            "text": "song",
+            "lemma": "song"
+        },
+        {
+            "id": 158,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 159,
+            "text": "appear",
+            "lemma": "appear"
+        },
+        {
+            "id": 160,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 161,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 162,
+            "text": "album",
+            "lemma": "album"
+        },
+        {
+            "id": 163,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 164,
+            "text": "any",
+            "lemma": "any"
+        },
+        {
+            "id": 165,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 166,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 167,
+            "text": "artists",
+            "lemma": "artist"
+        },
+        {
+            "id": 168,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 169,
+            "text": "Though",
+            "lemma": "though"
+        },
+        {
+            "id": 170,
+            "text": "producer",
+            "lemma": "producer"
+        },
+        {
+            "id": 171,
+            "text": "Ty",
+            "lemma": "Ty"
+        },
+        {
+            "id": 172,
+            "text": "Dolla",
+            "lemma": "Dolla"
+        },
+        {
+            "id": 173,
+            "text": "$",
+            "lemma": "$"
+        },
+        {
+            "id": 174,
+            "text": "ign",
+            "lemma": "ign"
+        },
+        {
+            "id": 175,
+            "text": "did",
+            "lemma": "do"
+        },
+        {
+            "id": 176,
+            "text": "tell",
+            "lemma": "tell"
+        },
+        {
+            "id": 177,
+            "text": "Billboard",
+            "lemma": "Billboard"
+        },
+        {
+            "id": 178,
+            "text": "earlier",
+            "lemma": "early"
+        },
+        {
+            "id": 179,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 180,
+            "text": "month",
+            "lemma": "month"
+        },
+        {
+            "id": 181,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 182,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 183,
+            "text": "song",
+            "lemma": "song"
+        },
+        {
+            "id": 184,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 185,
+            "text": "likely",
+            "lemma": "likely"
+        },
+        {
+            "id": 186,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 187,
+            "text": "part",
+            "lemma": "part"
+        },
+        {
+            "id": 188,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 189,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 190,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 191,
+            "text": "upcoming",
+            "lemma": "upcoming"
+        },
+        {
+            "id": 192,
+            "text": "release",
+            "lemma": "release"
+        },
+        {
+            "id": 193,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 194,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 195,
+            "text": "follows",
+            "lemma": "follow"
+        },
+        {
+            "id": 196,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 197,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 198,
+            "text": "own",
+            "lemma": "own"
+        },
+        {
+            "id": 199,
+            "text": "collaboration",
+            "lemma": "collaboration"
+        },
+        {
+            "id": 200,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 201,
+            "text": "McCartney",
+            "lemma": "McCartney"
+        },
+        {
+            "id": 202,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 203,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 204,
+            "text": "beginning",
+            "lemma": "beginning"
+        },
+        {
+            "id": 205,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 206,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 207,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 208,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 209,
+            "text": "When",
+            "lemma": "when"
+        },
+        {
+            "id": 210,
+            "text": "Only",
+            "lemma": "only"
+        },
+        {
+            "id": 211,
+            "text": "One",
+            "lemma": "one"
+        },
+        {
+            "id": 212,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 213,
+            "text": "released",
+            "lemma": "release"
+        },
+        {
+            "id": 214,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 215,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 216,
+            "text": "spokesperson",
+            "lemma": "spokesperson"
+        },
+        {
+            "id": 217,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 218,
+            "text": "West",
+            "lemma": "West"
+        },
+        {
+            "id": 219,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 220,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 221,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 222,
+            "text": "song",
+            "lemma": "song"
+        },
+        {
+            "id": 223,
+            "text": "would",
+            "lemma": "would"
+        },
+        {
+            "id": 224,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 225,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 226,
+            "text": "first",
+            "lemma": "first"
+        },
+        {
+            "id": 227,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 228,
+            "text": "publicly",
+            "lemma": "publicly"
+        },
+        {
+            "id": 229,
+            "text": "available",
+            "lemma": "available"
+        },
+        {
+            "id": 230,
+            "text": "recording",
+            "lemma": "recording"
+        },
+        {
+            "id": 231,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 232,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 233,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 234,
+            "text": "become",
+            "lemma": "become"
+        },
+        {
+            "id": 235,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 236,
+            "text": "prolific",
+            "lemma": "prolific"
+        },
+        {
+            "id": 237,
+            "text": "musical",
+            "lemma": "musical"
+        },
+        {
+            "id": 238,
+            "text": "collaboration",
+            "lemma": "collaboration"
+        },
+        {
+            "id": 239,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 240,
+            "text": "these",
+            "lemma": "these"
+        },
+        {
+            "id": 241,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 242,
+            "text": "legendary",
+            "lemma": "legendary"
+        },
+        {
+            "id": 243,
+            "text": "artists",
+            "lemma": "artist"
+        },
+        {
+            "id": 244,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 245,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 246,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 247,
+            "text": "pair",
+            "lemma": "pair"
+        },
+        {
+            "id": 248,
+            "text": "began",
+            "lemma": "begin"
+        },
+        {
+            "id": 249,
+            "text": "working",
+            "lemma": "work"
+        },
+        {
+            "id": 250,
+            "text": "together",
+            "lemma": "together"
+        },
+        {
+            "id": 251,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 252,
+            "text": "Los",
+            "lemma": "Los"
+        },
+        {
+            "id": 253,
+            "text": "Angeles",
+            "lemma": "Angeles"
+        },
+        {
+            "id": 254,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 255,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 256,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 257,
+            "text": "At",
+            "lemma": "at"
+        },
+        {
+            "id": 258,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 259,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 260,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 261,
+            "text": "statement",
+            "lemma": "statement"
+        },
+        {
+            "id": 262,
+            "text": "noted",
+            "lemma": "note"
+        },
+        {
+            "id": 263,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 264,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 265,
+            "text": "began",
+            "lemma": "begin"
+        },
+        {
+            "id": 266,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 267,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 268,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 269,
+            "text": "simple",
+            "lemma": "simple"
+        },
+        {
+            "id": 270,
+            "text": "brainstorming",
+            "lemma": "brainstorming"
+        },
+        {
+            "id": 271,
+            "text": "session",
+            "lemma": "session"
+        },
+        {
+            "id": 272,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 273,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 274,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 275,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 276,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 277,
+            "text": "McCartney",
+            "lemma": "McCartney"
+        },
+        {
+            "id": 278,
+            "text": "improvising",
+            "lemma": "improvise"
+        },
+        {
+            "id": 279,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 280,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 281,
+            "text": "keyboards",
+            "lemma": "keyboard"
+        },
+        {
+            "id": 282,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 283,
+            "text": "Kanye",
+            "lemma": "Kanye"
+        },
+        {
+            "id": 284,
+            "text": "vocally",
+            "lemma": "vocally"
+        },
+        {
+            "id": 285,
+            "text": "sketching",
+            "lemma": "sketch"
+        },
+        {
+            "id": 286,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 287,
+            "text": "shaping",
+            "lemma": "shape"
+        },
+        {
+            "id": 288,
+            "text": "ideas",
+            "lemma": "idea"
+        },
+        {
+            "id": 289,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 290,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 291,
+            "text": "stream",
+            "lemma": "stream"
+        },
+        {
+            "id": 292,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 293,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 294,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 295,
+            "text": "consciousness",
+            "lemma": "consciousness"
+        },
+        {
+            "id": 296,
+            "text": "riff",
+            "lemma": "riff"
+        },
+        {
+            "id": 297,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 298,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 299,
+            "text": "It",
+            "lemma": "it"
+        },
+        {
+            "id": 300,
+            "text": "'s",
+            "lemma": "be"
+        },
+        {
+            "id": 301,
+            "text": "possible",
+            "lemma": "possible"
+        },
+        {
+            "id": 302,
+            "text": "Four",
+            "lemma": "four"
+        },
+        {
+            "id": 303,
+            "text": "Five",
+            "lemma": "five"
+        },
+        {
+            "id": 304,
+            "text": "Seconds",
+            "lemma": "Seconds"
+        },
+        {
+            "id": 305,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 306,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 307,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 308,
+            "text": "result",
+            "lemma": "result"
+        },
+        {
+            "id": 309,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 310,
+            "text": "these",
+            "lemma": "these"
+        },
+        {
+            "id": 311,
+            "text": "sessions",
+            "lemma": "session"
+        },
+        {
+            "id": 312,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 313,
+            "text": "72",
+            "lemma": "72"
+        },
+        {
+            "id": 314,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 315,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 316,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 317,
+            "text": "old",
+            "lemma": "old"
+        },
+        {
+            "id": 318,
+            "text": "McCartney",
+            "lemma": "McCartney"
+        },
+        {
+            "id": 319,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 320,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 321,
+            "text": "long",
+            "lemma": "long"
+        },
+        {
+            "id": 322,
+            "text": "history",
+            "lemma": "history"
+        },
+        {
+            "id": 323,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 324,
+            "text": "collaborations",
+            "lemma": "collaboration"
+        },
+        {
+            "id": 325,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 326,
+            "text": "other",
+            "lemma": "other"
+        },
+        {
+            "id": 327,
+            "text": "artists",
+            "lemma": "artist"
+        },
+        {
+            "id": 328,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 329,
+            "text": "singing",
+            "lemma": "singe"
+        },
+        {
+            "id": 330,
+            "text": "duets",
+            "lemma": "duet"
+        },
+        {
+            "id": 331,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 332,
+            "text": "Stevie",
+            "lemma": "Stevie"
+        },
+        {
+            "id": 333,
+            "text": "Wonder",
+            "lemma": "Wonder"
+        },
+        {
+            "id": 334,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 335,
+            "text": "Michael",
+            "lemma": "Michael"
+        },
+        {
+            "id": 336,
+            "text": "Jackson",
+            "lemma": "Jackson"
+        },
+        {
+            "id": 337,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 338,
+            "text": "George",
+            "lemma": "George"
+        },
+        {
+            "id": 339,
+            "text": "Michael",
+            "lemma": "Michael"
+        },
+        {
+            "id": 340,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 341,
+            "text": "Follow",
+            "lemma": "follow"
+        },
+        {
+            "id": 342,
+            "text": "@BBCNewsbeat",
+            "lemma": "@bbcnewsbeat"
+        },
+        {
+            "id": 343,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 344,
+            "text": "Twitter",
+            "lemma": "Twitter"
+        },
+        {
+            "id": 345,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 346,
+            "text": "BBCNewsbeat",
+            "lemma": "BBCNewsbeat"
+        },
+        {
+            "id": 347,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 348,
+            "text": "Instagram",
+            "lemma": "Instagram"
+        },
+        {
+            "id": 349,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 350,
+            "text": "Radio1Newsbeat",
+            "lemma": "radio1newsbeat"
+        },
+        {
+            "id": 351,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 352,
+            "text": "YouTube",
+            "lemma": "YouTube"
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Rihanna",
+            "lemma": "Rihanna",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "has",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 2,
+            "text": "teamed",
+            "lemma": "team",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "up",
+            "lemma": "up",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 4,
+            "text": "with",
+            "lemma": "with",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 5,
+            "text": "Kanye",
+            "lemma": "Kanye",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "West",
+            "lemma": "West",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "and",
+            "lemma": "and",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 8,
+            "text": "Sir",
+            "lemma": "Sir",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "Paul",
+            "lemma": "Paul",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "McCartney",
+            "lemma": "McCartney",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "on",
+            "lemma": "on",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "new",
+            "lemma": "new",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "track",
+            "lemma": "track",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "called",
+            "lemma": "call",
+            "spans": [
+                4,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "Four",
+            "lemma": "Four",
+            "spans": [
+                4,
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "Five",
+            "lemma": "Five",
+            "spans": [
+                4,
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "Seconds",
+            "lemma": "Seconds",
+            "spans": [
+                4,
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 1,
+            "qaIds": [
+                0,
+                5
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 2,
+            "end": 3,
+            "qaIds": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 5,
+            "end": 7,
+            "qaIds": [
+                1,
+                3,
+                6
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 8,
+            "end": 11,
+            "qaIds": [
+                2,
+                7
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 11,
+            "end": 19,
+            "qaIds": [
+                4
+            ],
+            "id": 4,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 12,
+            "end": 15,
+            "qaIds": [
+                8
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 15,
+            "end": 16,
+            "qaIds": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "id": 6,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 16,
+            "end": 19,
+            "qaIds": [
+                9
+            ],
+            "id": 7,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "teamed",
+            "questionId": 0,
+            "question": "who has teamed up with someone ?",
+            "answer": "Rihanna",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                7
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "teamed",
+            "questionId": 1,
+            "question": "who has someone teamed up with ?",
+            "answer": "Kanye West",
+            "answerStartChar": [
+                27
+            ],
+            "answerEndChar": [
+                37
+            ],
+            "answerStartToken": [
+                5
+            ],
+            "answerEndToken": [
+                7
+            ],
+            "answerId": "5-7",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "teamed",
+            "questionId": 1,
+            "question": "who has someone teamed up with ?",
+            "answer": "Sir Paul McCartney",
+            "answerStartChar": [
+                42
+            ],
+            "answerEndChar": [
+                60
+            ],
+            "answerStartToken": [
+                8
+            ],
+            "answerEndToken": [
+                11
+            ],
+            "answerId": "8-11",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "teamed",
+            "questionId": 1,
+            "question": "who has someone teamed up with ?",
+            "answer": "Kanye West",
+            "answerStartChar": [
+                27
+            ],
+            "answerEndChar": [
+                37
+            ],
+            "answerStartToken": [
+                5
+            ],
+            "answerEndToken": [
+                7
+            ],
+            "answerId": "5-7",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "teamed",
+            "questionId": 2,
+            "question": "where has someone teamed up with someone ?",
+            "answer": "on a new track called Four Five Seconds",
+            "answerStartChar": [
+                61
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                11
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "11-19",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "15-16",
+            "predicate": "called",
+            "questionId": 0,
+            "question": "who is collaborating with someone ?",
+            "answer": "Rihanna",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                7
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 5
+        },
+        {
+            "sentId": 0,
+            "predicateId": "15-16",
+            "predicate": "called",
+            "questionId": 1,
+            "question": "who is someone collaborating with ?",
+            "answer": "Kanye West",
+            "answerStartChar": [
+                27
+            ],
+            "answerEndChar": [
+                37
+            ],
+            "answerStartToken": [
+                5
+            ],
+            "answerEndToken": [
+                7
+            ],
+            "answerId": "5-7",
+            "id": 6
+        },
+        {
+            "sentId": 0,
+            "predicateId": "15-16",
+            "predicate": "called",
+            "questionId": 1,
+            "question": "who is someone collaborating with ?",
+            "answer": "Sir Paul McCartney",
+            "answerStartChar": [
+                42
+            ],
+            "answerEndChar": [
+                60
+            ],
+            "answerStartToken": [
+                8
+            ],
+            "answerEndToken": [
+                11
+            ],
+            "answerId": "8-11",
+            "id": 7
+        },
+        {
+            "sentId": 0,
+            "predicateId": "15-16",
+            "predicate": "called",
+            "questionId": 2,
+            "question": "what is someone collaborating with ?",
+            "answer": "a new track",
+            "answerStartChar": [
+                64
+            ],
+            "answerEndChar": [
+                75
+            ],
+            "answerStartToken": [
+                12
+            ],
+            "answerEndToken": [
+                15
+            ],
+            "answerId": "12-15",
+            "id": 8
+        },
+        {
+            "sentId": 0,
+            "predicateId": "15-16",
+            "predicate": "called",
+            "questionId": 2,
+            "question": "what is someone collaborating with ?",
+            "answer": "Four Five Seconds",
+            "answerStartChar": [
+                83
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                16
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "16-19",
+            "id": 9
+        }
+    ],
+    "datasource": "xsum",
+    "summaryId": "30973524"
+}

@@ -10,10 +10,7 @@
           <v-stepper-step :complete="e1 > 2" step="2">
             Question-Answers
           </v-stepper-step>
-
-          <v-divider></v-divider>
-
-          <v-stepper-step step="3"> Group </v-stepper-step>
+          
         </v-stepper-header>
 
         <v-stepper-items>
@@ -24,7 +21,7 @@
                 <SourceArticle
                   :source="this.source"
                   :mention="currentSpan"
-                  :answer="currentAnswer"
+                  :answer="[]"
                 ></SourceArticle>
               </v-col>
               <v-col>
@@ -45,10 +42,10 @@
               <v-btn
                 color="primary"
                 @click="e1 = 2"
-                :disabled="!this.answers.every((x) => 'label' in x)"
               >
                 Next Step <v-icon> mdi-arrow-right</v-icon>
               </v-btn>
+          
             </div>
           </v-stepper-content>
 
@@ -63,7 +60,8 @@
                 ></SourceArticle>
               </v-col>
               <v-col>
-                <QA
+                <QALevel
+                  ref="qa"
                   :summary="summary"
                   :qas="qas"
                   :predicates="predicates"
@@ -71,9 +69,8 @@
                   :negativeSpans="Array.from(negativeSpans)"
                   @selectMention="selectPredicate($event)"
                   @selectAnswers="selectAnswers($event)"
-                  @nextStep="nextStep()"
                   @previousStep="previousStep()"
-                ></QA>
+                ></QALevel>
               </v-col>
             </v-row>
 
@@ -89,54 +86,14 @@
               <v-btn
                 :class="['ma-3', 'white--text']"
                 color="primary"
-                @click="e1 = 3"
-              >
-                Next Step <v-icon> mdi-arrow-right</v-icon>
-              </v-btn>
-            </v-row>
-          </v-stepper-content>
-
-          <v-stepper-content step="3">
-            <v-row>
-              <v-col cols="12" sm="5">
-                <SourceArticle
-                  :source="this.source"
-                  :mention="currentSpan"
-                  :answer="currentAnswer"
-                ></SourceArticle>
-              </v-col>
-              <v-col>
-                <SplitLevel
-                  :summary="summary"
-                  :spans="spans"
-                  :qas="qas"
-                  :negativeSpans="Array.from(negativeSpans)"
-                  @selectMention="selectPredicate($event)"
-                  @selectAnswers="selectAnswers($event)"
-                  @previousStep="previousStep()"
-                  @finish="finish()"
-                ></SplitLevel>
-              </v-col>
-            </v-row>
-
-            <v-row justify="space-between">
-              <v-btn
-                :class="['ma-3', 'white--text']"
-                color="primary"
-                @click="e1 = 2"
-              >
-                <v-icon> mdi-arrow-left</v-icon> Previous Step
-              </v-btn>
-
-              <v-btn
-                :class="['ma-3', 'white--text']"
-                color="primary"
-                @click="e1 = 3"
+                @click="finish()"
               >
                 Finish <v-icon> mdi-checkbox-marked-circle</v-icon>
               </v-btn>
             </v-row>
           </v-stepper-content>
+
+         
         </v-stepper-items>
       </v-stepper>
     </v-main>
@@ -148,17 +105,51 @@ import jsonData from "./data/annotation_files/0ceb4cea35c3e964a2e54ec9715de42e13
 // import jsonData from "./data/annotation_files/69db30b6047a2aadd64f3c6eeb23cc3437078cf1.json"
 import NodeLevel from "./components/NodeLevel.vue";
 import SourceArticle from "./components/SourceArticle.vue";
-import QA from "./components/QA.vue";
-import SplitLevel from "./components/Split.vue";
+import QALevel from "./components/QALevel.vue";
+import Vuetify from "vuetify/lib";
+import Vue from 'vue'
+
+
+import {
+  VIcon,
+  VDivider,
+  VBtn,
+  VStepper,
+  VStepperContent,
+  VStepperHeader,
+  VStepperItems,
+  VStepperStep,
+  VRow,
+  VCol,
+  VApp,
+  VMain
+} from "vuetify/lib";
+
+Vue.use(Vuetify);
+var vuetify = new Vuetify({
+  
+});
+
 
 export default {
   name: "App",
-
+  vuetify,
   components: {
     SourceArticle,
     NodeLevel,
-    QA,
-    SplitLevel,
+    QALevel,
+    VIcon,
+    VDivider,
+    VBtn,
+    VStepper,
+    VStepperContent,
+    VStepperHeader,
+    VStepperItems,
+    VStepperStep,
+    VRow,
+    VCol,
+    VApp,
+    VMain
   },
   props: {
     json: {
@@ -168,17 +159,12 @@ export default {
   },
   data() {
     const data =
-      !this.json || this.json == "${data}"
+    !this.json || this.json == "${data}"
         ? jsonData
         : JSON.parse(unescape(this.json).replace("\u00e2\u20ac\u2122", "'"));
     data.links = ["Span", "QAs", "Global"];
     data.selectedTab = "Span";
     data.e1 = 1;
-    data.tabs = [
-      { index: 0, name: "Span" },
-      { index: 1, name: "QA" },
-      { index: 2, name: "Split" },
-    ];
     data.selectedTabIndex = 0;
     data.done = false;
     data.predicates = data.spans.filter((x) => x.predicate);
@@ -191,8 +177,15 @@ export default {
       data.spans[0].end + 1
     );
     data.currentAnswer = [];
+    data.start = new Date();
     data.filteredPredicates = data.spans.filter((x) => x.predicate);
+    data.positiveQAs = {};
     return data;
+  },
+  computed: {
+    showFinishButton: function() {
+      return this.qas.every(qa => "label" in qa && qa.label != undefined);
+    }
   },
   methods: {
     filterQAs: function (set) {
@@ -212,9 +205,6 @@ export default {
         (x) => x.predicate && !negativeSpans.has(x.id)
       );
       let filteredQAIds = new Set();
-      // negativeSpans.forEach((spanId) => {
-      //   this.spans[spanId].qaIds.forEach((qaId) => filteredQAIds.add(qaId));
-      // });
       this.filteredLocalQAs = this.qas.filter((x) => !filteredQAIds.has(x.id));
     },
     nextStep: function () {
@@ -224,7 +214,23 @@ export default {
       this.selectedTabIndex -= 1;
     },
     finish: function () {
-      this.done = true;
+      let end = new Date();
+      let diff = (end.getTime() - this.start.getTime()) / 1000;
+
+      let data = {
+        "summaryId": this.summaryId,
+        "source": this.source,
+        "summary": this.summary,
+        "spans": this.spans,
+        "positiveQAs": this.getPositiveQAs(),
+        "duration": diff
+      }
+
+      const doc = document.createElement("a");
+      const file = new Blob([JSON.stringify(data, null, 4)], { type: "text/plain" });
+      doc.href = URL.createObjectURL(file);
+      doc.download = this.summaryId + '.json';
+      doc.click();
     },
     selectMention: function (span) {
       if (this.e1 == 1) {
@@ -245,11 +251,29 @@ export default {
         this.currentAnswer = [];
       }
     },
+    getPositiveQAs: function() {
+      let positiveQAs = {};
+      for (const [predicateId, clusters] of Object.entries(this.$refs.qa.positiveQAs)) {
+        positiveQAs[predicateId] = [];
+        clusters.forEach((cluster, clusterId) => {
+          positiveQAs[predicateId].push([]);
+          cluster.forEach(qa => {
+            positiveQAs[predicateId][clusterId].push(qa.id);
+          });
+        });
+      }
+      return positiveQAs;
+    }
   },
 };
 </script>
 
 <style>
+@import url("https://fonts.googleapis.com/css?family=Material+Icons");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900");
+@import url("https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css");
+@import url("../node_modules/vuetify/dist/vuetify.min.css");
+
 .current {
   background: #ddeff9;
   color: #2d9cdb;

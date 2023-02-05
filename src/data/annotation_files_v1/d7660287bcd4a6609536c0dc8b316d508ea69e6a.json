@@ -1,0 +1,4269 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 1,
+            "text": "CNN)ISIS",
+            "lemma": "cnn)isis"
+        },
+        {
+            "id": 2,
+            "text": "operatives",
+            "lemma": "operative"
+        },
+        {
+            "id": 3,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 4,
+            "text": "executed",
+            "lemma": "execute"
+        },
+        {
+            "id": 5,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 6,
+            "text": "groups",
+            "lemma": "group"
+        },
+        {
+            "id": 7,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 8,
+            "text": "prisoners",
+            "lemma": "prisoner"
+        },
+        {
+            "id": 9,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 10,
+            "text": "believed",
+            "lemma": "believe"
+        },
+        {
+            "id": 11,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 12,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 13,
+            "text": "Ethiopian",
+            "lemma": "Ethiopian"
+        },
+        {
+            "id": 14,
+            "text": "Christians",
+            "lemma": "Christians"
+        },
+        {
+            "id": 15,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 16,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 17,
+            "text": "Libya",
+            "lemma": "Libya"
+        },
+        {
+            "id": 18,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 19,
+            "text": "according",
+            "lemma": "accord"
+        },
+        {
+            "id": 20,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 21,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 22,
+            "text": "video",
+            "lemma": "video"
+        },
+        {
+            "id": 23,
+            "text": "released",
+            "lemma": "release"
+        },
+        {
+            "id": 24,
+            "text": "Sunday",
+            "lemma": "Sunday"
+        },
+        {
+            "id": 25,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 26,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 27,
+            "text": "terror",
+            "lemma": "terror"
+        },
+        {
+            "id": 28,
+            "text": "network",
+            "lemma": "network"
+        },
+        {
+            "id": 29,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 30,
+            "text": "media",
+            "lemma": "medium"
+        },
+        {
+            "id": 31,
+            "text": "arm",
+            "lemma": "arm"
+        },
+        {
+            "id": 32,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 33,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 34,
+            "text": "Ethiopian",
+            "lemma": "ethiopian"
+        },
+        {
+            "id": 35,
+            "text": "government",
+            "lemma": "government"
+        },
+        {
+            "id": 36,
+            "text": "confirmed",
+            "lemma": "confirm"
+        },
+        {
+            "id": 37,
+            "text": "Monday",
+            "lemma": "Monday"
+        },
+        {
+            "id": 38,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 39,
+            "text": "30",
+            "lemma": "30"
+        },
+        {
+            "id": 40,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 41,
+            "text": "its",
+            "lemma": "its"
+        },
+        {
+            "id": 42,
+            "text": "citizens",
+            "lemma": "citizen"
+        },
+        {
+            "id": 43,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 44,
+            "text": "among",
+            "lemma": "among"
+        },
+        {
+            "id": 45,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 46,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 47,
+            "text": "groups",
+            "lemma": "group"
+        },
+        {
+            "id": 48,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 49,
+            "text": "according",
+            "lemma": "accord"
+        },
+        {
+            "id": 50,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 51,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 52,
+            "text": "Ethiopian",
+            "lemma": "Ethiopian"
+        },
+        {
+            "id": 53,
+            "text": "News",
+            "lemma": "News"
+        },
+        {
+            "id": 54,
+            "text": "Agency",
+            "lemma": "Agency"
+        },
+        {
+            "id": 55,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 56,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 57,
+            "text": "al",
+            "lemma": "al"
+        },
+        {
+            "id": 58,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 59,
+            "text": "Furqan",
+            "lemma": "Furqan"
+        },
+        {
+            "id": 60,
+            "text": "Media",
+            "lemma": "Media"
+        },
+        {
+            "id": 61,
+            "text": "video",
+            "lemma": "video"
+        },
+        {
+            "id": 62,
+            "text": "--",
+            "lemma": "--"
+        },
+        {
+            "id": 63,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 64,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 65,
+            "text": "highly",
+            "lemma": "highly"
+        },
+        {
+            "id": 66,
+            "text": "produced",
+            "lemma": "produce"
+        },
+        {
+            "id": 67,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 68,
+            "text": "titled",
+            "lemma": "title"
+        },
+        {
+            "id": 69,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 70,
+            "text": "Until",
+            "lemma": "until"
+        },
+        {
+            "id": 71,
+            "text": "There",
+            "lemma": "there"
+        },
+        {
+            "id": 72,
+            "text": "Came",
+            "lemma": "come"
+        },
+        {
+            "id": 73,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 74,
+            "text": "Them",
+            "lemma": "they"
+        },
+        {
+            "id": 75,
+            "text": "Clear",
+            "lemma": "Clear"
+        },
+        {
+            "id": 76,
+            "text": "Evidence",
+            "lemma": "evidence"
+        },
+        {
+            "id": 77,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 78,
+            "text": "--",
+            "lemma": "--"
+        },
+        {
+            "id": 79,
+            "text": "shows",
+            "lemma": "show"
+        },
+        {
+            "id": 80,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 81,
+            "text": "groups",
+            "lemma": "group"
+        },
+        {
+            "id": 82,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 83,
+            "text": "men",
+            "lemma": "man"
+        },
+        {
+            "id": 84,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 85,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 86,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 87,
+            "text": "orange",
+            "lemma": "orange"
+        },
+        {
+            "id": 88,
+            "text": "jumpsuits",
+            "lemma": "jumpsuit"
+        },
+        {
+            "id": 89,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 90,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 91,
+            "text": "other",
+            "lemma": "other"
+        },
+        {
+            "id": 92,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 93,
+            "text": "black",
+            "lemma": "black"
+        },
+        {
+            "id": 94,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 95,
+            "text": "being",
+            "lemma": "be"
+        },
+        {
+            "id": 96,
+            "text": "killed",
+            "lemma": "kill"
+        },
+        {
+            "id": 97,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 98,
+            "text": "different",
+            "lemma": "different"
+        },
+        {
+            "id": 99,
+            "text": "locations",
+            "lemma": "location"
+        },
+        {
+            "id": 100,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 101,
+            "text": "Libya",
+            "lemma": "Libya"
+        },
+        {
+            "id": 102,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 103,
+            "text": "according",
+            "lemma": "accord"
+        },
+        {
+            "id": 104,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 105,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 106,
+            "text": "video",
+            "lemma": "video"
+        },
+        {
+            "id": 107,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 108,
+            "text": "narrator",
+            "lemma": "narrator"
+        },
+        {
+            "id": 109,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 110,
+            "text": "One",
+            "lemma": "one"
+        },
+        {
+            "id": 111,
+            "text": "group",
+            "lemma": "group"
+        },
+        {
+            "id": 112,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 113,
+            "text": "beheaded",
+            "lemma": "behead"
+        },
+        {
+            "id": 114,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 115,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 116,
+            "text": "beach",
+            "lemma": "beach"
+        },
+        {
+            "id": 117,
+            "text": "along",
+            "lemma": "along"
+        },
+        {
+            "id": 118,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 119,
+            "text": "Mediterranean",
+            "lemma": "Mediterranean"
+        },
+        {
+            "id": 120,
+            "text": "Sea",
+            "lemma": "Sea"
+        },
+        {
+            "id": 121,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 122,
+            "text": "while",
+            "lemma": "while"
+        },
+        {
+            "id": 123,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 124,
+            "text": "other",
+            "lemma": "other"
+        },
+        {
+            "id": 125,
+            "text": "group",
+            "lemma": "group"
+        },
+        {
+            "id": 126,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 127,
+            "text": "shot",
+            "lemma": "shoot"
+        },
+        {
+            "id": 128,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 129,
+            "text": "Southern",
+            "lemma": "Southern"
+        },
+        {
+            "id": 130,
+            "text": "Libya",
+            "lemma": "Libya"
+        },
+        {
+            "id": 131,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 132,
+            "text": "hundreds",
+            "lemma": "hundred"
+        },
+        {
+            "id": 133,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 134,
+            "text": "miles",
+            "lemma": "mile"
+        },
+        {
+            "id": 135,
+            "text": "away",
+            "lemma": "away"
+        },
+        {
+            "id": 136,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 137,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 138,
+            "text": "All",
+            "lemma": "all"
+        },
+        {
+            "id": 139,
+            "text": "praise",
+            "lemma": "praise"
+        },
+        {
+            "id": 140,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 141,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 142,
+            "text": "Allah",
+            "lemma": "Allah"
+        },
+        {
+            "id": 143,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 144,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 145,
+            "text": "Lord",
+            "lemma": "Lord"
+        },
+        {
+            "id": 146,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 147,
+            "text": "cherisher",
+            "lemma": "cherish"
+        },
+        {
+            "id": 148,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 149,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 150,
+            "text": "world",
+            "lemma": "world"
+        },
+        {
+            "id": 151,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 152,
+            "text": "may",
+            "lemma": "may"
+        },
+        {
+            "id": 153,
+            "text": "peace",
+            "lemma": "peace"
+        },
+        {
+            "id": 154,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 155,
+            "text": "blessings",
+            "lemma": "blessing"
+        },
+        {
+            "id": 156,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 157,
+            "text": "upon",
+            "lemma": "upon"
+        },
+        {
+            "id": 158,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 159,
+            "text": "Prophet",
+            "lemma": "Prophet"
+        },
+        {
+            "id": 160,
+            "text": "Mohammed",
+            "lemma": "Mohammed"
+        },
+        {
+            "id": 161,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 162,
+            "text": "To",
+            "lemma": "to"
+        },
+        {
+            "id": 163,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 164,
+            "text": "nation",
+            "lemma": "nation"
+        },
+        {
+            "id": 165,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 166,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 167,
+            "text": "cross",
+            "lemma": "cross"
+        },
+        {
+            "id": 168,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 169,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 170,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 171,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 172,
+            "text": "again",
+            "lemma": "again"
+        },
+        {
+            "id": 173,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 174,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 175,
+            "text": "sands",
+            "lemma": "sand"
+        },
+        {
+            "id": 176,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 177,
+            "text": "where",
+            "lemma": "where"
+        },
+        {
+            "id": 178,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 179,
+            "text": "companions",
+            "lemma": "companion"
+        },
+        {
+            "id": 180,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 181,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 182,
+            "text": "Prophet",
+            "lemma": "Prophet"
+        },
+        {
+            "id": 183,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 184,
+            "text": "peace",
+            "lemma": "peace"
+        },
+        {
+            "id": 185,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 186,
+            "text": "upon",
+            "lemma": "upon"
+        },
+        {
+            "id": 187,
+            "text": "him",
+            "lemma": "he"
+        },
+        {
+            "id": 188,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 189,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 190,
+            "text": "stepped",
+            "lemma": "step"
+        },
+        {
+            "id": 191,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 192,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 193,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 194,
+            "text": "telling",
+            "lemma": "tell"
+        },
+        {
+            "id": 195,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 196,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 197,
+            "text": "Muslim",
+            "lemma": "muslim"
+        },
+        {
+            "id": 198,
+            "text": "blood",
+            "lemma": "blood"
+        },
+        {
+            "id": 199,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 200,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 201,
+            "text": "shed",
+            "lemma": "shed"
+        },
+        {
+            "id": 202,
+            "text": "under",
+            "lemma": "under"
+        },
+        {
+            "id": 203,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 204,
+            "text": "hands",
+            "lemma": "hand"
+        },
+        {
+            "id": 205,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 206,
+            "text": "your",
+            "lemma": "your"
+        },
+        {
+            "id": 207,
+            "text": "religion",
+            "lemma": "religion"
+        },
+        {
+            "id": 208,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 209,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 210,
+            "text": "cheap",
+            "lemma": "cheap"
+        },
+        {
+            "id": 211,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 212,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 213,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 214,
+            "text": "narrator",
+            "lemma": "narrator"
+        },
+        {
+            "id": 215,
+            "text": "says",
+            "lemma": "say"
+        },
+        {
+            "id": 216,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 217,
+            "text": "Arabic",
+            "lemma": "Arabic"
+        },
+        {
+            "id": 218,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 219,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 220,
+            "text": "39",
+            "lemma": "39"
+        },
+        {
+            "id": 221,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 222,
+            "text": "minute",
+            "lemma": "minute"
+        },
+        {
+            "id": 223,
+            "text": "video",
+            "lemma": "video"
+        },
+        {
+            "id": 224,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 225,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 226,
+            "text": "narrator",
+            "lemma": "narrator"
+        },
+        {
+            "id": 227,
+            "text": "continues",
+            "lemma": "continue"
+        },
+        {
+            "id": 228,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 229,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 230,
+            "text": "In",
+            "lemma": "in"
+        },
+        {
+            "id": 231,
+            "text": "fact",
+            "lemma": "fact"
+        },
+        {
+            "id": 232,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 233,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 234,
+            "text": "blood",
+            "lemma": "blood"
+        },
+        {
+            "id": 235,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 236,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 237,
+            "text": "purest",
+            "lemma": "pure"
+        },
+        {
+            "id": 238,
+            "text": "blood",
+            "lemma": "blood"
+        },
+        {
+            "id": 239,
+            "text": "because",
+            "lemma": "because"
+        },
+        {
+            "id": 240,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 241,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 242,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 243,
+            "text": "nation",
+            "lemma": "nation"
+        },
+        {
+            "id": 244,
+            "text": "behind",
+            "lemma": "behind"
+        },
+        {
+            "id": 245,
+            "text": "them",
+            "lemma": "they"
+        },
+        {
+            "id": 246,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 247,
+            "text": "which",
+            "lemma": "which"
+        },
+        {
+            "id": 248,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 249,
+            "text": "inherits",
+            "lemma": "inherit"
+        },
+        {
+            "id": 250,
+            "text": "revenge",
+            "lemma": "revenge"
+        },
+        {
+            "id": 251,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 252,
+            "text": "And",
+            "lemma": "and"
+        },
+        {
+            "id": 253,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 254,
+            "text": "swear",
+            "lemma": "swear"
+        },
+        {
+            "id": 255,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 256,
+            "text": "Allah",
+            "lemma": "Allah"
+        },
+        {
+            "id": 257,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 258,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 259,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 260,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 261,
+            "text": "disgraced",
+            "lemma": "disgrace"
+        },
+        {
+            "id": 262,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 263,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 264,
+            "text": "our",
+            "lemma": "our"
+        },
+        {
+            "id": 265,
+            "text": "hands",
+            "lemma": "hand"
+        },
+        {
+            "id": 266,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 267,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 268,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 269,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 270,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 271,
+            "text": "safety",
+            "lemma": "safety"
+        },
+        {
+            "id": 272,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 273,
+            "text": "even",
+            "lemma": "even"
+        },
+        {
+            "id": 274,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 275,
+            "text": "your",
+            "lemma": "your"
+        },
+        {
+            "id": 276,
+            "text": "dreams",
+            "lemma": "dream"
+        },
+        {
+            "id": 277,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 278,
+            "text": "until",
+            "lemma": "until"
+        },
+        {
+            "id": 279,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 280,
+            "text": "embrace",
+            "lemma": "embrace"
+        },
+        {
+            "id": 281,
+            "text": "Islam",
+            "lemma": "Islam"
+        },
+        {
+            "id": 282,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 283,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 284,
+            "text": "Quoting",
+            "lemma": "Quoting"
+        },
+        {
+            "id": 285,
+            "text": "Mohammed",
+            "lemma": "Mohammed"
+        },
+        {
+            "id": 286,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 287,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 288,
+            "text": "narrator",
+            "lemma": "narrator"
+        },
+        {
+            "id": 289,
+            "text": "says",
+            "lemma": "say"
+        },
+        {
+            "id": 290,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 291,
+            "text": "those",
+            "lemma": "those"
+        },
+        {
+            "id": 292,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 293,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 294,
+            "text": "perform",
+            "lemma": "perform"
+        },
+        {
+            "id": 295,
+            "text": "prayer",
+            "lemma": "prayer"
+        },
+        {
+            "id": 296,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 297,
+            "text": "pay",
+            "lemma": "pay"
+        },
+        {
+            "id": 298,
+            "text": "alms",
+            "lemma": "alm"
+        },
+        {
+            "id": 299,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 300,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 301,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 302,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 303,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 304,
+            "text": "blood",
+            "lemma": "blood"
+        },
+        {
+            "id": 305,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 306,
+            "text": "property",
+            "lemma": "property"
+        },
+        {
+            "id": 307,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 308,
+            "text": "protected",
+            "lemma": "protect"
+        },
+        {
+            "id": 309,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 310,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 311,
+            "text": "Prophet",
+            "lemma": "Prophet"
+        },
+        {
+            "id": 312,
+            "text": "unless",
+            "lemma": "unless"
+        },
+        {
+            "id": 313,
+            "text": "Islam",
+            "lemma": "Islam"
+        },
+        {
+            "id": 314,
+            "text": "dictates",
+            "lemma": "dictate"
+        },
+        {
+            "id": 315,
+            "text": "otherwise",
+            "lemma": "otherwise"
+        },
+        {
+            "id": 316,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 317,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 318,
+            "text": "You",
+            "lemma": "you"
+        },
+        {
+            "id": 319,
+            "text": "pay",
+            "lemma": "pay"
+        },
+        {
+            "id": 320,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 321,
+            "text": "tax",
+            "lemma": "tax"
+        },
+        {
+            "id": 322,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 323,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 324,
+            "text": "willing",
+            "lemma": "willing"
+        },
+        {
+            "id": 325,
+            "text": "submission",
+            "lemma": "submission"
+        },
+        {
+            "id": 326,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 327,
+            "text": "feeling",
+            "lemma": "feel"
+        },
+        {
+            "id": 328,
+            "text": "yourselves",
+            "lemma": "yourself"
+        },
+        {
+            "id": 329,
+            "text": "subdued",
+            "lemma": "subdue"
+        },
+        {
+            "id": 330,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 331,
+            "text": "Our",
+            "lemma": "our"
+        },
+        {
+            "id": 332,
+            "text": "battle",
+            "lemma": "battle"
+        },
+        {
+            "id": 333,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 334,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 335,
+            "text": "battle",
+            "lemma": "battle"
+        },
+        {
+            "id": 336,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 337,
+            "text": "faith",
+            "lemma": "faith"
+        },
+        {
+            "id": 338,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 339,
+            "text": "blasphemy",
+            "lemma": "blasphemy"
+        },
+        {
+            "id": 340,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 341,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 342,
+            "text": "truth",
+            "lemma": "truth"
+        },
+        {
+            "id": 343,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 344,
+            "text": "falsehood",
+            "lemma": "falsehood"
+        },
+        {
+            "id": 345,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 346,
+            "text": "until",
+            "lemma": "until"
+        },
+        {
+            "id": 347,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 348,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 349,
+            "text": "no",
+            "lemma": "no"
+        },
+        {
+            "id": 350,
+            "text": "more",
+            "lemma": "more"
+        },
+        {
+            "id": 351,
+            "text": "polytheism",
+            "lemma": "polytheism"
+        },
+        {
+            "id": 352,
+            "text": "--",
+            "lemma": "--"
+        },
+        {
+            "id": 353,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 354,
+            "text": "obedience",
+            "lemma": "obedience"
+        },
+        {
+            "id": 355,
+            "text": "becomes",
+            "lemma": "become"
+        },
+        {
+            "id": 356,
+            "text": "Allah",
+            "lemma": "Allah"
+        },
+        {
+            "id": 357,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 358,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 359,
+            "text": "its",
+            "lemma": "its"
+        },
+        {
+            "id": 360,
+            "text": "entirety",
+            "lemma": "entirety"
+        },
+        {
+            "id": 361,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 362,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 363,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 364,
+            "text": "narrator",
+            "lemma": "narrator"
+        },
+        {
+            "id": 365,
+            "text": "says",
+            "lemma": "say"
+        },
+        {
+            "id": 366,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 367,
+            "text": "Earlier",
+            "lemma": "early"
+        },
+        {
+            "id": 368,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 369,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 370,
+            "text": "video",
+            "lemma": "video"
+        },
+        {
+            "id": 371,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 372,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 373,
+            "text": "different",
+            "lemma": "different"
+        },
+        {
+            "id": 374,
+            "text": "speaker",
+            "lemma": "speaker"
+        },
+        {
+            "id": 375,
+            "text": "says",
+            "lemma": "say"
+        },
+        {
+            "id": 376,
+            "text": "Christians",
+            "lemma": "Christians"
+        },
+        {
+            "id": 377,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 378,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 379,
+            "text": "northern",
+            "lemma": "northern"
+        },
+        {
+            "id": 380,
+            "text": "Iraqi",
+            "lemma": "iraqi"
+        },
+        {
+            "id": 381,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 382,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 383,
+            "text": "Mosul",
+            "lemma": "Mosul"
+        },
+        {
+            "id": 384,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 385,
+            "text": "given",
+            "lemma": "give"
+        },
+        {
+            "id": 386,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 387,
+            "text": "choice",
+            "lemma": "choice"
+        },
+        {
+            "id": 388,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 389,
+            "text": "embrace",
+            "lemma": "embrace"
+        },
+        {
+            "id": 390,
+            "text": "Islam",
+            "lemma": "Islam"
+        },
+        {
+            "id": 391,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 392,
+            "text": "maintain",
+            "lemma": "maintain"
+        },
+        {
+            "id": 393,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 394,
+            "text": "Christian",
+            "lemma": "christian"
+        },
+        {
+            "id": 395,
+            "text": "faith",
+            "lemma": "faith"
+        },
+        {
+            "id": 396,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 397,
+            "text": "pay",
+            "lemma": "pay"
+        },
+        {
+            "id": 398,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 399,
+            "text": "tax",
+            "lemma": "tax"
+        },
+        {
+            "id": 400,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 401,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 402,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 403,
+            "text": "Islamic",
+            "lemma": "islamic"
+        },
+        {
+            "id": 404,
+            "text": "state",
+            "lemma": "state"
+        },
+        {
+            "id": 405,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 406,
+            "text": "offered",
+            "lemma": "offer"
+        },
+        {
+            "id": 407,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 408,
+            "text": "Christian",
+            "lemma": "christian"
+        },
+        {
+            "id": 409,
+            "text": "community",
+            "lemma": "community"
+        },
+        {
+            "id": 410,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 411,
+            "text": "many",
+            "lemma": "many"
+        },
+        {
+            "id": 412,
+            "text": "times",
+            "lemma": "time"
+        },
+        {
+            "id": 413,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 414,
+            "text": "set",
+            "lemma": "set"
+        },
+        {
+            "id": 415,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 416,
+            "text": "deadline",
+            "lemma": "deadline"
+        },
+        {
+            "id": 417,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 418,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 419,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 420,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 421,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 422,
+            "text": "Christians",
+            "lemma": "Christians"
+        },
+        {
+            "id": 423,
+            "text": "never",
+            "lemma": "never"
+        },
+        {
+            "id": 424,
+            "text": "cooperated",
+            "lemma": "cooperate"
+        },
+        {
+            "id": 425,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 426,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 427,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 428,
+            "text": "speaker",
+            "lemma": "speaker"
+        },
+        {
+            "id": 429,
+            "text": "says",
+            "lemma": "say"
+        },
+        {
+            "id": 430,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 431,
+            "text": "At",
+            "lemma": "at"
+        },
+        {
+            "id": 432,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 433,
+            "text": "beginning",
+            "lemma": "beginning"
+        },
+        {
+            "id": 434,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 435,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 436,
+            "text": "video",
+            "lemma": "video"
+        },
+        {
+            "id": 437,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 438,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 439,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 440,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 441,
+            "text": "appears",
+            "lemma": "appear"
+        },
+        {
+            "id": 442,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 443,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 444,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 445,
+            "text": "judge",
+            "lemma": "judge"
+        },
+        {
+            "id": 446,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 447,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 448,
+            "text": "court",
+            "lemma": "court"
+        },
+        {
+            "id": 449,
+            "text": "enforcing",
+            "lemma": "enforce"
+        },
+        {
+            "id": 450,
+            "text": "Islam",
+            "lemma": "Islam"
+        },
+        {
+            "id": 451,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 452,
+            "text": "Sharia",
+            "lemma": "Sharia"
+        },
+        {
+            "id": 453,
+            "text": "law",
+            "lemma": "law"
+        },
+        {
+            "id": 454,
+            "text": "holds",
+            "lemma": "hold"
+        },
+        {
+            "id": 455,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 456,
+            "text": "documents",
+            "lemma": "document"
+        },
+        {
+            "id": 457,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 458,
+            "text": "says",
+            "lemma": "say"
+        },
+        {
+            "id": 459,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 460,
+            "text": "Syrian",
+            "lemma": "Syrian"
+        },
+        {
+            "id": 461,
+            "text": "Christian",
+            "lemma": "Christian"
+        },
+        {
+            "id": 462,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 463,
+            "text": "owed",
+            "lemma": "owe"
+        },
+        {
+            "id": 464,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 465,
+            "text": "Syrian",
+            "lemma": "syrian"
+        },
+        {
+            "id": 466,
+            "text": "Muslim",
+            "lemma": "Muslim"
+        },
+        {
+            "id": 467,
+            "text": "550,000",
+            "lemma": "550,000"
+        },
+        {
+            "id": 468,
+            "text": "Syrian",
+            "lemma": "syrian"
+        },
+        {
+            "id": 469,
+            "text": "pounds",
+            "lemma": "pound"
+        },
+        {
+            "id": 470,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 471,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 472,
+            "text": "$",
+            "lemma": "$"
+        },
+        {
+            "id": 473,
+            "text": "2,900",
+            "lemma": "2,900"
+        },
+        {
+            "id": 474,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 475,
+            "text": "since",
+            "lemma": "since"
+        },
+        {
+            "id": 476,
+            "text": "2004",
+            "lemma": "2004"
+        },
+        {
+            "id": 477,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 478,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 479,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 480,
+            "text": "Muslim",
+            "lemma": "Muslim"
+        },
+        {
+            "id": 481,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 482,
+            "text": "unable",
+            "lemma": "unable"
+        },
+        {
+            "id": 483,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 484,
+            "text": "obtain",
+            "lemma": "obtain"
+        },
+        {
+            "id": 485,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 486,
+            "text": "money",
+            "lemma": "money"
+        },
+        {
+            "id": 487,
+            "text": "under",
+            "lemma": "under"
+        },
+        {
+            "id": 488,
+            "text": "President",
+            "lemma": "President"
+        },
+        {
+            "id": 489,
+            "text": "Bashar",
+            "lemma": "Bashar"
+        },
+        {
+            "id": 490,
+            "text": "al",
+            "lemma": "al"
+        },
+        {
+            "id": 491,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 492,
+            "text": "Assad",
+            "lemma": "Assad"
+        },
+        {
+            "id": 493,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 494,
+            "text": "regime",
+            "lemma": "regime"
+        },
+        {
+            "id": 495,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 496,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 497,
+            "text": "After",
+            "lemma": "after"
+        },
+        {
+            "id": 498,
+            "text": "applying",
+            "lemma": "apply"
+        },
+        {
+            "id": 499,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 500,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 501,
+            "text": "Islamic",
+            "lemma": "islamic"
+        },
+        {
+            "id": 502,
+            "text": "court",
+            "lemma": "court"
+        },
+        {
+            "id": 503,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 504,
+            "text": "got",
+            "lemma": "get"
+        },
+        {
+            "id": 505,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 506,
+            "text": "money",
+            "lemma": "money"
+        },
+        {
+            "id": 507,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 508,
+            "text": "within",
+            "lemma": "within"
+        },
+        {
+            "id": 509,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 510,
+            "text": "month",
+            "lemma": "month"
+        },
+        {
+            "id": 511,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 512,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 513,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 514,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 515,
+            "text": "says",
+            "lemma": "say"
+        },
+        {
+            "id": 516,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 517,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 518,
+            "text": "law",
+            "lemma": "law"
+        },
+        {
+            "id": 519,
+            "text": "cited",
+            "lemma": "cite"
+        },
+        {
+            "id": 520,
+            "text": "throughout",
+            "lemma": "throughout"
+        },
+        {
+            "id": 521,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 522,
+            "text": "video",
+            "lemma": "video"
+        },
+        {
+            "id": 523,
+            "text": "comes",
+            "lemma": "come"
+        },
+        {
+            "id": 524,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 525,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 526,
+            "text": "Quran",
+            "lemma": "Quran"
+        },
+        {
+            "id": 527,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 528,
+            "text": "Surah",
+            "lemma": "Surah"
+        },
+        {
+            "id": 529,
+            "text": "9:29",
+            "lemma": "9:29"
+        },
+        {
+            "id": 530,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 531,
+            "text": "whose",
+            "lemma": "whose"
+        },
+        {
+            "id": 532,
+            "text": "exact",
+            "lemma": "exact"
+        },
+        {
+            "id": 533,
+            "text": "translation",
+            "lemma": "translation"
+        },
+        {
+            "id": 534,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 535,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 536,
+            "text": "area",
+            "lemma": "area"
+        },
+        {
+            "id": 537,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 538,
+            "text": "dispute",
+            "lemma": "dispute"
+        },
+        {
+            "id": 539,
+            "text": "among",
+            "lemma": "among"
+        },
+        {
+            "id": 540,
+            "text": "religious",
+            "lemma": "religious"
+        },
+        {
+            "id": 541,
+            "text": "scholars",
+            "lemma": "scholar"
+        },
+        {
+            "id": 542,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 543,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 544,
+            "text": "gist",
+            "lemma": "gist"
+        },
+        {
+            "id": 545,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 546,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 547,
+            "text": "Muslims",
+            "lemma": "Muslims"
+        },
+        {
+            "id": 548,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 549,
+            "text": "commanded",
+            "lemma": "command"
+        },
+        {
+            "id": 550,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 551,
+            "text": "fight",
+            "lemma": "fight"
+        },
+        {
+            "id": 552,
+            "text": "those",
+            "lemma": "those"
+        },
+        {
+            "id": 553,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 554,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 555,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 556,
+            "text": "believe",
+            "lemma": "believe"
+        },
+        {
+            "id": 557,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 558,
+            "text": "Allah",
+            "lemma": "Allah"
+        },
+        {
+            "id": 559,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 560,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 561,
+            "text": "Last",
+            "lemma": "last"
+        },
+        {
+            "id": 562,
+            "text": "Day",
+            "lemma": "day"
+        },
+        {
+            "id": 563,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 564,
+            "text": "Islam",
+            "lemma": "Islam"
+        },
+        {
+            "id": 565,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 566,
+            "text": "equivalent",
+            "lemma": "equivalent"
+        },
+        {
+            "id": 567,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 568,
+            "text": "Judgment",
+            "lemma": "Judgment"
+        },
+        {
+            "id": 569,
+            "text": "Day",
+            "lemma": "Day"
+        },
+        {
+            "id": 570,
+            "text": ")",
+            "lemma": ")"
+        },
+        {
+            "id": 571,
+            "text": "unless",
+            "lemma": "unless"
+        },
+        {
+            "id": 572,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 573,
+            "text": "nonbelievers",
+            "lemma": "nonbeliever"
+        },
+        {
+            "id": 574,
+            "text": "pay",
+            "lemma": "pay"
+        },
+        {
+            "id": 575,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 576,
+            "text": "tax",
+            "lemma": "tax"
+        },
+        {
+            "id": 577,
+            "text": "or",
+            "lemma": "or"
+        },
+        {
+            "id": 578,
+            "text": "tribute",
+            "lemma": "tribute"
+        },
+        {
+            "id": 579,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 580,
+            "text": "In",
+            "lemma": "in"
+        },
+        {
+            "id": 581,
+            "text": "February",
+            "lemma": "February"
+        },
+        {
+            "id": 582,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 583,
+            "text": "ISIS",
+            "lemma": "ISIS"
+        },
+        {
+            "id": 584,
+            "text": "released",
+            "lemma": "release"
+        },
+        {
+            "id": 585,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 586,
+            "text": "video",
+            "lemma": "video"
+        },
+        {
+            "id": 587,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 588,
+            "text": "21",
+            "lemma": "21"
+        },
+        {
+            "id": 589,
+            "text": "Coptic",
+            "lemma": "Coptic"
+        },
+        {
+            "id": 590,
+            "text": "Christians",
+            "lemma": "Christians"
+        },
+        {
+            "id": 591,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 592,
+            "text": "Egypt",
+            "lemma": "Egypt"
+        },
+        {
+            "id": 593,
+            "text": "being",
+            "lemma": "be"
+        },
+        {
+            "id": 594,
+            "text": "executed",
+            "lemma": "execute"
+        },
+        {
+            "id": 595,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 596,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 597,
+            "text": "Libyan",
+            "lemma": "libyan"
+        },
+        {
+            "id": 598,
+            "text": "beach",
+            "lemma": "beach"
+        },
+        {
+            "id": 599,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 600,
+            "text": "Those",
+            "lemma": "those"
+        },
+        {
+            "id": 601,
+            "text": "captives",
+            "lemma": "captive"
+        },
+        {
+            "id": 602,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 603,
+            "text": "too",
+            "lemma": "too"
+        },
+        {
+            "id": 604,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 605,
+            "text": "wore",
+            "lemma": "wear"
+        },
+        {
+            "id": 606,
+            "text": "orange",
+            "lemma": "orange"
+        },
+        {
+            "id": 607,
+            "text": "jumpsuits",
+            "lemma": "jumpsuit"
+        },
+        {
+            "id": 608,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 609,
+            "text": "In",
+            "lemma": "in"
+        },
+        {
+            "id": 610,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 611,
+            "text": "video",
+            "lemma": "video"
+        },
+        {
+            "id": 612,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 613,
+            "text": "released",
+            "lemma": "release"
+        },
+        {
+            "id": 614,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 615,
+            "text": "al",
+            "lemma": "al"
+        },
+        {
+            "id": 616,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 617,
+            "text": "Hayat",
+            "lemma": "Hayat"
+        },
+        {
+            "id": 618,
+            "text": "Media",
+            "lemma": "Media"
+        },
+        {
+            "id": 619,
+            "text": "Center",
+            "lemma": "Center"
+        },
+        {
+            "id": 620,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 621,
+            "text": "another",
+            "lemma": "another"
+        },
+        {
+            "id": 622,
+            "text": "ISIS",
+            "lemma": "ISIS"
+        },
+        {
+            "id": 623,
+            "text": "media",
+            "lemma": "medium"
+        },
+        {
+            "id": 624,
+            "text": "arm",
+            "lemma": "arm"
+        },
+        {
+            "id": 625,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 626,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 627,
+            "text": "masked",
+            "lemma": "masked"
+        },
+        {
+            "id": 628,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 629,
+            "text": "references",
+            "lemma": "reference"
+        },
+        {
+            "id": 630,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 631,
+            "text": "killing",
+            "lemma": "killing"
+        },
+        {
+            "id": 632,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 633,
+            "text": "Osama",
+            "lemma": "Osama"
+        },
+        {
+            "id": 634,
+            "text": "bin",
+            "lemma": "bin"
+        },
+        {
+            "id": 635,
+            "text": "Laden",
+            "lemma": "Laden"
+        },
+        {
+            "id": 636,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 637,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 638,
+            "text": "burial",
+            "lemma": "burial"
+        },
+        {
+            "id": 639,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 640,
+            "text": "sea",
+            "lemma": "sea"
+        },
+        {
+            "id": 641,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 642,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 643,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 644,
+            "text": "sea",
+            "lemma": "sea"
+        },
+        {
+            "id": 645,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 646,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 647,
+            "text": "hidden",
+            "lemma": "hide"
+        },
+        {
+            "id": 648,
+            "text": "Sheikh",
+            "lemma": "Sheikh"
+        },
+        {
+            "id": 649,
+            "text": "Osama",
+            "lemma": "Osama"
+        },
+        {
+            "id": 650,
+            "text": "bin",
+            "lemma": "bin"
+        },
+        {
+            "id": 651,
+            "text": "Laden",
+            "lemma": "Laden"
+        },
+        {
+            "id": 652,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 653,
+            "text": "body",
+            "lemma": "body"
+        },
+        {
+            "id": 654,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 655,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 656,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 657,
+            "text": "swear",
+            "lemma": "swear"
+        },
+        {
+            "id": 658,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 659,
+            "text": "Allah",
+            "lemma": "Allah"
+        },
+        {
+            "id": 660,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 661,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 662,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 663,
+            "text": "mix",
+            "lemma": "mix"
+        },
+        {
+            "id": 664,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 665,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 666,
+            "text": "your",
+            "lemma": "your"
+        },
+        {
+            "id": 667,
+            "text": "blood",
+            "lemma": "blood"
+        },
+        {
+            "id": 668,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 669,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 670,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 671,
+            "text": "threatens",
+            "lemma": "threaten"
+        },
+        {
+            "id": 672,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 673,
+            "text": "English",
+            "lemma": "English"
+        },
+        {
+            "id": 674,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 675,
+            "text": "CNN",
+            "lemma": "CNN"
+        },
+        {
+            "id": 676,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 677,
+            "text": "Anas",
+            "lemma": "Anas"
+        },
+        {
+            "id": 678,
+            "text": "Hamdan",
+            "lemma": "Hamdan"
+        },
+        {
+            "id": 679,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 680,
+            "text": "Christine",
+            "lemma": "Christine"
+        },
+        {
+            "id": 681,
+            "text": "Theodorou",
+            "lemma": "Theodorou"
+        },
+        {
+            "id": 682,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 683,
+            "text": "Brian",
+            "lemma": "Brian"
+        },
+        {
+            "id": 684,
+            "text": "Walker",
+            "lemma": "Walker"
+        },
+        {
+            "id": 685,
+            "text": "contributed",
+            "lemma": "contribute"
+        },
+        {
+            "id": 686,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 687,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 688,
+            "text": "report",
+            "lemma": "report"
+        },
+        {
+            "id": 689,
+            "text": ".",
+            "lemma": "."
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "The",
+            "lemma": "the",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "Ethiopian",
+            "lemma": "ethiopian",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "government",
+            "lemma": "government",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "confirms",
+            "lemma": "confirm",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "30",
+            "lemma": "30",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "of",
+            "lemma": "of",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "its",
+            "lemma": "its",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "citizens",
+            "lemma": "citizen",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "were",
+            "lemma": "be",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "among",
+            "lemma": "among",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "two",
+            "lemma": "two",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "groups",
+            "lemma": "group",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 14,
+            "text": "The",
+            "lemma": "the",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "al",
+            "lemma": "al",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "Furqan",
+            "lemma": "Furqan",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "Media",
+            "lemma": "Media",
+            "spans": [
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": "video",
+            "lemma": "video",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 20,
+            "text": "shows",
+            "lemma": "show",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 21,
+            "text": "two",
+            "lemma": "two",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 22,
+            "text": "groups",
+            "lemma": "group",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 23,
+            "text": "of",
+            "lemma": "of",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 24,
+            "text": "men",
+            "lemma": "man",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 25,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 26,
+            "text": "one",
+            "lemma": "one",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 27,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 28,
+            "text": "orange",
+            "lemma": "orange",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 29,
+            "text": "jumpsuits",
+            "lemma": "jumpsuit",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 30,
+            "text": "and",
+            "lemma": "and",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 31,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 32,
+            "text": "other",
+            "lemma": "other",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 33,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 34,
+            "text": "black",
+            "lemma": "black",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 35,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 36,
+            "text": "One",
+            "lemma": "one",
+            "spans": [
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 37,
+            "text": "group",
+            "lemma": "group",
+            "spans": [
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 38,
+            "text": "is",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 39,
+            "text": "beheaded",
+            "lemma": "behead",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 40,
+            "text": "on",
+            "lemma": "on",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 41,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 42,
+            "text": "beach",
+            "lemma": "beach",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 43,
+            "text": "along",
+            "lemma": "along",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 44,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 45,
+            "text": "Mediterranean",
+            "lemma": "Mediterranean",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 46,
+            "text": "Sea",
+            "lemma": "Sea",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 47,
+            "text": ",",
+            "lemma": ",",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 48,
+            "text": "while",
+            "lemma": "while",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 49,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 50,
+            "text": "other",
+            "lemma": "other",
+            "spans": [
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 51,
+            "text": "group",
+            "lemma": "group",
+            "spans": [
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 52,
+            "text": "is",
+            "lemma": "be",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 53,
+            "text": "shot",
+            "lemma": "shoot",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 54,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 55,
+            "text": "Southern",
+            "lemma": "Southern",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 56,
+            "text": "Libya",
+            "lemma": "Libya",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 57,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 3,
+            "qaIds": [
+                0
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 3,
+            "end": 4,
+            "qaIds": [
+                0,
+                1
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 4,
+            "end": 13,
+            "qaIds": [
+                1
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 14,
+            "end": 20,
+            "qaIds": [
+                2
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 18,
+            "end": 19,
+            "qaIds": [
+                2,
+                3
+            ],
+            "id": 4,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 21,
+            "end": 35,
+            "qaIds": [
+                3
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 36,
+            "end": 38,
+            "qaIds": [
+                4
+            ],
+            "id": 6,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 39,
+            "end": 40,
+            "qaIds": [
+                4,
+                5
+            ],
+            "id": 7,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 40,
+            "end": 47,
+            "qaIds": [
+                5
+            ],
+            "id": 8,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 49,
+            "end": 52,
+            "qaIds": [
+                6
+            ],
+            "id": 9,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 52,
+            "end": 53,
+            "qaIds": [
+                6,
+                7
+            ],
+            "id": 10,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 54,
+            "end": 57,
+            "qaIds": [
+                7
+            ],
+            "id": 11,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "confirms",
+            "questionId": 0,
+            "question": "who confirms something ?",
+            "answer": "The Ethiopian government",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                24
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                3
+            ],
+            "answerId": "0-3",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "confirms",
+            "questionId": 1,
+            "question": "what does someone confirm ?",
+            "answer": "30 of its citizens were among the two groups",
+            "answerStartChar": [
+                34
+            ],
+            "answerEndChar": [
+                78
+            ],
+            "answerStartToken": [
+                4
+            ],
+            "answerEndToken": [
+                13
+            ],
+            "answerId": "4-13",
+            "id": 1
+        },
+        {
+            "sentId": 1,
+            "predicateId": "18-19",
+            "predicate": "shows",
+            "questionId": 0,
+            "question": "what shows something ?",
+            "answer": "The al-Furqan Media video",
+            "answerStartChar": [
+                80
+            ],
+            "answerEndChar": [
+                105
+            ],
+            "answerStartToken": [
+                14
+            ],
+            "answerEndToken": [
+                20
+            ],
+            "answerId": "14-20",
+            "id": 2
+        },
+        {
+            "sentId": 1,
+            "predicateId": "18-19",
+            "predicate": "shows",
+            "questionId": 1,
+            "question": "what does something show ?",
+            "answer": "two groups of men, one in orange jumpsuits and the other in black",
+            "answerStartChar": [
+                112
+            ],
+            "answerEndChar": [
+                177
+            ],
+            "answerStartToken": [
+                21
+            ],
+            "answerEndToken": [
+                35
+            ],
+            "answerId": "21-35",
+            "id": 3
+        },
+        {
+            "sentId": 2,
+            "predicateId": "39-40",
+            "predicate": "beheaded",
+            "questionId": 0,
+            "question": "what is beheaded ?",
+            "answer": "One group",
+            "answerStartChar": [
+                179
+            ],
+            "answerEndChar": [
+                188
+            ],
+            "answerStartToken": [
+                36
+            ],
+            "answerEndToken": [
+                38
+            ],
+            "answerId": "36-38",
+            "id": 4
+        },
+        {
+            "sentId": 2,
+            "predicateId": "39-40",
+            "predicate": "beheaded",
+            "questionId": 1,
+            "question": "where is something beheaded ?",
+            "answer": "on a beach along the Mediterranean Sea",
+            "answerStartChar": [
+                201
+            ],
+            "answerEndChar": [
+                239
+            ],
+            "answerStartToken": [
+                40
+            ],
+            "answerEndToken": [
+                47
+            ],
+            "answerId": "40-47",
+            "id": 5
+        },
+        {
+            "sentId": 2,
+            "predicateId": "52-53",
+            "predicate": "shot",
+            "questionId": 0,
+            "question": "who is shot ?",
+            "answer": "the other group",
+            "answerStartChar": [
+                247
+            ],
+            "answerEndChar": [
+                262
+            ],
+            "answerStartToken": [
+                49
+            ],
+            "answerEndToken": [
+                52
+            ],
+            "answerId": "49-52",
+            "id": 6
+        },
+        {
+            "sentId": 2,
+            "predicateId": "52-53",
+            "predicate": "shot",
+            "questionId": 1,
+            "question": "where is someone shot ?",
+            "answer": "in Southern Libya",
+            "answerStartChar": [
+                271
+            ],
+            "answerEndChar": [
+                288
+            ],
+            "answerStartToken": [
+                54
+            ],
+            "answerEndToken": [
+                57
+            ],
+            "answerId": "54-57",
+            "id": 7
+        }
+    ],
+    "datasource": "cnn",
+    "summaryId": "d7660287bcd4a6609536c0dc8b316d508ea69e6a"
+}

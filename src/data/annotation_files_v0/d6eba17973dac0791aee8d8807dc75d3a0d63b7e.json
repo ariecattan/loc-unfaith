@@ -1,0 +1,2503 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "Tottenham",
+            "lemma": "Tottenham"
+        },
+        {
+            "id": 1,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 2,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 3,
+            "text": "encouraged",
+            "lemma": "encourage"
+        },
+        {
+            "id": 4,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 5,
+            "text": "make",
+            "lemma": "make"
+        },
+        {
+            "id": 6,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 7,
+            "text": "bid",
+            "lemma": "bid"
+        },
+        {
+            "id": 8,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 9,
+            "text": "Marseille",
+            "lemma": "Marseille"
+        },
+        {
+            "id": 10,
+            "text": "midfielder",
+            "lemma": "midfielder"
+        },
+        {
+            "id": 11,
+            "text": "Florian",
+            "lemma": "Florian"
+        },
+        {
+            "id": 12,
+            "text": "Thauvin",
+            "lemma": "Thauvin"
+        },
+        {
+            "id": 13,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 14,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 15,
+            "text": "French",
+            "lemma": "french"
+        },
+        {
+            "id": 16,
+            "text": "club",
+            "lemma": "club"
+        },
+        {
+            "id": 17,
+            "text": "decided",
+            "lemma": "decide"
+        },
+        {
+            "id": 18,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 19,
+            "text": "listen",
+            "lemma": "listen"
+        },
+        {
+            "id": 20,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 21,
+            "text": "offers",
+            "lemma": "offer"
+        },
+        {
+            "id": 22,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 23,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 24,
+            "text": "22",
+            "lemma": "22"
+        },
+        {
+            "id": 25,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 26,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 27,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 28,
+            "text": "old",
+            "lemma": "old"
+        },
+        {
+            "id": 29,
+            "text": "winger",
+            "lemma": "winger"
+        },
+        {
+            "id": 30,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 31,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 32,
+            "text": "can",
+            "lemma": "can"
+        },
+        {
+            "id": 33,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 34,
+            "text": "play",
+            "lemma": "play"
+        },
+        {
+            "id": 35,
+            "text": "behind",
+            "lemma": "behind"
+        },
+        {
+            "id": 36,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 37,
+            "text": "striker",
+            "lemma": "striker"
+        },
+        {
+            "id": 38,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 39,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 40,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 41,
+            "text": "subject",
+            "lemma": "subject"
+        },
+        {
+            "id": 42,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 43,
+            "text": "enquiries",
+            "lemma": "enquiry"
+        },
+        {
+            "id": 44,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 45,
+            "text": "Tottenham",
+            "lemma": "Tottenham"
+        },
+        {
+            "id": 46,
+            "text": "earlier",
+            "lemma": "early"
+        },
+        {
+            "id": 47,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 48,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 49,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 50,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 51,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 52,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 53,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 54,
+            "text": "watched",
+            "lemma": "watch"
+        },
+        {
+            "id": 55,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 56,
+            "text": "Chelsea",
+            "lemma": "Chelsea"
+        },
+        {
+            "id": 57,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 58,
+            "text": "Valencia",
+            "lemma": "Valencia"
+        },
+        {
+            "id": 59,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 60,
+            "text": "Marseille",
+            "lemma": "Marseille"
+        },
+        {
+            "id": 61,
+            "text": "will",
+            "lemma": "will"
+        },
+        {
+            "id": 62,
+            "text": "listen",
+            "lemma": "listen"
+        },
+        {
+            "id": 63,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 64,
+            "text": "offers",
+            "lemma": "offer"
+        },
+        {
+            "id": 65,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 66,
+            "text": "highly",
+            "lemma": "highly"
+        },
+        {
+            "id": 67,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 68,
+            "text": "rated",
+            "lemma": "rate"
+        },
+        {
+            "id": 69,
+            "text": "midfielder",
+            "lemma": "midfielder"
+        },
+        {
+            "id": 70,
+            "text": "Florian",
+            "lemma": "Florian"
+        },
+        {
+            "id": 71,
+            "text": "Thauvin",
+            "lemma": "Thauvin"
+        },
+        {
+            "id": 72,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 73,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 74,
+            "text": "summer",
+            "lemma": "summer"
+        },
+        {
+            "id": 75,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 76,
+            "text": "Tottenham",
+            "lemma": "Tottenham"
+        },
+        {
+            "id": 77,
+            "text": "want",
+            "lemma": "want"
+        },
+        {
+            "id": 78,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 79,
+            "text": "offload",
+            "lemma": "offload"
+        },
+        {
+            "id": 80,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 81,
+            "text": "fringe",
+            "lemma": "fringe"
+        },
+        {
+            "id": 82,
+            "text": "players",
+            "lemma": "player"
+        },
+        {
+            "id": 83,
+            "text": "first",
+            "lemma": "first"
+        },
+        {
+            "id": 84,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 85,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 86,
+            "text": "looking",
+            "lemma": "look"
+        },
+        {
+            "id": 87,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 88,
+            "text": "attacking",
+            "lemma": "attack"
+        },
+        {
+            "id": 89,
+            "text": "options",
+            "lemma": "option"
+        },
+        {
+            "id": 90,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 91,
+            "text": "They",
+            "lemma": "they"
+        },
+        {
+            "id": 92,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 93,
+            "text": "unlikely",
+            "lemma": "unlikely"
+        },
+        {
+            "id": 94,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 95,
+            "text": "pursue",
+            "lemma": "pursue"
+        },
+        {
+            "id": 96,
+            "text": "Everton",
+            "lemma": "Everton"
+        },
+        {
+            "id": 97,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 98,
+            "text": "Kevin",
+            "lemma": "Kevin"
+        },
+        {
+            "id": 99,
+            "text": "Mirallas",
+            "lemma": "Mirallas"
+        },
+        {
+            "id": 100,
+            "text": "though",
+            "lemma": "though"
+        },
+        {
+            "id": 101,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 102,
+            "text": "Manager",
+            "lemma": "Manager"
+        },
+        {
+            "id": 103,
+            "text": "Mauricio",
+            "lemma": "Mauricio"
+        },
+        {
+            "id": 104,
+            "text": "Pochettino",
+            "lemma": "Pochettino"
+        },
+        {
+            "id": 105,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 106,
+            "text": "dismissed",
+            "lemma": "dismiss"
+        },
+        {
+            "id": 107,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 108,
+            "text": "prospect",
+            "lemma": "prospect"
+        },
+        {
+            "id": 109,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 110,
+            "text": "goalkeeper",
+            "lemma": "goalkeeper"
+        },
+        {
+            "id": 111,
+            "text": "Hugo",
+            "lemma": "Hugo"
+        },
+        {
+            "id": 112,
+            "text": "Lloris",
+            "lemma": "Lloris"
+        },
+        {
+            "id": 113,
+            "text": "seeking",
+            "lemma": "seek"
+        },
+        {
+            "id": 114,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 115,
+            "text": "move",
+            "lemma": "move"
+        },
+        {
+            "id": 116,
+            "text": "if",
+            "lemma": "if"
+        },
+        {
+            "id": 117,
+            "text": "Spurs",
+            "lemma": "Spurs"
+        },
+        {
+            "id": 118,
+            "text": "miss",
+            "lemma": "miss"
+        },
+        {
+            "id": 119,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 120,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 121,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 122,
+            "text": "top",
+            "lemma": "top"
+        },
+        {
+            "id": 123,
+            "text": "four",
+            "lemma": "four"
+        },
+        {
+            "id": 124,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 125,
+            "text": "term",
+            "lemma": "term"
+        },
+        {
+            "id": 126,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 127,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 128,
+            "text": "Hugo",
+            "lemma": "Hugo"
+        },
+        {
+            "id": 129,
+            "text": "wants",
+            "lemma": "want"
+        },
+        {
+            "id": 130,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 131,
+            "text": "play",
+            "lemma": "play"
+        },
+        {
+            "id": 132,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 133,
+            "text": "Champions",
+            "lemma": "Champions"
+        },
+        {
+            "id": 134,
+            "text": "League",
+            "lemma": "League"
+        },
+        {
+            "id": 135,
+            "text": "here",
+            "lemma": "here"
+        },
+        {
+            "id": 136,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 137,
+            "text": "Tottenham",
+            "lemma": "Tottenham"
+        },
+        {
+            "id": 138,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 139,
+            "text": "I",
+            "lemma": "I"
+        },
+        {
+            "id": 140,
+            "text": "think",
+            "lemma": "think"
+        },
+        {
+            "id": 141,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 142,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 143,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 144,
+            "text": "rumour",
+            "lemma": "rumour"
+        },
+        {
+            "id": 145,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 146,
+            "text": "nothing",
+            "lemma": "nothing"
+        },
+        {
+            "id": 147,
+            "text": "true",
+            "lemma": "true"
+        },
+        {
+            "id": 148,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 149,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 150,
+            "text": "added",
+            "lemma": "add"
+        },
+        {
+            "id": 151,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 152,
+            "text": "Spurs",
+            "lemma": "Spurs"
+        },
+        {
+            "id": 153,
+            "text": "boss",
+            "lemma": "boss"
+        },
+        {
+            "id": 154,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 155,
+            "text": "whose",
+            "lemma": "whose"
+        },
+        {
+            "id": 156,
+            "text": "only",
+            "lemma": "only"
+        },
+        {
+            "id": 157,
+            "text": "definite",
+            "lemma": "definite"
+        },
+        {
+            "id": 158,
+            "text": "absentee",
+            "lemma": "absentee"
+        },
+        {
+            "id": 159,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 160,
+            "text": "Kyle",
+            "lemma": "Kyle"
+        },
+        {
+            "id": 161,
+            "text": "Walker",
+            "lemma": "Walker"
+        },
+        {
+            "id": 162,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 163,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 164,
+            "text": "Hugo",
+            "lemma": "Hugo"
+        },
+        {
+            "id": 165,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 166,
+            "text": "very",
+            "lemma": "very"
+        },
+        {
+            "id": 167,
+            "text": "happy",
+            "lemma": "happy"
+        },
+        {
+            "id": 168,
+            "text": "here",
+            "lemma": "here"
+        },
+        {
+            "id": 169,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 170,
+            "text": "wants",
+            "lemma": "want"
+        },
+        {
+            "id": 171,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 172,
+            "text": "reach",
+            "lemma": "reach"
+        },
+        {
+            "id": 173,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 174,
+            "text": "Champions",
+            "lemma": "Champions"
+        },
+        {
+            "id": 175,
+            "text": "League",
+            "lemma": "League"
+        },
+        {
+            "id": 176,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 177,
+            "text": "Tottenham",
+            "lemma": "Tottenham"
+        },
+        {
+            "id": 178,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 179,
+            "text": "This",
+            "lemma": "this"
+        },
+        {
+            "id": 180,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 181,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 182,
+            "text": "dream",
+            "lemma": "dream"
+        },
+        {
+            "id": 183,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 184,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 185,
+            "text": "Valencia",
+            "lemma": "Valencia"
+        },
+        {
+            "id": 186,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 187,
+            "text": "Chelsea",
+            "lemma": "Chelsea"
+        },
+        {
+            "id": 188,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 189,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 190,
+            "text": "watched",
+            "lemma": "watch"
+        },
+        {
+            "id": 191,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 192,
+            "text": "France",
+            "lemma": "France"
+        },
+        {
+            "id": 193,
+            "text": "Under",
+            "lemma": "under"
+        },
+        {
+            "id": 194,
+            "text": "21",
+            "lemma": "21"
+        },
+        {
+            "id": 195,
+            "text": "international",
+            "lemma": "international"
+        },
+        {
+            "id": 196,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 197,
+            "text": "action",
+            "lemma": "action"
+        },
+        {
+            "id": 198,
+            "text": ".",
+            "lemma": "."
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Marseille",
+            "lemma": "Marseille",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "will",
+            "lemma": "will",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 2,
+            "text": "listen",
+            "lemma": "listen",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "to",
+            "lemma": "to",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 4,
+            "text": "offers",
+            "lemma": "offer",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "for",
+            "lemma": "for",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "highly",
+            "lemma": "highly",
+            "spans": [
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "rated",
+            "lemma": "rate",
+            "spans": [
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "midfielder",
+            "lemma": "midfielder",
+            "spans": [
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "Florian",
+            "lemma": "Florian",
+            "spans": [
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "Thauvin",
+            "lemma": "Thauvin",
+            "spans": [
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 13,
+            "text": "The",
+            "lemma": "the",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "22",
+            "lemma": "22",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "year",
+            "lemma": "year",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "old",
+            "lemma": "old",
+            "spans": [
+                5,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": "has",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 20,
+            "text": "also",
+            "lemma": "also",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 21,
+            "text": "been",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 22,
+            "text": "watched",
+            "lemma": "watch",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 23,
+            "text": "by",
+            "lemma": "by",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 24,
+            "text": "Chelsea",
+            "lemma": "Chelsea",
+            "spans": [
+                7,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 25,
+            "text": "and",
+            "lemma": "and",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 26,
+            "text": "Valencia",
+            "lemma": "Valencia",
+            "spans": [
+                8,
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 27,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 28,
+            "text": "Tottenham",
+            "lemma": "Tottenham",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 29,
+            "text": "want",
+            "lemma": "want",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 30,
+            "text": "to",
+            "lemma": "to",
+            "spans": [
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 31,
+            "text": "offload",
+            "lemma": "offload",
+            "spans": [
+                12,
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 32,
+            "text": "their",
+            "lemma": "their",
+            "spans": [
+                12,
+                14
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 33,
+            "text": "fringe",
+            "lemma": "fringe",
+            "spans": [
+                12,
+                14
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 34,
+            "text": "players",
+            "lemma": "player",
+            "spans": [
+                12,
+                14
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 35,
+            "text": "first",
+            "lemma": "first",
+            "spans": [
+                12,
+                15
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 36,
+            "text": "but",
+            "lemma": "but",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 37,
+            "text": "are",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 38,
+            "text": "looking",
+            "lemma": "look",
+            "spans": [
+                16
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 39,
+            "text": "for",
+            "lemma": "for",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 40,
+            "text": "attacking",
+            "lemma": "attack",
+            "spans": [
+                17,
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 41,
+            "text": "options",
+            "lemma": "option",
+            "spans": [
+                18
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 42,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 43,
+            "text": "Mauricio",
+            "lemma": "Mauricio",
+            "spans": [
+                19
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 44,
+            "text": "Pochettino",
+            "lemma": "Pochettino",
+            "spans": [
+                19
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 45,
+            "text": "has",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 46,
+            "text": "dismissed",
+            "lemma": "dismiss",
+            "spans": [
+                20
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 47,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                21
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 48,
+            "text": "prospect",
+            "lemma": "prospect",
+            "spans": [
+                21
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 49,
+            "text": "of",
+            "lemma": "of",
+            "spans": [
+                21
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 50,
+            "text": "goalkeeper",
+            "lemma": "goalkeeper",
+            "spans": [
+                21,
+                22
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 51,
+            "text": "Hugo",
+            "lemma": "Hugo",
+            "spans": [
+                21,
+                22,
+                23
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 52,
+            "text": "Lloris",
+            "lemma": "Lloris",
+            "spans": [
+                21,
+                22,
+                23
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 53,
+            "text": "seeking",
+            "lemma": "seek",
+            "spans": [
+                21,
+                24
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 54,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                21,
+                25
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 55,
+            "text": "move",
+            "lemma": "move",
+            "spans": [
+                21,
+                25,
+                26
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 56,
+            "text": "if",
+            "lemma": "if",
+            "spans": [
+                21,
+                27
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 57,
+            "text": "Spurs",
+            "lemma": "Spurs",
+            "spans": [
+                21,
+                27,
+                28
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 58,
+            "text": "miss",
+            "lemma": "miss",
+            "spans": [
+                21,
+                27,
+                29
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 59,
+            "text": "out",
+            "lemma": "out",
+            "spans": [
+                21,
+                27
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 60,
+            "text": "on",
+            "lemma": "on",
+            "spans": [
+                21,
+                27
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 61,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                21,
+                27,
+                30
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 62,
+            "text": "top",
+            "lemma": "top",
+            "spans": [
+                21,
+                27,
+                30
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 63,
+            "text": "four",
+            "lemma": "four",
+            "spans": [
+                21,
+                27,
+                30
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 64,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 1,
+            "qaIds": [
+                0,
+                2
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 2,
+            "end": 3,
+            "qaIds": [
+                2,
+                3
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 4,
+            "end": 5,
+            "qaIds": [
+                0,
+                1
+            ],
+            "id": 2,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 4,
+            "end": 12,
+            "qaIds": [
+                3
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 6,
+            "end": 12,
+            "qaIds": [
+                1
+            ],
+            "id": 4,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 13,
+            "end": 19,
+            "qaIds": [
+                4
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 18,
+            "end": 19,
+            "qaIds": [
+                4,
+                5,
+                6,
+                7
+            ],
+            "id": 6,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 24,
+            "end": 25,
+            "qaIds": [
+                5
+            ],
+            "id": 7,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 24,
+            "end": 27,
+            "qaIds": [
+                7
+            ],
+            "id": 8,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 26,
+            "end": 27,
+            "qaIds": [
+                6
+            ],
+            "id": 9,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 28,
+            "end": 29,
+            "qaIds": [
+                8,
+                10,
+                13,
+                15
+            ],
+            "id": 10,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 29,
+            "end": 30,
+            "qaIds": [
+                8,
+                9
+            ],
+            "id": 11,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 30,
+            "end": 36,
+            "qaIds": [
+                9
+            ],
+            "id": 12,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 31,
+            "end": 32,
+            "qaIds": [
+                10,
+                11,
+                12
+            ],
+            "id": 13,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 32,
+            "end": 35,
+            "qaIds": [
+                11
+            ],
+            "id": 14,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 35,
+            "end": 36,
+            "qaIds": [
+                12
+            ],
+            "id": 15,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 38,
+            "end": 39,
+            "qaIds": [
+                13,
+                14
+            ],
+            "id": 16,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 40,
+            "end": 41,
+            "qaIds": [
+                15,
+                16
+            ],
+            "id": 17,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 40,
+            "end": 42,
+            "qaIds": [
+                14,
+                16
+            ],
+            "id": 18,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 43,
+            "end": 45,
+            "qaIds": [
+                19
+            ],
+            "id": 19,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 46,
+            "end": 47,
+            "qaIds": [
+                19,
+                20
+            ],
+            "id": 20,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 47,
+            "end": 64,
+            "qaIds": [
+                20
+            ],
+            "id": 21,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 50,
+            "end": 53,
+            "qaIds": [
+                21
+            ],
+            "id": 22,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 51,
+            "end": 53,
+            "qaIds": [
+                17
+            ],
+            "id": 23,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 53,
+            "end": 54,
+            "qaIds": [
+                21,
+                22,
+                23
+            ],
+            "id": 24,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 54,
+            "end": 56,
+            "qaIds": [
+                22
+            ],
+            "id": 25,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 55,
+            "end": 56,
+            "qaIds": [
+                17,
+                18
+            ],
+            "id": 26,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 56,
+            "end": 64,
+            "qaIds": [
+                18,
+                23
+            ],
+            "id": 27,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 57,
+            "end": 58,
+            "qaIds": [
+                24
+            ],
+            "id": 28,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 58,
+            "end": 59,
+            "qaIds": [
+                24,
+                25
+            ],
+            "id": 29,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 61,
+            "end": 64,
+            "qaIds": [
+                25
+            ],
+            "id": 30,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "4-5",
+            "predicate": "offers",
+            "questionId": 0,
+            "question": "who was offered something ?",
+            "answer": "Marseille",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                9
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "4-5",
+            "predicate": "offers",
+            "questionId": 1,
+            "question": "what was someone offered ?",
+            "answer": "highly-rated midfielder Florian Thauvin",
+            "answerStartChar": [
+                36
+            ],
+            "answerEndChar": [
+                75
+            ],
+            "answerStartToken": [
+                6
+            ],
+            "answerEndToken": [
+                12
+            ],
+            "answerId": "6-12",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "listen",
+            "questionId": 0,
+            "question": "who will listen to something ?",
+            "answer": "Marseille",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                9
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "listen",
+            "questionId": 1,
+            "question": "what will someone listen to ?",
+            "answer": "offers for highly-rated midfielder Florian Thauvin",
+            "answerStartChar": [
+                25
+            ],
+            "answerEndChar": [
+                75
+            ],
+            "answerStartToken": [
+                4
+            ],
+            "answerEndToken": [
+                12
+            ],
+            "answerId": "4-12",
+            "id": 3
+        },
+        {
+            "sentId": 1,
+            "predicateId": "18-19",
+            "predicate": "watched",
+            "questionId": 0,
+            "question": "who has watched ?",
+            "answer": "The 22-year-old",
+            "answerStartChar": [
+                77
+            ],
+            "answerEndChar": [
+                92
+            ],
+            "answerStartToken": [
+                13
+            ],
+            "answerEndToken": [
+                19
+            ],
+            "answerId": "13-19",
+            "id": 4
+        },
+        {
+            "sentId": 1,
+            "predicateId": "18-19",
+            "predicate": "watched",
+            "questionId": 1,
+            "question": "who has someone watched by ?",
+            "answer": "Chelsea",
+            "answerStartChar": [
+                118
+            ],
+            "answerEndChar": [
+                125
+            ],
+            "answerStartToken": [
+                24
+            ],
+            "answerEndToken": [
+                25
+            ],
+            "answerId": "24-25",
+            "id": 5
+        },
+        {
+            "sentId": 1,
+            "predicateId": "18-19",
+            "predicate": "watched",
+            "questionId": 1,
+            "question": "who has someone watched by ?",
+            "answer": "Valencia",
+            "answerStartChar": [
+                130
+            ],
+            "answerEndChar": [
+                138
+            ],
+            "answerStartToken": [
+                26
+            ],
+            "answerEndToken": [
+                27
+            ],
+            "answerId": "26-27",
+            "id": 6
+        },
+        {
+            "sentId": 1,
+            "predicateId": "18-19",
+            "predicate": "watched",
+            "questionId": 1,
+            "question": "who has someone watched by ?",
+            "answer": "Chelsea and Valencia",
+            "answerStartChar": [
+                118
+            ],
+            "answerEndChar": [
+                138
+            ],
+            "answerStartToken": [
+                24
+            ],
+            "answerEndToken": [
+                27
+            ],
+            "answerId": "24-27",
+            "id": 7
+        },
+        {
+            "sentId": 2,
+            "predicateId": "29-30",
+            "predicate": "want",
+            "questionId": 0,
+            "question": "who wants something ?",
+            "answer": "Tottenham",
+            "answerStartChar": [
+                140
+            ],
+            "answerEndChar": [
+                149
+            ],
+            "answerStartToken": [
+                28
+            ],
+            "answerEndToken": [
+                29
+            ],
+            "answerId": "28-29",
+            "id": 8
+        },
+        {
+            "sentId": 2,
+            "predicateId": "29-30",
+            "predicate": "want",
+            "questionId": 1,
+            "question": "what does someone want ?",
+            "answer": "to offload their fringe players first",
+            "answerStartChar": [
+                155
+            ],
+            "answerEndChar": [
+                192
+            ],
+            "answerStartToken": [
+                30
+            ],
+            "answerEndToken": [
+                36
+            ],
+            "answerId": "30-36",
+            "id": 9
+        },
+        {
+            "sentId": 2,
+            "predicateId": "31-32",
+            "predicate": "offload",
+            "questionId": 0,
+            "question": "who is offloading someone ?",
+            "answer": "Tottenham",
+            "answerStartChar": [
+                140
+            ],
+            "answerEndChar": [
+                149
+            ],
+            "answerStartToken": [
+                28
+            ],
+            "answerEndToken": [
+                29
+            ],
+            "answerId": "28-29",
+            "id": 10
+        },
+        {
+            "sentId": 2,
+            "predicateId": "31-32",
+            "predicate": "offload",
+            "questionId": 1,
+            "question": "who is someone offloading ?",
+            "answer": "their fringe players",
+            "answerStartChar": [
+                166
+            ],
+            "answerEndChar": [
+                186
+            ],
+            "answerStartToken": [
+                32
+            ],
+            "answerEndToken": [
+                35
+            ],
+            "answerId": "32-35",
+            "id": 11
+        },
+        {
+            "sentId": 2,
+            "predicateId": "31-32",
+            "predicate": "offload",
+            "questionId": 2,
+            "question": "when is someone offloading someone ?",
+            "answer": "first",
+            "answerStartChar": [
+                187
+            ],
+            "answerEndChar": [
+                192
+            ],
+            "answerStartToken": [
+                35
+            ],
+            "answerEndToken": [
+                36
+            ],
+            "answerId": "35-36",
+            "id": 12
+        },
+        {
+            "sentId": 2,
+            "predicateId": "38-39",
+            "predicate": "looking",
+            "questionId": 0,
+            "question": "who is looking for something ?",
+            "answer": "Tottenham",
+            "answerStartChar": [
+                140
+            ],
+            "answerEndChar": [
+                149
+            ],
+            "answerStartToken": [
+                28
+            ],
+            "answerEndToken": [
+                29
+            ],
+            "answerId": "28-29",
+            "id": 13
+        },
+        {
+            "sentId": 2,
+            "predicateId": "38-39",
+            "predicate": "looking",
+            "questionId": 1,
+            "question": "what is someone looking for ?",
+            "answer": "attacking options",
+            "answerStartChar": [
+                213
+            ],
+            "answerEndChar": [
+                230
+            ],
+            "answerStartToken": [
+                40
+            ],
+            "answerEndToken": [
+                42
+            ],
+            "answerId": "40-42",
+            "id": 14
+        },
+        {
+            "sentId": 2,
+            "predicateId": "40-41",
+            "predicate": "attacking",
+            "questionId": 0,
+            "question": "who is attacking ?",
+            "answer": "Tottenham",
+            "answerStartChar": [
+                140
+            ],
+            "answerEndChar": [
+                149
+            ],
+            "answerStartToken": [
+                28
+            ],
+            "answerEndToken": [
+                29
+            ],
+            "answerId": "28-29",
+            "id": 15
+        },
+        {
+            "sentId": 2,
+            "predicateId": "40-41",
+            "predicate": "attacking",
+            "questionId": 1,
+            "question": "what is someone attacking ?",
+            "answer": "attacking options",
+            "answerStartChar": [
+                213
+            ],
+            "answerEndChar": [
+                230
+            ],
+            "answerStartToken": [
+                40
+            ],
+            "answerEndToken": [
+                42
+            ],
+            "answerId": "40-42",
+            "id": 16
+        },
+        {
+            "sentId": 3,
+            "predicateId": "55-56",
+            "predicate": "move",
+            "questionId": 0,
+            "question": "who might move ?",
+            "answer": "Hugo Lloris",
+            "answerStartChar": [
+                293
+            ],
+            "answerEndChar": [
+                304
+            ],
+            "answerStartToken": [
+                51
+            ],
+            "answerEndToken": [
+                53
+            ],
+            "answerId": "51-53",
+            "id": 17
+        },
+        {
+            "sentId": 3,
+            "predicateId": "55-56",
+            "predicate": "move",
+            "questionId": 1,
+            "question": "when might someone move ?",
+            "answer": "if Spurs miss out on the top four",
+            "answerStartChar": [
+                320
+            ],
+            "answerEndChar": [
+                353
+            ],
+            "answerStartToken": [
+                56
+            ],
+            "answerEndToken": [
+                64
+            ],
+            "answerId": "56-64",
+            "id": 18
+        },
+        {
+            "sentId": 3,
+            "predicateId": "46-47",
+            "predicate": "dismissed",
+            "questionId": 0,
+            "question": "who has dismissed something ?",
+            "answer": "Mauricio Pochettino",
+            "answerStartChar": [
+                232
+            ],
+            "answerEndChar": [
+                251
+            ],
+            "answerStartToken": [
+                43
+            ],
+            "answerEndToken": [
+                45
+            ],
+            "answerId": "43-45",
+            "id": 19
+        },
+        {
+            "sentId": 3,
+            "predicateId": "46-47",
+            "predicate": "dismissed",
+            "questionId": 1,
+            "question": "what has someone dismissed ?",
+            "answer": "the prospect of goalkeeper Hugo Lloris seeking a move if Spurs miss out on the top four",
+            "answerStartChar": [
+                266
+            ],
+            "answerEndChar": [
+                353
+            ],
+            "answerStartToken": [
+                47
+            ],
+            "answerEndToken": [
+                64
+            ],
+            "answerId": "47-64",
+            "id": 20
+        },
+        {
+            "sentId": 3,
+            "predicateId": "53-54",
+            "predicate": "seeking",
+            "questionId": 0,
+            "question": "who is seeking something ?",
+            "answer": "goalkeeper Hugo Lloris",
+            "answerStartChar": [
+                282
+            ],
+            "answerEndChar": [
+                304
+            ],
+            "answerStartToken": [
+                50
+            ],
+            "answerEndToken": [
+                53
+            ],
+            "answerId": "50-53",
+            "id": 21
+        },
+        {
+            "sentId": 3,
+            "predicateId": "53-54",
+            "predicate": "seeking",
+            "questionId": 1,
+            "question": "what is someone seeking ?",
+            "answer": "a move",
+            "answerStartChar": [
+                313
+            ],
+            "answerEndChar": [
+                319
+            ],
+            "answerStartToken": [
+                54
+            ],
+            "answerEndToken": [
+                56
+            ],
+            "answerId": "54-56",
+            "id": 22
+        },
+        {
+            "sentId": 3,
+            "predicateId": "53-54",
+            "predicate": "seeking",
+            "questionId": 2,
+            "question": "when is someone seeking something ?",
+            "answer": "if Spurs miss out on the top four",
+            "answerStartChar": [
+                320
+            ],
+            "answerEndChar": [
+                353
+            ],
+            "answerStartToken": [
+                56
+            ],
+            "answerEndToken": [
+                64
+            ],
+            "answerId": "56-64",
+            "id": 23
+        },
+        {
+            "sentId": 3,
+            "predicateId": "58-59",
+            "predicate": "miss",
+            "questionId": 0,
+            "question": "who might miss something ?",
+            "answer": "Spurs",
+            "answerStartChar": [
+                323
+            ],
+            "answerEndChar": [
+                328
+            ],
+            "answerStartToken": [
+                57
+            ],
+            "answerEndToken": [
+                58
+            ],
+            "answerId": "57-58",
+            "id": 24
+        },
+        {
+            "sentId": 3,
+            "predicateId": "58-59",
+            "predicate": "miss",
+            "questionId": 1,
+            "question": "what might someone miss ?",
+            "answer": "the top four",
+            "answerStartChar": [
+                341
+            ],
+            "answerEndChar": [
+                353
+            ],
+            "answerStartToken": [
+                61
+            ],
+            "answerEndToken": [
+                64
+            ],
+            "answerId": "61-64",
+            "id": 25
+        }
+    ],
+    "datasource": "cnn",
+    "summaryId": "d6eba17973dac0791aee8d8807dc75d3a0d63b7e"
+}

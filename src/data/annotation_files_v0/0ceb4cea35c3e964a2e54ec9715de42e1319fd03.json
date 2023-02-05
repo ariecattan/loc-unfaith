@@ -1,0 +1,2403 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "Jordan",
+            "lemma": "Jordan"
+        },
+        {
+            "id": 1,
+            "text": "Henderson",
+            "lemma": "Henderson"
+        },
+        {
+            "id": 2,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 3,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 4,
+            "text": "ready",
+            "lemma": "ready"
+        },
+        {
+            "id": 5,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 6,
+            "text": "give",
+            "lemma": "give"
+        },
+        {
+            "id": 7,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 8,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 9,
+            "text": "Liverpool",
+            "lemma": "Liverpool"
+        },
+        {
+            "id": 10,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 11,
+            "text": "Champions",
+            "lemma": "Champions"
+        },
+        {
+            "id": 12,
+            "text": "League",
+            "lemma": "League"
+        },
+        {
+            "id": 13,
+            "text": "hopes",
+            "lemma": "hope"
+        },
+        {
+            "id": 14,
+            "text": "despite",
+            "lemma": "despite"
+        },
+        {
+            "id": 15,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 16,
+            "text": "eight",
+            "lemma": "eight"
+        },
+        {
+            "id": 17,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 18,
+            "text": "point",
+            "lemma": "point"
+        },
+        {
+            "id": 19,
+            "text": "gap",
+            "lemma": "gap"
+        },
+        {
+            "id": 20,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 21,
+            "text": "Manchester",
+            "lemma": "Manchester"
+        },
+        {
+            "id": 22,
+            "text": "United",
+            "lemma": "United"
+        },
+        {
+            "id": 23,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 24,
+            "text": "fourth",
+            "lemma": "fourth"
+        },
+        {
+            "id": 25,
+            "text": "place",
+            "lemma": "place"
+        },
+        {
+            "id": 26,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 27,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 28,
+            "text": "24",
+            "lemma": "24"
+        },
+        {
+            "id": 29,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 30,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 31,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 32,
+            "text": "old",
+            "lemma": "old"
+        },
+        {
+            "id": 33,
+            "text": "scored",
+            "lemma": "score"
+        },
+        {
+            "id": 34,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 35,
+            "text": "penalty",
+            "lemma": "penalty"
+        },
+        {
+            "id": 36,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 37,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 38,
+            "text": "Emirates",
+            "lemma": "Emirates"
+        },
+        {
+            "id": 39,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 40,
+            "text": "Saturday",
+            "lemma": "Saturday"
+        },
+        {
+            "id": 41,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 42,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 43,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 44,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 45,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 46,
+            "text": "enough",
+            "lemma": "enough"
+        },
+        {
+            "id": 47,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 48,
+            "text": "Liverpool",
+            "lemma": "Liverpool"
+        },
+        {
+            "id": 49,
+            "text": "fell",
+            "lemma": "fall"
+        },
+        {
+            "id": 50,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 51,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 52,
+            "text": "4",
+            "lemma": "4"
+        },
+        {
+            "id": 53,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 54,
+            "text": "1",
+            "lemma": "1"
+        },
+        {
+            "id": 55,
+            "text": "thrashing",
+            "lemma": "thrashing"
+        },
+        {
+            "id": 56,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 57,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 58,
+            "text": "hands",
+            "lemma": "hand"
+        },
+        {
+            "id": 59,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 60,
+            "text": "Arsenal",
+            "lemma": "Arsenal"
+        },
+        {
+            "id": 61,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 62,
+            "text": "leave",
+            "lemma": "leave"
+        },
+        {
+            "id": 63,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 64,
+            "text": "top",
+            "lemma": "top"
+        },
+        {
+            "id": 65,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 66,
+            "text": "four",
+            "lemma": "four"
+        },
+        {
+            "id": 67,
+            "text": "hopes",
+            "lemma": "hope"
+        },
+        {
+            "id": 68,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 69,
+            "text": "tatters",
+            "lemma": "tatter"
+        },
+        {
+            "id": 70,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 71,
+            "text": "That",
+            "lemma": "that"
+        },
+        {
+            "id": 72,
+            "text": "result",
+            "lemma": "result"
+        },
+        {
+            "id": 73,
+            "text": "followed",
+            "lemma": "follow"
+        },
+        {
+            "id": 74,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 75,
+            "text": "devastating",
+            "lemma": "devastating"
+        },
+        {
+            "id": 76,
+            "text": "2",
+            "lemma": "2"
+        },
+        {
+            "id": 77,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 78,
+            "text": "1",
+            "lemma": "1"
+        },
+        {
+            "id": 79,
+            "text": "home",
+            "lemma": "home"
+        },
+        {
+            "id": 80,
+            "text": "defeat",
+            "lemma": "defeat"
+        },
+        {
+            "id": 81,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 82,
+            "text": "Manchester",
+            "lemma": "Manchester"
+        },
+        {
+            "id": 83,
+            "text": "United",
+            "lemma": "United"
+        },
+        {
+            "id": 84,
+            "text": "last",
+            "lemma": "last"
+        },
+        {
+            "id": 85,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 86,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 87,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 88,
+            "text": "Brendan",
+            "lemma": "Brendan"
+        },
+        {
+            "id": 89,
+            "text": "Rodgers",
+            "lemma": "Rodgers"
+        },
+        {
+            "id": 90,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 91,
+            "text": "side",
+            "lemma": "side"
+        },
+        {
+            "id": 92,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 93,
+            "text": "fallen",
+            "lemma": "fall"
+        },
+        {
+            "id": 94,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 95,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 96,
+            "text": "points",
+            "lemma": "point"
+        },
+        {
+            "id": 97,
+            "text": "off",
+            "lemma": "off"
+        },
+        {
+            "id": 98,
+            "text": "Champions",
+            "lemma": "Champions"
+        },
+        {
+            "id": 99,
+            "text": "League",
+            "lemma": "League"
+        },
+        {
+            "id": 100,
+            "text": "qualification",
+            "lemma": "qualification"
+        },
+        {
+            "id": 101,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 102,
+            "text": "eight",
+            "lemma": "eight"
+        },
+        {
+            "id": 103,
+            "text": "behind",
+            "lemma": "behind"
+        },
+        {
+            "id": 104,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 105,
+            "text": "Jordan",
+            "lemma": "Jordan"
+        },
+        {
+            "id": 106,
+            "text": "Henderson",
+            "lemma": "Henderson"
+        },
+        {
+            "id": 107,
+            "text": "urged",
+            "lemma": "urge"
+        },
+        {
+            "id": 108,
+            "text": "Liverpool",
+            "lemma": "Liverpool"
+        },
+        {
+            "id": 109,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 110,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 111,
+            "text": "give",
+            "lemma": "give"
+        },
+        {
+            "id": 112,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 113,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 114,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 115,
+            "text": "hopes",
+            "lemma": "hope"
+        },
+        {
+            "id": 116,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 117,
+            "text": "finishing",
+            "lemma": "finish"
+        },
+        {
+            "id": 118,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 119,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 120,
+            "text": "top",
+            "lemma": "top"
+        },
+        {
+            "id": 121,
+            "text": "four",
+            "lemma": "four"
+        },
+        {
+            "id": 122,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 123,
+            "text": "Henderson",
+            "lemma": "Henderson"
+        },
+        {
+            "id": 124,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 125,
+            "text": "targeting",
+            "lemma": "target"
+        },
+        {
+            "id": 126,
+            "text": "seven",
+            "lemma": "seven"
+        },
+        {
+            "id": 127,
+            "text": "wins",
+            "lemma": "win"
+        },
+        {
+            "id": 128,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 129,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 130,
+            "text": "seven",
+            "lemma": "seven"
+        },
+        {
+            "id": 131,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 132,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 133,
+            "text": "league",
+            "lemma": "league"
+        },
+        {
+            "id": 134,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 135,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 136,
+            "text": "immediate",
+            "lemma": "immediate"
+        },
+        {
+            "id": 137,
+            "text": "response",
+            "lemma": "response"
+        },
+        {
+            "id": 138,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 139,
+            "text": "Blackburn",
+            "lemma": "Blackburn"
+        },
+        {
+            "id": 140,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 141,
+            "text": "But",
+            "lemma": "but"
+        },
+        {
+            "id": 142,
+            "text": "Henderson",
+            "lemma": "Henderson"
+        },
+        {
+            "id": 143,
+            "text": "urged",
+            "lemma": "urge"
+        },
+        {
+            "id": 144,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 145,
+            "text": "team",
+            "lemma": "team"
+        },
+        {
+            "id": 146,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 147,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 148,
+            "text": "give",
+            "lemma": "give"
+        },
+        {
+            "id": 149,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 150,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 151,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 152,
+            "text": "top",
+            "lemma": "top"
+        },
+        {
+            "id": 153,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 154,
+            "text": "four",
+            "lemma": "four"
+        },
+        {
+            "id": 155,
+            "text": "race",
+            "lemma": "race"
+        },
+        {
+            "id": 156,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 157,
+            "text": "seven",
+            "lemma": "seven"
+        },
+        {
+            "id": 158,
+            "text": "games",
+            "lemma": "game"
+        },
+        {
+            "id": 159,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 160,
+            "text": "play",
+            "lemma": "play"
+        },
+        {
+            "id": 161,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 162,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 163,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 164,
+            "text": "bounce",
+            "lemma": "bounce"
+        },
+        {
+            "id": 165,
+            "text": "back",
+            "lemma": "back"
+        },
+        {
+            "id": 166,
+            "text": "immediately",
+            "lemma": "immediately"
+        },
+        {
+            "id": 167,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 168,
+            "text": "Wednesday",
+            "lemma": "Wednesday"
+        },
+        {
+            "id": 169,
+            "text": "night",
+            "lemma": "night"
+        },
+        {
+            "id": 170,
+            "text": "when",
+            "lemma": "when"
+        },
+        {
+            "id": 171,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 172,
+            "text": "take",
+            "lemma": "take"
+        },
+        {
+            "id": 173,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 174,
+            "text": "Blackburn",
+            "lemma": "Blackburn"
+        },
+        {
+            "id": 175,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 176,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 177,
+            "text": "FA",
+            "lemma": "FA"
+        },
+        {
+            "id": 178,
+            "text": "Cup",
+            "lemma": "Cup"
+        },
+        {
+            "id": 179,
+            "text": "quarter",
+            "lemma": "quarter"
+        },
+        {
+            "id": 180,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 181,
+            "text": "final",
+            "lemma": "final"
+        },
+        {
+            "id": 182,
+            "text": "replay",
+            "lemma": "replay"
+        },
+        {
+            "id": 183,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 184,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 185,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 186,
+            "text": "Liverpool",
+            "lemma": "Liverpool"
+        },
+        {
+            "id": 187,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 188,
+            "text": "official",
+            "lemma": "official"
+        },
+        {
+            "id": 189,
+            "text": "website",
+            "lemma": "website"
+        },
+        {
+            "id": 190,
+            "text": ":",
+            "lemma": ":"
+        },
+        {
+            "id": 191,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 192,
+            "text": "We",
+            "lemma": "we"
+        },
+        {
+            "id": 193,
+            "text": "knew",
+            "lemma": "know"
+        },
+        {
+            "id": 194,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 195,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 196,
+            "text": "going",
+            "lemma": "go"
+        },
+        {
+            "id": 197,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 198,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 199,
+            "text": "difficult",
+            "lemma": "difficult"
+        },
+        {
+            "id": 200,
+            "text": "[",
+            "lemma": "["
+        },
+        {
+            "id": 201,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 202,
+            "text": "finish",
+            "lemma": "finish"
+        },
+        {
+            "id": 203,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 204,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 205,
+            "text": "top",
+            "lemma": "top"
+        },
+        {
+            "id": 206,
+            "text": "four",
+            "lemma": "four"
+        },
+        {
+            "id": 207,
+            "text": "]",
+            "lemma": "]"
+        },
+        {
+            "id": 208,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 209,
+            "text": "even",
+            "lemma": "even"
+        },
+        {
+            "id": 210,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 211,
+            "text": "Saturday",
+            "lemma": "Saturday"
+        },
+        {
+            "id": 212,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 213,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 214,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 215,
+            "text": "makes",
+            "lemma": "make"
+        },
+        {
+            "id": 216,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 217,
+            "text": "even",
+            "lemma": "even"
+        },
+        {
+            "id": 218,
+            "text": "more",
+            "lemma": "more"
+        },
+        {
+            "id": 219,
+            "text": "difficult",
+            "lemma": "difficult"
+        },
+        {
+            "id": 220,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 221,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 222,
+            "text": "That",
+            "lemma": "that"
+        },
+        {
+            "id": 223,
+            "text": "does",
+            "lemma": "do"
+        },
+        {
+            "id": 224,
+            "text": "n't",
+            "lemma": "not"
+        },
+        {
+            "id": 225,
+            "text": "mean",
+            "lemma": "mean"
+        },
+        {
+            "id": 226,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 227,
+            "text": "'ll",
+            "lemma": "will"
+        },
+        {
+            "id": 228,
+            "text": "just",
+            "lemma": "just"
+        },
+        {
+            "id": 229,
+            "text": "give",
+            "lemma": "give"
+        },
+        {
+            "id": 230,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 231,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 232,
+            "text": "We",
+            "lemma": "we"
+        },
+        {
+            "id": 233,
+            "text": "'ve",
+            "lemma": "'ve"
+        },
+        {
+            "id": 234,
+            "text": "got",
+            "lemma": "get"
+        },
+        {
+            "id": 235,
+            "text": "seven",
+            "lemma": "seven"
+        },
+        {
+            "id": 236,
+            "text": "games",
+            "lemma": "game"
+        },
+        {
+            "id": 237,
+            "text": "left",
+            "lemma": "leave"
+        },
+        {
+            "id": 238,
+            "text": "now",
+            "lemma": "now"
+        },
+        {
+            "id": 239,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 240,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 241,
+            "text": "need",
+            "lemma": "need"
+        },
+        {
+            "id": 242,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 243,
+            "text": "try",
+            "lemma": "try"
+        },
+        {
+            "id": 244,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 245,
+            "text": "win",
+            "lemma": "win"
+        },
+        {
+            "id": 246,
+            "text": "every",
+            "lemma": "every"
+        },
+        {
+            "id": 247,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 248,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 249,
+            "text": "If",
+            "lemma": "if"
+        },
+        {
+            "id": 250,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 251,
+            "text": "do",
+            "lemma": "do"
+        },
+        {
+            "id": 252,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 253,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 254,
+            "text": "then",
+            "lemma": "then"
+        },
+        {
+            "id": 255,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 256,
+            "text": "never",
+            "lemma": "never"
+        },
+        {
+            "id": 257,
+            "text": "know",
+            "lemma": "know"
+        },
+        {
+            "id": 258,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 259,
+            "text": "'",
+            "lemma": "'"
+        },
+        {
+            "id": 260,
+            "text": "Blackburn",
+            "lemma": "blackburn"
+        },
+        {
+            "id": 261,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 262,
+            "text": "another",
+            "lemma": "another"
+        },
+        {
+            "id": 263,
+            "text": "big",
+            "lemma": "big"
+        },
+        {
+            "id": 264,
+            "text": "game",
+            "lemma": "game"
+        },
+        {
+            "id": 265,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 266,
+            "text": "us",
+            "lemma": "we"
+        },
+        {
+            "id": 267,
+            "text": "straight",
+            "lemma": "straight"
+        },
+        {
+            "id": 268,
+            "text": "away",
+            "lemma": "away"
+        },
+        {
+            "id": 269,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 270,
+            "text": "We",
+            "lemma": "we"
+        },
+        {
+            "id": 271,
+            "text": "'ve",
+            "lemma": "'ve"
+        },
+        {
+            "id": 272,
+            "text": "got",
+            "lemma": "get"
+        },
+        {
+            "id": 273,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 274,
+            "text": "recover",
+            "lemma": "recover"
+        },
+        {
+            "id": 275,
+            "text": "well",
+            "lemma": "well"
+        },
+        {
+            "id": 276,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 277,
+            "text": "learn",
+            "lemma": "learn"
+        },
+        {
+            "id": 278,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 279,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 280,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 281,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 282,
+            "text": "move",
+            "lemma": "move"
+        },
+        {
+            "id": 283,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 284,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 285,
+            "text": "try",
+            "lemma": "try"
+        },
+        {
+            "id": 286,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 287,
+            "text": "get",
+            "lemma": "get"
+        },
+        {
+            "id": 288,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 289,
+            "text": "big",
+            "lemma": "big"
+        },
+        {
+            "id": 290,
+            "text": "win",
+            "lemma": "win"
+        },
+        {
+            "id": 291,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 292,
+            "text": "Wednesday",
+            "lemma": "Wednesday"
+        },
+        {
+            "id": 293,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 294,
+            "text": "'",
+            "lemma": "'"
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Liverpool",
+            "lemma": "Liverpool",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "lost",
+            "lemma": "lose",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "4",
+            "lemma": "4",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 3,
+            "text": "-",
+            "lemma": "-",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 4,
+            "text": "1",
+            "lemma": "1",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 5,
+            "text": "to",
+            "lemma": "to",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 6,
+            "text": "Arsenal",
+            "lemma": "Arsenal",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "at",
+            "lemma": "at",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "Emirates",
+            "lemma": "Emirates",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "on",
+            "lemma": "on",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "Saturday",
+            "lemma": "Saturday",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 13,
+            "text": "Brendan",
+            "lemma": "Brendan",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 14,
+            "text": "Rodgers",
+            "lemma": "Rodgers",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 15,
+            "text": "'",
+            "lemma": "'",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 16,
+            "text": "side",
+            "lemma": "side",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 17,
+            "text": "are",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 18,
+            "text": "now",
+            "lemma": "now",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 19,
+            "text": "eight",
+            "lemma": "eight",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 20,
+            "text": "points",
+            "lemma": "point",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 21,
+            "text": "behind",
+            "lemma": "behind",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 22,
+            "text": "Manchester",
+            "lemma": "Manchester",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 23,
+            "text": "United",
+            "lemma": "United",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 24,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 25,
+            "text": "But",
+            "lemma": "but",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 26,
+            "text": "Jordan",
+            "lemma": "Jordan",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 27,
+            "text": "Henderson",
+            "lemma": "Henderson",
+            "spans": [
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 28,
+            "text": "is",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 29,
+            "text": "not",
+            "lemma": "not",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 30,
+            "text": "ready",
+            "lemma": "ready",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 31,
+            "text": "to",
+            "lemma": "to",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 32,
+            "text": "give",
+            "lemma": "give",
+            "spans": [
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 33,
+            "text": "up",
+            "lemma": "up",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 34,
+            "text": "on",
+            "lemma": "on",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 35,
+            "text": "Champions",
+            "lemma": "Champions",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 36,
+            "text": "League",
+            "lemma": "League",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 37,
+            "text": "hopes",
+            "lemma": "hope",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 38,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 39,
+            "text": "Liverpool",
+            "lemma": "Liverpool",
+            "spans": [
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 40,
+            "text": "face",
+            "lemma": "face",
+            "spans": [
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 41,
+            "text": "Blackburn",
+            "lemma": "Blackburn",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 42,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 43,
+            "text": "an",
+            "lemma": "an",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 44,
+            "text": "FA",
+            "lemma": "FA",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 45,
+            "text": "Cup",
+            "lemma": "Cup",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 46,
+            "text": "quarter",
+            "lemma": "quarter",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 47,
+            "text": "-",
+            "lemma": "-",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 48,
+            "text": "final",
+            "lemma": "final",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 49,
+            "text": "replay",
+            "lemma": "replay",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 50,
+            "text": "on",
+            "lemma": "on",
+            "spans": [
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 51,
+            "text": "Wednesday",
+            "lemma": "Wednesday",
+            "spans": [
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 52,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 53,
+            "text": "Click",
+            "lemma": "click",
+            "spans": [
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 54,
+            "text": "here",
+            "lemma": "here",
+            "spans": [
+                14
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 55,
+            "text": "for",
+            "lemma": "for",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 56,
+            "text": "more",
+            "lemma": "more",
+            "spans": [
+                15
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 57,
+            "text": "Liverpool",
+            "lemma": "Liverpool",
+            "spans": [
+                15
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 58,
+            "text": "news",
+            "lemma": "news",
+            "spans": [
+                15
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 59,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 1,
+            "qaIds": [
+                0
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 1,
+            "end": 2,
+            "qaIds": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 6,
+            "end": 7,
+            "qaIds": [
+                1
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 7,
+            "end": 10,
+            "qaIds": [
+                2
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 10,
+            "end": 12,
+            "qaIds": [
+                3
+            ],
+            "id": 4,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 26,
+            "end": 28,
+            "qaIds": [
+                4
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 32,
+            "end": 33,
+            "qaIds": [
+                4,
+                5
+            ],
+            "id": 6,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 35,
+            "end": 38,
+            "qaIds": [
+                5
+            ],
+            "id": 7,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 39,
+            "end": 40,
+            "qaIds": [
+                6
+            ],
+            "id": 8,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 40,
+            "end": 41,
+            "qaIds": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "id": 9,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 41,
+            "end": 42,
+            "qaIds": [
+                7
+            ],
+            "id": 10,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 42,
+            "end": 50,
+            "qaIds": [
+                8
+            ],
+            "id": 11,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 50,
+            "end": 52,
+            "qaIds": [
+                9
+            ],
+            "id": 12,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 53,
+            "end": 54,
+            "qaIds": [
+                10,
+                11
+            ],
+            "id": 13,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 54,
+            "end": 55,
+            "qaIds": [
+                10
+            ],
+            "id": 14,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 56,
+            "end": 59,
+            "qaIds": [
+                11
+            ],
+            "id": 15,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "1-2",
+            "predicate": "lost",
+            "questionId": 0,
+            "question": "who lost to someone ?",
+            "answer": "Liverpool",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                9
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                1
+            ],
+            "answerId": "0-1",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "1-2",
+            "predicate": "lost",
+            "questionId": 1,
+            "question": "who did someone lose to ?",
+            "answer": "Arsenal",
+            "answerStartChar": [
+                22
+            ],
+            "answerEndChar": [
+                29
+            ],
+            "answerStartToken": [
+                6
+            ],
+            "answerEndToken": [
+                7
+            ],
+            "answerId": "6-7",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "1-2",
+            "predicate": "lost",
+            "questionId": 2,
+            "question": "where did someone lose to someone ?",
+            "answer": "at the Emirates",
+            "answerStartChar": [
+                30
+            ],
+            "answerEndChar": [
+                45
+            ],
+            "answerStartToken": [
+                7
+            ],
+            "answerEndToken": [
+                10
+            ],
+            "answerId": "7-10",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "1-2",
+            "predicate": "lost",
+            "questionId": 3,
+            "question": "when did someone lose to someone ?",
+            "answer": "on Saturday",
+            "answerStartChar": [
+                46
+            ],
+            "answerEndChar": [
+                57
+            ],
+            "answerStartToken": [
+                10
+            ],
+            "answerEndToken": [
+                12
+            ],
+            "answerId": "10-12",
+            "id": 3
+        },
+        {
+            "sentId": 2,
+            "predicateId": "32-33",
+            "predicate": "give",
+            "questionId": 0,
+            "question": "who isn't giving up on something ?",
+            "answer": "Jordan Henderson",
+            "answerStartChar": [
+                132
+            ],
+            "answerEndChar": [
+                148
+            ],
+            "answerStartToken": [
+                26
+            ],
+            "answerEndToken": [
+                28
+            ],
+            "answerId": "26-28",
+            "id": 4
+        },
+        {
+            "sentId": 2,
+            "predicateId": "32-33",
+            "predicate": "give",
+            "questionId": 1,
+            "question": "what isn't someone giving up on ?",
+            "answer": "Champions League hopes",
+            "answerStartChar": [
+                176
+            ],
+            "answerEndChar": [
+                198
+            ],
+            "answerStartToken": [
+                35
+            ],
+            "answerEndToken": [
+                38
+            ],
+            "answerId": "35-38",
+            "id": 5
+        },
+        {
+            "sentId": 3,
+            "predicateId": "40-41",
+            "predicate": "face",
+            "questionId": 0,
+            "question": "who will face someone ?",
+            "answer": "Liverpool",
+            "answerStartChar": [
+                200
+            ],
+            "answerEndChar": [
+                209
+            ],
+            "answerStartToken": [
+                39
+            ],
+            "answerEndToken": [
+                40
+            ],
+            "answerId": "39-40",
+            "id": 6
+        },
+        {
+            "sentId": 3,
+            "predicateId": "40-41",
+            "predicate": "face",
+            "questionId": 1,
+            "question": "who will someone face ?",
+            "answer": "Blackburn",
+            "answerStartChar": [
+                215
+            ],
+            "answerEndChar": [
+                224
+            ],
+            "answerStartToken": [
+                41
+            ],
+            "answerEndToken": [
+                42
+            ],
+            "answerId": "41-42",
+            "id": 7
+        },
+        {
+            "sentId": 3,
+            "predicateId": "40-41",
+            "predicate": "face",
+            "questionId": 2,
+            "question": "where will someone face someone ?",
+            "answer": "in an FA Cup quarter-final replay",
+            "answerStartChar": [
+                225
+            ],
+            "answerEndChar": [
+                258
+            ],
+            "answerStartToken": [
+                42
+            ],
+            "answerEndToken": [
+                50
+            ],
+            "answerId": "42-50",
+            "id": 8
+        },
+        {
+            "sentId": 3,
+            "predicateId": "40-41",
+            "predicate": "face",
+            "questionId": 3,
+            "question": "when will someone face someone ?",
+            "answer": "on Wednesday",
+            "answerStartChar": [
+                259
+            ],
+            "answerEndChar": [
+                271
+            ],
+            "answerStartToken": [
+                50
+            ],
+            "answerEndToken": [
+                52
+            ],
+            "answerId": "50-52",
+            "id": 9
+        },
+        {
+            "sentId": 4,
+            "predicateId": "53-54",
+            "predicate": "Click",
+            "questionId": 0,
+            "question": "where is something clicked ?",
+            "answer": "here",
+            "answerStartChar": [
+                279
+            ],
+            "answerEndChar": [
+                283
+            ],
+            "answerStartToken": [
+                54
+            ],
+            "answerEndToken": [
+                55
+            ],
+            "answerId": "54-55",
+            "id": 10
+        },
+        {
+            "sentId": 4,
+            "predicateId": "53-54",
+            "predicate": "Click",
+            "questionId": 1,
+            "question": "what is clicked ?",
+            "answer": "more Liverpool news",
+            "answerStartChar": [
+                288
+            ],
+            "answerEndChar": [
+                307
+            ],
+            "answerStartToken": [
+                56
+            ],
+            "answerEndToken": [
+                59
+            ],
+            "answerId": "56-59",
+            "id": 11
+        }
+    ],
+    "datasource": "cnn",
+    "summaryId": "0ceb4cea35c3e964a2e54ec9715de42e1319fd03"
+}

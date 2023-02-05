@@ -1,0 +1,2311 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 1,
+            "text": "unrest",
+            "lemma": "unrest"
+        },
+        {
+            "id": 2,
+            "text": "erupted",
+            "lemma": "erupt"
+        },
+        {
+            "id": 3,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 4,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 5,
+            "text": "policeman",
+            "lemma": "policeman"
+        },
+        {
+            "id": 6,
+            "text": "allegedly",
+            "lemma": "allegedly"
+        },
+        {
+            "id": 7,
+            "text": "killed",
+            "lemma": "kill"
+        },
+        {
+            "id": 8,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 9,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 10,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 11,
+            "text": "wounded",
+            "lemma": "wound"
+        },
+        {
+            "id": 12,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 13,
+            "text": "others",
+            "lemma": "other"
+        },
+        {
+            "id": 14,
+            "text": "during",
+            "lemma": "during"
+        },
+        {
+            "id": 15,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 16,
+            "text": "argument",
+            "lemma": "argument"
+        },
+        {
+            "id": 17,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 18,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 19,
+            "text": "price",
+            "lemma": "price"
+        },
+        {
+            "id": 20,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 21,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 22,
+            "text": "cup",
+            "lemma": "cup"
+        },
+        {
+            "id": 23,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 24,
+            "text": "tea",
+            "lemma": "tea"
+        },
+        {
+            "id": 25,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 26,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 27,
+            "text": "policeman",
+            "lemma": "policeman"
+        },
+        {
+            "id": 28,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 29,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 30,
+            "text": "arrested",
+            "lemma": "arrest"
+        },
+        {
+            "id": 31,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 32,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 33,
+            "text": "case",
+            "lemma": "case"
+        },
+        {
+            "id": 34,
+            "text": "referred",
+            "lemma": "refer"
+        },
+        {
+            "id": 35,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 36,
+            "text": "prosecutors",
+            "lemma": "prosecutor"
+        },
+        {
+            "id": 37,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 38,
+            "text": "Video",
+            "lemma": "video"
+        },
+        {
+            "id": 39,
+            "text": "footage",
+            "lemma": "footage"
+        },
+        {
+            "id": 40,
+            "text": "showed",
+            "lemma": "show"
+        },
+        {
+            "id": 41,
+            "text": "angry",
+            "lemma": "angry"
+        },
+        {
+            "id": 42,
+            "text": "protesters",
+            "lemma": "protester"
+        },
+        {
+            "id": 43,
+            "text": "overturning",
+            "lemma": "overturn"
+        },
+        {
+            "id": 44,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 45,
+            "text": "police",
+            "lemma": "police"
+        },
+        {
+            "id": 46,
+            "text": "vehicle",
+            "lemma": "vehicle"
+        },
+        {
+            "id": 47,
+            "text": "while",
+            "lemma": "while"
+        },
+        {
+            "id": 48,
+            "text": "chanting",
+            "lemma": "chant"
+        },
+        {
+            "id": 49,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 50,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 51,
+            "text": "police",
+            "lemma": "police"
+        },
+        {
+            "id": 52,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 53,
+            "text": "thugs",
+            "lemma": "thug"
+        },
+        {
+            "id": 54,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 55,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 56,
+            "text": "Egypt",
+            "lemma": "Egypt"
+        },
+        {
+            "id": 57,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 58,
+            "text": "seen",
+            "lemma": "see"
+        },
+        {
+            "id": 59,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 60,
+            "text": "series",
+            "lemma": "series"
+        },
+        {
+            "id": 61,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 62,
+            "text": "allegations",
+            "lemma": "allegation"
+        },
+        {
+            "id": 63,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 64,
+            "text": "police",
+            "lemma": "police"
+        },
+        {
+            "id": 65,
+            "text": "brutality",
+            "lemma": "brutality"
+        },
+        {
+            "id": 66,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 67,
+            "text": "recent",
+            "lemma": "recent"
+        },
+        {
+            "id": 68,
+            "text": "months",
+            "lemma": "month"
+        },
+        {
+            "id": 69,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 70,
+            "text": "stoking",
+            "lemma": "stoke"
+        },
+        {
+            "id": 71,
+            "text": "public",
+            "lemma": "public"
+        },
+        {
+            "id": 72,
+            "text": "anger",
+            "lemma": "anger"
+        },
+        {
+            "id": 73,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 74,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 75,
+            "text": "interior",
+            "lemma": "interior"
+        },
+        {
+            "id": 76,
+            "text": "ministry",
+            "lemma": "ministry"
+        },
+        {
+            "id": 77,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 78,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 79,
+            "text": "Tuesday",
+            "lemma": "Tuesday"
+        },
+        {
+            "id": 80,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 81,
+            "text": "incident",
+            "lemma": "incident"
+        },
+        {
+            "id": 82,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 83,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 84,
+            "text": "eastern",
+            "lemma": "eastern"
+        },
+        {
+            "id": 85,
+            "text": "suburb",
+            "lemma": "suburb"
+        },
+        {
+            "id": 86,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 87,
+            "text": "Rehab",
+            "lemma": "Rehab"
+        },
+        {
+            "id": 88,
+            "text": "began",
+            "lemma": "begin"
+        },
+        {
+            "id": 89,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 90,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 91,
+            "text": "argument",
+            "lemma": "argument"
+        },
+        {
+            "id": 92,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 93,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 94,
+            "text": "price",
+            "lemma": "price"
+        },
+        {
+            "id": 95,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 96,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 97,
+            "text": "cup",
+            "lemma": "cup"
+        },
+        {
+            "id": 98,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 99,
+            "text": "tea",
+            "lemma": "tea"
+        },
+        {
+            "id": 100,
+            "text": "between",
+            "lemma": "between"
+        },
+        {
+            "id": 101,
+            "text": "several",
+            "lemma": "several"
+        },
+        {
+            "id": 102,
+            "text": "policeman",
+            "lemma": "policeman"
+        },
+        {
+            "id": 103,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 104,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 105,
+            "text": "street",
+            "lemma": "street"
+        },
+        {
+            "id": 106,
+            "text": "vendor",
+            "lemma": "vendor"
+        },
+        {
+            "id": 107,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 108,
+            "text": "One",
+            "lemma": "one"
+        },
+        {
+            "id": 109,
+            "text": "policeman",
+            "lemma": "policeman"
+        },
+        {
+            "id": 110,
+            "text": "opened",
+            "lemma": "open"
+        },
+        {
+            "id": 111,
+            "text": "fire",
+            "lemma": "fire"
+        },
+        {
+            "id": 112,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 113,
+            "text": "killing",
+            "lemma": "kill"
+        },
+        {
+            "id": 114,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 115,
+            "text": "vendor",
+            "lemma": "vendor"
+        },
+        {
+            "id": 116,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 117,
+            "text": "wounding",
+            "lemma": "wound"
+        },
+        {
+            "id": 118,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 119,
+            "text": "passersby",
+            "lemma": "passersby"
+        },
+        {
+            "id": 120,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 121,
+            "text": "it",
+            "lemma": "it"
+        },
+        {
+            "id": 122,
+            "text": "added",
+            "lemma": "add"
+        },
+        {
+            "id": 123,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 124,
+            "text": "Photographs",
+            "lemma": "photograph"
+        },
+        {
+            "id": 125,
+            "text": "showed",
+            "lemma": "show"
+        },
+        {
+            "id": 126,
+            "text": "what",
+            "lemma": "what"
+        },
+        {
+            "id": 127,
+            "text": "appeared",
+            "lemma": "appear"
+        },
+        {
+            "id": 128,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 129,
+            "text": "be",
+            "lemma": "be"
+        },
+        {
+            "id": 130,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 131,
+            "text": "man",
+            "lemma": "man"
+        },
+        {
+            "id": 132,
+            "text": "lying",
+            "lemma": "lie"
+        },
+        {
+            "id": 133,
+            "text": "still",
+            "lemma": "still"
+        },
+        {
+            "id": 134,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 135,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 136,
+            "text": "floor",
+            "lemma": "floor"
+        },
+        {
+            "id": 137,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 138,
+            "text": "covered",
+            "lemma": "cover"
+        },
+        {
+            "id": 139,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 140,
+            "text": "blood",
+            "lemma": "blood"
+        },
+        {
+            "id": 141,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 142,
+            "text": "surrounded",
+            "lemma": "surround"
+        },
+        {
+            "id": 143,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 144,
+            "text": "angry",
+            "lemma": "angry"
+        },
+        {
+            "id": 145,
+            "text": "onlookers",
+            "lemma": "onlooker"
+        },
+        {
+            "id": 146,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 147,
+            "text": "Witnesses",
+            "lemma": "witness"
+        },
+        {
+            "id": 148,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 149,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 150,
+            "text": "protest",
+            "lemma": "protest"
+        },
+        {
+            "id": 151,
+            "text": "began",
+            "lemma": "begin"
+        },
+        {
+            "id": 152,
+            "text": "shortly",
+            "lemma": "shortly"
+        },
+        {
+            "id": 153,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 154,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 155,
+            "text": "incident",
+            "lemma": "incident"
+        },
+        {
+            "id": 156,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 157,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 158,
+            "text": "Security",
+            "lemma": "security"
+        },
+        {
+            "id": 159,
+            "text": "forces",
+            "lemma": "force"
+        },
+        {
+            "id": 160,
+            "text": "brought",
+            "lemma": "bring"
+        },
+        {
+            "id": 161,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 162,
+            "text": "two",
+            "lemma": "two"
+        },
+        {
+            "id": 163,
+            "text": "riot",
+            "lemma": "riot"
+        },
+        {
+            "id": 164,
+            "text": "police",
+            "lemma": "police"
+        },
+        {
+            "id": 165,
+            "text": "vehicles",
+            "lemma": "vehicle"
+        },
+        {
+            "id": 166,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 167,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 168,
+            "text": "armoured",
+            "lemma": "armoured"
+        },
+        {
+            "id": 169,
+            "text": "truck",
+            "lemma": "truck"
+        },
+        {
+            "id": 170,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 171,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 172,
+            "text": "victim",
+            "lemma": "victim"
+        },
+        {
+            "id": 173,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 174,
+            "text": "family",
+            "lemma": "family"
+        },
+        {
+            "id": 175,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 176,
+            "text": "here",
+            "lemma": "here"
+        },
+        {
+            "id": 177,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 178,
+            "text": "pelting",
+            "lemma": "pelt"
+        },
+        {
+            "id": 179,
+            "text": "them",
+            "lemma": "they"
+        },
+        {
+            "id": 180,
+            "text": "with",
+            "lemma": "with"
+        },
+        {
+            "id": 181,
+            "text": "rocks",
+            "lemma": "rock"
+        },
+        {
+            "id": 182,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 183,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 184,
+            "text": "one",
+            "lemma": "one"
+        },
+        {
+            "id": 185,
+            "text": "witness",
+            "lemma": "witness"
+        },
+        {
+            "id": 186,
+            "text": "told",
+            "lemma": "tell"
+        },
+        {
+            "id": 187,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 188,
+            "text": "Reuters",
+            "lemma": "Reuters"
+        },
+        {
+            "id": 189,
+            "text": "news",
+            "lemma": "news"
+        },
+        {
+            "id": 190,
+            "text": "agency",
+            "lemma": "agency"
+        },
+        {
+            "id": 191,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 192,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 193,
+            "text": "Security",
+            "lemma": "security"
+        },
+        {
+            "id": 194,
+            "text": "forces",
+            "lemma": "force"
+        },
+        {
+            "id": 195,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 196,
+            "text": "retreating",
+            "lemma": "retreat"
+        },
+        {
+            "id": 197,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 198,
+            "text": "promising",
+            "lemma": "promise"
+        },
+        {
+            "id": 199,
+            "text": "justice",
+            "lemma": "justice"
+        },
+        {
+            "id": 200,
+            "text": "but",
+            "lemma": "but"
+        },
+        {
+            "id": 201,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 202,
+            "text": "crowd",
+            "lemma": "crowd"
+        },
+        {
+            "id": 203,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 204,
+            "text": "demanding",
+            "lemma": "demand"
+        },
+        {
+            "id": 205,
+            "text": "police",
+            "lemma": "police"
+        },
+        {
+            "id": 206,
+            "text": "hand",
+            "lemma": "hand"
+        },
+        {
+            "id": 207,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 208,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 209,
+            "text": "killer",
+            "lemma": "killer"
+        },
+        {
+            "id": 210,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 211,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 212,
+            "text": "In",
+            "lemma": "in"
+        },
+        {
+            "id": 213,
+            "text": "February",
+            "lemma": "February"
+        },
+        {
+            "id": 214,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 215,
+            "text": "there",
+            "lemma": "there"
+        },
+        {
+            "id": 216,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 217,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 218,
+            "text": "protest",
+            "lemma": "protest"
+        },
+        {
+            "id": 219,
+            "text": "outside",
+            "lemma": "outside"
+        },
+        {
+            "id": 220,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 221,
+            "text": "Cairo",
+            "lemma": "Cairo"
+        },
+        {
+            "id": 222,
+            "text": "security",
+            "lemma": "security"
+        },
+        {
+            "id": 223,
+            "text": "directorate",
+            "lemma": "directorate"
+        },
+        {
+            "id": 224,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 225,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 226,
+            "text": "policeman",
+            "lemma": "policeman"
+        },
+        {
+            "id": 227,
+            "text": "reportedly",
+            "lemma": "reportedly"
+        },
+        {
+            "id": 228,
+            "text": "shot",
+            "lemma": "shoot"
+        },
+        {
+            "id": 229,
+            "text": "dead",
+            "lemma": "dead"
+        },
+        {
+            "id": 230,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 231,
+            "text": "driver",
+            "lemma": "driver"
+        },
+        {
+            "id": 232,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 233,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 234,
+            "text": "street",
+            "lemma": "street"
+        },
+        {
+            "id": 235,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 236,
+            "text": "an",
+            "lemma": "an"
+        },
+        {
+            "id": 237,
+            "text": "argument",
+            "lemma": "argument"
+        },
+        {
+            "id": 238,
+            "text": "over",
+            "lemma": "over"
+        },
+        {
+            "id": 239,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 240,
+            "text": "fare",
+            "lemma": "fare"
+        },
+        {
+            "id": 241,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 242,
+            "text": "There",
+            "lemma": "there"
+        },
+        {
+            "id": 243,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 244,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 245,
+            "text": "riots",
+            "lemma": "riot"
+        },
+        {
+            "id": 246,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 247,
+            "text": "Ismailia",
+            "lemma": "Ismailia"
+        },
+        {
+            "id": 248,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 249,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 250,
+            "text": "southern",
+            "lemma": "southern"
+        },
+        {
+            "id": 251,
+            "text": "city",
+            "lemma": "city"
+        },
+        {
+            "id": 252,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 253,
+            "text": "Luxor",
+            "lemma": "Luxor"
+        },
+        {
+            "id": 254,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 255,
+            "text": "at",
+            "lemma": "at"
+        },
+        {
+            "id": 256,
+            "text": "least",
+            "lemma": "least"
+        },
+        {
+            "id": 257,
+            "text": "three",
+            "lemma": "three"
+        },
+        {
+            "id": 258,
+            "text": "people",
+            "lemma": "people"
+        },
+        {
+            "id": 259,
+            "text": "died",
+            "lemma": "die"
+        },
+        {
+            "id": 260,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 261,
+            "text": "police",
+            "lemma": "police"
+        },
+        {
+            "id": 262,
+            "text": "custody",
+            "lemma": "custody"
+        },
+        {
+            "id": 263,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 264,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 265,
+            "text": "single",
+            "lemma": "single"
+        },
+        {
+            "id": 266,
+            "text": "week",
+            "lemma": "week"
+        },
+        {
+            "id": 267,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 268,
+            "text": "November",
+            "lemma": "November"
+        },
+        {
+            "id": 269,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 270,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 271,
+            "text": "government",
+            "lemma": "government"
+        },
+        {
+            "id": 272,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 273,
+            "text": "also",
+            "lemma": "also"
+        },
+        {
+            "id": 274,
+            "text": "been",
+            "lemma": "be"
+        },
+        {
+            "id": 275,
+            "text": "forced",
+            "lemma": "force"
+        },
+        {
+            "id": 276,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 277,
+            "text": "repeatedly",
+            "lemma": "repeatedly"
+        },
+        {
+            "id": 278,
+            "text": "deny",
+            "lemma": "deny"
+        },
+        {
+            "id": 279,
+            "text": "allegations",
+            "lemma": "allegation"
+        },
+        {
+            "id": 280,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 281,
+            "text": "security",
+            "lemma": "security"
+        },
+        {
+            "id": 282,
+            "text": "services",
+            "lemma": "service"
+        },
+        {
+            "id": 283,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 284,
+            "text": "responsible",
+            "lemma": "responsible"
+        },
+        {
+            "id": 285,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 286,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 287,
+            "text": "killing",
+            "lemma": "killing"
+        },
+        {
+            "id": 288,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 289,
+            "text": "Italian",
+            "lemma": "italian"
+        },
+        {
+            "id": 290,
+            "text": "academic",
+            "lemma": "academic"
+        },
+        {
+            "id": 291,
+            "text": "Giulio",
+            "lemma": "Giulio"
+        },
+        {
+            "id": 292,
+            "text": "Regeni",
+            "lemma": "Regeni"
+        },
+        {
+            "id": 293,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 294,
+            "text": "Cairo",
+            "lemma": "Cairo"
+        },
+        {
+            "id": 295,
+            "text": "earlier",
+            "lemma": "early"
+        },
+        {
+            "id": 296,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 297,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 298,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 299,
+            "text": "Officials",
+            "lemma": "official"
+        },
+        {
+            "id": 300,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 301,
+            "text": "blamed",
+            "lemma": "blame"
+        },
+        {
+            "id": 302,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 303,
+            "text": "criminal",
+            "lemma": "criminal"
+        },
+        {
+            "id": 304,
+            "text": "gang",
+            "lemma": "gang"
+        },
+        {
+            "id": 305,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 306,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 307,
+            "text": "abduction",
+            "lemma": "abduction"
+        },
+        {
+            "id": 308,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 309,
+            "text": "torture",
+            "lemma": "torture"
+        },
+        {
+            "id": 310,
+            "text": ".",
+            "lemma": "."
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Riot",
+            "lemma": "riot",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "police",
+            "lemma": "police",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "have",
+            "lemma": "have",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 3,
+            "text": "used",
+            "lemma": "use",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 4,
+            "text": "tear",
+            "lemma": "tear",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "gas",
+            "lemma": "gas",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "and",
+            "lemma": "and",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "water",
+            "lemma": "water",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "cannon",
+            "lemma": "cannon",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "to",
+            "lemma": "to",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 10,
+            "text": "break",
+            "lemma": "break",
+            "spans": [
+                3,
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 11,
+            "text": "up",
+            "lemma": "up",
+            "spans": [
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 12,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                3,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 13,
+            "text": "protest",
+            "lemma": "protest",
+            "spans": [
+                3,
+                5,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "in",
+            "lemma": "in",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                7,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "Egyptian",
+            "lemma": "egyptian",
+            "spans": [
+                7,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "capital",
+            "lemma": "capital",
+            "spans": [
+                7,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": ",",
+            "lemma": ",",
+            "spans": [
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": "Cairo",
+            "lemma": "Cairo",
+            "spans": [
+                7,
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 20,
+            "text": ",",
+            "lemma": ",",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 21,
+            "text": "after",
+            "lemma": "after",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 22,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                10,
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 23,
+            "text": "man",
+            "lemma": "man",
+            "spans": [
+                10,
+                11,
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 24,
+            "text": "was",
+            "lemma": "be",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 25,
+            "text": "shot",
+            "lemma": "shoot",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 26,
+            "text": "dead",
+            "lemma": "dead",
+            "spans": [
+                10,
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 27,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 2,
+            "qaIds": [
+                3,
+                8
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 3,
+            "end": 4,
+            "qaIds": [
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 4,
+            "end": 9,
+            "qaIds": [
+                4
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 9,
+            "end": 14,
+            "qaIds": [
+                5
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 10,
+            "end": 11,
+            "qaIds": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "id": 4,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 12,
+            "end": 14,
+            "qaIds": [
+                9
+            ],
+            "id": 5,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 13,
+            "end": 14,
+            "qaIds": [
+                0,
+                1,
+                2
+            ],
+            "id": 6,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 14,
+            "end": 20,
+            "qaIds": [
+                7,
+                11
+            ],
+            "id": 7,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 15,
+            "end": 18,
+            "qaIds": [
+                1
+            ],
+            "id": 8,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 19,
+            "end": 20,
+            "qaIds": [
+                0,
+                6,
+                10
+            ],
+            "id": 9,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 21,
+            "end": 27,
+            "qaIds": [
+                2,
+                12
+            ],
+            "id": 10,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 22,
+            "end": 24,
+            "qaIds": [
+                13
+            ],
+            "id": 11,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 23,
+            "end": 24,
+            "qaIds": [
+                13,
+                14
+            ],
+            "id": 12,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 26,
+            "end": 27,
+            "qaIds": [
+                14
+            ],
+            "id": 13,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "13-14",
+            "predicate": "protest",
+            "questionId": 0,
+            "question": "where did someone protest ?",
+            "answer": "Cairo",
+            "answerStartChar": [
+                95
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                19
+            ],
+            "answerEndToken": [
+                20
+            ],
+            "answerId": "19-20",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "13-14",
+            "predicate": "protest",
+            "questionId": 0,
+            "question": "where did someone protest ?",
+            "answer": "the Egyptian capital",
+            "answerStartChar": [
+                73
+            ],
+            "answerEndChar": [
+                93
+            ],
+            "answerStartToken": [
+                15
+            ],
+            "answerEndToken": [
+                18
+            ],
+            "answerId": "15-18",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "13-14",
+            "predicate": "protest",
+            "questionId": 1,
+            "question": "when did someone protest somewhere ?",
+            "answer": "after a man was shot dead",
+            "answerStartChar": [
+                102
+            ],
+            "answerEndChar": [
+                127
+            ],
+            "answerStartToken": [
+                21
+            ],
+            "answerEndToken": [
+                27
+            ],
+            "answerId": "21-27",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "used",
+            "questionId": 0,
+            "question": "who used something ?",
+            "answer": "Riot police",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                11
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                2
+            ],
+            "answerId": "0-2",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "used",
+            "questionId": 1,
+            "question": "what did someone use ?",
+            "answer": "tear gas and water cannon",
+            "answerStartChar": [
+                22
+            ],
+            "answerEndChar": [
+                47
+            ],
+            "answerStartToken": [
+                4
+            ],
+            "answerEndToken": [
+                9
+            ],
+            "answerId": "4-9",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "used",
+            "questionId": 2,
+            "question": "why did someone use something ?",
+            "answer": "to break up a protest",
+            "answerStartChar": [
+                48
+            ],
+            "answerEndChar": [
+                69
+            ],
+            "answerStartToken": [
+                9
+            ],
+            "answerEndToken": [
+                14
+            ],
+            "answerId": "9-14",
+            "id": 5
+        },
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "used",
+            "questionId": 3,
+            "question": "where did someone use something ?",
+            "answer": "Cairo",
+            "answerStartChar": [
+                95
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                19
+            ],
+            "answerEndToken": [
+                20
+            ],
+            "answerId": "19-20",
+            "id": 6
+        },
+        {
+            "sentId": 0,
+            "predicateId": "3-4",
+            "predicate": "used",
+            "questionId": 3,
+            "question": "where did someone use something ?",
+            "answer": "in the Egyptian capital, Cairo",
+            "answerStartChar": [
+                70
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                14
+            ],
+            "answerEndToken": [
+                20
+            ],
+            "answerId": "14-20",
+            "id": 7
+        },
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "break",
+            "questionId": 0,
+            "question": "who broke something up ?",
+            "answer": "Riot police",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                11
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                2
+            ],
+            "answerId": "0-2",
+            "id": 8
+        },
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "break",
+            "questionId": 1,
+            "question": "what did someone break up ?",
+            "answer": "a protest",
+            "answerStartChar": [
+                60
+            ],
+            "answerEndChar": [
+                69
+            ],
+            "answerStartToken": [
+                12
+            ],
+            "answerEndToken": [
+                14
+            ],
+            "answerId": "12-14",
+            "id": 9
+        },
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "break",
+            "questionId": 2,
+            "question": "where did someone break something up ?",
+            "answer": "Cairo",
+            "answerStartChar": [
+                95
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                19
+            ],
+            "answerEndToken": [
+                20
+            ],
+            "answerId": "19-20",
+            "id": 10
+        },
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "break",
+            "questionId": 2,
+            "question": "where did someone break something up ?",
+            "answer": "in the Egyptian capital, Cairo",
+            "answerStartChar": [
+                70
+            ],
+            "answerEndChar": [
+                100
+            ],
+            "answerStartToken": [
+                14
+            ],
+            "answerEndToken": [
+                20
+            ],
+            "answerId": "14-20",
+            "id": 11
+        },
+        {
+            "sentId": 0,
+            "predicateId": "10-11",
+            "predicate": "break",
+            "questionId": 3,
+            "question": "when did someone break something up ?",
+            "answer": "after a man was shot dead",
+            "answerStartChar": [
+                102
+            ],
+            "answerEndChar": [
+                127
+            ],
+            "answerStartToken": [
+                21
+            ],
+            "answerEndToken": [
+                27
+            ],
+            "answerId": "21-27",
+            "id": 12
+        },
+        {
+            "sentId": 0,
+            "predicateId": "23-24",
+            "predicate": "shot",
+            "questionId": 0,
+            "question": "who was shot ?",
+            "answer": "a man",
+            "answerStartChar": [
+                108
+            ],
+            "answerEndChar": [
+                113
+            ],
+            "answerStartToken": [
+                22
+            ],
+            "answerEndToken": [
+                24
+            ],
+            "answerId": "22-24",
+            "id": 13
+        },
+        {
+            "sentId": 0,
+            "predicateId": "23-24",
+            "predicate": "shot",
+            "questionId": 1,
+            "question": "how was someone shot ?",
+            "answer": "dead",
+            "answerStartChar": [
+                123
+            ],
+            "answerEndChar": [
+                127
+            ],
+            "answerStartToken": [
+                26
+            ],
+            "answerEndToken": [
+                27
+            ],
+            "answerId": "26-27",
+            "id": 14
+        }
+    ],
+    "datasource": "xsum",
+    "summaryId": "36084846"
+}

@@ -1,0 +1,2368 @@
+{
+    "source": [
+        {
+            "id": 0,
+            "text": "(",
+            "lemma": "("
+        },
+        {
+            "id": 1,
+            "text": "CNN)Sawyer",
+            "lemma": "CNN)Sawyer"
+        },
+        {
+            "id": 2,
+            "text": "Sweeten",
+            "lemma": "Sweeten"
+        },
+        {
+            "id": 3,
+            "text": "grew",
+            "lemma": "grow"
+        },
+        {
+            "id": 4,
+            "text": "up",
+            "lemma": "up"
+        },
+        {
+            "id": 5,
+            "text": "before",
+            "lemma": "before"
+        },
+        {
+            "id": 6,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 7,
+            "text": "eyes",
+            "lemma": "eye"
+        },
+        {
+            "id": 8,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 9,
+            "text": "millions",
+            "lemma": "million"
+        },
+        {
+            "id": 10,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 11,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 12,
+            "text": "child",
+            "lemma": "child"
+        },
+        {
+            "id": 13,
+            "text": "star",
+            "lemma": "star"
+        },
+        {
+            "id": 14,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 15,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 16,
+            "text": "endearing",
+            "lemma": "endear"
+        },
+        {
+            "id": 17,
+            "text": "family",
+            "lemma": "family"
+        },
+        {
+            "id": 18,
+            "text": "sitcom",
+            "lemma": "sitcom"
+        },
+        {
+            "id": 19,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 20,
+            "text": "Everybody",
+            "lemma": "everybody"
+        },
+        {
+            "id": 21,
+            "text": "Loves",
+            "lemma": "love"
+        },
+        {
+            "id": 22,
+            "text": "Raymond",
+            "lemma": "Raymond"
+        },
+        {
+            "id": 23,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 24,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 25,
+            "text": "Early",
+            "lemma": "early"
+        },
+        {
+            "id": 26,
+            "text": "Thursday",
+            "lemma": "Thursday"
+        },
+        {
+            "id": 27,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 28,
+            "text": "committed",
+            "lemma": "commit"
+        },
+        {
+            "id": 29,
+            "text": "suicide",
+            "lemma": "suicide"
+        },
+        {
+            "id": 30,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 31,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 32,
+            "text": "sister",
+            "lemma": "sister"
+        },
+        {
+            "id": 33,
+            "text": "Madylin",
+            "lemma": "Madylin"
+        },
+        {
+            "id": 34,
+            "text": "Sweeten",
+            "lemma": "Sweeten"
+        },
+        {
+            "id": 35,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 36,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 37,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 38,
+            "text": "statement",
+            "lemma": "statement"
+        },
+        {
+            "id": 39,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 40,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 41,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 42,
+            "text": "19",
+            "lemma": "19"
+        },
+        {
+            "id": 43,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 44,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 45,
+            "text": "This",
+            "lemma": "this"
+        },
+        {
+            "id": 46,
+            "text": "morning",
+            "lemma": "morning"
+        },
+        {
+            "id": 47,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 48,
+            "text": "terrible",
+            "lemma": "terrible"
+        },
+        {
+            "id": 49,
+            "text": "family",
+            "lemma": "family"
+        },
+        {
+            "id": 50,
+            "text": "tragedy",
+            "lemma": "tragedy"
+        },
+        {
+            "id": 51,
+            "text": "has",
+            "lemma": "have"
+        },
+        {
+            "id": 52,
+            "text": "occurred",
+            "lemma": "occur"
+        },
+        {
+            "id": 53,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 54,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 55,
+            "text": "Madylin",
+            "lemma": "Madylin"
+        },
+        {
+            "id": 56,
+            "text": "Sweeten",
+            "lemma": "Sweeten"
+        },
+        {
+            "id": 57,
+            "text": "said",
+            "lemma": "say"
+        },
+        {
+            "id": 58,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 59,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 60,
+            "text": "statement",
+            "lemma": "statement"
+        },
+        {
+            "id": 61,
+            "text": "passed",
+            "lemma": "pass"
+        },
+        {
+            "id": 62,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 63,
+            "text": "by",
+            "lemma": "by"
+        },
+        {
+            "id": 64,
+            "text": "her",
+            "lemma": "her"
+        },
+        {
+            "id": 65,
+            "text": "manager",
+            "lemma": "manager"
+        },
+        {
+            "id": 66,
+            "text": "Dino",
+            "lemma": "Dino"
+        },
+        {
+            "id": 67,
+            "text": "May",
+            "lemma": "May"
+        },
+        {
+            "id": 68,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 69,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 70,
+            "text": "We",
+            "lemma": "we"
+        },
+        {
+            "id": 71,
+            "text": "are",
+            "lemma": "be"
+        },
+        {
+            "id": 72,
+            "text": "devastated",
+            "lemma": "devastate"
+        },
+        {
+            "id": 73,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 74,
+            "text": "report",
+            "lemma": "report"
+        },
+        {
+            "id": 75,
+            "text": "that",
+            "lemma": "that"
+        },
+        {
+            "id": 76,
+            "text": "our",
+            "lemma": "our"
+        },
+        {
+            "id": 77,
+            "text": "beloved",
+            "lemma": "beloved"
+        },
+        {
+            "id": 78,
+            "text": "brother",
+            "lemma": "brother"
+        },
+        {
+            "id": 79,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 80,
+            "text": "son",
+            "lemma": "son"
+        },
+        {
+            "id": 81,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 82,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 83,
+            "text": "friend",
+            "lemma": "friend"
+        },
+        {
+            "id": 84,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 85,
+            "text": "Sawyer",
+            "lemma": "Sawyer"
+        },
+        {
+            "id": 86,
+            "text": "Sweeten",
+            "lemma": "Sweeten"
+        },
+        {
+            "id": 87,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 88,
+            "text": "took",
+            "lemma": "take"
+        },
+        {
+            "id": 89,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 90,
+            "text": "own",
+            "lemma": "own"
+        },
+        {
+            "id": 91,
+            "text": "life",
+            "lemma": "life"
+        },
+        {
+            "id": 92,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 93,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 94,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 95,
+            "text": "weeks",
+            "lemma": "week"
+        },
+        {
+            "id": 96,
+            "text": "away",
+            "lemma": "away"
+        },
+        {
+            "id": 97,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 98,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 99,
+            "text": "20th",
+            "lemma": "20th"
+        },
+        {
+            "id": 100,
+            "text": "birthday",
+            "lemma": "birthday"
+        },
+        {
+            "id": 101,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 102,
+            "text": " ",
+            "lemma": " "
+        },
+        {
+            "id": 103,
+            "text": "At",
+            "lemma": "at"
+        },
+        {
+            "id": 104,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 105,
+            "text": "sensitive",
+            "lemma": "sensitive"
+        },
+        {
+            "id": 106,
+            "text": "time",
+            "lemma": "time"
+        },
+        {
+            "id": 107,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 108,
+            "text": "our",
+            "lemma": "our"
+        },
+        {
+            "id": 109,
+            "text": "family",
+            "lemma": "family"
+        },
+        {
+            "id": 110,
+            "text": "requests",
+            "lemma": "request"
+        },
+        {
+            "id": 111,
+            "text": "privacy",
+            "lemma": "privacy"
+        },
+        {
+            "id": 112,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 113,
+            "text": "we",
+            "lemma": "we"
+        },
+        {
+            "id": 114,
+            "text": "beg",
+            "lemma": "beg"
+        },
+        {
+            "id": 115,
+            "text": "of",
+            "lemma": "of"
+        },
+        {
+            "id": 116,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 117,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 118,
+            "text": "reach",
+            "lemma": "reach"
+        },
+        {
+            "id": 119,
+            "text": "out",
+            "lemma": "out"
+        },
+        {
+            "id": 120,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 121,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 122,
+            "text": "ones",
+            "lemma": "one"
+        },
+        {
+            "id": 123,
+            "text": "you",
+            "lemma": "you"
+        },
+        {
+            "id": 124,
+            "text": "love",
+            "lemma": "love"
+        },
+        {
+            "id": 125,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 126,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 127,
+            "text": "Sweeten",
+            "lemma": "Sweeten"
+        },
+        {
+            "id": 128,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 129,
+            "text": "best",
+            "lemma": "well"
+        },
+        {
+            "id": 130,
+            "text": "known",
+            "lemma": "know"
+        },
+        {
+            "id": 131,
+            "text": "for",
+            "lemma": "for"
+        },
+        {
+            "id": 132,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 133,
+            "text": "role",
+            "lemma": "role"
+        },
+        {
+            "id": 134,
+            "text": "Geoffrey",
+            "lemma": "Geoffrey"
+        },
+        {
+            "id": 135,
+            "text": "Barone",
+            "lemma": "Barone"
+        },
+        {
+            "id": 136,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 137,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 138,
+            "text": "visiting",
+            "lemma": "visit"
+        },
+        {
+            "id": 139,
+            "text": "family",
+            "lemma": "family"
+        },
+        {
+            "id": 140,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 141,
+            "text": "Texas",
+            "lemma": "Texas"
+        },
+        {
+            "id": 142,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 143,
+            "text": "entertainment",
+            "lemma": "entertainment"
+        },
+        {
+            "id": 144,
+            "text": "industry",
+            "lemma": "industry"
+        },
+        {
+            "id": 145,
+            "text": "magazine",
+            "lemma": "magazine"
+        },
+        {
+            "id": 146,
+            "text": "Hollywood",
+            "lemma": "Hollywood"
+        },
+        {
+            "id": 147,
+            "text": "Reporter",
+            "lemma": "Reporter"
+        },
+        {
+            "id": 148,
+            "text": "reported",
+            "lemma": "report"
+        },
+        {
+            "id": 149,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 150,
+            "text": "where",
+            "lemma": "where"
+        },
+        {
+            "id": 151,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 152,
+            "text": "is",
+            "lemma": "be"
+        },
+        {
+            "id": 153,
+            "text": "believed",
+            "lemma": "believe"
+        },
+        {
+            "id": 154,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 155,
+            "text": "have",
+            "lemma": "have"
+        },
+        {
+            "id": 156,
+            "text": "shot",
+            "lemma": "shoot"
+        },
+        {
+            "id": 157,
+            "text": "himself",
+            "lemma": "himself"
+        },
+        {
+            "id": 158,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 159,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 160,
+            "text": "front",
+            "lemma": "front"
+        },
+        {
+            "id": 161,
+            "text": "porch",
+            "lemma": "porch"
+        },
+        {
+            "id": 162,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 163,
+            "text": "Sawyer",
+            "lemma": "Sawyer"
+        },
+        {
+            "id": 164,
+            "text": "Sweeten",
+            "lemma": "Sweeten"
+        },
+        {
+            "id": 165,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 166,
+            "text": "born",
+            "lemma": "bear"
+        },
+        {
+            "id": 167,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 168,
+            "text": "May",
+            "lemma": "May"
+        },
+        {
+            "id": 169,
+            "text": "1995",
+            "lemma": "1995"
+        },
+        {
+            "id": 170,
+            "text": "in",
+            "lemma": "in"
+        },
+        {
+            "id": 171,
+            "text": "Brownwood",
+            "lemma": "Brownwood"
+        },
+        {
+            "id": 172,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 173,
+            "text": "Texas",
+            "lemma": "Texas"
+        },
+        {
+            "id": 174,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 175,
+            "text": "He",
+            "lemma": "he"
+        },
+        {
+            "id": 176,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 177,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 178,
+            "text": "year",
+            "lemma": "year"
+        },
+        {
+            "id": 179,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 180,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 181,
+            "text": "half",
+            "lemma": "half"
+        },
+        {
+            "id": 182,
+            "text": "old",
+            "lemma": "old"
+        },
+        {
+            "id": 183,
+            "text": "when",
+            "lemma": "when"
+        },
+        {
+            "id": 184,
+            "text": "he",
+            "lemma": "he"
+        },
+        {
+            "id": 185,
+            "text": "started",
+            "lemma": "start"
+        },
+        {
+            "id": 186,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 187,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 188,
+            "text": "Raymond",
+            "lemma": "Raymond"
+        },
+        {
+            "id": 189,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 190,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 191,
+            "text": "playing",
+            "lemma": "play"
+        },
+        {
+            "id": 192,
+            "text": "next",
+            "lemma": "next"
+        },
+        {
+            "id": 193,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 194,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 195,
+            "text": "real",
+            "lemma": "real"
+        },
+        {
+            "id": 196,
+            "text": "-",
+            "lemma": "-"
+        },
+        {
+            "id": 197,
+            "text": "life",
+            "lemma": "life"
+        },
+        {
+            "id": 198,
+            "text": "twin",
+            "lemma": "twin"
+        },
+        {
+            "id": 199,
+            "text": "brother",
+            "lemma": "brother"
+        },
+        {
+            "id": 200,
+            "text": "Sullivan",
+            "lemma": "Sullivan"
+        },
+        {
+            "id": 201,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 202,
+            "text": "who",
+            "lemma": "who"
+        },
+        {
+            "id": 203,
+            "text": "starred",
+            "lemma": "star"
+        },
+        {
+            "id": 204,
+            "text": "as",
+            "lemma": "as"
+        },
+        {
+            "id": 205,
+            "text": "Michael",
+            "lemma": "Michael"
+        },
+        {
+            "id": 206,
+            "text": "Barone",
+            "lemma": "Barone"
+        },
+        {
+            "id": 207,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 208,
+            "text": "according",
+            "lemma": "accord"
+        },
+        {
+            "id": 209,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 210,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 211,
+            "text": "website",
+            "lemma": "website"
+        },
+        {
+            "id": 212,
+            "text": "IMDb",
+            "lemma": "IMDb"
+        },
+        {
+            "id": 213,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 214,
+            "text": "Their",
+            "lemma": "their"
+        },
+        {
+            "id": 215,
+            "text": "sister",
+            "lemma": "sister"
+        },
+        {
+            "id": 216,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 217,
+            "text": "Madylin",
+            "lemma": "Madylin"
+        },
+        {
+            "id": 218,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 219,
+            "text": "played",
+            "lemma": "play"
+        },
+        {
+            "id": 220,
+            "text": "their",
+            "lemma": "their"
+        },
+        {
+            "id": 221,
+            "text": "TV",
+            "lemma": "tv"
+        },
+        {
+            "id": 222,
+            "text": "sister",
+            "lemma": "sister"
+        },
+        {
+            "id": 223,
+            "text": "Ally",
+            "lemma": "Ally"
+        },
+        {
+            "id": 224,
+            "text": "Barone",
+            "lemma": "Barone"
+        },
+        {
+            "id": 225,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 226,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 227,
+            "text": "show",
+            "lemma": "show"
+        },
+        {
+            "id": 228,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 229,
+            "text": "about",
+            "lemma": "about"
+        },
+        {
+            "id": 230,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 231,
+            "text": "adults",
+            "lemma": "adult"
+        },
+        {
+            "id": 232,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 233,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 234,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 235,
+            "text": "children",
+            "lemma": "child"
+        },
+        {
+            "id": 236,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 237,
+            "text": "especially",
+            "lemma": "especially"
+        },
+        {
+            "id": 238,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 239,
+            "text": "twins",
+            "lemma": "twin"
+        },
+        {
+            "id": 240,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 241,
+            "text": "had",
+            "lemma": "have"
+        },
+        {
+            "id": 242,
+            "text": "bit",
+            "lemma": "bit"
+        },
+        {
+            "id": 243,
+            "text": "parts",
+            "lemma": "part"
+        },
+        {
+            "id": 244,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 245,
+            "text": "adorable",
+            "lemma": "adorable"
+        },
+        {
+            "id": 246,
+            "text": "cameo",
+            "lemma": "cameo"
+        },
+        {
+            "id": 247,
+            "text": "moments",
+            "lemma": "moment"
+        },
+        {
+            "id": 248,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 249,
+            "text": "In",
+            "lemma": "in"
+        },
+        {
+            "id": 250,
+            "text": "the",
+            "lemma": "the"
+        },
+        {
+            "id": 251,
+            "text": "beginning",
+            "lemma": "beginning"
+        },
+        {
+            "id": 252,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 253,
+            "text": "they",
+            "lemma": "they"
+        },
+        {
+            "id": 254,
+            "text": "were",
+            "lemma": "be"
+        },
+        {
+            "id": 255,
+            "text": "too",
+            "lemma": "too"
+        },
+        {
+            "id": 256,
+            "text": "young",
+            "lemma": "young"
+        },
+        {
+            "id": 257,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 258,
+            "text": "speak",
+            "lemma": "speak"
+        },
+        {
+            "id": 259,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 260,
+            "text": "The",
+            "lemma": "the"
+        },
+        {
+            "id": 261,
+            "text": "series",
+            "lemma": "series"
+        },
+        {
+            "id": 262,
+            "text": "developed",
+            "lemma": "develop"
+        },
+        {
+            "id": 263,
+            "text": "a",
+            "lemma": "a"
+        },
+        {
+            "id": 264,
+            "text": "loyal",
+            "lemma": "loyal"
+        },
+        {
+            "id": 265,
+            "text": "following",
+            "lemma": "following"
+        },
+        {
+            "id": 266,
+            "text": "and",
+            "lemma": "and"
+        },
+        {
+            "id": 267,
+            "text": "ran",
+            "lemma": "run"
+        },
+        {
+            "id": 268,
+            "text": "from",
+            "lemma": "from"
+        },
+        {
+            "id": 269,
+            "text": "September",
+            "lemma": "September"
+        },
+        {
+            "id": 270,
+            "text": "1996",
+            "lemma": "1996"
+        },
+        {
+            "id": 271,
+            "text": "through",
+            "lemma": "through"
+        },
+        {
+            "id": 272,
+            "text": "May",
+            "lemma": "May"
+        },
+        {
+            "id": 273,
+            "text": "2005",
+            "lemma": "2005"
+        },
+        {
+            "id": 274,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 275,
+            "text": "According",
+            "lemma": "accord"
+        },
+        {
+            "id": 276,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 277,
+            "text": "his",
+            "lemma": "his"
+        },
+        {
+            "id": 278,
+            "text": "IMDb",
+            "lemma": "IMDb"
+        },
+        {
+            "id": 279,
+            "text": "profile",
+            "lemma": "profile"
+        },
+        {
+            "id": 280,
+            "text": ",",
+            "lemma": ","
+        },
+        {
+            "id": 281,
+            "text": "Sawyer",
+            "lemma": "Sawyer"
+        },
+        {
+            "id": 282,
+            "text": "did",
+            "lemma": "do"
+        },
+        {
+            "id": 283,
+            "text": "not",
+            "lemma": "not"
+        },
+        {
+            "id": 284,
+            "text": "appear",
+            "lemma": "appear"
+        },
+        {
+            "id": 285,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 286,
+            "text": "take",
+            "lemma": "take"
+        },
+        {
+            "id": 287,
+            "text": "on",
+            "lemma": "on"
+        },
+        {
+            "id": 288,
+            "text": "acting",
+            "lemma": "act"
+        },
+        {
+            "id": 289,
+            "text": "roles",
+            "lemma": "role"
+        },
+        {
+            "id": 290,
+            "text": "after",
+            "lemma": "after"
+        },
+        {
+            "id": 291,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 292,
+            "text": "Raymond",
+            "lemma": "Raymond"
+        },
+        {
+            "id": 293,
+            "text": "\"",
+            "lemma": "\""
+        },
+        {
+            "id": 294,
+            "text": "was",
+            "lemma": "be"
+        },
+        {
+            "id": 295,
+            "text": "discontinued",
+            "lemma": "discontinue"
+        },
+        {
+            "id": 296,
+            "text": ".",
+            "lemma": "."
+        },
+        {
+            "id": 297,
+            "text": "CNN",
+            "lemma": "CNN"
+        },
+        {
+            "id": 298,
+            "text": "'s",
+            "lemma": "'s"
+        },
+        {
+            "id": 299,
+            "text": "Sonya",
+            "lemma": "Sonya"
+        },
+        {
+            "id": 300,
+            "text": "Hamasaki",
+            "lemma": "Hamasaki"
+        },
+        {
+            "id": 301,
+            "text": "contributed",
+            "lemma": "contribute"
+        },
+        {
+            "id": 302,
+            "text": "to",
+            "lemma": "to"
+        },
+        {
+            "id": 303,
+            "text": "this",
+            "lemma": "this"
+        },
+        {
+            "id": 304,
+            "text": "report",
+            "lemma": "report"
+        },
+        {
+            "id": 305,
+            "text": ".",
+            "lemma": "."
+        }
+    ],
+    "summary": [
+        {
+            "id": 0,
+            "text": "Sawyer",
+            "lemma": "Sawyer",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 1,
+            "text": "Sweeten",
+            "lemma": "Sweeten",
+            "spans": [
+                0
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 2,
+            "text": "grew",
+            "lemma": "grow",
+            "spans": [
+                1
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 3,
+            "text": "up",
+            "lemma": "up",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 4,
+            "text": "before",
+            "lemma": "before",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 5,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 6,
+            "text": "eyes",
+            "lemma": "eye",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 7,
+            "text": "of",
+            "lemma": "of",
+            "spans": [
+                2
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 8,
+            "text": "millions",
+            "lemma": "million",
+            "spans": [
+                2,
+                3
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 9,
+            "text": "as",
+            "lemma": "as",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 10,
+            "text": "a",
+            "lemma": "a",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 11,
+            "text": "child",
+            "lemma": "child",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 12,
+            "text": "star",
+            "lemma": "star",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 13,
+            "text": "on",
+            "lemma": "on",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 14,
+            "text": "the",
+            "lemma": "the",
+            "spans": [
+                4
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 15,
+            "text": "endearing",
+            "lemma": "endear",
+            "spans": [
+                4,
+                5
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 16,
+            "text": "family",
+            "lemma": "family",
+            "spans": [
+                4,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 17,
+            "text": "sitcom",
+            "lemma": "sitcom",
+            "spans": [
+                4,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 18,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [
+                4,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 19,
+            "text": "Everybody",
+            "lemma": "everybody",
+            "spans": [
+                4,
+                6,
+                7
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 20,
+            "text": "Loves",
+            "lemma": "love",
+            "spans": [
+                4,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 21,
+            "text": "Raymond",
+            "lemma": "Raymond",
+            "spans": [
+                4,
+                6,
+                8
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 22,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [
+                4,
+                6
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 23,
+            "text": "He",
+            "lemma": "he",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 24,
+            "text": "was",
+            "lemma": "be",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 25,
+            "text": "weeks",
+            "lemma": "week",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 26,
+            "text": "away",
+            "lemma": "away",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 27,
+            "text": "from",
+            "lemma": "from",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 28,
+            "text": "his",
+            "lemma": "his",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 29,
+            "text": "20th",
+            "lemma": "20th",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 30,
+            "text": "birthday",
+            "lemma": "birthday",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 31,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 32,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 33,
+            "text": "This",
+            "lemma": "this",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 34,
+            "text": "morning",
+            "lemma": "morning",
+            "spans": [
+                9
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 35,
+            "text": "a",
+            "lemma": "a",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 36,
+            "text": "terrible",
+            "lemma": "terrible",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 37,
+            "text": "family",
+            "lemma": "family",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 38,
+            "text": "tragedy",
+            "lemma": "tragedy",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 39,
+            "text": "has",
+            "lemma": "have",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 40,
+            "text": "occurred",
+            "lemma": "occur",
+            "spans": [
+                10
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 41,
+            "text": ",",
+            "lemma": ",",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 42,
+            "text": "\"",
+            "lemma": "\"",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 43,
+            "text": "his",
+            "lemma": "his",
+            "spans": [
+                11
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 44,
+            "text": "sister",
+            "lemma": "sister",
+            "spans": [
+                11,
+                12
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 45,
+            "text": "Madylin",
+            "lemma": "Madylin",
+            "spans": [
+                11,
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 46,
+            "text": "Sweeten",
+            "lemma": "Sweeten",
+            "spans": [
+                11,
+                13
+            ],
+            "class": "mention"
+        },
+        {
+            "id": 47,
+            "text": "said",
+            "lemma": "say",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 48,
+            "text": "in",
+            "lemma": "in",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 49,
+            "text": "a",
+            "lemma": "a",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 50,
+            "text": "statement",
+            "lemma": "statement",
+            "spans": [],
+            "class": "token"
+        },
+        {
+            "id": 51,
+            "text": ".",
+            "lemma": ".",
+            "spans": [],
+            "class": "token"
+        }
+    ],
+    "spans": [
+        {
+            "start": 0,
+            "end": 2,
+            "qaIds": [
+                0
+            ],
+            "id": 0,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 2,
+            "end": 3,
+            "qaIds": [
+                0,
+                1,
+                2
+            ],
+            "id": 1,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 4,
+            "end": 9,
+            "qaIds": [
+                1
+            ],
+            "id": 2,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 8,
+            "end": 9,
+            "qaIds": [
+                3
+            ],
+            "id": 3,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 13,
+            "end": 23,
+            "qaIds": [
+                2
+            ],
+            "id": 4,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 15,
+            "end": 16,
+            "qaIds": [
+                3,
+                4
+            ],
+            "id": 5,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 16,
+            "end": 23,
+            "qaIds": [
+                4
+            ],
+            "id": 6,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 19,
+            "end": 20,
+            "qaIds": [
+                5,
+                5,
+                6
+            ],
+            "id": 7,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 21,
+            "end": 22,
+            "qaIds": [
+                6
+            ],
+            "id": 8,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 34,
+            "end": 35,
+            "qaIds": [
+                7
+            ],
+            "id": 9,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 35,
+            "end": 41,
+            "qaIds": [
+                8
+            ],
+            "id": 10,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 43,
+            "end": 47,
+            "qaIds": [
+                10
+            ],
+            "id": 11,
+            "predicate": false,
+            "similars": []
+        },
+        {
+            "start": 44,
+            "end": 45,
+            "qaIds": [
+                7,
+                8,
+                9,
+                10
+            ],
+            "id": 12,
+            "predicate": true,
+            "similars": []
+        },
+        {
+            "start": 45,
+            "end": 47,
+            "qaIds": [
+                9
+            ],
+            "id": 13,
+            "predicate": false,
+            "similars": []
+        }
+    ],
+    "qas": [
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "grew",
+            "questionId": 0,
+            "question": "who grew up ?",
+            "answer": "Sawyer Sweeten",
+            "answerStartChar": [
+                0
+            ],
+            "answerEndChar": [
+                14
+            ],
+            "answerStartToken": [
+                0
+            ],
+            "answerEndToken": [
+                2
+            ],
+            "answerId": "0-2",
+            "id": 0
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "grew",
+            "questionId": 1,
+            "question": "when did someone grow up ?",
+            "answer": "before the eyes of millions",
+            "answerStartChar": [
+                23
+            ],
+            "answerEndChar": [
+                50
+            ],
+            "answerStartToken": [
+                4
+            ],
+            "answerEndToken": [
+                9
+            ],
+            "answerId": "4-9",
+            "id": 1
+        },
+        {
+            "sentId": 0,
+            "predicateId": "2-3",
+            "predicate": "grew",
+            "questionId": 2,
+            "question": "where did someone grow up ?",
+            "answer": "on the endearing family sitcom \"Everybody Loves Raymond\"",
+            "answerStartChar": [
+                67
+            ],
+            "answerEndChar": [
+                123
+            ],
+            "answerStartToken": [
+                13
+            ],
+            "answerEndToken": [
+                23
+            ],
+            "answerId": "13-23",
+            "id": 2
+        },
+        {
+            "sentId": 0,
+            "predicateId": "15-16",
+            "predicate": "endearing",
+            "questionId": 0,
+            "question": "who was endearing something ?",
+            "answer": "millions",
+            "answerStartChar": [
+                42
+            ],
+            "answerEndChar": [
+                50
+            ],
+            "answerStartToken": [
+                8
+            ],
+            "answerEndToken": [
+                9
+            ],
+            "answerId": "8-9",
+            "id": 3
+        },
+        {
+            "sentId": 0,
+            "predicateId": "15-16",
+            "predicate": "endearing",
+            "questionId": 1,
+            "question": "what was someone endearing ?",
+            "answer": "family sitcom \"Everybody Loves Raymond\"",
+            "answerStartChar": [
+                84
+            ],
+            "answerEndChar": [
+                123
+            ],
+            "answerStartToken": [
+                16
+            ],
+            "answerEndToken": [
+                23
+            ],
+            "answerId": "16-23",
+            "id": 4
+        },
+        {
+            "sentId": 0,
+            "predicateId": "19-20",
+            "predicate": "Loves",
+            "questionId": 0,
+            "question": "who loves someone ?",
+            "answer": "Everybody",
+            "answerStartChar": [
+                99
+            ],
+            "answerEndChar": [
+                108
+            ],
+            "answerStartToken": [
+                19
+            ],
+            "answerEndToken": [
+                20
+            ],
+            "answerId": "19-20",
+            "id": 5
+        },
+        {
+            "sentId": 0,
+            "predicateId": "19-20",
+            "predicate": "Loves",
+            "questionId": 1,
+            "question": "who does someone love ?",
+            "answer": "Raymond",
+            "answerStartChar": [
+                115
+            ],
+            "answerEndChar": [
+                122
+            ],
+            "answerStartToken": [
+                21
+            ],
+            "answerEndToken": [
+                22
+            ],
+            "answerId": "21-22",
+            "id": 6
+        },
+        {
+            "sentId": 2,
+            "predicateId": "44-45",
+            "predicate": "said",
+            "questionId": 0,
+            "question": "when did someone say something ?",
+            "answer": "morning",
+            "answerStartChar": [
+                172
+            ],
+            "answerEndChar": [
+                179
+            ],
+            "answerStartToken": [
+                34
+            ],
+            "answerEndToken": [
+                35
+            ],
+            "answerId": "34-35",
+            "id": 7
+        },
+        {
+            "sentId": 2,
+            "predicateId": "44-45",
+            "predicate": "said",
+            "questionId": 1,
+            "question": "what did someone say ?",
+            "answer": "a terrible family tragedy has occurred",
+            "answerStartChar": [
+                180
+            ],
+            "answerEndChar": [
+                218
+            ],
+            "answerStartToken": [
+                35
+            ],
+            "answerEndToken": [
+                41
+            ],
+            "answerId": "35-41",
+            "id": 8
+        },
+        {
+            "sentId": 2,
+            "predicateId": "44-45",
+            "predicate": "said",
+            "questionId": 2,
+            "question": "who said something ?",
+            "answer": "Madylin Sweeten",
+            "answerStartChar": [
+                232
+            ],
+            "answerEndChar": [
+                247
+            ],
+            "answerStartToken": [
+                45
+            ],
+            "answerEndToken": [
+                47
+            ],
+            "answerId": "45-47",
+            "id": 9
+        },
+        {
+            "sentId": 2,
+            "predicateId": "44-45",
+            "predicate": "said",
+            "questionId": 2,
+            "question": "who said something ?",
+            "answer": "his sister Madylin Sweeten",
+            "answerStartChar": [
+                221
+            ],
+            "answerEndChar": [
+                247
+            ],
+            "answerStartToken": [
+                43
+            ],
+            "answerEndToken": [
+                47
+            ],
+            "answerId": "43-47",
+            "id": 10
+        }
+    ],
+    "datasource": "cnn",
+    "summaryId": "abbe1a4cac879d53e28d2dc7c1ccf4dffe4d260a"
+}
