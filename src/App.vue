@@ -10,7 +10,6 @@
           <v-stepper-step :complete="e1 > 2" step="2">
             Question-Answers
           </v-stepper-step>
-          
         </v-stepper-header>
 
         <v-stepper-items>
@@ -35,17 +34,28 @@
                   @assignNegative="assignNegative($event)"
                   @updateNegativeSpans="updateNegativeSpans($event)"
                 ></NodeLevel>
+                <v-container class="justify-center">
+                  
+              <v-textarea
+              v-model="notes"
+              color="primary"
+            >
+              <template v-slot:label>
+                <div>
+                  Notes <small>(optional)</small>
+                </div>
+              </template>
+            </v-textarea>
+                  
+                </v-container>
+                
               </v-col>
             </v-row>
 
             <div style="text-align: right">
-              <v-btn
-                color="primary"
-                @click="e1 = 2"
-              >
+              <v-btn color="primary" @click="e1 = 2">
                 Next Step <v-icon> mdi-arrow-right</v-icon>
               </v-btn>
-          
             </div>
           </v-stepper-content>
 
@@ -71,6 +81,21 @@
                   @selectAnswers="selectAnswers($event)"
                   @previousStep="previousStep()"
                 ></QALevel>
+
+                <v-container class="justify-center">
+                  
+                  <v-textarea
+                  v-model="notes"
+                  color="primary"
+                >
+                  <template v-slot:label>
+                    <div>
+                      Notes <small>(optional)</small>
+                    </div>
+                  </template>
+                </v-textarea>
+                      
+                    </v-container>
               </v-col>
             </v-row>
 
@@ -84,16 +109,18 @@
               </v-btn>
 
               <v-btn
-                :class="['ma-3', 'white--text']"
-                color="primary"
-                @click="finish()"
-              >
-                Finish <v-icon> mdi-checkbox-marked-circle</v-icon>
-              </v-btn>
+                    :class="['ma-3', 'white--text']"
+                    color="primary"
+                    @click="finish()"
+                  >
+                    Finish <v-icon> mdi-checkbox-marked-circle</v-icon>
+                  </v-btn>
+
+              
+              
+              
             </v-row>
           </v-stepper-content>
-
-         
         </v-stepper-items>
       </v-stepper>
     </v-main>
@@ -101,14 +128,30 @@
 </template>
 
 <script>
-import jsonData from "./data/annotation_files/0ceb4cea35c3e964a2e54ec9715de42e1319fd03.json";
+// import jsonData from "./data/annotation_files/0ceb4cea35c3e964a2e54ec9715de42e1319fd03.json";
 // import jsonData from "./data/annotation_files/69db30b6047a2aadd64f3c6eeb23cc3437078cf1.json"
 import NodeLevel from "./components/NodeLevel.vue";
 import SourceArticle from "./components/SourceArticle.vue";
 import QALevel from "./components/QALevel.vue";
 import Vuetify from "vuetify/lib";
-import Vue from 'vue'
+import Vue from "vue";
 
+// FRANK annotation
+
+// XSUM
+
+// import jsonData from "./data/annotation_files_frank/21197406_BERTS2S.json"
+import jsonData from "./data/annotation_files_frank/39202525_BERTS2S.json";
+// import jsonData from "./data/annotation_files_frank/35082344_BERTS2S.json"
+// import jsonData from "./data/annotation_files_frank/24553569_BERTS2S.json"
+
+// CNN
+// import jsonData from "./data/annotation_files_frank/f364b58c01042c853a5d980e094d680304273162_bart.json"
+// import jsonData from "./data/annotation_files_frank/47681f33b383d3000a13cff5c5429771204619ed_bert_sum.json"
+// import jsonData from "./data/annotation_files_frank/47681f33b383d3000a13cff5c5429771204619ed_bart.json"
+// import jsonData from "./data/annotation_files_frank/ce551de8d9a69e9f2b51ccdd465c8150821936ce_bart.json"
+// import jsonData from "./data/annotation_files_frank/fb1117897822bddb6586aa283e4a67d82b507f3a_bart.json"
+// import jsonData from "./data/annotation_files_frank/578933f933255e7e22695c68f7e544dbc749dae3_bart.json"
 
 import {
   VIcon,
@@ -122,14 +165,11 @@ import {
   VRow,
   VCol,
   VApp,
-  VMain
+  VMain,
 } from "vuetify/lib";
 
 Vue.use(Vuetify);
-var vuetify = new Vuetify({
-  
-});
-
+var vuetify = new Vuetify({});
 
 export default {
   name: "App",
@@ -149,7 +189,7 @@ export default {
     VRow,
     VCol,
     VApp,
-    VMain
+    VMain,
   },
   props: {
     json: {
@@ -159,7 +199,7 @@ export default {
   },
   data() {
     const data =
-    !this.json || this.json == "${data}"
+      !this.json || this.json == "${data}"
         ? jsonData
         : JSON.parse(unescape(this.json).replace("\u00e2\u20ac\u2122", "'"));
     data.links = ["Span", "QAs", "Global"];
@@ -180,12 +220,14 @@ export default {
     data.start = new Date();
     data.filteredPredicates = data.spans.filter((x) => x.predicate);
     data.positiveQAs = {};
+    data.dialog = false;
+    data.notes = "";
     return data;
   },
   computed: {
-    showFinishButton: function() {
-      return this.qas.every(qa => "label" in qa && qa.label != undefined);
-    }
+    showFinishButton: function () {
+      return this.qas.every((qa) => "label" in qa && qa.label != undefined);
+    },
   },
   methods: {
     filterQAs: function (set) {
@@ -218,18 +260,21 @@ export default {
       let diff = (end.getTime() - this.start.getTime()) / 1000;
 
       let data = {
-        "summaryId": this.summaryId,
-        "source": this.source,
-        "summary": this.summary,
-        "spans": this.spans,
-        "positiveQAs": this.getPositiveQAs(),
-        "duration": diff
-      }
+        summaryId: this.summaryId,
+        source: this.source,
+        summary: this.summary,
+        spans: this.spans,
+        positiveQAs: this.getPositiveQAs(),
+        notes: this.notes,
+        duration: diff,
+      };
 
       const doc = document.createElement("a");
-      const file = new Blob([JSON.stringify(data, null, 4)], { type: "text/plain" });
+      const file = new Blob([JSON.stringify(data, null, 4)], {
+        type: "text/plain",
+      });
       doc.href = URL.createObjectURL(file);
-      doc.download = this.summaryId + '.json';
+      doc.download = this.summaryId + ".json";
       doc.click();
     },
     selectMention: function (span) {
@@ -251,28 +296,31 @@ export default {
         this.currentAnswer = [];
       }
     },
-    getPositiveQAs: function() {
+    getPositiveQAs: function () {
       let positiveQAs = {};
-      for (const [predicateId, clusters] of Object.entries(this.$refs.qa.positiveQAs)) {
+      for (const [predicateId, clusters] of Object.entries(
+        this.$refs.qa.positiveQAs
+      )) {
         positiveQAs[predicateId] = [];
         clusters.forEach((cluster, clusterId) => {
           positiveQAs[predicateId].push([]);
-          cluster.forEach(qa => {
+          cluster.forEach((qa) => {
             positiveQAs[predicateId][clusterId].push(qa.id);
           });
         });
       }
       return positiveQAs;
-    }
+    },
   },
 };
 </script>
 
-<style>
+<style scoped>
 @import url("https://fonts.googleapis.com/css?family=Material+Icons");
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900");
 @import url("https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css");
-@import url("../node_modules/vuetify/dist/vuetify.min.css");
+/* @import url("../node_modules/vuetify/dist/vuetify.min.css"); */
+@import "../node_modules/vuetify/dist/vuetify.min.css";
 
 .current {
   background: #ddeff9;

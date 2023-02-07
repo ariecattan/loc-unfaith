@@ -106,6 +106,7 @@
         class="my-2"
         elevation="10"
         rounded="xl"
+        v-show="curQuestions.length > 0"
       >
         <v-sheet class="pa-1 success text-center" dark rounded="t-xl">
           Covered QAs
@@ -137,11 +138,15 @@
         </div>
       </v-sheet>
 
-      <v-btn class="my-2" fab dark small color="success" @click="addCluster()">
+      <v-btn class="my-2" fab dark small color="success" @click="addCluster()"
+      v-show="curQuestions.length > 0">
         <v-icon dark> mdi-plus </v-icon>
       </v-btn>
 
-      <v-sheet elevation="10" rounded="xl">
+      <v-sheet 
+        elevation="10" 
+        rounded="xl" 
+        v-show="curQuestions.length > 0">
         <v-sheet class="pa-1 my-2 error text-center" dark rounded="t-xl">
           Hallucinated QAs
         </v-sheet>
