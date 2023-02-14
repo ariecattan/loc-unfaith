@@ -40,8 +40,9 @@
               v-for="token in this.summary"
               :key="token.id"
               :class="getTokenClass(token)"
+              @click="selectSpan($event, token)"
+              v-text="getToken(token)"
             >
-              {{ token.text }}
             </span>
           </v-container>
         </v-sheet>
@@ -310,6 +311,11 @@ export default {
     }
   },
   methods: {
+    getToken: function(token) {
+      let tokenPrint = token.text;
+      tokenPrint += token.noWhite ? "" : " ";
+      return tokenPrint;
+    },
     getTokenClass: function (token) {
       if (
         token.id >= this.curPredicate.start &&

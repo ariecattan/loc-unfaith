@@ -46,8 +46,9 @@
               :key="token.id"
               :class="getTokenClass(token)"
               @click="selectSpan($event, token)"
+              v-text="getToken(token)"
             >
-              {{ token.text }}
+              
             </span>
           </v-container>
         </v-sheet>
@@ -179,13 +180,17 @@ export default {
     },
   },
   methods: {
+    getToken: function(token) {
+      let tokenPrint = token.text;
+      tokenPrint += token.noWhite ? "" : " ";
+      return tokenPrint;
+    },
     getTokenClass: function (token) {
       if (token.id >= this.curMention.start && token.id < this.curMention.end) {
         return "current";
       } else if (this.viewedIndexes.has(token.id)) {
         return "mention";
       }
-
       return "token";
     },
     addPositive: function () {
@@ -242,6 +247,11 @@ export default {
 .current {
   background: #ddeff9;
   color: #2d9cdb;
+}
+.no-white {
+  margin-right: 0;
+  margin-left: 0;
+  padding: 0;
 }
 .intructions {
   background-color: #ffffa7;
