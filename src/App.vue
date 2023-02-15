@@ -272,6 +272,7 @@ export default {
         source: this.source,
         summary: this.summary,
         spans: this.spans,
+        qas: this.qas,
         positiveQAs: this.getPositiveQAs(),
         notes: this.notes,
         duration: diff,
