@@ -234,6 +234,7 @@ export default {
     negativeSpans: Array,
     predicates: Array,
     answers: Array,
+    annotatedQAs: Object,
   },
   data: function () {
     const data = new Object();
@@ -242,7 +243,13 @@ export default {
 
     data.positiveQAs = {};
     this.predicates.forEach(predicate => {
-      data.positiveQAs[predicate.id] = [[]];
+      if (this.annotatedQAs && predicate.id in this.annotatedQAs) {
+        data.positiveQAs[predicate.id] = this.annotatedQAs[predicate.id]
+      }
+      else {
+        data.positiveQAs[predicate.id] = [[]];
+      }
+      
     });
 
     data.curQAIndex = 0;

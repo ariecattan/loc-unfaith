@@ -160,11 +160,13 @@ export default {
   data: function () {
     return {
       curMentionIndex: 0,
-      mentionsViewed: 0,
+      mentionsViewed: "label" in this.spans[0] ? this.spans.length - 1 : 0,
       mentions: this.spans,
       viewedIndexes: new Set(),
-      positiveList: new Set(),
-      negativeList: new Set(),
+      positiveList: new Set(this.spans.map((obj, index) => obj.label === 1 ? index : -1)
+                  .filter(index => index !== -1)),
+      negativeList: new Set(this.spans.map((obj, index) => obj.label === 0 ? index : -1)
+                  .filter(index => index !== -1)),
       done: false,
     };
   },

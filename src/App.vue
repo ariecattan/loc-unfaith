@@ -77,6 +77,7 @@
                   :predicates="predicates"
                   :answers="answers"
                   :negativeSpans="Array.from(negativeSpans)"
+                  :annotatedQAs="annotatedQAs"
                   @selectMention="selectPredicate($event)"
                   @selectAnswers="selectAnswers($event)"
                   @previousStep="previousStep()"
@@ -137,6 +138,7 @@ import vuetify from "@/plugins/vuetify";
 
 
 
+
 // import Vuetify from "vuetify/lib";
 // import Vue from "vue";
 
@@ -158,6 +160,10 @@ import vuetify from "@/plugins/vuetify";
 // import jsonData from "./data/annotation_files_frank/578933f933255e7e22695c68f7e544dbc749dae3_bart.json"
 
 import jsonData from "./data/tmp.json"
+
+// import jsonData from "../../evaluation/data/arie/33_bart_xsum.json"
+// import jsonData from "/Users/arie/Downloads/4_bart_xsum (1).json"
+
 
 import {
   VIcon,
@@ -227,9 +233,10 @@ export default {
     data.currentAnswer = [];
     data.start = new Date();
     data.filteredPredicates = data.spans.filter((x) => x.predicate);
-    data.positiveQAs = {};
+    // data.positiveQAs = {};
     data.dialog = false;
-    data.notes = "";
+    data.annotatedQAs = data.positiveQAs ? data.positiveQAs : {};
+    data.notes = data.notes ? data.notes : "";
     return data;
   },
   computed: {
