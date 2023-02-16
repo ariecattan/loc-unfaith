@@ -159,7 +159,8 @@ import vuetify from "@/plugins/vuetify";
 // import jsonData from "./data/annotation_files_frank/fb1117897822bddb6586aa283e4a67d82b507f3a_bart.json"
 // import jsonData from "./data/annotation_files_frank/578933f933255e7e22695c68f7e544dbc749dae3_bart.json"
 
-import jsonData from "./data/tmp.json"
+// import jsonData from "./data/tmp.json"
+import jsonData from "../../evaluation/data/arie/291_bart_cnndm.json"
 
 // import jsonData from "../../evaluation/data/arie/33_bart_xsum.json"
 // import jsonData from "/Users/arie/Downloads/4_bart_xsum (1).json"

@@ -82,6 +82,9 @@
                 <v-btn icon color="error">
                   <v-icon color="error">mdi-thumb-down</v-icon>
                 </v-btn>
+                <v-btn icon color="blue-grey">
+                  <v-icon color="blue-grey">mdi-alert-box</v-icon>
+                </v-btn>
               </v-btn-toggle>
             </v-card-actions>
           </v-col>
@@ -157,6 +160,28 @@
             <v-chip
               v-for="item in this.curQuestions.filter(
                 (qa) => !this.filteredQAIds.has(qa.id) && qa.label == 1
+              )"
+              :key="item.id"
+            >
+              {{ item.question + " " + item.answer }}
+            </v-chip>
+          </v-chip-group>
+        </div>
+      </v-sheet>
+
+      <v-sheet 
+        elevation="10" 
+        rounded="xl" 
+        v-show="curQuestions.length > 0">
+        <v-sheet class="pa-1 my-2 blue-grey text-center" dark rounded="t-xl">
+          Inadequate QAs
+        </v-sheet>
+
+        <div class="pa-4">
+          <v-chip-group active-class="blue-grey--text" column>
+            <v-chip
+              v-for="item in this.curQuestions.filter(
+                (qa) => !this.filteredQAIds.has(qa.id) && qa.label == 2
               )"
               :key="item.id"
             >
