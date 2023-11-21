@@ -317,7 +317,7 @@ export default {
             x.predicateId == this.curPredicateId &&
             !this.filteredQAIds.has(x.id)
         )
-        .sort((a, b) => a.answerStartChar - b.answerEndChar);
+        .sort((a, b) => a.answerStartToken - b.answerEndToken);
     },
     remainingQAs: function () {
       return this.curQuestions.filter((x) => !this.viewedQAs.includes(x.id));

@@ -159,8 +159,11 @@ import vuetify from "@/plugins/vuetify";
 // import jsonData from "./data/annotation_files_frank/fb1117897822bddb6586aa283e4a67d82b507f3a_bart.json"
 // import jsonData from "./data/annotation_files_frank/578933f933255e7e22695c68f7e544dbc749dae3_bart.json"
 
+
+import jsonData from "./data/aggrefact/0.json"
+
 // import jsonData from "./data/tmp.json"
-import jsonData from "../../evaluation/data/arie/291_bart_cnndm.json"
+// import jsonData from "../../evaluation/data/arie/61_bart_xsum.json"
 
 // import jsonData from "../../evaluation/data/arie/33_bart_xsum.json"
 // import jsonData from "/Users/arie/Downloads/4_bart_xsum (1).json"
@@ -225,7 +228,6 @@ export default {
     data.predicates = data.spans.filter((x) => x.predicate);
     data.answers = data.spans.filter((x) => !x.predicate);
     data.negativeSpans = new Set();
-    data.negativeQAs = new Set();
     data.filteredLocalQAs = data.qas;
     data.currentSpan = data.spans.slice(
       data.spans[0].start,
@@ -352,6 +354,8 @@ export default {
 
 </style>
 
+
+<!-- This is hack for loading the CSS of vuetify -->
 <style type="text/css" id="vuetify-theme-stylesheet">
   .v-application a { color: #1976d2; }
   .v-application .primary {
