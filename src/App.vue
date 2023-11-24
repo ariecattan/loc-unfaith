@@ -73,7 +73,7 @@
                 <QALevel
                   ref="qa"
                   :summary="summary"
-                  :qas="qas"
+                  :qas="filteredLocalQAs"
                   :predicates="predicates"
                   :answers="answers"
                   :negativeSpans="Array.from(negativeSpans)"
@@ -160,7 +160,8 @@ import vuetify from "@/plugins/vuetify";
 // import jsonData from "./data/annotation_files_frank/578933f933255e7e22695c68f7e544dbc749dae3_bart.json"
 
 
-import jsonData from "./data/aggrefact/0.json"
+// import jsonData from "./data/aggrefact/0.json"
+import jsonData from "./data/cliff/30_pegasus_xsum.json"
 
 // import jsonData from "./data/tmp.json"
 // import jsonData from "../../evaluation/data/arie/61_bart_xsum.json"
@@ -226,9 +227,9 @@ export default {
     data.selectedTabIndex = 0;
     data.done = false;
     data.predicates = data.spans.filter((x) => x.predicate);
-    data.answers = data.spans.filter((x) => !x.predicate);
+    data.answers = data.spans.filter((x) => !x.predicate & !x.include_predicate);
     data.negativeSpans = new Set();
-    data.filteredLocalQAs = data.qas;
+    data.filteredLocalQAs = data.qas; // init with all QAs
     data.currentSpan = data.spans.slice(
       data.spans[0].start,
       data.spans[0].end + 1
@@ -245,7 +246,7 @@ export default {
   computed: {
     showFinishButton: function () {
       return this.qas.every((qa) => "label" in qa && qa.label != undefined);
-    },
+    }
   },
   methods: {
     filterQAs: function (set) {
@@ -265,7 +266,12 @@ export default {
         (x) => x.predicate && !negativeSpans.has(x.id)
       );
       let filteredQAIds = new Set();
-      this.filteredLocalQAs = this.qas.filter((x) => !filteredQAIds.has(x.id));
+      this.negativeSpans.forEach((spanId) => {
+        this.answers[spanId].qaIds.forEach((qaId) => {
+          filteredQAIds.add(qaId);
+        });
+      });
+      this.filteredLocalQAs = this.qas.filter((x) => !filteredQAIds.has(x.questionId));
     },
     nextStep: function () {
       this.selectedTabIndex += 1;
@@ -324,7 +330,7 @@ export default {
         clusters.forEach((cluster, clusterId) => {
           positiveQAs[predicateId].push([]);
           cluster.forEach((qa) => {
-            positiveQAs[predicateId][clusterId].push(qa.id);
+            positiveQAs[predicateId][clusterId].push(qa.questionId);
           });
         });
       }

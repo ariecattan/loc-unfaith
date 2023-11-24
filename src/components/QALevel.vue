@@ -52,7 +52,7 @@
     <v-container>
       <v-card
         v-for="question in this.curQuestions"
-        :key="question.id"
+        :key="question.questionId"
         outlined
         rounded="green"
         class="my-2"
@@ -62,7 +62,7 @@
           <v-col cols="9">
             <v-card-text class="subtitle-1">
               {{ question.question + " " }}
-              <span v-if="curQAIndex == question.id" class="answer">{{
+              <span v-if="curQAIndex == question.questionId" class="answer">{{
                 question.answer
               }}</span>
               <span v-else>{{ question.answer }}</span>
@@ -134,7 +134,7 @@
               group="clusters"
               :emptyInsertThreshold="500"
             >
-              <v-chip v-for="qa in cluster" :key="qa.id" @click="selectQA(qa)">
+              <v-chip v-for="qa in cluster" :key="qa.questionId" @click="selectQA(qa)">
                 {{ qa.question + " " + qa.answer }}
               </v-chip>
             </draggable>
@@ -159,9 +159,9 @@
           <v-chip-group active-class="error--text" column>
             <v-chip
               v-for="item in this.curQuestions.filter(
-                (qa) => !this.filteredQAIds.has(qa.id) && qa.label == 1
+                (qa) => qa.label == 1
               )"
-              :key="item.id"
+              :key="item.questionId"
             >
               {{ item.question + " " + item.answer }}
             </v-chip>
@@ -181,9 +181,9 @@
           <v-chip-group active-class="blue-grey--text" column>
             <v-chip
               v-for="item in this.curQuestions.filter(
-                (qa) => !this.filteredQAIds.has(qa.id) && qa.label == 2
+                (qa) => qa.label == 2
               )"
-              :key="item.id"
+              :key="item.questionId"
             >
               {{ item.question + " " + item.answer }}
             </v-chip>
@@ -312,15 +312,11 @@ export default {
     },
     curQuestions: function () {
       return this.qas
-        .filter(
-          (x) =>
-            x.predicateId == this.curPredicateId &&
-            !this.filteredQAIds.has(x.id)
-        )
-        .sort((a, b) => a.answerStartToken - b.answerEndToken);
+      .filter(qa => qa.predicateId == this.curPredicateId)
+      .sort((a, b) => (a.answerStartToken - b.answerEndToken));
     },
     remainingQAs: function () {
-      return this.curQuestions.filter((x) => !this.viewedQAs.includes(x.id));
+      return this.curQuestions.filter((x) => !this.viewedQAs.includes(x.questionId));
     },
     curQA: function () {
       return this.remainingQAs[0];
@@ -336,7 +332,7 @@ export default {
       );
     },
     goodQAs: function () {
-      return this.qas.filter((qa) => !this.filteredQAIds.has(qa.id));
+      return this.qas.filter((qa) => !this.filteredQAIds.has(qa.questionId));
     },
     positiveQACurrentPredicate: function() {
       return this.positiveQAs[this.curPredicate.id];
@@ -376,7 +372,7 @@ export default {
       );
     },
     nextQA: function () {
-      this.viewedQAs.push(this.curQA.id);
+      this.viewedQAs.push(this.curQA.questionId);
     },
     updateCoveredQAs: function () {
       let allTruePositives = this.curQuestions.filter(
@@ -417,7 +413,7 @@ export default {
       return predicate.start + "-" + predicate.end;
     },
     selectQA: function(qa) {
-      this.curQAIndex = qa.id; 
+      this.curQAIndex = qa.questionId; 
       this.curAnswers = new Set();
       
       let answers = qa.answerStartToken.map((token, i) => [
