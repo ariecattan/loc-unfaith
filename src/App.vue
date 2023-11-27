@@ -162,7 +162,9 @@ import vuetify from "@/plugins/vuetify";
 
 
 // import jsonData from "./data/aggrefact/0.json"
-import jsonData from "./data/cliff/30_pegasus_xsum.json"
+// import jsonData from "./data/cliff/30_pegasus_xsum.json"
+
+import jsonData from "../annotations/arie/30_bart_xsum.json"
 
 // import jsonData from "./data/tmp.json"
 // import jsonData from "../../evaluation/data/arie/61_bart_xsum.json"
@@ -226,11 +228,28 @@ export default {
     data.selectedTab = "Span";
     data.e1 = 1;
     data.selectedTabIndex = 0;
-    data.done = false;
+    data.done = data.done ? data.done : false;
     data.predicates = data.spans.filter((x) => x.predicate);
     data.answers = data.spans.filter((x) => !x.predicate & !x.include_predicate);
-    data.negativeSpans = new Set();
-    data.filteredLocalQAs = data.qas; // init with all QAs
+
+    data.negativeSpans = new Set(
+      data.answers
+      .map((element, index) => "label" in element & element.label == 0 ? index : -1)
+      .filter(index => index !== -1)
+    );
+    
+    // update filtered QA Ids according to wrong spans 
+    // useful for visualizing annotations 
+    // at init, negative spans will be empty so filteredQas will include all questions
+    let filteredQAIds = new Set();
+    data.negativeSpans.forEach((spanId) => {
+      data.answers[spanId].qaIds.forEach((qaId) => {
+        filteredQAIds.add(qaId);
+      }); 
+    });
+
+    data.filteredLocalQAs = data.qas.filter(x => !filteredQAIds.has(x.questionId));
+
     data.currentSpan = data.spans.slice(
       data.spans[0].start,
       data.spans[0].end + 1
@@ -242,7 +261,7 @@ export default {
     data.dialog = false;
     data.annotatedQAs = data.positiveQAs ? data.positiveQAs : {};
     data.notes = data.notes ? data.notes : "";
-    data.showNextStep = false;
+    data.showNextStep = data.done ? true : false; // if data includes annotation, show next step
     return data;
   },
   computed: {
@@ -265,6 +284,7 @@ export default {
     updateShowNextStep: function() {
       this.showNextStep = this.answers.every(x => 'label' in x);
     },
+
     updateNegativeSpans: function (negativeSpans) {
       this.negativeSpans = negativeSpans;
       this.filteredPredicates = this.spans.filter(
@@ -297,6 +317,7 @@ export default {
         positiveQAs: this.getPositiveQAs(),
         notes: this.notes,
         duration: diff,
+        done: true
       };
 
       const doc = document.createElement("a");
