@@ -53,7 +53,7 @@
             </v-row>
 
             <div style="text-align: right">
-              <v-btn color="primary" @click="e1 = 2">
+              <v-btn color="primary" @click="e1 = 2" v-show="showNextStep">
                 Next Step <v-icon> mdi-arrow-right</v-icon>
               </v-btn>
             </div>
@@ -113,6 +113,7 @@
                     :class="['ma-3', 'white--text']"
                     color="primary"
                     @click="finish()"
+                    v-show="showFinishButton"
                   >
                     Finish <v-icon> mdi-checkbox-marked-circle</v-icon>
                   </v-btn>
@@ -241,11 +242,12 @@ export default {
     data.dialog = false;
     data.annotatedQAs = data.positiveQAs ? data.positiveQAs : {};
     data.notes = data.notes ? data.notes : "";
+    data.showNextStep = false;
     return data;
   },
   computed: {
     showFinishButton: function () {
-      return this.qas.every((qa) => "label" in qa && qa.label != undefined);
+      return this.filteredLocalQAs.every((qa) => "label" in qa && qa.label != undefined);
     }
   },
   methods: {
@@ -254,11 +256,14 @@ export default {
     },
     assignPositive: function (spanIndex) {
       this.answers[spanIndex].label = 1;
-      this.$forceUpdate();
+      this.updateShowNextStep();
     },
     assignNegative: function (spanIndex) {
       this.answers[spanIndex].label = 0;
-      this.$forceUpdate();
+      this.updateShowNextStep();
+    },
+    updateShowNextStep: function() {
+      this.showNextStep = this.answers.every(x => 'label' in x);
     },
     updateNegativeSpans: function (negativeSpans) {
       this.negativeSpans = negativeSpans;
