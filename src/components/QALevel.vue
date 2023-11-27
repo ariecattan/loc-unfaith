@@ -111,8 +111,8 @@
               .length + 1
           }}/{{ predicates.length }} &nbsp;&nbsp; Question
           {{
-            goodQAs.filter((qa) => "label" in qa && qa.label != null).length
-          }}/{{ goodQAs.length }}</span
+            this.qas.filter((qa) => "label" in qa && qa.label != null).length
+          }}/{{ this.qas.length }}</span
         >
       </div>
 
@@ -300,17 +300,6 @@ export default {
     }
   },
   computed: {
-    filteredQAIds: function () {
-      let filteredQAIds = new Set();
-
-      this.negativeSpans.forEach((spanId) => {
-        this.answers[spanId].qaIds.forEach((qaId) => {
-          filteredQAIds.add(qaId);
-        });
-      });
-
-      return filteredQAIds;
-    },
     remainingPredicates: function () {
       return this.predicates.filter(
         (x) => !this.viewedPredicates.includes(x.id)
@@ -342,9 +331,6 @@ export default {
       return this.viewedQAs.filter(
         (questionId) => this.qas[questionId].label == 0
       );
-    },
-    goodQAs: function () {
-      return this.qas.filter((qa) => !this.filteredQAIds.has(qa.questionId));
     },
     positiveQACurrentPredicate: function() {
       return this.positiveQAs[this.curPredicate.id];
