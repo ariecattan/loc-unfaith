@@ -163,8 +163,9 @@ import vuetify from "@/plugins/vuetify";
 
 // import jsonData from "./data/aggrefact/0.json"
 // import jsonData from "./data/cliff/30_pegasus_xsum.json"
+import jsonData from "../annotations/test/30_pegasus_xsum.json"
 
-import jsonData from "../annotations/arie/30_bart_xsum.json"
+// import jsonData from "../annotations/arie/30_bart_xsum.json"
 
 // import jsonData from "./data/tmp.json"
 // import jsonData from "../../evaluation/data/arie/61_bart_xsum.json"
@@ -260,6 +261,7 @@ export default {
     // data.positiveQAs = {};
     data.dialog = false;
     data.annotatedQAs = data.positiveQAs ? data.positiveQAs : {};
+    
     data.notes = data.notes ? data.notes : "";
     data.showNextStep = data.done ? true : false; // if data includes annotation, show next step
     return data;
@@ -314,7 +316,7 @@ export default {
         summary: this.summary,
         spans: this.spans,
         qas: this.qas,
-        positiveQAs: this.getPositiveQAs(),
+        positiveQAs: this.$refs.qa.positiveQAs, // this.getPositiveQAs(),
         notes: this.notes,
         duration: diff,
         done: true
