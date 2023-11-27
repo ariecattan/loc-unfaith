@@ -11,19 +11,31 @@
         and an <span class="answer">argument</span>. 
         For each QA, click on <v-btn class="disable-events" x-small color="success" icon elevation="0">
                   <v-icon color="success">mdi-thumb-up</v-icon>
-                </v-btn> if it's covered by the source document 
-          and on <v-btn class="disable-events" x-small color="error" icon elevation="0">
+                </v-btn> if it's covered by the source document, 
+           <v-btn class="disable-events" x-small color="error" icon elevation="0">
                   <v-icon color="error">mdi-thumb-down</v-icon>
                 </v-btn>
-          if the relation cannot be implied from the source document. 
+          if the relation cannot be implied from the source document and 
+                <v-btn class="disable-events" x-small icon color="blue-grey" elevation="0">
+                  <v-icon color="blue-grey">mdi-alert-box</v-icon>
+                </v-btn>
+              if the QA does not make sense.
         
+          <br/>
           <br/>
           If the QAs pairs are implied from different events in the source document, 
           click on <v-btn class="disable-events" x-small fab dark color="success" width="20px" height="20px" elevation="0">
           <v-icon dark> mdi-plus </v-icon>
         </v-btn>
-                to create a new cluster and drag-and-drop the QA in their corresponding clusters.
-        
+            to create a new cluster and drag-and-drop the QA in their corresponding clusters.
+        For example, if the source document describes two different football event "Barcelona beat Valencia 
+        in Camp Nou on Wednesday" and "Paris-Saint-Germain beats Real Madrid on Saturday in Paris"
+        and the summary mixes the information and writes "Barcelona beats Real Madrid in Camp Nou on Saturday". 
+        In this case, you should assign all QA as positives with the <v-btn class="disable-events" x-small fab dark color="success" width="20px" height="20px" elevation="0">
+          <v-icon dark> mdi-plus </v-icon>
+        </v-btn> button and create two groups of QAs: <br/>
+        (1) Who beats someone? Barcelona; Where someone beats someone? in Camp Nou  <br/>
+        (2) Who was beaten? Real Madrid; When someone beats someone? on Saturday
       
         </v-card-text>
       </v-card>
