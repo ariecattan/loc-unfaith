@@ -162,7 +162,7 @@ import vuetify from "@/plugins/vuetify";
 
 
 // import jsonData from "./data/aggrefact/0.json"
-import jsonData from "./data/cliff/30_pegasus_xsum.json"
+import jsonData from "./data/cliff/8_bart_xsum.json"
 
 // import jsonData from "./data/tmp.json"
 // import jsonData from "../../evaluation/data/arie/61_bart_xsum.json"
@@ -226,7 +226,6 @@ export default {
     data.selectedTab = "Span";
     data.e1 = 1;
     data.selectedTabIndex = 0;
-    data.done = false;
     data.predicates = data.spans.filter((x) => x.predicate);
     data.answers = data.spans.filter((x) => !x.predicate & !x.include_predicate);
     data.negativeSpans = new Set();
@@ -243,10 +242,14 @@ export default {
     data.annotatedQAs = data.positiveQAs ? data.positiveQAs : {};
     data.notes = data.notes ? data.notes : "";
     data.showNextStep = false;
+    data.local = data.local ? data.local : false;
     return data;
   },
   computed: {
     showFinishButton: function () {
+      return this.local && this.filteredLocalQAs.every((qa) => "label" in qa && qa.label != undefined);
+    },
+    done: function() {
       return this.filteredLocalQAs.every((qa) => "label" in qa && qa.label != undefined);
     }
   },
