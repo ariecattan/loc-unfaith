@@ -228,8 +228,25 @@ export default {
     data.selectedTabIndex = 0;
     data.predicates = data.spans.filter((x) => x.predicate);
     data.answers = data.spans.filter((x) => !x.predicate & !x.include_predicate);
-    data.negativeSpans = new Set();
-    data.filteredLocalQAs = data.qas; // init with all QAs
+
+    data.negativeSpans = new Set(
+      data.answers
+      .map((element, index) => "label" in element & element.label == 0 ? index : -1)
+      .filter(index => index !== -1)
+    );
+    
+    // update filtered QA Ids according to wrong spans 
+    // useful for visualizing annotations 
+    // at init, negative spans will be empty so filteredQas will include all questions
+    let filteredQAIds = new Set();
+    data.negativeSpans.forEach((spanId) => {
+      data.answers[spanId].qaIds.forEach((qaId) => {
+        filteredQAIds.add(qaId);
+      }); 
+    });
+
+    data.filteredLocalQAs = data.qas.filter(x => !filteredQAIds.has(x.questionId));
+
     data.currentSpan = data.spans.slice(
       data.spans[0].start,
       data.spans[0].end + 1
@@ -240,9 +257,11 @@ export default {
     // data.positiveQAs = {};
     data.dialog = false;
     data.annotatedQAs = data.positiveQAs ? data.positiveQAs : {};
+    
     data.notes = data.notes ? data.notes : "";
     data.showNextStep = false;
     data.local = data.local ? data.local : false;
+    data.showNextStep = data.done ? true : false; // if data includes annotation, show next step
     return data;
   },
   computed: {
@@ -268,6 +287,7 @@ export default {
     updateShowNextStep: function() {
       this.showNextStep = this.answers.every(x => 'label' in x);
     },
+
     updateNegativeSpans: function (negativeSpans) {
       this.negativeSpans = negativeSpans;
       this.filteredPredicates = this.spans.filter(
@@ -297,9 +317,10 @@ export default {
         summary: this.summary,
         spans: this.spans,
         qas: this.qas,
-        positiveQAs: this.getPositiveQAs(),
+        positiveQAs: this.$refs.qa.positiveQAs, // this.getPositiveQAs(),
         notes: this.notes,
         duration: diff,
+        done: true
       };
 
       const doc = document.createElement("a");

@@ -278,16 +278,18 @@ export default {
     data.viewedPredicates = [];
     data.viewedQAs = [];
 
-    data.positiveQAs = {};
-    this.predicates.forEach(predicate => {
-      if (this.annotatedQAs && predicate.id in this.annotatedQAs) {
-        data.positiveQAs[predicate.id] = this.annotatedQAs[predicate.id]
-      }
-      else {
-        data.positiveQAs[predicate.id] = [[]];
-      }
+    data.positiveQAs = this.annotatedQAs;
+    // data.positiveQAs = {};
+
+    // this.predicates.forEach(predicate => {
+    //   if (this.annotatedQAs && predicate.id in this.annotatedQAs) {
+    //     data.positiveQAs[predicate.id] = this.annotatedQAs[predicate.id]
+    //   }
+    //   else {
+    //     data.positiveQAs[predicate.id] = [[]];
+    //   }
       
-    });
+    // });
 
     data.curQAIndex = 0;
     data.curAnswers = new Set();
@@ -372,27 +374,43 @@ export default {
     nextQA: function () {
       this.viewedQAs.push(this.curQA.questionId);
     },
+    checkSameArray: function (arr1, arr2) {
+      if (arr1.length !== arr2.length) {
+        return false;
+    }
+
+      // Sort the arrays
+      const sortedArr1 = arr1.slice().sort();
+      const sortedArr2 = arr2.slice().sort();
+
+      // Check if the sorted arrays are equal
+      return sortedArr1.every((value, index) => value === sortedArr2[index]);
+    },
     updateCoveredQAs: function () {
       let allTruePositives = this.curQuestions.filter(
         (x) => "label" in x && x.label == 0
-      );
-      let allCurrentPositives = this.positiveQAs[this.curPredicate.id].flat();
+      ).map(x => x.questionId);
+      let allCurrentPositives = this.positiveQAs[this.curPredicate.id].flat().map(x => x.questionId);
 
-      // remove false positives
-      this.positiveQAs[this.curPredicate.id].forEach((cluster) => {
-        cluster.forEach((qa, index) => {
-          if (!allTruePositives.includes(qa)) {
-            cluster.splice(index, 1);
+      if (!this.checkSameArray(allCurrentPositives, allTruePositives)) {
+         // remove false positives
+        this.positiveQAs[this.curPredicate.id].forEach((cluster) => {
+          cluster.forEach((qa, index) => {
+            if (!allTruePositives.includes(qa.questionId)) {
+              cluster.splice(index, 1);
+            }
+          });
+        });
+
+        // add true positives
+        allTruePositives.forEach((qaId) => {
+          if (!allCurrentPositives.includes(qaId)) {
+            this.positiveQAs[this.curPredicate.id][0].push(this.curQuestions.filter(x => x.questionId == qaId)[0]);
           }
         });
-      });
+      }
 
-      // add true positives
-      allTruePositives.forEach((qa) => {
-        if (!allCurrentPositives.includes(qa)) {
-          this.positiveQAs[this.curPredicate.id][0].push(qa);
-        }
-      });
+     
     },
     addCluster: function () {
       this.positiveQAs[this.curPredicate.id].push([]);
