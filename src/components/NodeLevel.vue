@@ -16,17 +16,6 @@
           <v-icon dark width="14px" height="14px" > mdi-minus </v-icon>
         </v-btn>
         if it's an hallucination. 
-
-
-        
-        <br/>
-        
-        Note: To assist the annotation task, we highlight 
-        the occurrences of each sumamry <span class="current">span</span> in the 
-        the source document (left). However, we ask you not to rely 
-        only on these highlights because a span might be correct 
-        even without any occurrences in the source. 
-        
       
       </v-card-text>
     </v-card>

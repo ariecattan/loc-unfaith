@@ -6,7 +6,7 @@
         <v-card-text>
           
 
-        Here, we decompose the summary information into a list of question-answer (QA) pairs,
+        Here, you'll be presented with a list of question-answer (QA) pairs,
         where each QA corresponds to a relation between a <span class="current">predicate</span>
         and an <span class="answer">argument</span>. 
         For each QA, click on <v-btn class="disable-events" x-small color="success" icon elevation="0">
@@ -19,24 +19,9 @@
                 <v-btn class="disable-events" x-small icon color="blue-grey" elevation="0">
                   <v-icon color="blue-grey">mdi-alert-box</v-icon>
                 </v-btn>
-              if the QA does not make sense.
+              if the QA is wrong or does not make sense.
         
-          <br/>
-          <br/>
-          If the QAs pairs are implied from different events in the source document, 
-          click on <v-btn class="disable-events" x-small fab dark color="success" width="20px" height="20px" elevation="0">
-          <v-icon dark> mdi-plus </v-icon>
-        </v-btn>
-            to create a new cluster and drag-and-drop the QA in their corresponding clusters.
-        For example, if the source document describes two different football event "Barcelona beat Valencia 
-        in Camp Nou on Wednesday" and "Paris-Saint-Germain beats Real Madrid on Saturday in Paris"
-        and the summary mixes the information and writes "Barcelona beats Real Madrid in Camp Nou on Saturday". 
-        In this case, you should assign all QA as positives with the <v-btn class="disable-events" x-small fab dark color="success" width="20px" height="20px" elevation="0">
-          <v-icon dark> mdi-plus </v-icon>
-        </v-btn> button and create two groups of QAs: <br/>
-        (1) Who beats someone? Barcelona; Where someone beats someone? in Camp Nou  <br/>
-        (2) Who was beaten? Real Madrid; When someone beats someone? on Saturday
-      
+         
         </v-card-text>
       </v-card>
 
@@ -73,7 +58,13 @@
         <v-row>
           <v-col cols="9">
             <v-card-text class="subtitle-1">
-              {{ question.question + " " }}
+              <!-- display each token of the question separately without "?" -->
+              <span v-for="(token, index) in question.question.slice(0, -1).split(' ')" 
+              :key="index" 
+              :class="{ 'current': index === question.question.verbTokenId }">
+              {{ token }}              
+            </span>?
+              
               <span v-if="curQAIndex == question.questionId" class="answer">{{
                 question.answer
               }}</span>
@@ -278,18 +269,18 @@ export default {
     data.viewedPredicates = [];
     data.viewedQAs = [];
 
-    data.positiveQAs = this.annotatedQAs;
-    // data.positiveQAs = {};
+    // data.positiveQAs = this.annotatedQAs;
+    data.positiveQAs = {};
 
-    // this.predicates.forEach(predicate => {
-    //   if (this.annotatedQAs && predicate.id in this.annotatedQAs) {
-    //     data.positiveQAs[predicate.id] = this.annotatedQAs[predicate.id]
-    //   }
-    //   else {
-    //     data.positiveQAs[predicate.id] = [[]];
-    //   }
+    this.predicates.forEach(predicate => {
+      if (this.annotatedQAs && predicate.id in this.annotatedQAs) {
+        data.positiveQAs[predicate.id] = this.annotatedQAs[predicate.id]
+      }
+      else {
+        data.positiveQAs[predicate.id] = [[]];
+      }
       
-    // });
+    });
 
     data.curQAIndex = 0;
     data.curAnswers = new Set();
