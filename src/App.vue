@@ -162,7 +162,7 @@ import vuetify from "@/plugins/vuetify";
 
 
 // import jsonData from "./data/aggrefact/0.json"
-import jsonData from "./data/cliff/8_bart_xsum.json"
+import jsonData from "./data/cliff_flan_t5_xl/8_bart_xsum.json"
 
 // import jsonData from "./data/tmp.json"
 // import jsonData from "../../evaluation/data/arie/61_bart_xsum.json"
@@ -272,6 +272,13 @@ export default {
       return this.filteredLocalQAs.every((qa) => "label" in qa && qa.label != undefined);
     }
   },
+  watch: {
+    done: function(newVal, oldVal) {
+      if (newVal && newVal != oldVal) {
+        this.$alert("Thanks for completing the annotation! Please double check you annotation and submit your work!", "Done", "success")
+      }
+    }
+  },
   methods: {
     filterQAs: function (set) {
       return this.qas.filter((x) => set.has(x.id));
@@ -286,6 +293,10 @@ export default {
     },
     updateShowNextStep: function() {
       this.showNextStep = this.answers.every(x => 'label' in x);
+      if (this.showNextStep) {
+        this.$alert("First step is done! Please move on to the next step! \
+          Remember that you can always come back to the phrase classification step.", "Done", "info");
+      }
     },
 
     updateNegativeSpans: function (negativeSpans) {

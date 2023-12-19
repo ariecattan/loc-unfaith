@@ -61,7 +61,7 @@
               <!-- display each token of the question separately without "?" -->
               <span v-for="(token, index) in question.question.slice(0, -1).split(' ')" 
               :key="index" 
-              :class="{ 'current': index === question.question.verbTokenId }">
+              :class="{ 'current': index === question.verbTokenId }">
               {{ token }}              
             </span>?
               
@@ -106,7 +106,26 @@
           }}/{{ this.qas.length }}</span
         >
       </div>
-
+      <div class="text-center my-4">
+        <v-btn
+          class="ma-2"
+          outlined
+          plain
+          @click="previousPredicate()"
+          :disabled="viewedPredicates.length == 0"
+        >
+          Previous Predicate
+        </v-btn>
+        <v-btn
+          class="ma-2"
+          outlined
+          plain
+          @click="nextPredicate()"
+          :disabled="!this.showNextPredicate()"
+        >
+          Next Predicate
+        </v-btn>
+      </div>
       <v-sheet
         v-for="(cluster, clusterIndex) in positiveQAs[curPredicate.id]"
         :key="'cluster-' + clusterIndex"
@@ -195,26 +214,7 @@
       </v-sheet>
 
 
-      <div class="text-center my-4">
-        <v-btn
-          class="ma-2"
-          outlined
-          plain
-          @click="previousPredicate()"
-          :disabled="viewedPredicates.length == 0"
-        >
-          Previous Predicate
-        </v-btn>
-        <v-btn
-          class="ma-2"
-          outlined
-          plain
-          @click="nextPredicate()"
-          :disabled="!this.showNextPredicate()"
-        >
-          Next Predicate
-        </v-btn>
-      </div>
+      
     </v-container>
   </v-container>
 </template>

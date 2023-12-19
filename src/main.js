@@ -3,7 +3,9 @@ import App from './App.vue'
 // import vuetify from '@/plugins/vuetify'
 import wrap from '@vue/web-component-wrapper';
 
-
+import VueSimpleAlert from "vue-simple-alert";
+ 
+Vue.use(VueSimpleAlert);
 
 Vue.config.productionTip = false
 
