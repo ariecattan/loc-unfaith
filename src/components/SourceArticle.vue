@@ -30,24 +30,25 @@ export default {
   },
   props: {
     source: Array,
-    mention: Array,
-    answer: Array
+    highlightedSpans: Array,  // 1st step and predicate in 2nd step
+    highlightedAnswers: Array // for answer in 2nd step
   },
   computed: {
-    sourceLemma: function() {
-      return this.source.map(x => x.lemma)
-    },
-    matchedMention: function() {
-      let spanTokens = this.mention.map(x => x.lemma);
-      return this.findAllMatchedTokens(this.sourceLemma, spanTokens);
-    },
-    matchedAnswer: function() {
-      if (this.answer == undefined) {
-        return [];
-      }
-      let answerTokens = this.answer.map(x => x.lemma);
-      return this.findAllMatchedTokens(this.sourceLemma, answerTokens);
-    }
+    // sourceLemma: function() {
+    //   return this.source.map(x => x.lemma)
+    // },
+    // matchedMention: function() {
+    //   let spanTokens = this.mention.map(x => x.lemma);
+    //   return this.findAllMatchedTokens(this.sourceLemma, spanTokens);
+    // },
+    // matchedAnswer: function() {
+    //   if (this.answer == undefined || this.answer.length == 0) {
+    //     return [];
+    //   }
+    //   let answerTokens = this.answer.map(x => x.text);      
+      
+    //   return this.findAllMatchedTokens(this.sourceLemma, answerTokens);
+    // }
     // matchedToken: function() {      
     //   let sourceTokens = this.source.map(x => x.lemma);
     //   let spanTokens = this.spans.map(x => x.lemma);
@@ -113,9 +114,9 @@ export default {
       return allIndexes;
     },
     getTokenClass: function (token) {
-      if (this.matchedMention.includes(token.id)) {
+      if (this.highlightedSpans.includes(token.id)) {
         return "current";
-      } else if (this.matchedAnswer.includes(token.id)) {
+      } else if (this.highlightedAnswers.includes(token.id)) {
         return "answer";
       }
       return "token";

@@ -19,8 +19,8 @@
               <v-col cols="12" sm="5">
                 <SourceArticle
                   :source="this.source"
-                  :mention="currentSpan"
-                  :answer="[]"
+                  :highlightedSpans="highlightedSpans"
+                  :highlightedAnswers="[]"
                 ></SourceArticle>
               </v-col>
               <v-col>
@@ -65,8 +65,8 @@
               <v-col cols="12" sm="5">
                 <SourceArticle
                   :source="this.source"
-                  :mention="currentSpan"
-                  :answer="currentAnswer"
+                  :highlightedSpans="highlightedSpans"
+                  :highlightedAnswers="highlightedAnswers"
                 ></SourceArticle>
               </v-col>
               <v-col>
@@ -162,7 +162,7 @@ import vuetify from "@/plugins/vuetify";
 
 
 // import jsonData from "./data/aggrefact/0.json"
-import jsonData from "./data/cliff_flan_t5_xl/8_bart_xsum.json"
+import jsonData from "./data/cliff/0_bart_xsum.json"
 
 // import jsonData from "./data/tmp.json"
 // import jsonData from "../../evaluation/data/arie/61_bart_xsum.json"
@@ -247,11 +247,8 @@ export default {
 
     data.filteredLocalQAs = data.qas.filter(x => !filteredQAIds.has(x.questionId));
 
-    data.currentSpan = data.spans.slice(
-      data.spans[0].start,
-      data.spans[0].end + 1
-    );
-    data.currentAnswer = [];
+    data.highlightedSpans = data.spans[0].sourceIds ? data.spans[0].sourceIds : [];
+    data.highlightedAnswers = data.qas[0].sourceIds ? data.qas[0].sourceIds : []
     data.start = new Date();
     data.filteredPredicates = data.spans.filter((x) => x.predicate);
     // data.positiveQAs = {};
@@ -344,21 +341,19 @@ export default {
     },
     selectMention: function (span) {
       if (this.e1 == 1) {
-        this.currentSpan = this.summary.slice(span.start, span.end);
+        this.highlightedSpans = span.sourceIds ? span.sourceIds : []
       }
     },
     selectPredicate: function (span) {
       if (this.e1 != 1) {
-        this.currentSpan = this.summary.slice(span.start, span.end);
+        this.highlightedSpans = span.sourceIds ? span.sourceIds : []
       }
     },
     selectAnswers: function (tokenIndexes) {
       if (this.e1 != 1) {
-        this.currentAnswer = Array.from(tokenIndexes)
-          .sort((a, b) => a - b)
-          .map((x) => this.summary[x]);
+        this.highlightedAnswers = tokenIndexes;
       } else {
-        this.currentAnswer = [];
+        this.highlightedAnswers = [];
       }
     },
     getPositiveQAs: function () {
