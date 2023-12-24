@@ -130,45 +130,17 @@
 </template>
 
 <script>
-// import jsonData from "./data/annotation_files/0ceb4cea35c3e964a2e54ec9715de42e1319fd03.json";
-// import jsonData from "./data/annotation_files/69db30b6047a2aadd64f3c6eeb23cc3437078cf1.json"
+
+import Vue from "vue";
+import Vuetify from "vuetify/lib";
+import VueSimpleAlert from "vue-simple-alert";
+
 import NodeLevel from "./components/NodeLevel.vue";
 import SourceArticle from "./components/SourceArticle.vue";
 import QALevel from "./components/QALevel.vue";
-import vuetify from "@/plugins/vuetify";
 
 
-
-
-// import Vuetify from "vuetify/lib";
-// import Vue from "vue";
-
-// FRANK annotation
-
-// XSUM
-
-// import jsonData from "./data/annotation_files_frank/21197406_BERTS2S.json"
-// import jsonData from "./data/annotation_files_frank/39202525_BERTS2S.json";
-// import jsonData from "./data/annotation_files_frank/35082344_BERTS2S.json"
-// import jsonData from "./data/annotation_files_frank/24553569_BERTS2S.json"
-
-// CNN
-// import jsonData from "./data/annotation_files_frank/f364b58c01042c853a5d980e094d680304273162_bart.json"
-// import jsonData from "./data/annotation_files_frank/47681f33b383d3000a13cff5c5429771204619ed_bert_sum.json"
-// import jsonData from "./data/annotation_files_frank/47681f33b383d3000a13cff5c5429771204619ed_bart.json"
-// import jsonData from "./data/annotation_files_frank/ce551de8d9a69e9f2b51ccdd465c8150821936ce_bart.json"
-// import jsonData from "./data/annotation_files_frank/fb1117897822bddb6586aa283e4a67d82b507f3a_bart.json"
-// import jsonData from "./data/annotation_files_frank/578933f933255e7e22695c68f7e544dbc749dae3_bart.json"
-
-
-// import jsonData from "./data/aggrefact/0.json"
-import jsonData from "./data/cliff/0_bart_xsum.json"
-
-// import jsonData from "./data/tmp.json"
-// import jsonData from "../../evaluation/data/arie/61_bart_xsum.json"
-
-// import jsonData from "../../evaluation/data/arie/33_bart_xsum.json"
-// import jsonData from "/Users/arie/Downloads/4_bart_xsum (1).json"
+import jsonData from "./data/cliff_flan_t5_xl_5_epochs_with_source_ids/17_bart_xsum.json"
 
 
 import {
@@ -186,8 +158,9 @@ import {
   VMain,
 } from "vuetify/lib";
 
-// Vue.use(Vuetify);
-// var vuetify = new Vuetify({});
+Vue.use(Vuetify);
+Vue.use(VueSimpleAlert)
+var vuetify = new Vuetify({});
 
 
 

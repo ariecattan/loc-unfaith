@@ -3,18 +3,18 @@ import App from './App.vue'
 // import vuetify from '@/plugins/vuetify'
 import wrap from '@vue/web-component-wrapper';
 
-import VueSimpleAlert from "vue-simple-alert";
+// import VueSimpleAlert from "vue-simple-alert";
  
-Vue.use(VueSimpleAlert);
+// Vue.use(VueSimpleAlert);
 
-Vue.config.productionTip = false
+// Vue.config.productionTip = false
 
 
 
-new Vue({
-  // vuetify,
-  render: h => h(App)
-}).$mount('#app')
+// new Vue({
+//   // vuetify,
+//   render: h => h(App)
+// }).$mount('#app')
 
 
 const WrappedElement = wrap(Vue, App);
