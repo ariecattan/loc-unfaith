@@ -11,10 +11,10 @@ import wrap from '@vue/web-component-wrapper';
 
 
 
-// new Vue({
-//   // vuetify,
-//   render: h => h(App)
-// }).$mount('#app')
+new Vue({
+  // vuetify,
+  render: h => h(App)
+}).$mount('#app')
 
 
 const WrappedElement = wrap(Vue, App);
