@@ -422,6 +422,16 @@ export default {
     selectQA: function(qa) {
       this.curQAIndex = qa.questionId; 
       this.curAnswers = new Set();
+      let answers = qa.answerStartToken.map((token, i) => [
+        token, 
+        qa.answerEndToken[i]  
+      ]);
+
+      answers.forEach((span) => {
+        for (let index = span[0]; index < span[1]; index++) {
+          this.curAnswers.add(index);
+        }
+      })
       let sourceIds = qa.sourceIds ? qa.sourceIds : []
       this.$emit("selectAnswers", sourceIds)
       this.$emit("selectMention", this.curPredicate);
