@@ -247,6 +247,12 @@ export default {
       if (newVal && newVal != oldVal) {
         this.$alert("Thanks for completing the annotation! Please double check you annotation and submit your work!", "Done", "success")
       }
+    },
+    showNextStep: function(newVal, oldVal) {
+      if (newVal && oldVal != newVal) {
+        this.$alert("First step is done! Please move on to the next step! \
+          Remember that you can always come back to the phrase classification step.", "Done", "info");
+      }
     }
   },
   methods: {
@@ -263,10 +269,6 @@ export default {
     },
     updateShowNextStep: function() {
       this.showNextStep = this.answers.every(x => 'label' in x);
-      if (this.showNextStep) {
-        this.$alert("First step is done! Please move on to the next step! \
-          Remember that you can always come back to the phrase classification step.", "Done", "info");
-      }
     },
 
     updateNegativeSpans: function (negativeSpans) {
