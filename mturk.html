@@ -24,7 +24,7 @@ crossorigin="anonymous"></script>
 
 <!-- You must include crowd-form so that your task submits answers to MTurk -->
 
-<div data-app>
+<div data-app onfocus="startTracking()" onblur="stopTracking()">
     <loc-unfaith json="${data}"></loc-unfaith>
   </div>
  
@@ -35,6 +35,9 @@ crossorigin="anonymous"></script>
 
 <script>
 let locUnfaith = document.getElementsByTagName("loc-unfaith")[0].vueComponent;
+let focusStartTime;
+let totalFocusTime = 0;
+
 
 document.querySelector('crowd-form').onsubmit = function (){
     let resultFeild = document.getElementById("result");
@@ -44,7 +47,8 @@ document.querySelector('crowd-form').onsubmit = function (){
         summaryId: locUnfaith.summaryId, 
         positiveQAs: locUnfaith.positiveQAs,
         notes: locUnfaith.notes, 
-        duration: locUnfaith.duration
+        duration: locUnfaith.duration,
+        focus: totalFocusTime + new Date() - focusStartTime
     }
     result.value = JSON.stringify(results);
 }
@@ -64,6 +68,34 @@ function isHITComplete() {
         }        
     }
 }
+
+function startTracking() {
+  focusStartTime = new Date();
+}
+
+function stopTracking() {
+  if (focusStartTime) {
+    const focusEndTime = new Date();
+    const focusDuration = focusEndTime - focusStartTime;
+    totalFocusTime += focusDuration;
+  }
+  focusStartTime = null;
+}
+
+// Use Page Visibility API to handle tab visibility changes
+document.addEventListener('visibilitychange', function() {
+  if (document.visibilityState === 'visible') {
+    // Tab is visible, start tracking
+    startTracking();
+  } else {
+    // Tab is not visible, stop tracking
+    stopTracking();
+  }
+});
+
+// Initial focus tracking when the page is loaded
+document.addEventListener('DOMContentLoaded', startTracking);
+window.addEventListener('blur', stopTracking);
 
 window.onload = disableSubmit;
 </script>
