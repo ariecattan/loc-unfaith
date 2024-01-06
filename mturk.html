@@ -38,17 +38,21 @@ let locUnfaith = document.getElementsByTagName("loc-unfaith")[0].vueComponent;
 let focusStartTime;
 let totalFocusTime = 0;
 
-
 document.querySelector('crowd-form').onsubmit = function (){
     let resultFeild = document.getElementById("result");
     let results = {
-        qas:locUnfaith.qas, 
-        spans:locUnfaith.spans, 
-        summaryId: locUnfaith.summaryId, 
-        positiveQAs: locUnfaith.positiveQAs,
-        notes: locUnfaith.notes, 
-        duration: locUnfaith.duration,
-        focus: totalFocusTime + new Date() - focusStartTime
+      source: locUnfaith.source,
+      sourceIds: locUnfaith.sourceId,
+      dataset: locUnfaith.dataset,
+      summaries: locUnfaith.summaries.map((summary) => ({
+        tokens: summary.tokens,
+        spans: summary.spans,
+        qas: summary.qas,
+        qaClusters: summary.qaClusters,
+        notes: summary.notes
+      })),
+      duration: locUnfaith.duration,
+      focus: totalFocusTime + new Date() - focusStartTime
     }
     result.value = JSON.stringify(results);
 }
