@@ -145,25 +145,34 @@ export default {
   props: {
     summary: Array,
     spans: Array,
+    viewed: Number, 
+    curIndex: Number
   },
   data: function () {
     return {
-      curMentionIndex: 0,
-      mentionsViewed: "label" in this.spans[0] ? this.spans.length - 1 : 0,
-      mentions: this.spans,
+      curMentionIndex: this.curIndex,
+      mentionsViewed: this.viewed,
       viewedIndexes: new Set(),
       positiveList: new Set(this.spans.map((obj, index) => obj.label === 1 ? index : -1)
                   .filter(index => index !== -1)),
       negativeList: new Set(this.spans.map((obj, index) => obj.label === 0 ? index : -1)
                   .filter(index => index !== -1)),
-      done: false,
     };
   },
-
+  watch: {
+    deep: true,
+    summary(oldVal, newVal) {
+      if (newVal && newVal != oldVal) {
+        this.curMentionIndex = this.curIndex;
+        this.mentionsViewed = this.viewed;
+        this.positiveList = new Set(this.spans.map((obj, index) => obj.label === 1 ? index : -1)
+                  .filter(index => index !== -1));
+        this.negativeList = new Set(this.spans.map((obj, index) => obj.label === 0 ? index : -1)
+                  .filter(index => index !== -1));
+      }  
+    }
+  },
   computed: {
-    predicates: function() {
-      return this.spans.filter(x => x.predicate);
-    },
     curMention: function () {
       let curMention = this.spans[this.curMentionIndex];
       this.$emit("selectMention", curMention);
@@ -214,9 +223,8 @@ export default {
         this.mentionsViewed,
         this.spans.length - 1
       );
-      if (this.mentionsViewed == this.spans.length) {
-        this.done = true;
-      }
+      this.$emit("updateCurMentionIndex", this.curMentionIndex);
+      this.$emit("updateMentionsViewed", this.mentionsViewed);
       this.$emit("updateNegativeSpans", this.negativeList);
     },
     selectSpan(event, token) {
@@ -226,10 +234,7 @@ export default {
     },
     selectNode(item) {
       this.curMentionIndex = item;
-    },
-    nextStep() {
-      this.$emit("nextStep");
-    },
+    }
   },
 };
 </script>

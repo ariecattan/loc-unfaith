@@ -1,13 +1,13 @@
 <template>
   <v-app>
     <v-main class="grey lighten-3">
-      <v-stepper v-model="e1" style="height: 100%">
+      <v-stepper v-model="activeSummary.e1" style="height: 100%">
         <v-stepper-header>
-          <v-stepper-step :complete="e1 > 1" step="1"> Span </v-stepper-step>
+          <v-stepper-step :complete="activeSummary.e1 > 1" step="1"> Span </v-stepper-step>
 
           <v-divider></v-divider>
 
-          <v-stepper-step :complete="e1 > 2" step="2">
+          <v-stepper-step :complete="activeSummary.e1 > 2" step="2">
             Question-Answers
           </v-stepper-step>
         </v-stepper-header>
@@ -24,20 +24,38 @@
                 ></SourceArticle>
               </v-col>
               <v-col>
+                <v-container pt-0>
+                <v-container>
+                <div>
+                  <v-btn
+                    v-for="(flag, i) in showButtonFlags"
+                    :key="i"
+                    :disabled="!flag"
+                    :color="getButtonColor(i)"
+                    @click="handleButtonClick(i)"
+                  >
+                    {{ `Summary ${i + 1}` }}
+                  </v-btn>
+                </div>
+              </v-container>
+            </v-container>
                 <NodeLevel
                   ref="node"
-                  :summary="summary"
-                  :spans="answers"
-                  @nextStep="nextStep()"
+                  :summary="activeSummary.tokens"
+                  :spans="activeSummary.answers"
+                  :viewed="activeSummary.mentionsViewed"
+                  :curIndex="activeSummary.curMentionIndex"
                   @selectMention="selectMention($event)"
                   @assignPositive="assignPositive($event)"
                   @assignNegative="assignNegative($event)"
                   @updateNegativeSpans="updateNegativeSpans($event)"
+                  @updateCurMentionIndex="updateCurMentionIndex($event)"
+                  @updateMentionsViewed="updateMentionsViewed($event)"
                 ></NodeLevel>
                 <v-container class="justify-center">
                   
               <v-textarea
-              v-model="notes"
+              v-model="activeSummary.notes"
               color="primary"
             >
               <template v-slot:label>
@@ -53,7 +71,7 @@
             </v-row>
 
             <div style="text-align: right">
-              <v-btn color="primary" @click="e1 = 2" v-show="showNextStep">
+              <v-btn color="primary" @click="activeSummary.e1 = 2" v-show="activeSummary.showNextStep">
                 Next Step <v-icon> mdi-arrow-right</v-icon>
               </v-btn>
             </div>
@@ -70,23 +88,40 @@
                 ></SourceArticle>
               </v-col>
               <v-col>
+                <v-container pt-0>
+                <v-container>
+                <div>
+                  <v-btn
+                    v-for="(flag, i) in showButtonFlags"
+                    :key="i"
+                    :disabled="!flag"
+                    :color="getButtonColor(i)"
+                    @click="handleButtonClick(i)"
+                  >
+                    {{ `Summary ${i + 1}` }}
+                  </v-btn>
+                </div>
+              </v-container>
+            </v-container>
                 <QALevel
                   ref="qa"
-                  :summary="summary"
-                  :qas="filteredLocalQAs"
-                  :predicates="predicates"
-                  :answers="answers"
-                  :negativeSpans="Array.from(negativeSpans)"
-                  :annotatedQAs="annotatedQAs"
+                  :summary="activeSummary.tokens"
+                  :qas="activeSummary.filteredLocalQAs"
+                  :predicates="activeSummary.predicates"
+                  :negativeSpans="Array.from(activeSummary.negativeSpans)"
+                  :annotatedQAs="activeSummary.annotatedQAs"
+                  :viewed="activeSummary.predicatesViewed"
+                  :id="activeSummaryId"
                   @selectMention="selectPredicate($event)"
                   @selectAnswers="selectAnswers($event)"
-                  @previousStep="previousStep()"
+                  @updatePredicatesViewed="updatePredicatesViewed($event)"
+                  @updateQAClusters="updateQAClusters($event)"
                 ></QALevel>
 
                 <v-container class="justify-center">
                   
                   <v-textarea
-                  v-model="notes"
+                  v-model="activeSummary.notes"
                   color="primary"
                 >
                   <template v-slot:label>
@@ -104,11 +139,12 @@
               <v-btn
                 :class="['ma-3', 'white--text']"
                 color="primary"
-                @click="e1 = 1"
+                @click="activeSummary.e1 = 1"
               >
                 <v-icon> mdi-arrow-left</v-icon> Previous Step
               </v-btn>
-
+              
+              
               <v-btn
                     :class="['ma-3', 'white--text']"
                     color="primary"
@@ -140,8 +176,9 @@ import SourceArticle from "./components/SourceArticle.vue";
 import QALevel from "./components/QALevel.vue";
 
 
-import jsonData from "./data/cliff_flan_t5_xl_5_epochs_with_source_ids/17_bart_xsum.json"
+// import jsonData from "./data/cliff_flan_t5_xl_5_epochs_with_source_ids/17_bart_xsum.json"
 
+import jsonData from "./data/multiple_summaries/8_xsum.json"
 
 import {
   VIcon,
@@ -195,111 +232,144 @@ export default {
       !this.json || this.json == "${data}"
         ? jsonData
         : JSON.parse(unescape(this.json).replace("\u00e2\u20ac\u2122", "'"));
-    data.links = ["Span", "QAs", "Global"];
-    data.selectedTab = "Span";
-    data.e1 = 1;
-    data.selectedTabIndex = 0;
-    data.predicates = data.spans.filter((x) => x.predicate);
-    data.answers = data.spans.filter((x) => !x.predicate & !x.include_predicate);
 
-    data.negativeSpans = new Set(
-      data.answers
-      .map((element, index) => "label" in element & element.label == 0 ? index : -1)
-      .filter(index => index !== -1)
-    );
-    
-    // update filtered QA Ids according to wrong spans 
-    // useful for visualizing annotations 
-    // at init, negative spans will be empty so filteredQas will include all questions
-    let filteredQAIds = new Set();
-    data.negativeSpans.forEach((spanId) => {
-      data.answers[spanId].qaIds.forEach((qaId) => {
-        filteredQAIds.add(qaId);
-      }); 
-    });
-
-    data.filteredLocalQAs = data.qas.filter(x => !filteredQAIds.has(x.questionId));
-
-    data.highlightedSpans = data.spans[0].sourceIds ? data.spans[0].sourceIds : [];
-    data.highlightedAnswers = data.qas[0].sourceIds ? data.qas[0].sourceIds : []
+    data.activeSummaryId = 0 
     data.start = new Date();
-    data.filteredPredicates = data.spans.filter((x) => x.predicate);
-    // data.positiveQAs = {};
-    data.dialog = false;
-    data.annotatedQAs = data.positiveQAs ? data.positiveQAs : {};
+
+  
+    // fields per summary
+    for (let index = 0; index < data.summaries.length; index++) {
+      data.summaries[index].predicates = data.summaries[index].spans.filter(x => x.predicate);
+      // at init, filtered predicates are all predicates
+      data.summaries[index].filteredPredicates = data.summaries[index].spans.filter((x) => x.predicate); 
+      data.summaries[index].answers = data.summaries[index].spans.filter(x => !x.predicate & !x.include_predicate);
+      data.summaries[index].negativeSpans = new Set(
+        data.summaries[index].answers
+          .map((element, index) => "label" in element & element.label == 0 ? index : -1)
+          .filter(index => index !== -1)
+      );
+
+      // update filtered QA Ids according to wrong spans 
+      // useful for visualizing annotations 
+      // at init, negative spans will be empty so filteredQas will include all questions
+      let filteredQAIds = new Set();
+      data.summaries[index].negativeSpans.forEach((spanId) => {
+        data.summaries[index].answers[spanId].qaIds.forEach((qaId) => {
+          filteredQAIds.add(qaId);
+        }); 
+      });
+      data.summaries[index].filteredLocalQAs = data.summaries[index].qas.filter(x => !filteredQAIds.has(x.questionId));
+      data.summaries[index].annotatedQAs = data.summaries[index].positiveQAs ? data.summaries[index].positiveQAs : {};
+      data.summaries[index].notes = data.summaries[index].notes ? data.summaries[index].notes : "";
+      data.summaries[index].qaClusters = {}; // clusters of positive QAs
+
+      // important fields for NodeLevel when updating the summary
+      data.summaries[index].curMentionIndex = 0;
+      data.summaries[index].mentionsViewed = 0;
+      data.summaries[index].showNextStep = data.summaries[index].done ? true : false; // if data includes annotation, show next step
+
+      // important fields for QALevel when updating the summary
+      data.summaries[index].predicatesViewed = [];
+
+      data.summaries[index].e1 = 1;
+    }
+
+    // fields per source
+    data.highlightedSpans = data.summaries[0].spans[0].sourceIds ? data.summaries[0].spans[0].sourceIds : [];
+    data.highlightedAnswers = data.summaries[0].qas[0].sourceIds ? data.summaries[0].qas[0].sourceIds : [];
     
-    data.notes = data.notes ? data.notes : "";
-    data.showNextStep = false;
-    data.local = data.local ? data.local : false;
-    data.showNextStep = data.done ? true : false; // if data includes annotation, show next step
+    // general fields 
+    data.local = data.local ? data.local : false; // whether to download annotation
     return data;
   },
   computed: {
-    showFinishButton: function () {
-      return this.local && this.filteredLocalQAs.every((qa) => "label" in qa && qa.label != undefined);
+    activeSummary: function() {
+      return this.summaries[this.activeSummaryId];
     },
-    done: function() {
-      return this.filteredLocalQAs.every((qa) => "label" in qa && qa.label != undefined);
+    activeSummaryShowNextStep: function() {
+      return this.activeSummary.showNextStep;
+    },
+    activeSummaryDone: function() {
+      return this.isSummaryDone(this.activeSummary);
+    },
+    done: function() { // all annotations are done
+      return this.summaries.every(this.isSummaryDone);
+    },
+    showFinishButton: function () {
+      return this.local && this.done;
+    },
+    showButtonFlags: function() {
+      // first summary is always active, others will depend on the previous ones
+      let flags = [true];
+      for (let index = 1; index < this.summaries.length; index++) {
+        flags.push(this.isSummaryDone(this.summaries[index - 1]));
+      }
+      return flags
     }
   },
   watch: {
+    activeSummaryDone: function(newVal, oldVal) {
+      if (newVal && newVal != oldVal && !this.done) {
+        this.$alert("Thanks for completing the annotation for this summary, please continue to the next one!", "Done", "info");
+      }
+    },
     done: function(newVal, oldVal) {
-      if (newVal && newVal != oldVal) {
-        this.$alert("Thanks for completing the annotation! Please double check you annotation and submit your work!", "Done", "success")
+      if (newVal && oldVal != newVal) {
+        this.$alert("Thanks for completing all annotations, please double check your annotation and submit your work!", "Done", "success");
+      }
+    },
+    activeSummaryShowNextStep: function(newVal, oldVal){
+      if (newVal && oldVal != newVal) {
+        this.$alert("First step is done! Please move on to the next step! \
+           Remember that you can always come back to the phrase classification step.", "Done", "info");
       }
     }
   },
   methods: {
     filterQAs: function (set) {
-      return this.qas.filter((x) => set.has(x.id));
+      return this.activeSummary.qas.filter((x) => set.has(x.id));
     },
     assignPositive: function (spanIndex) {
-      this.answers[spanIndex].label = 1;
+      this.activeSummary.answers[spanIndex].label = 1;
       this.updateShowNextStep();
     },
     assignNegative: function (spanIndex) {
-      this.answers[spanIndex].label = 0;
+      this.activeSummary.answers[spanIndex].label = 0;
       this.updateShowNextStep();
     },
     updateShowNextStep: function() {
-      this.showNextStep = this.answers.every(x => 'label' in x);
-      if (this.showNextStep) {
-        this.$alert("First step is done! Please move on to the next step! \
-          Remember that you can always come back to the phrase classification step.", "Done", "info");
-      }
+      this.activeSummary.showNextStep = this.activeSummary.answers.every(x => 'label' in x);
     },
 
     updateNegativeSpans: function (negativeSpans) {
-      this.negativeSpans = negativeSpans;
-      this.filteredPredicates = this.spans.filter(
+      this.activeSummary.negativeSpans = negativeSpans;
+      this.activeSummary.filteredPredicates = this.activeSummary.spans.filter(
         (x) => x.predicate && !negativeSpans.has(x.id)
       );
       let filteredQAIds = new Set();
-      this.negativeSpans.forEach((spanId) => {
-        this.answers[spanId].qaIds.forEach((qaId) => {
+      this.activeSummary.negativeSpans.forEach((spanId) => {
+        this.activeSummary.answers[spanId].qaIds.forEach((qaId) => {
           filteredQAIds.add(qaId);
         });
       });
-      this.filteredLocalQAs = this.qas.filter((x) => !filteredQAIds.has(x.questionId));
+      this.activeSummary.filteredLocalQAs = this.activeSummary.qas.filter((x) => !filteredQAIds.has(x.questionId));
     },
-    nextStep: function () {
-      this.selectedTabIndex += 1;
-    },
-    previousStep: function () {
-      this.selectedTabIndex -= 1;
-    },
+    // TODO: update this function 
     finish: function () {
       let end = new Date();
       let diff = (end.getTime() - this.start.getTime()) / 1000;
 
       let data = {
-        summaryId: this.summaryId,
         source: this.source,
-        summary: this.summary,
-        spans: this.spans,
-        qas: this.qas,
-        positiveQAs: this.$refs.qa.positiveQAs, // this.getPositiveQAs(),
-        notes: this.notes,
+        sourceId: this.sourceId,
+        dataset: this.dataset,
+        summaries: this.summaries.map((summary) => ({
+          tokens: summary.tokens,
+          spans: summary.spans,
+          qas: summary.qas,
+          qaClusters: summary.qaClusters,
+          notes: summary.notes
+        })),
         duration: diff,
         done: true
       };
@@ -309,41 +379,47 @@ export default {
         type: "text/plain",
       });
       doc.href = URL.createObjectURL(file);
-      doc.download = this.summaryId + ".json";
+      doc.download = this.sourceId + ".json";
       doc.click();
     },
     selectMention: function (span) {
-      if (this.e1 == 1) {
+      if (this.activeSummary.e1 == 1 && span != undefined) {
         this.highlightedSpans = span.sourceIds ? span.sourceIds : []
       }
     },
     selectPredicate: function (span) {
-      if (this.e1 != 1) {
+      if (this.activeSummary.e1 != 1) {
         this.highlightedSpans = span.sourceIds ? span.sourceIds : []
       }
     },
     selectAnswers: function (tokenIndexes) {
-      if (this.e1 != 1) {
+      if (this.activeSummary.e1 != 1) {
         this.highlightedAnswers = tokenIndexes;
       } else {
         this.highlightedAnswers = [];
       }
     },
-    getPositiveQAs: function () {
-      let positiveQAs = {};
-      for (const [predicateId, clusters] of Object.entries(
-        this.$refs.qa.positiveQAs
-      )) {
-        positiveQAs[predicateId] = [];
-        clusters.forEach((cluster, clusterId) => {
-          positiveQAs[predicateId].push([]);
-          cluster.forEach((qa) => {
-            positiveQAs[predicateId][clusterId].push(qa.questionId);
-          });
-        });
-      }
-      return positiveQAs;
+    updateCurMentionIndex: function(index) {
+      this.activeSummary.curMentionIndex = index;
     },
+    updateMentionsViewed: function(mentionsViewed) {
+      this.activeSummary.mentionsViewed = mentionsViewed;
+    },
+    updatePredicatesViewed: function(predicates) {
+      this.activeSummary.predicatesViewed = predicates;
+    },
+    updateQAClusters: function(qaClusters) {
+      this.activeSummary.qaClusters = qaClusters;
+    },
+    getButtonColor(index) {
+      return index === this.activeSummaryId ? 'primary' : '';
+    },
+    handleButtonClick(index) {
+      this.activeSummaryId = index;
+    },
+    isSummaryDone(summary) {
+      return summary.filteredLocalQAs.every((qa) => "label" in qa && qa.label != undefined);
+    }
   },
 };
 </script>
