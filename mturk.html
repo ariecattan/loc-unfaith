@@ -35,16 +35,24 @@ crossorigin="anonymous"></script>
 
 <script>
 let locUnfaith = document.getElementsByTagName("loc-unfaith")[0].vueComponent;
+let focusStartTime;
+let totalFocusTime = 0;
 
 document.querySelector('crowd-form').onsubmit = function (){
     let resultFeild = document.getElementById("result");
     let results = {
-        qas:locUnfaith.qas, 
-        spans:locUnfaith.spans, 
-        summaryId: locUnfaith.summaryId, 
-        positiveQAs: locUnfaith.positiveQAs,
-        notes: locUnfaith.notes, 
-        duration: locUnfaith.duration
+      source: locUnfaith.source,
+      sourceIds: locUnfaith.sourceId,
+      dataset: locUnfaith.dataset,
+      summaries: locUnfaith.summaries.map((summary) => ({
+        tokens: summary.tokens,
+        spans: summary.spans,
+        qas: summary.qas,
+        qaClusters: summary.qaClusters,
+        notes: summary.notes
+      })),
+      duration: locUnfaith.duration,
+      focus: totalFocusTime + new Date() - focusStartTime
     }
     result.value = JSON.stringify(results);
 }
@@ -64,6 +72,34 @@ function isHITComplete() {
         }        
     }
 }
+
+function startTracking() {
+  focusStartTime = new Date();
+}
+
+function stopTracking() {
+  if (focusStartTime) {
+    const focusEndTime = new Date();
+    const focusDuration = focusEndTime - focusStartTime;
+    totalFocusTime += focusDuration;
+  }
+  focusStartTime = null;
+}
+
+// Use Page Visibility API to handle tab visibility changes
+document.addEventListener('visibilitychange', function() {
+  if (document.visibilityState === 'visible') {
+    // Tab is visible, start tracking
+    startTracking();
+  } else {
+    // Tab is not visible, stop tracking
+    stopTracking();
+  }
+});
+
+// Initial focus tracking when the page is loaded
+document.addEventListener('DOMContentLoaded', startTracking);
+window.addEventListener('blur', stopTracking);
 
 window.onload = disableSubmit;
 </script>

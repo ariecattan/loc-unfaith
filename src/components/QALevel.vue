@@ -261,26 +261,16 @@ export default {
     qas: Array,
     negativeSpans: Array,
     predicates: Array,
-    answers: Array,
     annotatedQAs: Object,
+    viewed: Array, // to catch annotation in the middle
+    id: Number
   },
   data: function () {
     const data = new Object();
-    data.viewedPredicates = [];
-    data.viewedQAs = [];
+    data.viewedPredicates = this.viewed;
 
     // data.positiveQAs = this.annotatedQAs;
-    data.positiveQAs = {};
-
-    this.predicates.forEach(predicate => {
-      if (this.annotatedQAs && predicate.id in this.annotatedQAs) {
-        data.positiveQAs[predicate.id] = this.annotatedQAs[predicate.id]
-      }
-      else {
-        data.positiveQAs[predicate.id] = [[]];
-      }
-      
-    });
+    data.positiveQAs = this.annotatedQAToPositiveQAs();
 
     data.curQAIndex = 0;
     data.curAnswers = new Set();
@@ -288,11 +278,38 @@ export default {
     return data;
   },
   watch: {
-    negativeSpans: function() {
-      this.updateCoveredQAs();
+    deep: true,
+    immediate: true,
+    summary: function(newVal, oldVal) {
+      if (newVal && oldVal != newVal) {
+        this.curQAIndex = 0;
+        this.curAnswers = new Set();
+        this.viewedPredicates = this.viewed;
+        this.positiveQAs = this.annotatedQAToPositiveQAs();
+      }
+    },
+    summaryAndNegativeSpans: function(newVal, oldVal){
+      if (newVal.id == oldVal.id && !this.checkSameArray(newVal.negativeSpans, oldVal.negativeSpans)) {
+        console.log(newVal.negativeSpans.length);
+        console.log(oldVal.negativeSpans.length);
+        this.updateCoveredQAs();
+      }
+    },
+    positiveQAs: function(newVal, oldVal) {
+      if (newVal != oldVal) {
+        this.$emit("updateQAClusters", this.positiveQAs);
+      }
     }
   },
   computed: {
+    // this property is needed for its watch function 
+    // in order to detect changes in the same summary id 
+    summaryAndNegativeSpans: function() {
+      return {
+        "id": this.id,
+        "negativeSpans": this.negativeSpans
+      };
+    },
     remainingPredicates: function () {
       return this.predicates.filter(
         (x) => !this.viewedPredicates.includes(x.id)
@@ -308,28 +325,21 @@ export default {
       return this.qas
       .filter(qa => qa.predicateId == this.curPredicateId)
       .sort((a, b) => (a.answerStartToken - b.answerEndToken));
-    },
-    remainingQAs: function () {
-      return this.curQuestions.filter((x) => !this.viewedQAs.includes(x.questionId));
-    },
-    curQA: function () {
-      return this.remainingQAs[0];
-    },
-    viewedPositiveQAs: function () {
-      return this.viewedQAs.filter(
-        (questionId) => this.qas[questionId].label == 1
-      );
-    },
-    viewedNegativeQAs: function () {
-      return this.viewedQAs.filter(
-        (questionId) => this.qas[questionId].label == 0
-      );
-    },
-    positiveQACurrentPredicate: function() {
-      return this.positiveQAs[this.curPredicate.id];
     }
   },
   methods: {
+    annotatedQAToPositiveQAs: function() {
+      const positiveQAs = {};
+      this.predicates.forEach(predicate => {
+        if (this.annotatedQAs && predicate.id in this.annotatedQAs) {
+          positiveQAs[predicate.id] = this.annotatedQAs[predicate.id]
+        }
+        else {
+          positiveQAs[predicate.id] = [[]];
+        }
+      });
+      return positiveQAs; 
+    },
     getToken: function(token) {
       let tokenPrint = token.text;
       tokenPrint += token.noWhite ? "" : " ";
@@ -349,11 +359,10 @@ export default {
       return "token";
     },
     nextPredicate: function () {
-      this.viewedQAs = [];
       this.viewedPredicates.push(this.curPredicate.id);
+      this.$emit("updatePredicatesViewed", this.viewedPredicates);
     },
     previousPredicate: function () {
-      this.viewedQAs = [];
       this.viewedPredicates.pop();
     },
     showPreviousPredicate: function () {
@@ -361,9 +370,6 @@ export default {
         this.remainingPredicates.length > 1 &&
         this.curQuestions.every((qa) => "label" in qa && qa.label != null)
       );
-    },
-    nextQA: function () {
-      this.viewedQAs.push(this.curQA.questionId);
     },
     checkSameArray: function (arr1, arr2) {
       if (arr1.length !== arr2.length) {
