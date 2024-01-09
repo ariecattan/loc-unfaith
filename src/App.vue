@@ -286,9 +286,6 @@ export default {
     activeSummary: function() {
       return this.summaries[this.activeSummaryId];
     },
-    activeSummaryShowNextStep: function() {
-      return this.activeSummary.showNextStep;
-    },
     activeSummaryDone: function() {
       return this.isSummaryDone(this.activeSummary);
     },
@@ -305,23 +302,37 @@ export default {
         flags.push(this.isSummaryDone(this.summaries[index - 1]));
       }
       return flags
+    },
+    activeSummaryAndDone: function() {
+      return {
+        id: this.activeSummaryId,
+        done: this.activeSummaryDone
+      }
+    },
+    activeSummaryAndShowNextStep: function() {
+      return {
+        id: this.activeSummaryId,
+        showNextStep: this.activeSummary.showNextStep
+      }
     }
   },
   watch: {
-    activeSummaryDone: function(newVal, oldVal) {
-      if (newVal && newVal != oldVal && !this.done) {
+    deep: true,
+    immediate: true,
+    activeSummaryAndDone: function(newVal, oldVal) {
+      if (newVal.id == oldVal.id && newVal.done != oldVal.done) {
         this.$alert("Thanks for completing the annotation for this summary, please continue to the next one!", "Done", "info");
+      }
+    },
+    activeSummaryAndShowNextStep: function(newVal, oldVal) {
+      if (newVal.id == oldVal.id && newVal.done != oldVal.done) {
+        this.$alert("First step is done! Please move on to the next step! \
+           Remember that you can always come back to the phrase classification step.", "Done", "info");
       }
     },
     done: function(newVal, oldVal) {
       if (newVal && oldVal != newVal) {
         this.$alert("Thanks for completing all annotations, please double check your annotation and submit your work!", "Done", "success");
-      }
-    },
-    activeSummaryShowNextStep: function(newVal, oldVal){
-      if (newVal && oldVal != newVal) {
-        this.$alert("First step is done! Please move on to the next step! \
-           Remember that you can always come back to the phrase classification step.", "Done", "info");
       }
     }
   },
