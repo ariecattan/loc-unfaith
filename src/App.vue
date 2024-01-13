@@ -178,7 +178,8 @@ import QALevel from "./components/QALevel.vue";
 
 // import jsonData from "./data/cliff_flan_t5_xl_5_epochs_with_source_ids/17_bart_xsum.json"
 
-import jsonData from "./data/multiple_summaries/8_xsum.json"
+// import jsonData from "./data/multiple_summaries/8_xsum.json"
+import jsonData from "./data/multiple_summaries/118.json"
 
 import {
   VIcon,
@@ -239,7 +240,8 @@ export default {
   
     // fields per summary
     for (let index = 0; index < data.summaries.length; index++) {
-      data.summaries[index].predicates = data.summaries[index].spans.filter(x => x.predicate);
+      // data.summaries[index].predicates = data.summaries[index].spans.filter(x => x.predicate);
+      data.summaries[index].predicates = data.summaries[index].predicates.map(x => data.summaries[index].spans[x]);
       // at init, filtered predicates are all predicates
       data.summaries[index].filteredPredicates = data.summaries[index].spans.filter((x) => x.predicate); 
       data.summaries[index].answers = data.summaries[index].spans.filter(x => !x.predicate & !x.include_predicate);
@@ -300,6 +302,7 @@ export default {
       let flags = [true];
       for (let index = 1; index < this.summaries.length; index++) {
         flags.push(this.isSummaryDone(this.summaries[index - 1]));
+        // flags.push(true);
       }
       return flags
     },
