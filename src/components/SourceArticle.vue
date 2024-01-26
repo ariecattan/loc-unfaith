@@ -3,7 +3,7 @@
     <v-row>
       <v-sheet rounded="lg">
         <v-container fluid>
-          <span v-for="token in this.source" 
+          <span style="font-size: 110%" v-for="token in this.source" 
           :key="token.id"
           :class="getTokenClass(token)"
             >{{ token.text }}

@@ -16,6 +16,28 @@
           <!-- Node -->
           <v-stepper-content step="1">
             <v-row>
+              <v-container>
+              <v-card>
+                <v-card-title>Instructions</v-card-title>
+                <v-card-text>
+                  
+                  Your goal is to determine whether the entity spans 
+                  in the summary below are correct or hallucinated. 
+                  That is, for each <span class="current">span</span>, click on 
+                  <v-btn class="disable-events" x-small fab dark color="success" width="20px" height="20px" elevation="0">
+                    <v-icon dark> mdi-plus </v-icon>
+                  </v-btn>
+                  if it's covered by the source document (left) and on 
+                  <v-btn class="disable-events" x-small fab dark color="error" width="20px" height="20px" elevation="0">
+                    <v-icon dark width="14px" height="14px" > mdi-minus </v-icon>
+                  </v-btn>
+                  if it's an hallucination. 
+                
+                </v-card-text>
+              </v-card>
+            </v-container>
+            </v-row>
+            <v-row>
               <v-col cols="12" sm="5">
                 <SourceArticle
                   :source="this.source"
@@ -71,7 +93,7 @@
             </v-row>
 
             <div style="text-align: right">
-              <v-btn color="primary" @click="activeSummary.e1 = 2" v-show="activeSummary.showNextStep">
+              <v-btn color="primary" @click="goToNextStep()" v-show="activeSummary.showNextStep">
                 Next Step <v-icon> mdi-arrow-right</v-icon>
               </v-btn>
             </div>
@@ -79,6 +101,31 @@
 
           <!-- QA -->
           <v-stepper-content step="2">
+            <v-row>
+      <v-card>
+        <v-card-title>Instructions</v-card-title>
+        <v-card-text>
+          
+       
+        You are presented with a list of question-answer (QA) pairs extracted from the summary,
+        where each QA corresponds to a relation between a <span class="current">predicate</span>
+        and an <span class="answer">argument</span>. 
+        For each QA, click on <v-btn class="disable-events" x-small color="success" icon elevation="0">
+                  <v-icon color="success">mdi-thumb-up</v-icon>
+                </v-btn> if it's covered by the source document, 
+           <v-btn class="disable-events" x-small color="error" icon elevation="0">
+                  <v-icon color="error">mdi-thumb-down</v-icon>
+                </v-btn>
+          if the relation cannot be implied from the source document and 
+                <v-btn class="disable-events" x-small icon color="blue-grey" elevation="0">
+                  <v-icon color="blue-grey">mdi-alert-box</v-icon>
+                </v-btn>
+              if the QA is wrong or does not make sense.
+        
+         
+        </v-card-text>
+      </v-card>
+            </v-row>
             <v-row>
               <v-col cols="12" sm="5">
                 <SourceArticle
@@ -108,8 +155,9 @@
                   :summary="activeSummary.tokens"
                   :qas="activeSummary.filteredLocalQAs"
                   :predicates="activeSummary.predicates"
+                  :allSpans="activeSummary.spans"
                   :negativeSpans="Array.from(activeSummary.negativeSpans)"
-                  :annotatedQAs="activeSummary.annotatedQAs"
+                  :annotatedQAs="activeSummary.qaClusters"
                   :viewed="activeSummary.predicatesViewed"
                   :id="activeSummaryId"
                   @selectMention="selectPredicate($event)"
@@ -194,6 +242,9 @@ import {
   VCol,
   VApp,
   VMain,
+  VCard,
+  VCardText,
+  VCardTitle
 } from "vuetify/lib";
 
 Vue.use(Vuetify);
@@ -221,6 +272,9 @@ export default {
     VCol,
     VApp,
     VMain,
+    VCard,
+    VCardText,
+    VCardTitle
   },
   props: {
     json: {
@@ -278,7 +332,7 @@ export default {
 
     // fields per source
     data.highlightedSpans = data.summaries[0].spans[0].sourceIds ? data.summaries[0].spans[0].sourceIds : [];
-    data.highlightedAnswers = data.summaries[0].qas[0].sourceIds ? data.summaries[0].qas[0].sourceIds : [];
+    data.highlightedAnswers = [];
     
     // general fields 
     data.local = data.local ? data.local : false; // whether to download annotation
@@ -301,8 +355,8 @@ export default {
       // first summary is always active, others will depend on the previous ones
       let flags = [true];
       for (let index = 1; index < this.summaries.length; index++) {
-        flags.push(this.isSummaryDone(this.summaries[index - 1]));
-        // flags.push(true);
+        // flags.push(this.isSummaryDone(this.summaries[index - 1]));
+        flags.push(true);
       }
       return flags
     },
@@ -328,14 +382,17 @@ export default {
       }
     },
     activeSummaryAndShowNextStep: function(newVal, oldVal) {
-      if (newVal.id == oldVal.id && newVal.done != oldVal.done) {
+      if (newVal.id == oldVal.id && newVal.showNextStep != oldVal.showNextStep) {
         this.$alert("First step is done! Please move on to the next step! \
            Remember that you can always come back to the phrase classification step.", "Done", "info");
       }
     },
     done: function(newVal, oldVal) {
       if (newVal && oldVal != newVal) {
-        this.$alert("Thanks for completing all annotations, please double check your annotation and submit your work!", "Done", "success");
+        this.$alert("Thanks for completing all annotations, please double check your annotation and submit your work!", "Done", "success")
+          .then(() => {
+            window.scrollTo(0, document.body.scrollHeight || document.documentElement.scrollHeight);
+          });
       }
     }
   },
@@ -368,7 +425,6 @@ export default {
       });
       this.activeSummary.filteredLocalQAs = this.activeSummary.qas.filter((x) => !filteredQAIds.has(x.questionId));
     },
-    // TODO: update this function 
     finish: function () {
       let end = new Date();
       let diff = (end.getTime() - this.start.getTime()) / 1000;
@@ -433,6 +489,10 @@ export default {
     },
     isSummaryDone(summary) {
       return summary.filteredLocalQAs.every((qa) => "label" in qa && qa.label != undefined);
+    },
+    goToNextStep() {
+      this.activeSummary.e1 = 2;
+      this.highlightedSpans = []
     }
   },
 };
@@ -451,9 +511,6 @@ export default {
 .viewed:hover {
   font-weight: medium;
   color: #b16a00;
-}
-.token:hover {
-  background-color: #ffffb8;
 }
 
 </style>

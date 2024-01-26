@@ -1,32 +1,6 @@
 <template>
   <v-container pt-0>
     <v-container>
-    <v-card>
-      <v-card-title>Instructions</v-card-title>
-      <v-card-text>
-        
-        Your goal is to determine whether the entity spans 
-        in the summary below are correct or hallucinated. 
-        That is, for each <span class="current">span</span>, click on 
-        <v-btn class="disable-events" x-small fab dark color="success" width="20px" height="20px" elevation="0">
-          <v-icon dark> mdi-plus </v-icon>
-        </v-btn>
-        if it's covered by the source document (left) and on 
-        <v-btn class="disable-events" x-small fab dark color="error" width="20px" height="20px" elevation="0">
-          <v-icon dark width="14px" height="14px" > mdi-minus </v-icon>
-        </v-btn>
-        if it's an hallucination. 
-      
-      </v-card-text>
-    </v-card>
-  </v-container>
-    <v-container>
-
-
-      
-    </v-container>
-
-    <v-container>
       <v-row>
         <v-sheet rounded="lg">
           <v-container fluid>
@@ -36,6 +10,7 @@
               :class="getTokenClass(token)"
               @click="selectSpan($event, token)"
               v-text="getToken(token)"
+              style="font-size: 110%"
             >
               
             </span>
@@ -118,13 +93,10 @@ import {
   VContainer,
   VRow,
   VCol,
-  VCard,
   VIcon,
   VBtn,
   VChip,
-  VChipGroup,
-  VCardTitle,
-  VCardText
+  VChipGroup
 } from "vuetify/lib";
 
 export default {
@@ -134,13 +106,10 @@ export default {
     VContainer,
     VRow,
     VCol,
-    VCard,
     VIcon,
     VBtn,
     VChip,
-    VChipGroup,
-    VCardTitle,
-    VCardText
+    VChipGroup
   },
   props: {
     summary: Array,
@@ -255,12 +224,6 @@ export default {
 .mention:hover {
   font-weight: medium;
   color: #b16a00;
-}
-.arie {
-  color: #5da4ce;
-}
-.token:hover {
-  background-color: #ffffb8;
 }
 .selectedSpan.v-list-item {
   background-color: #2d9cdb;

@@ -8,7 +8,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/vue@2.7.4"></script>
 <script src="https://cdn.jsdelivr.net/npm/vuetify@2.6.0/dist/vuetify.js"></script>
-<script src="https://github.com/ariecattan/loc-unfaith/releases/download/v1.0/loc-unfaith.min.js"></script>
+<script src="https://github.com/ariecattan/loc-unfaith/releases/download/v1.2/loc-unfaith.min.js"></script>
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
 integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -28,56 +28,107 @@ crossorigin="anonymous"></script>
     <loc-unfaith json="${data}"></loc-unfaith>
   </div>
  
-<crowd-form answer-format="flatten-objects" answer-format="flatten-objects">
-  <crowd-input id="result" name="result"></crowd-input>
+<crowd-form answer-format="flatten-objects" >
+  <!-- <crowd-input id="result" name="result"></crowd-input> -->
 </crowd-form>
 
 
 <script>
 let locUnfaith = document.getElementsByTagName("loc-unfaith")[0].vueComponent;
-let focusStartTime;
-let totalFocusTime = 0;
+
+let taskStartTime = new Date();
+let taskEndTime = new Date();
+console.log("start tracking " + taskStartTime);
+let taskDuration = 0;
 
 document.querySelector('crowd-form').onsubmit = function (){
-    let resultFeild = document.getElementById("result");
-    let results = {
-      source: locUnfaith.source,
-      sourceIds: locUnfaith.sourceId,
-      dataset: locUnfaith.dataset,
-      summaries: locUnfaith.summaries.map((summary) => ({
-        tokens: summary.tokens,
-        spans: summary.spans,
-        qas: summary.qas,
-        qaClusters: summary.qaClusters,
-        notes: summary.notes
-      })),
-      duration: locUnfaith.duration,
-      focus: totalFocusTime + new Date() - focusStartTime
-    }
-    result.value = JSON.stringify(results);
+  let resultFeild = document.getElementById("result");
+  taskEndTime = new Date();
+  taskDuration += taskEndTime - taskStartTime;
+  let results = {
+    source: locUnfaith.source,
+    sourceIds: locUnfaith.sourceId,
+    dataset: locUnfaith.dataset,
+    summaries: locUnfaith.summaries.map((summary) => ({
+      tokens: summary.tokens,
+      spans: summary.spans,
+      qas: summary.qas,
+      qaClusters: summary.qaClusters,
+      notes: summary.notes
+    })),
+    duration: locUnfaith.duration,
+    focus: taskDuration
+  }
+  result.value = JSON.stringify(results);
 }
 
+
 function disableSubmit(){
-    window.setInterval(isHITComplete, 200); // disables the submit key until hit is complete it is hacky but works
+  window.setInterval(isHITComplete2, 200); // disables the submit key until hit is complete it is hacky but works
 }
 
 function isHITComplete() {
-    let crowdButton = document.getElementsByTagName("crowd-form")[0];
-    // if all clusterIds assigned then show submit button
-    if (locUnfaith){
-        if (locUnfaith.done) {
-          crowdButton.style.display = "block";
-        } else {
-          crowdButton.style.display = "none";
-        }        
+  let crowdButton = document.getElementsByTagName("crowd-form")[0];
+  crowdButton.style.display = "none";
+  // if all clusterIds assigned then show submit button
+
+  if (locUnfaith){
+    if (locUnfaith.done) {
+      crowdButton.style.display = "block";
+    } else {
+      crowdButton.style.display = "none";
     }
+          
+  }
+
+  
 }
+
+function isHITComplete2() {
+  let crowdButton = document.getElementsByTagName("crowd-form")[0];
+  crowdButton.style.display = "block";
+  // if all clusterIds assigned then show submit button
+  
+}
+
+/// for focus time 
+
+// let focusStartTime;
+
+/*
+let totalFocusTime = 0;
+
+var startTime = new Date().getTime();
+var elapsedTime = 0;
+
+function updateElapsedTime() {
+  var currentTime = new Date().getTime();
+  elapsedTime = currentTime - startTime;
+}
+
+function sendElapsedTime() {
+  // You can send the elapsed time to your server using AJAX or perform other actions here
+  console.log("Elapsed Time: " + elapsedTime + " milliseconds");
+}
+
+setInterval(function () {
+  updateElapsedTime();
+}, 1000);
+
+window.addEventListener('beforeunload', function () {
+  sendElapsedTime();
+});
+
+
+
 
 function startTracking() {
   focusStartTime = new Date();
+  console.log("start tracking");
 }
 
 function stopTracking() {
+  console.log("stop tracking");
   if (focusStartTime) {
     const focusEndTime = new Date();
     const focusDuration = focusEndTime - focusStartTime;
@@ -88,18 +139,39 @@ function stopTracking() {
 
 // Use Page Visibility API to handle tab visibility changes
 document.addEventListener('visibilitychange', function() {
-  if (document.visibilityState === 'visible') {
-    // Tab is visible, start tracking
-    startTracking();
-  } else {
-    // Tab is not visible, stop tracking
-    stopTracking();
-  }
+if (document.visibilityState === 'visible') {
+  // Tab is visible, start tracking
+  startTracking();
+} else {
+  // Tab is not visible, stop tracking
+  stopTracking();
+}
 });
 
 // Initial focus tracking when the page is loaded
-document.addEventListener('DOMContentLoaded', startTracking);
+document.addEventListener('beforeunload', startTracking);
 window.addEventListener('blur', stopTracking);
+
+window.onload = disableSubmit;
+console.log("hello");
+*/
+
+
+
+
+document.addEventListener('visibilitychange', function() {
+  if (document.visibilityState === 'visible') {
+    // Task tab is visible
+    taskStartTime = new Date();
+    console.log("start tracking " + taskStartTime);
+    
+  } else {
+    // Task tab is not visible
+    taskEndTime = new Date();
+    taskDuration += taskEndTime - taskStartTime;
+    console.log("stop tracking " + taskEndTime);
+  }
+});
 
 window.onload = disableSubmit;
 </script>

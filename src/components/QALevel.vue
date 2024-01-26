@@ -1,35 +1,6 @@
 <template>
   <v-container mx-0 mt-0 pt-0>
     <v-container>
-      <v-card>
-        <v-card-title>Instructions</v-card-title>
-        <v-card-text>
-          
-
-        Here, you'll be presented with a list of question-answer (QA) pairs,
-        where each QA corresponds to a relation between a <span class="current">predicate</span>
-        and an <span class="answer">argument</span>. 
-        For each QA, click on <v-btn class="disable-events" x-small color="success" icon elevation="0">
-                  <v-icon color="success">mdi-thumb-up</v-icon>
-                </v-btn> if it's covered by the source document, 
-           <v-btn class="disable-events" x-small color="error" icon elevation="0">
-                  <v-icon color="error">mdi-thumb-down</v-icon>
-                </v-btn>
-          if the relation cannot be implied from the source document and 
-                <v-btn class="disable-events" x-small icon color="blue-grey" elevation="0">
-                  <v-icon color="blue-grey">mdi-alert-box</v-icon>
-                </v-btn>
-              if the QA is wrong or does not make sense.
-        
-         
-        </v-card-text>
-      </v-card>
-
-
-     
-    </v-container>
-
-    <v-container>
       <v-row>
         <v-sheet rounded="lg">
           <v-container fluid>
@@ -39,6 +10,7 @@
               :class="getTokenClass(token)"
               @click="selectSpan($event, token)"
               v-text="getToken(token)"
+              style="font-size: 110%"
             >
             </span>
           </v-container>
@@ -54,6 +26,7 @@
         rounded="green"
         class="my-2"
         @mouseover="selectQA(question)"
+        @mouseleave="selectQA(null)"
       >
         <v-row>
           <v-col cols="9">
@@ -126,7 +99,7 @@
           Next Predicate
         </v-btn>
       </div>
-      <v-sheet
+      <!-- <v-sheet
         v-for="(cluster, clusterIndex) in positiveQAs[curPredicate.id]"
         :key="'cluster-' + clusterIndex"
         class="my-2"
@@ -167,7 +140,29 @@
       <v-btn class="my-2" fab dark small color="success" @click="addCluster()"
       v-show="curQuestions.length > 0">
         <v-icon dark> mdi-plus </v-icon>
-      </v-btn>
+      </v-btn> -->
+      
+      <v-sheet 
+        elevation="10" 
+        rounded="xl" 
+        v-show="curQuestions.length > 0">
+        <v-sheet class="pa-1 my-2 success text-center" dark rounded="t-xl">
+          Covered QAs
+        </v-sheet>
+
+        <div class="pa-4">
+          <v-chip-group active-class="error--text" column>
+            <v-chip
+              v-for="item in this.curQuestions.filter(
+                (qa) => qa.label == 0
+              )"
+              :key="item.questionId"
+            >
+              {{ item.question + " " + item.answer }}
+            </v-chip>
+          </v-chip-group>
+        </div>
+      </v-sheet>
 
       <v-sheet 
         elevation="10" 
@@ -230,18 +225,17 @@ import {
   VBtn,
   VChip,
   VChipGroup,
-  VCardTitle,
   VCardText,
   VCardActions,
   VBtnToggle,
 } from "vuetify/lib";
 
-import draggable from "vuedraggable";
+// import draggable from "vuedraggable";
 
 export default {
   name: "QALevel",
   components: {
-    draggable,
+    // draggable,
     VSheet,
     VContainer,
     VRow,
@@ -251,7 +245,6 @@ export default {
     VBtn,
     VChip,
     VChipGroup,
-    VCardTitle,
     VCardText,
     VCardActions,
     VBtnToggle,
@@ -259,6 +252,7 @@ export default {
   props: {
     summary: Array,
     qas: Array,
+    allSpans: Array,
     negativeSpans: Array,
     predicates: Array,
     annotatedQAs: Object,
@@ -290,8 +284,6 @@ export default {
     },
     summaryAndNegativeSpans: function(newVal, oldVal){
       if (newVal.id == oldVal.id && !this.checkSameArray(newVal.negativeSpans, oldVal.negativeSpans)) {
-        console.log(newVal.negativeSpans.length);
-        console.log(oldVal.negativeSpans.length);
         this.updateCoveredQAs();
       }
     },
@@ -299,7 +291,8 @@ export default {
       if (newVal != oldVal) {
         this.$emit("updateQAClusters", this.positiveQAs);
       }
-    }
+    },
+
   },
   computed: {
     // this property is needed for its watch function 
@@ -320,11 +313,30 @@ export default {
     },
     curPredicateId: function () {
       return this.getPredicateId(this.curPredicate);
-    },
+    },        
     curQuestions: function () {
       return this.qas
       .filter(qa => qa.predicateId == this.curPredicateId)
       .sort((a, b) => (a.answerStartToken - b.answerEndToken));
+    },
+    wrongTokens: function() {
+      let wrongTokenSpans = new Set()
+
+      // add token ids of hallucinated spans (from first step)
+      this.negativeSpans.forEach(spanId => {
+        for (let index = this.allSpans[spanId].start; index < this.allSpans[spanId].end; index++) {
+          wrongTokenSpans.add(index);
+        }
+      })
+      
+      // add token ids of answers of hallucinated spans
+      this.qas.filter(x => "label" in x && x.label == 1).forEach(qa => {
+        for (let index = qa.answerStartToken[0]; index < qa.answerEndToken[0]; index++) {
+          wrongTokenSpans.add(index)
+        }
+      })
+
+      return wrongTokenSpans;
     }
   },
   methods: {
@@ -426,19 +438,22 @@ export default {
       return predicate.start + "-" + predicate.end;
     },
     selectQA: function(qa) {
-      this.curQAIndex = qa.questionId; 
+      let sourceIds = [];
       this.curAnswers = new Set();
-      let answers = qa.answerStartToken.map((token, i) => [
-        token, 
-        qa.answerEndToken[i]  
-      ]);
-
-      answers.forEach((span) => {
-        for (let index = span[0]; index < span[1]; index++) {
-          this.curAnswers.add(index);
-        }
-      })
-      let sourceIds = qa.sourceIds ? qa.sourceIds : []
+      if (qa != null) {
+        this.curQAIndex = qa.questionId; 
+        let answers = qa.answerStartToken.map((token, i) => [
+          token, 
+          qa.answerEndToken[i]  
+        ]);
+        answers.forEach((span) => {
+          for (let index = span[0]; index < span[1]; index++) {
+            this.curAnswers.add(index);
+          }
+        });
+        sourceIds = qa.sourceIds ? qa.sourceIds : [];
+      }
+      
       this.$emit("selectAnswers", sourceIds)
       this.$emit("selectMention", this.curPredicate);
     }
@@ -451,9 +466,6 @@ export default {
   background: #ddeff9;
   color: #2d9cdb;
   font-weight: 600;
-}
-.token:hover {
-  background-color: #ffffb8;
 }
 .answer {
   background: #faf2c6d5;
