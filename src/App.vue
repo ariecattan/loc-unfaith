@@ -355,8 +355,8 @@ export default {
       // first summary is always active, others will depend on the previous ones
       let flags = [true];
       for (let index = 1; index < this.summaries.length; index++) {
-        // flags.push(this.isSummaryDone(this.summaries[index - 1]));
-        flags.push(true);
+        flags.push(this.isSummaryDone(this.summaries[index - 1]));
+        // flags.push(true);
       }
       return flags
     },
@@ -389,7 +389,7 @@ export default {
     },
     done: function(newVal, oldVal) {
       if (newVal && oldVal != newVal) {
-        this.$alert("Thanks for completing all annotations, please double check your annotation and submit your work!", "Done", "success")
+        this.$alert('Thanks for completing all annotations, please double check your annotation and submit your work with the "submit" button at the bottom of the screen!', "Done", "success")
           .then(() => {
             window.scrollTo(0, document.body.scrollHeight || document.documentElement.scrollHeight);
           });
