@@ -58,9 +58,9 @@
                 <v-btn icon color="error">
                   <v-icon color="error">mdi-thumb-down</v-icon>
                 </v-btn>
-                <v-btn icon color="blue-grey">
+                <!-- <v-btn icon color="blue-grey">
                   <v-icon color="blue-grey">mdi-alert-box</v-icon>
-                </v-btn>
+                </v-btn> -->
               </v-btn-toggle>
             </v-card-actions>
           </v-col>
@@ -186,7 +186,7 @@
         </div>
       </v-sheet>
 
-      <v-sheet 
+      <!-- <v-sheet 
         elevation="10" 
         rounded="xl" 
         v-show="curQuestions.length > 0">
@@ -206,7 +206,7 @@
             </v-chip>
           </v-chip-group>
         </div>
-      </v-sheet>
+      </v-sheet> -->
 
 
       
@@ -452,6 +452,9 @@ export default {
           }
         });
         sourceIds = qa.sourceIds ? qa.sourceIds : [];
+      }
+      else {
+        this.curQAIndex = -1;
       }
       
       this.$emit("selectAnswers", sourceIds)

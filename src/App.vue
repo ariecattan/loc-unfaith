@@ -102,6 +102,7 @@
           <!-- QA -->
           <v-stepper-content step="2">
             <v-row>
+              <v-container>
       <v-card>
         <v-card-title>Instructions</v-card-title>
         <v-card-text>
@@ -116,15 +117,17 @@
            <v-btn class="disable-events" x-small color="error" icon elevation="0">
                   <v-icon color="error">mdi-thumb-down</v-icon>
                 </v-btn>
-          if the relation cannot be implied from the source document and 
-                <v-btn class="disable-events" x-small icon color="blue-grey" elevation="0">
+          if the relation cannot be implied from the source document 
+          <!-- and <v-btn class="disable-events" x-small icon color="blue-grey" elevation="0">
                   <v-icon color="blue-grey">mdi-alert-box</v-icon>
                 </v-btn>
-              if the QA is wrong or does not make sense.
+              if the QA is wrong or does not make sense -->
+              .
         
          
         </v-card-text>
       </v-card>
+    </v-container>
             </v-row>
             <v-row>
               <v-col cols="12" sm="5">
