@@ -40,7 +40,7 @@
             <v-row>
               <v-col cols="12" sm="5">
                 <SourceArticle
-                  :source="this.source"
+                  :source="activeSource"
                   :highlightedSpans="highlightedSpans"
                   :highlightedAnswers="[]"
                 ></SourceArticle>
@@ -132,7 +132,7 @@
             <v-row>
               <v-col cols="12" sm="5">
                 <SourceArticle
-                  :source="this.source"
+                  :source="activeSource"
                   :highlightedSpans="highlightedSpans"
                   :highlightedAnswers="highlightedAnswers"
                 ></SourceArticle>
@@ -230,7 +230,14 @@ import QALevel from "./components/QALevel.vue";
 // import jsonData from "./data/cliff_flan_t5_xl_5_epochs_with_source_ids/17_bart_xsum.json"
 
 // import jsonData from "./data/multiple_summaries/8_xsum.json"
-import jsonData from "./data/multiple_summaries/118.json"
+// import jsonData from "./data/cliff_multiple_summaries/27.json"
+// import jsonData from "./data/qasem_verification/v5/Alma Katsu.json"
+// import jsonData from "./data/factscore_filtered/Roselyn Sánchez.json"
+// import jsonData from "./data/qasem_verification/v5/Lauren London single.json"
+
+// import jsonData from "./data/tofueval_chosen/mediasum/CNN-7972_Federal Reserve's policy.json"
+// import jsonData from "./data/test_verifiability.json"
+import jsonData from "./data/loc_unfaith_files/002f301515a4f4afa8bf708bc46344fe6a3c5180edb8c0eb781c9527085e1acc-perplexity.json"
 
 import {
   VIcon,
@@ -281,20 +288,22 @@ export default {
   },
   props: {
     json: {
-      type: String,
-      default: "",
+      type: Object,
+      default: window.data,
     },
   },
   data() {
     const data =
       !this.json || this.json == "${data}"
         ? jsonData
-        : JSON.parse(unescape(this.json).replace("\u00e2\u20ac\u2122", "'"));
-
+        : JSON.parse(this.json).replace("\u00e2\u20ac\u2122", "'");
+    // const data =  window.data; //this.json; //window.data;
     data.activeSummaryId = 0 
     data.start = new Date();
 
-  
+    
+    data.sources = Array.isArray(data.source[0]) ? data.source : Array(data.summaries.length).fill(data.source);
+
     // fields per summary
     for (let index = 0; index < data.summaries.length; index++) {
       // data.summaries[index].predicates = data.summaries[index].spans.filter(x => x.predicate);
@@ -307,7 +316,7 @@ export default {
           .map((element, index) => "label" in element & element.label == 0 ? index : -1)
           .filter(index => index !== -1)
       );
-
+      
       // update filtered QA Ids according to wrong spans 
       // useful for visualizing annotations 
       // at init, negative spans will be empty so filteredQas will include all questions
@@ -331,6 +340,8 @@ export default {
       data.summaries[index].predicatesViewed = [];
 
       data.summaries[index].e1 = 1;
+
+      
     }
 
     // fields per source
@@ -344,6 +355,9 @@ export default {
   computed: {
     activeSummary: function() {
       return this.summaries[this.activeSummaryId];
+    },
+    activeSource: function() {
+      return this.sources[this.activeSummaryId];
     },
     activeSummaryDone: function() {
       return this.isSummaryDone(this.activeSummary);
@@ -433,7 +447,7 @@ export default {
       let diff = (end.getTime() - this.start.getTime()) / 1000;
 
       let data = {
-        source: this.source,
+        sources: this.sources,
         sourceId: this.sourceId,
         dataset: this.dataset,
         summaries: this.summaries.map((summary) => ({
